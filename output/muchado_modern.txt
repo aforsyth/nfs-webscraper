@@ -1,0 +1,984 @@
+<T>
+LEONATO
+(holding a letter) According to this letter, DonDon is the Italian equivalent of Sir or Lord.Don Pedro of Aragon and his army are coming to Messina tonight.
+</T>
+<T>
+MESSENGER
+He must be very near by now. When I left him, he was less than nine miles from here.
+</T>
+<T>
+LEONATO
+How many noblemen were killed in the battle you just fought?
+</T>
+<T>
+MESSENGER
+Not many, and no one important.
+</T>
+<T>
+LEONATO
+A victory in battle is twice as victorious when all the soldiers return home safely. This letter also says that Don Pedro has given honors to a young man from Florence named Claudio.
+</T>
+<T>
+MESSENGER
+Claudio deserves to be honored, and Don Pedro has rewarded him accordingly. Claudio has done more than anyone would expect of a man his age. He looks like a lamb but fights like a lion. He has so greatly exceeded all expectations that I cant even describe all hes done.
+</T>
+<T>
+LEONATO
+He has an uncle here in Messina who will be glad to hear this news.
+</T>
+<T>
+MESSENGER
+I have delivered some letters to his uncle, and he seemed very happy. He got so emotional that he actually looked like he was in pain.
+</T>
+<T>
+LEONATO
+Did he start weeping?
+</T>
+<T>
+MESSENGER
+Yes, heavily.
+</T>
+<T>
+LEONATO
+Thats a very natural display of affection. Theres no face more sincere than one washed in tears. And its definitely better to cry because youre happy than laugh because youre sad!
+</T>
+<T>
+BEATRICE
+Please tell me, has Signior MontantoMontanto is a fencing term for an upward thrust.Montanto returned from battle?
+</T>
+<T>
+MESSENGER
+I dont know anyone with that name, ma'am. There was no Signior Montanto in our army.
+</T>
+<T>
+LEONATO
+Who are you talking about, niece?
+</T>
+<T>
+HERO
+My cousin means Signior Benedick of Padua.
+</T>
+<T>
+MESSENGER
+Oh, yes, Benedick has returned and is as cheerful as ever.
+</T>
+<T>
+BEATRICE
+BenedickThe exact meaning of this story is unclear, but it depicts Benedick as a braggart and a fool.Benedick once put up a public notice in Messina challenging Cupid to an archery match. My uncles jester accepted the contest on Cupids behalf but used toy arrows at the shooting match. But tell me, how many men did he kill and eat in this battle? I promised him I would eat anyone he killed.
+</T>
+<T>
+LEONATO
+For Gods sake, Beatrice, youre criticizing Signior Benedick too heavily. But Im sure hell get even with you.
+</T>
+<T>
+MESSENGER
+Signior Benedick served well in the war, my lady.
+</T>
+<T>
+BEATRICE
+You had rotten food, and he helped you eat it. Hes a very brave eaterhe has a strong stomach.
+</T>
+<T>
+MESSENGER
+Hes a good soldier too, lady.
+</T>
+<T>
+BEATRICE
+Hes a good soldier to a lady? Well then, what is he to a lord?
+</T>
+<T>
+MESSENGER
+Hes a lord to a lord and a man to a man. He is positively stuffed with honorable virtues.
+</T>
+<T>
+BEATRICE
+Absolutelyhe is stuffed, like a dummy. As for what hes stuffed withwell, nobodys perfect.
+</T>
+<T>
+LEONATO
+Please dont take my niece the wrong way, sir. Benedick and Beatrice have been waging a war of wits between themselves. Whenever they meet, theres a little battle.
+</T>
+<T>
+BEATRICE
+And I always win. The last time we fought, he was so dazed by the end that he wasnt much smarter than his horse. So tell me, who is he hanging around with these days? Every month he has a new best friend.
+</T>
+<T>
+MESSENGER
+Is that possible?
+</T>
+<T>
+BEATRICE
+Its entirely possible. Hes incredibly ficklehis affection changes faster than the latest fashions.
+</T>
+<T>
+MESSENGER
+I can see you dont like this gentleman.
+</T>
+<T>
+BEATRICE
+No, absolutely not. But please tell me, whos his best friend? Isnt there some new swaggering young ruffian who will happily go to hell with Benedick?
+</T>
+<T>
+MESSENGER
+He spends most of his time with the good, noble Claudio.
+</T>
+<T>
+BEATRICE
+Oh God, Benedick will plague him like a disease! Benedick is an infection thats easy to catch but hard to get rid ofand hell drive you crazy once youve been infected. God help Claudio! If hes caught the Benedick, hell lose all his money before hes cured.
+</T>
+<T>
+MESSENGER
+Im going to make sure I stay on your good side, lady.
+</T>
+<T>
+BEATRICE
+Do that, my friend.
+</T>
+<T>
+LEONATO
+You will never fall victim to Benedicks charms, my niece.
+</T>
+<T>
+BEATRICE
+No, not until we see a hot January.
+</T>
+<T>
+MESSENGER
+Don Pedro is here.
+</T>
+<T>
+DON PEDRO
+My dear Signior Leonato, hosting my whole army is such a huge burden, but you accept itand mewith open arms. Most people choose to avoid trouble, but you run to it.
+</T>
+<T>
+LEONATO
+You are never trouble to this house, your Grace. Its comforting when trouble departs. But when you leave, you take happiness with you and leave sorrow in its place.
+</T>
+<T>
+DON PEDRO
+You take up your duties too cheerfully. (turning to HERO) This must be your daughter.
+</T>
+<T>
+LEONATO
+Thats what her mother always tells me.
+</T>
+<T>
+BENEDICK
+Did you doubt that she was your daughter, since you had to ask her mother?
+</T>
+<T>
+LEONATO
+(teasing) Of course not, Signior Benedick. You were only a child when my daughter was born, and not yet old enough to seduce my wife.
+</T>
+<T>
+DON PEDRO
+Ah, he got you back, Benedick! Leonato clearly knows your reputation with women. Seriously, though, the lady resembles Leonato so much that there can be no doubt about who her father is. Congratulations, lady: you resemble a most honorable man.
+</T>
+<T>
+BENEDICK
+Well, even if he is her father, Im sure she wouldnt want to have the head of the old man on her shoulders!
+</T>
+<T>
+BEATRICE
+Im amazed youre still talking, Signior Benedick. No ones listening to you.
+</T>
+<T>
+BENEDICK
+Look, its my dear Lady Disdain! Arent you dead yet?
+</T>
+<T>
+BEATRICE
+How could disdain die when youre here? When youre around, even Lady Courtesy becomes Lady Disdain.
+</T>
+<T>
+BENEDICK
+That makes Lady Courtesy a traitor. All ladies love me, except you. Its too bad Im so hard-hearted, because I really dont love anyone.
+</T>
+<T>
+BEATRICE
+Women are lucky, then. You would make a nasty suitor. Thankfully, I feel the same way you do. I have no need for romance. I would rather listen to my dog bark at a crow than hear a man swear that he loves me.
+</T>
+<T>
+BENEDICK
+Well, I hope you stay in that frame of mind or some poor man will end up with his face all scratched up.
+</T>
+<T>
+BEATRICE
+If he has a face like yours, a good scratching couldnt make him look any worse.
+</T>
+<T>
+BENEDICK
+Listen to you, instructing me like a parrot would.
+</T>
+<T>
+BEATRICE
+Id rather be a squawking bird than an animal like you.
+</T>
+<T>
+BENEDICK
+I wish my horse moved as fast as your mouth and was as tireless. Thats itIm done.
+</T>
+<T>
+BEATRICE
+You always slip out of the argument like this. I know you from before.
+</T>
+<T>
+DON PEDRO
+And thats everything, Leonato.Claudio, Benedickmy dear friend Leonato has invited you all to stay here at Messina. I told him well stay for at least a month, and he says that he hopes well stay longer. I think hes actually serious, and not just being polite.
+</T>
+<T>
+LEONATO
+I am being serious, my lord. (to DON JOHN) I welcome you here as well. Now that you and your brother have made friends again, I owe you the same allegiance I owe Don Pedro.
+</T>
+<T>
+DON JOHN
+Thank you. Im not a man who talks a lot, but I thank you.
+</T>
+<T>
+LEONATO
+If it pleases you, your highness, will you lead us all inside?
+</T>
+<T>
+DON PEDRO
+Give me your hand, Leonato. We will go in together.
+</T>
+<T>
+CLAUDIO
+Benedick, did you notice Signior Leonatos daughter?
+</T>
+<T>
+BENEDICK
+I saw her, but I didnt notice her.
+</T>
+<T>
+CLAUDIO
+Isnt she a well-mannered young lady?
+</T>
+<T>
+BENEDICK
+Do you want my true opinion? Or do you want me to criticize her like I do all women?
+</T>
+<T>
+CLAUDIO
+No, please, speak seriously.
+</T>
+<T>
+BENEDICK
+Well, it seems to me that she is too short to be praised highly, too dark to be praised fairly, and too small to be praised greatly. I can only say this about her: if she looked different than she does, she would be ugly, and since she cant be anything but herself, I dont like her.
+</T>
+<T>
+CLAUDIO
+You think Im kidding. Please tell me seriously what you think of her.
+</T>
+<T>
+BENEDICK
+Are you thinking of buying her? Is that why youre asking?
+</T>
+<T>
+CLAUDIO
+Would it even be possible to buy a jewel as rare and precious as Hero?
+</T>
+<T>
+BENEDICK
+Yes, and you could buy a case to put it in, too. But tell me, are you speaking seriously? Or are you just teasing? If Im going to sing along with you, I need to know what key youre singing in.
+</T>
+<T>
+CLAUDIO
+I think shes the most wonderful woman Ive ever laid eyes on.
+</T>
+<T>
+BENEDICK
+Im still young enough to see without glasses, and I dont see what youre talking about. If her cousin Beatrice didnt have such a nasty temper, shed be so much more beautiful than Hero that it would be like comparing May to December. But, hey, this doesnt mean youre looking to get married, does it?
+</T>
+<T>
+CLAUDIO
+Even if I had sworn never to marry, I wouldnt trust myself to keep that promise if Hero would marry me.
+</T>
+<T>
+BENEDICK
+Whats going on these days? Isnt there one man left in the world who knows not to take a wife? Shes just going to cheat on him. Will I never see a sixty-year old bachelor again or will all men be swindled into marriage while theyre young? Go ahead, then, if you have to yoke yourself to marriage, like an ox carrying his load, and throw away your free time. Look, Don Pedro has come back for you.
+</T>
+<T>
+DON PEDRO
+What secrets between you have kept you from following us to Leonatos?
+</T>
+<T>
+BENEDICK
+Your highness will have to force me to tell.
+</T>
+<T>
+DON PEDRO
+Your loyalty to me requires you to tell me what youve been talking about.
+</T>
+<T>
+BENEDICK
+Look, Claudio, I can keep secrets like a mute; I want you to know that. But I owe Don Pedro my allegiancelook, I have to tell him(to DON PEDRO) Claudio is in love. With whom? Thats what youre supposed to ask me next, your Grace. Look how short the answer iswith Hero, Leonatos short daughter.
+</T>
+<T>
+CLAUDIO
+If you say so.
+</T>
+<T>
+BENEDICK
+Listen to him deny it, like that man in the old tale Mr. Fox: It isnt true and wasnt true and God forbid it should be so.
+</T>
+<T>
+CLAUDIO
+Unless my feelings change very soon, I have to admit its true.
+</T>
+<T>
+DON PEDRO
+Its good if you love Hero, because shes worthy of your love.
+</T>
+<T>
+CLAUDIO
+Youre trying to trick me, my lord.
+</T>
+<T>
+DON PEDRO
+I swear, Im telling you what I honestly think.
+</T>
+<T>
+CLAUDIO
+And I swear I spoke honestly to BenedickI am in love with Hero.
+</T>
+<T>
+BENEDICK
+And I swear all up and down I spoke honestly when I said that this was a horrible idea.
+</T>
+<T>
+CLAUDIO
+I feel that I love her.
+</T>
+<T>
+DON PEDRO
+I know that she is worthy of that love.
+</T>
+<T>
+BENEDICK
+I, on the other hand, dont feel how she could be loved and dont know how she could be worthy. Even fire cant melt that opinion out of me. You could burn me at the stake, and Id still think this.
+</T>
+<T>
+DON PEDRO
+You never did believe in the power of beauty.
+</T>
+<T>
+CLAUDIO
+Or in the power of reason.
+</T>
+<T>
+BENEDICK
+I was conceived by a woman, and I thank her very much for all her effort. And then she brought me up, and I thank her for that, too. But all the other women will have to forgive me for not being willing to be made a fool ofcheated on by a wife. I dont want to insult any particular woman by doubting and mistrusting her, so Ill just avoid them all. And the conclusion of this is that Ill live as a bachelorand, with the money I save, dress better.
+</T>
+<T>
+DON PEDRO
+I swear, before I die Im going to see you sick with love.
+</T>
+<T>
+BENEDICK
+With anger, with fever, or with hunger, sure, my friend, but never sick with love. If you can prove that Ill ever be so in love that I cant be brought to my senses with a good round of beers, you can pluck out my eyes with a love-poets pen and hang me on a brothels door where the picture of blind Cupid usually goes.
+</T>
+<T>
+DON PEDRO
+Ill be sure to remember this fuss youve made, in case you ever do fall in love. Thatll be news.
+</T>
+<T>
+BENEDICK
+If I ever change my mind, you can use me for target practice. And whoever hits the bulls eye gets to be a hero.
+</T>
+<T>
+DON PEDRO
+Well, time will tell. Even the most savage bull is eventually domesticated.
+</T>
+<T>
+BENEDICK
+Maybe the bull is, but if I am ever domesticated, you can take that bulls horns and put them right on my forehead, as my wife is sure to cuckold me soon enough. You might as well hang a big sign with enormous lettering around my neck. But instead of it saying Horse for hire, it will say Take a look at Benedick, the married man.
+</T>
+<T>
+CLAUDIO
+If that ever happened, youd go absolutely mad.
+</T>
+<T>
+DON PEDRO
+Well, if Cupid hasnt used up all his arrows in Venice, where the courtesans are famous for making men lovesick, hell get you to quiver and shake. Just you wait.
+</T>
+<T>
+BENEDICK
+Thats about as likely as an earthquake.
+</T>
+<T>
+DON PEDRO
+Oh, youll soften as time passes. While youre waiting for that to happen, though, hurry to Leonatos. Give him my respects, and tell him Ill definitely be there for dinner, since I know he has gone to great lengths for this meal.
+</T>
+<T>
+BENEDICK
+I think I can handle this mission. And so I commit you
+</T>
+<T>
+CLAUDIO
+Into Gods hands. From my house, if I had a house
+</T>
+<T>
+DON PEDRO
+The sixth of July. Sincerely, your loving friend, Benedick.
+</T>
+<T>
+BENEDICK
+Oh, stop joking around. You know, sometimes you two dress up your conversation with flimsy little bits of wit that dont hold together too well. Before you make funBenedick and Claudio are making fun of the fact that I commit you is, in Shakespeares time, a common way to end a formal letter.fun of everyone else, look at yourselves in the mirror! And with that, Im leaving.
+</T>
+<T>
+CLAUDIO
+My lord, you could really help me out now.
+</T>
+<T>
+DON PEDRO
+I am at your service. Just tell me what you want me to do, and however hard it is, youll see that Im eager to do it.
+</T>
+<T>
+CLAUDIO
+Does Leonato have a son, my lord?
+</T>
+<T>
+DON PEDRO
+Hero is his only child, and his only heir. Do you like her, Claudio?
+</T>
+<T>
+CLAUDIO
+Oh, my lord, when we left Messina to fight the war, I looked at Hero with the eyes of a soldier. I liked what I saw, but my mind was so occupied with the rough, violent task ahead of me that there was no chance that like would turn intolove. But now that Im back, the room in my head that I used to fill with war plans has become crowded with soft and delicate feelings. They all lead me to the same thoughthow beautiful young Hero is and how I must have liked her even before I left to fight.
+</T>
+<T>
+DON PEDRO
+You will become a true lover soon, and exhaust your friends with your endless chatter about your feelings. Look, if you really love the beautiful Hero, enjoy it. I will speak to her and her father about the matter, and Ill convince Leonato to promise Hero to you. Isnt that the reason you told me all this?
+</T>
+<T>
+CLAUDIO
+You can see that Im sick with love, and youre taking care of me in just the right way! But I didnt want you to think that Im hasty in my emotions. I was going to explain my feelings with a longer story.
+</T>
+<T>
+DON PEDRO
+Why speak longer than you have to? Thats like building a bridge wider than the river it crosses. Whatever gets the job done is best. You love Hero; thats all I need to know to want to find a remedy. Theyre going to have a costume party with dancing tonight. Ill disguise myself as you and pour out my feelings to Hero, taking her prisoner with the force of my love story. Then Ill talk to her father. And in the end, shes yours! Lets get started right away.
+</T>
+<T>
+LEONATO
+Hey, brother. Tell me, where is my nephew, your son? Has he taken care of the music?
+</T>
+<T>
+ANTONIO
+He is taking care of it as we speak. But brother, I have some strange news for you.
+</T>
+<T>
+LEONATO
+Is it good news?
+</T>
+<T>
+ANTONIO
+Well, it seems like good news. A servant of mine overheard the Prince and Claudio talking as they walked through my orchard. The Prince said that he is in love with Hero, your daughter, and that he is going to tell her so at the dance tonight. If he she wants to marry him, too, hes going to find you and ask for her hand immediately.
+</T>
+<T>
+LEONATO
+Is this servant of yours a smart man?
+</T>
+<T>
+ANTONIO
+Hes very bright. Ill get him to come here, and you can ask him yourself.
+</T>
+<T>
+CONRAD
+Really, my lord, why are you so excessively sad?
+</T>
+<T>
+DON JOHN
+The things that cause my sadness are without limit. Therefore my sadness is without limit.
+</T>
+<T>
+CONRAD
+You should listen to reason. Then youd stop being so gloomy.
+</T>
+<T>
+DON JOHN
+And after I have sat and listened to reason, whats my prize?
+</T>
+<T>
+CONRAD
+If not an end to your suffering, then at least youll have the means to endure it patiently.
+</T>
+<T>
+DON JOHN
+Im amazed that youbeing such a moody man yourselfare moralizing about my deadly condition. I cant hide what I am. Ill be sad when I have reason to be sad and wont smile at anybodys jokes. Ill eat when Im hungry and wont wait until its convenient. Ill sleep when Im tired and wont rouse myself for anything. Ill laugh when Im happy and wont flatter and fawn over anyone.
+</T>
+<T>
+CONRAD
+Sure, but dont do it at full volume until theres no danger in it. Not long ago you challenged and opposed your brother, and it is only very recently that he has forgiven you. You need to act carefully if youre going to stay in his good graces. You have to wait for the appropriate time to let loose.
+</T>
+<T>
+LEONATO
+Wasnt Don John at dinner tonight?
+</T>
+<T>
+ANTONIO
+I didnt see him.
+</T>
+<T>
+BEATRICE
+That man always looks so sour! Just looking at him gives me heartburn.
+</T>
+<T>
+HERO
+He has a very gloomy attitude.
+</T>
+<T>
+BEATRICE
+It would be excellent if they could make a man halfway between Don John and Benedick. One of them is too much like a painting of a manhe never speaksand the other is too much like a spoiled little boy, always chattering.
+</T>
+<T>
+LEONATO
+So, the man would talk half as much as Benedick and be half as serious as Don John
+</T>
+<T>
+BEATRICE
+And if he were handsome, agile, and rich, too, he could have any woman in the worldall hed need was her good will.
+</T>
+<T>
+LEONATO
+Really, niece, youll never get a husband if you keep saying such harsh things about people.
+</T>
+<T>
+ANTONIO
+Honestly, she is too ill-tempered.
+</T>
+<T>
+DON JOHN
+Its arranged. The Count Claudio will marry Leonatos daughter.
+</T>
+<T>
+BORACHIO
+Yes, my lord, but I can spoil it.
+</T>
+<T>
+DON JOHN
+Any obstacle or barrier to Claudios happiness will be like medicine to me. I hate him so much it makes me sick, and whoever can ruin his happiness will make me happy. How will you wreck this marriage?
+</T>
+<T>
+BORACHIO
+I can only do it by lying, my lord, but I can do it so secretly that no one will suspect me.
+</T>
+<T>
+DON JOHN
+Quickly, tell me how.
+</T>
+<T>
+BORACHIO
+I think it was a year ago that I told you how much Margaret, Heros servant woman, likes me.
+</T>
+<T>
+DON JOHN
+I remember.
+</T>
+<T>
+BORACHIO
+I can arrange it so that at some indecent hour of the night, she looks out Heros bedroom window.
+</T>
+<T>
+DON JOHN
+How will that kill this marriage?
+</T>
+<T>
+BORACHIO
+That part is up to you. Go to the Prince, your brother, and tell him that he has done a terrible thing by matching the renowned Claudiowhom you greatly admirewith such a tainted whore as Hero.
+</T>
+<T>
+BENEDICK
+Boy!
+</T>
+<T>
+BOY
+Yes Signior?
+</T>
+<T>
+BENEDICK
+In my bedroom window there is a book. Go get it and bring it to me here in the orchard.
+</T>
+<T>
+BOY
+Im already here, sir.
+</T>
+<T>
+BENEDICK
+I see that you are here, but Id like you to go there and then come back again.The boy means, It\s as good as done, but Benedick plays as if he takes the boy literally.
+</T>
+<T>
+Im amazed that a man, after watching romance turn another man into a fool and laughing at that man, can turn right around and become the thing hes scorned. Thats the kind of man Claudio is. I knew him when he listened to nothing but the military drum and fife; now he would rather hear the sweet and refined music of the tabor and pipe. I knew him when he wouldve walked ten miles to see a well-crafted suit of armor; now he spends ten nights awake in his room designing himself a fancy new jacket. He used to speak plainly and to the point, like an honorable man and soldier; now his speech is elaborate and flowery. His words are like a miraculous banquet, full of strange new dishes. Will I be changed like that, and see the world through a lovers eyes? Im not sure, but I dont think so.
+</T>
+<T>
+HERO
+Margaret, run into the sitting room. Youll find Beatrice there, talking to Claudio and the Prince. Whisper to her that Ursula and I are walking in the orchard and that were talking all about her. Tell her you heard us, and that she should sneak into the arbor where the crisscrossing branches overhead keep the honeysuckles out of the sun. (The same honeysuckles that were once ripened in the sun; theyre like courtiers who rise because the king favors them, then plot to overthrow his Majesty.) She can hide there and eavesdrop on our conversation. This is your job. Do it well, and then leave us.
+</T>
+<T>
+MARGARET
+Ill make her come right away, I promise you.
+</T>
+<T>
+HERO
+All right Ursula, as Beatrice arrives, well be walking up and down this alley and speaking about nothing but Benedick. Whenever I mention him, praise him more than any man deserves. Itll be my job to talk about how Benedick is sick with love for Beatrice. Well make our arrows the same way Cupid does: with gossip and rumor.
+</T>
+<T>
+DON PEDRO
+Ill stay in Messina until youre married, and then Ill go to Aragon.
+</T>
+<T>
+CLAUDIO
+Ill go with you, my lord, if youll allow me.
+</T>
+<T>
+DON PEDRO
+No, taking you away from your new marriage would be like showing a child a new coat and then not letting him wear it. Ill ask only Benedick to come with me, for from the top of his head to the soles of his feet hes a joker. Hes evaded love once or twice, and since then Cupid doesnt dare to shoot at him. Benedicks heart is like a bell, with his tongue as the clapper: everything his heart thinks, his tongue speaks.
+</T>
+<T>
+BENEDICK
+Gentleman, I am not the same man I was before.
+</T>
+<T>
+LEONATO
+I agree. I think you seem more serious.
+</T>
+<T>
+CLAUDIO
+I hope hes in love.
+</T>
+<T>
+DON PEDRO
+Come off it, man! There isnt a single drop of sincerity in him that could be touched with love. If he looks serious, he must need money.
+</T>
+<T>
+BENEDICK
+I have a toothacheToothache was an ailment associated with lovers.toothache.
+</T>
+<T>
+DON PEDRO
+Draw it.Pull it out.Draw it.
+</T>
+<T>
+BENEDICK
+Hang it!An expression of impatience.Hang it!
+</T>
+<T>
+CLAUDIO
+You have to hang it first. Then you can drawClaudio plays on the fact that criminals were hanged and then drawn, or disemboweled.draw it.
+</T>
+<T>
+DOGBERRY
+Are you all good and honest men?
+</T>
+<T>
+VERGES
+Yes they are, otherwise it would be proper for them to suffer salvationBy salvation, he means damnation.salvation, body and soul.
+</T>
+<T>
+DOGBERRY
+If they had any allegianceBy allegiance, he means disloyalty.allegiance when they were chosen for the Princes watch, a punishment like that would be too good for them.
+</T>
+<T>
+VERGES
+Well, give them their assignment, Sir Dogberry.
+</T>
+<T>
+DOGBERRY
+First, which man do you think is most desertlessBy desertless (a made-up word), he means deserving.desertless to be leader of the watch?
+</T>
+<T>
+FIRST WATCHMAN
+Either Hugh Otecake, sir, or else George Seacole, because both of them can read and write.
+</T>
+<T>
+DOGBERRY
+Come here, Sir Seacole. God has blessed you with a good name. To be good-looking is a matter of luck, but to read and write is a natural gift.
+</T>
+<T>
+SECOND WATCHMAN
+Both of which, master constable
+</T>
+<T>
+DOGBERRY
+You have. I knew that would be your answer. Well, for your good looks, sir, thank God and dont boast about it. As for your reading and writing, use those skills when you cant use your looks. Youre thought to be the most senselessBy senseless, he means sensible.senseless and fit man here, so you will carry the lantern and be constable. This is your assignment:
+</T>
+<T>
+HERO
+Good Ursula, go wake my cousin and ask her to get up.
+</T>
+<T>
+URSULA
+I will, lady.
+</T>
+<T>
+HERO
+And request that she come here.
+</T>
+<T>
+URSULA
+Very well.
+</T>
+<T>
+MARGARET
+Really, I think your other ruff is better.
+</T>
+<T>
+HERO
+No, please good Meg, Ill wear this one.
+</T>
+<T>
+MARGARET
+Honestly, its not as good as the other one, and Im sure your cousin will agree with me.
+</T>
+<T>
+HERO
+My cousins a fool, and you are too. Ill wear this one and none other.
+</T>
+<T>
+MARGARET
+I like your new wig and headdress, though Id like it more if the hair were a shade browner. And your gown is really stylish. You know, I saw the Duchess of Milans gown, the one that everyone praises so highly.
+</T>
+<T>
+HERO
+Oh, they say that dress surpasses all others.
+</T>
+<T>
+LEONATO
+What do you want from me, my good man?
+</T>
+<T>
+DOGBERRY
+Please, sir, I would like to discuss some news that decernsDecerns is a mistake for concerns.decerns you greatly.
+</T>
+<T>
+LEONATO
+Be brief, please, because, as you can see, this is a busy time for me.
+</T>
+<T>
+DOGBERRY
+Indeed, sir, it is.
+</T>
+<T>
+VERGES
+Yes, it truly is.
+</T>
+<T>
+LEONATO
+Whats the news, my good friends?
+</T>
+<T>
+DOGBERRY
+Sorry, sir, Goodman Verges tends to ramble. Hes an old man, sir, and his wits are not as bluntBlunt is a mistake for sharp.blunt as I wish they were. But truly, hes as honest as the skin between his brows.
+</T>
+<T>
+VERGES
+Yes, I thank God that I am as honest as all the other old men who are not honester than me.
+</T>
+<T>
+DOGBERRY
+Making comparisons is odorousOdorous is a mistake for odious (hateful).odorous, Verges. Get on with your story.
+</T>
+<T>
+LEONATO
+Friends, you are becoming tedious.
+</T>
+<T>
+DOGBERRY
+Thank you for saying that, your Worship, but were just the poor dukes officers. But truly, if I were as tediousDogberry takes tedious to mean rich.tedious as a king, I would give everything to you, your Worship.
+</T>
+<T>
+LEONATO
+All right, Friar Francis, lets keep this short. Do a simple ceremony, and list all the particular duties of marriage later.
+</T>
+<T>
+FRIAR FRANCIS
+(to CLAUDIO) Have you come here, my lord, to marry this lady?
+</T>
+<T>
+CLAUDIO
+No.
+</T>
+<T>
+LEONATO
+No, he comes to be married to her. Friar, you are the one who has come to marry her.
+</T>
+<T>
+FRIAR FRANCIS
+Lady, do you come here to be married to this count?
+</T>
+<T>
+HERO
+I do.
+</T>
+<T>
+FRIAR FRANCIS
+If either of you knows any secret reason why you two should not be joined in marriage, I order you on your souls to say so.
+</T>
+<T>
+CLAUDIO
+Do you know any, Hero?
+</T>
+<T>
+HERO
+None, my lord.
+</T>
+<T>
+FRIAR FRANCIS
+Do you know any, count?
+</T>
+<T>
+DOGBERRY
+Is our whole dissemblyDissembly is a mistake for assembly.dissembly here?
+</T>
+<T>
+VERGES
+Oh, we need a stool and a cushion for the sexton.
+</T>
+<T>
+SEXTON
+Which ones are the malefactors?
+</T>
+<T>
+DOGBERRY
+Sir, that would be me and my partner.
+</T>
+<T>
+VERGES
+Yes, yes, weve been exhibitionedExhibitioned is a mistake for commissioned.exhibitioned to examine this case.
+</T>
+<T>
+SEXTON
+No, youve misunderstood mewhere are the criminals whom Im supposed to examine? Have them come in front of the master constable.
+</T>
+<T>
+DOGBERRY
+Yes, indeed, bring them before me.
+</T>
+<T>
+Whats your name, friend?
+</T>
+<T>
+BORACHIO
+Borachio.
+</T>
+<T>
+DOGBERRY
+Please, write down Borachio.And yours?
+</T>
+<T>
+CONRADE
+Im a gentleman, sir, and my name is Conrade.
+</T>
+<T>
+ANTONIO
+If you keep on the way youve been going, youll kill yourself. Theres no point in adding to your grief.
+</T>
+<T>
+LEONATO
+Stop advising me; your words pass through my ears like water through a sieve. Dont counsel me. Only someone whos been wronged as I have can comfort me. Find a father who loved his child as overwhelmingly as I loved Hero and askhim to be patient. Compare the length and width of that mans sadness against my own; match up all the complaints and strong emotions that run through our bodies. If a man who has suffered as I have gave me advice the way you dosmiling and stroking his beard, telling me to toss away my sorrow, giving speeches when he should be wailing with me, trying to heal my grief with little proverbs, spinning my head around with philosophythen I would take his advice and be patient. But that man doesnt exist. You can try to comfort a man who feels a pain that you have never felt, but once you feel it too, your sober advice will also turn into passion. You cant treat madness with rules or bind up insanity with little silken threads or cure heartache with hot air or lighten agony with pat phrases.
+</T>
+<T>
+BENEDICK
+Please Margaret, help me write this poem for Beatrice.
+</T>
+<T>
+MARGARET
+Afterward, will you write a sonnet for me, praising my beauty?
+</T>
+<T>
+BENEDICK
+Ill write you such a glorious sonnet, Margaret, that no man will ever be able to come over it. You certainly deserve it.Benedick means that no man will ever improve on his sonnet;
+</T>
+<T>
+MARGARET
+No man will come over meMargaret interprets come over in a sexual wayover me! What a life that would be!
+</T>
+<T>
+BENEDICK
+Your wit is as quick as a greyhounds jawsit catches whatever it goes after.
+</T>
+<T>
+MARGARET
+And your wit is as blunt as a practice sword, with its dull tip; it hits people but doesnt hurt them.
+</T>
+<T>
+BENEDICK
+Its just that my wit is very gentlemanly, Margaret, and refuses to hurt a woman. Now please, tell Beatrice to come out. I admit defeat; I give you the bucklersA buckler is a shield with a spike in the middle of it.bucklers.
+</T>
+<T>
+MARGARET
+No, you should give a woman your swordwe have our own bucklersMargaret interprets buckler as the vagina (and the sword as the penis).bucklers!
+</T>
+<T>
+BENEDICK
+Watch out, though, Margaretvirgins shouldnt be brandishing their bucklers around.
+</T>
+<T>
+MARGARET
+Ill go get Beatrice for you, who can walk here by herselfshe has legs.
+</T>
+<T>
+CLAUDIO
+Is this the family tomb of Leonato?
+</T>
+<T>
+FIRST LORD
+It is, my lord.
+</T>
+<T>
+CLAUDIO
+(reading an epitaph)
+Here lies Hero,
+The heroic maiden killed by slanderous words.
+To repay her for her troubles, Death
+Gives her undying fame.
+So the life that died with shame
+Lives on with fame.
+</T>
+<T>
+This epitaph will hang here forever,
+Continuing to praise Hero after I die.
+Now start the music, and sing the solemn hymn.
+(singing)
+Please pardon, goddess of thenight,
+The men who killed your virgin knightDiana was the Roman goddess associated with the moon, and her knights were virgin women.virgin knight.
+These men now walk around hertomb,
+Singing songs of woe.
+Oh, midnight, join ourmoaning
+Help us with our sighs andgroaning
+Heavily, heavily.
+Graves, open up and releaseyour corpses
+Until Heros deathis fully mourned The meaning of this final line is unclear; it may also be interpreted as, until death itself is beaten, or until we have fully realized what his death means.
+Heavily,heavily.
+</T>
+<T>
+FRIAR FRANCIS
+Didnt I tell you she was innocent?
+</T>
+<T>
+LEONATO
+And the Prince and Claudio, who accused her, are innocent as well, because they were deceived by Don John. Margaret is partially guilty, although our investigation shows that she acted unintentionally.
+</T>
+<T>
+ANTONIO
+Well, Im glad that everything has been sorted out.
+</T>
+<T>
+BENEDICK
+Me toootherwise I would have had to duel with Claudio.
+</T>
+<T>
+LEONATO
+Hero, you and the other women should all retreat to a room. When I send for you, come out wearing masks. The Prince and Claudio are supposed to be here by now.You know your job, brother. You have to pretend to be your nieces father, and give her away to Claudio.
+</T>
+<T>
+ANTONIO
+Ill do that, without giving away our secret.
+</T>
+<T>
+BENEDICK
+Friar, I think I need a favor from you.
+</T>
+<T>
+FRIAR FRANCIS
+What do you need me to do?
+</T>

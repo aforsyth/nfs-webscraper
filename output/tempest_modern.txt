@@ -1,0 +1,304 @@
+<T>
+MASTER
+Boatswain!
+</T>
+<T>
+BOATSWAIN
+Im here, sir. How can I help you?
+</T>
+<T>
+MASTER
+My good boy, give the other sailors a pep talkand do it fast, before were shipwrecked. Hurry, hurry!
+</T>
+<T>
+BOATSWAIN
+Come on, men! Thats the way to do it! Quickly! Quickly! Take in the upper sail. Listen to the masters orders. Blow your heart out, storm! So long as we have enough room to avoid running aground!
+</T>
+<T>
+ALONSO
+Be careful, good Boatswain! Wheres the Master? Make these men work.
+</T>
+<T>
+BOATSWAIN
+Please stay below deck, sir.
+</T>
+<T>
+ANTONIO
+Wheres the Master, Boatswain?
+</T>
+<T>
+BOATSWAIN
+Hes busy, cant you hear him giving orders? Youre getting in the way of our work. Stay in your cabins. Youre helping the storm, not us.
+</T>
+<T>
+GONZALO
+Dont get wound up, my good man.
+</T>
+<T>
+BOATSWAIN
+Im only wound up because the seas wound up. Now get out of here! Do you think these waves care anything about kings and officials? Go to your cabins and be quiet! Dont bother us up here.
+</T>
+<T>
+GONZALO
+Just remember who youve got on board with you, good man.
+</T>
+<T>
+BOATSWAIN
+Nobody I care about more than myself. Youre a kings advisor. If you can order the storm to calm down, we can all put down our ropes and rest. Go ahead, use your authority. If you cant do it, be grateful youve lived this long and go wait to die in your cabin, if it comes to that.Harder, men!Now get out of our way, Im telling you.
+</T>
+<T>
+GONZALO
+I feel a lot better after talking to this guy. He doesnt look like a person who would drownhe looks like he was born to be hangedGonzalo implies that the Boatswain looks and acts like a dangerous criminal.hanged. I hope he lives long enough to be hanged. The rope that hangs him will do more good than all the ropes on this ship, since itll guarantee he stays alive through this storm. But if hes not destined to die by hanging, then our chances dont look too good.
+</T>
+<T>
+BOATSWAIN
+Bring down that top sail! Fast! Lower, lower! Let the ship sail close to the wind.
+</T>
+<T>
+Damn those men shouting down there! Theyre louder than the storm or us sailors.
+</T>
+<T>
+Oh, not you again. What do you want? Should we all give up and drown? Do you want to sink?
+</T>
+<T>
+SEBASTIAN
+Oh, go to hell, you loud-mouthed bastard!
+</T>
+<T>
+BOATSWAIN
+Well, get to work, then.
+</T>
+<T>
+ANTONIO
+Just die, you lowlife! Go ahead and die, you nasty, rude bastard!Youre more scared of drowning than we are.
+</T>
+<T>
+GONZALO
+Yes, I guarantee he wont drowneven if this ship were as fragile as an eggshell and as leaky as a menstruating woman.
+</T>
+<T>
+BOATSWAIN
+Turn the ship to the wind! Set the sails and let her go out to sea again!
+</T>
+<T>
+SAILORS
+Its no use! Pray for your lives! Were done for!
+</T>
+<T>
+BOATSWAIN
+What, were going to die?
+</T>
+<T>
+GONZALO
+The king and the prince are praying. Lets go join them, since whatever happens to them happens to us too.
+</T>
+<T>
+SEBASTIAN
+Im out of patience.
+</T>
+<T>
+ANTONIO
+Yes, weve been cheated out of our lives by a bunch of drunken, incompetent sailors. This bigmouth jerk here(to BOATSWAIN) I hope you drown ten times over!
+</T>
+<T>
+GONZALO
+Hell still die by hanging, not drowning, even if every drop of water in the sea tries to swallow him.
+</T>
+<T>
+VOICES
+God have mercy on us!The ships breaking up!Goodbye, wife and kids!Goodbye, brother!Were breaking up, were breaking up!
+</T>
+<T>
+ANTONIO
+Lets all sink with the king.
+</T>
+<T>
+SEBASTIAN
+Lets say goodbye to him.
+</T>
+<T>
+GONZALO
+Right now Id give a thousand furlongs1 furlong = 220 yardsfurlongs of sea for one little acre of dry ground: barren weed patch, anything at all. Whats destined to happen will happen, but Id give anything to be dry when I die.
+</T>
+<T>
+MIRANDA
+Dear father, if you caused this terrible storm with your magic powers, please put an end to it. The skys so dark it looks like it would rain down boiling hot tar if the sea werent swelling up to the sky to put its fire out. Oh, I suffered along with all the men I watched suffer! A fine ship, with some good people in it, Im sure, smashed to pieces. Their dying shouts broke my heart! The poor people died. If Id been a god I wouldve let the sea sink inside the earth before it had a chance to swallow up that ship and all the people it was carrying.
+</T>
+<T>
+PROSPERO
+Calm down. Theres nothing to get upset about. No harm was done.
+</T>
+<T>
+MIRANDA
+Oh, what a horrible day!
+</T>
+<T>
+PROSPERO
+There was no harm, Im telling you. Everything Ive done has been for you, my dear daughter. You dont know what you are, since you dont know who I am or where I come from, or that Im better than merely Prospero, your humble father who lives in a poor little shack.
+</T>
+<T>
+MIRANDA
+It never occurred to me to imagine there was anything more to know.
+</T>
+<T>
+GONZALO
+(to ALONSO) Please cheer up, sir. Like all of us, you have a good reason to be happy. The fact that were alive outweighs our losses. Many people every day feel the sadness we feel now. Every day some sailors wife, a ships crew, the merchant who hired the ship all experience the same loss weve undergone. But the miraclethe fact that we were savedonly happens to a few people out of millions. So remember that, and take comfort in it, to counterbalance our sadness.
+</T>
+<T>
+ALONSO
+Please say no more.
+</T>
+<T>
+SEBASTIAN
+(to ANTONIO) Alonso enjoys these comforting words about as much as cold oatmeal.
+</T>
+<T>
+ANTONIO
+(to SEBASTIAN) But the goodwill ambassador wont give up that easily.
+</T>
+<T>
+SEBASTIAN
+(to ANTONIO) Look. Hes like a clock winding up to strike the hour.
+</T>
+<T>
+GONZALO
+(to ALONSO) Sir
+</T>
+<T>
+SEBASTIAN
+(to ANTONIO) There he goes! Now we can tell what time it is.
+</T>
+<T>
+GONZALO
+If we let every sad thing that happens to us get us down, then we would find ourselves
+</T>
+<T>
+CALIBAN
+I hope all the diseases that breed in swamps and marshes infect Prospero, inch by inch, until hes nothing but a walking disease! His spirits are listening to me, but I cant help cursing him anyway. They wont pinch me, frighten me, push me in the mud, or mislead me unless he tells them to. But he sends them to punish me for every little thing. Sometimes his spirits take the form of apes, grimacing and chattering at me and then biting me; sometimes they come like porcupines, my feet as I walk. Sometimes snakes wrap around me, hissing at me with their forked tongues till I go crazy.
+</T>
+<T>
+Hey, look over there! Here comes one of his spirits to torture me for taking so long to bring the wood back. Ill lie down and hide. Maybe he wont see me. (he lies down and covers himself with his cloak)
+</T>
+<T>
+TRINCULO
+There are no bushes or shrubs to protect me from the weather here. And theres another storm brewingI can hear it in the way the wind whistles. That huge black cloud over there looks like a filthy liquor jug thats about to pour out its contents. It wont be able to help pouring rain down by the bucket-full. (he sees CALIBAN)
+</T>
+<T>
+FERDINAND
+Some games are painful, but their discomfort makes them more fun. Some kinds of lowly activities are done for noble reasons. And you can do poor things that lead to rich results. This hard work would be boring and nasty to me, but Im working for a mistress who makes me enjoy my labor. Oh, shes ten times nicer than her father is mean, and hes the height of crabbiness. I have thousands of logs to take away and pile up, on strict orders from him. My sweet darling cries when she sees me work and tells me that such a wonderful man never performed such lowly tasks before. These sweet thoughts relieve me and refresh me, especially when Im slaving away busily.
+</T>
+<T>
+MIRANDA
+Now, please, I beg you, dont work so hard. I wish the lightning had burned up all those logs that youve been ordered to stack! Please put that log down and rest a while. When this wood burns, itll weep for making you tired. My fathers studying hard, so he wont see you. So please rest. Were safe from my father for at least three hours.
+</T>
+<T>
+STEPHANO
+Dont tell me that. When the barrels empty, well drink water. Not one drop sooner. Therefore, drink up.Servant-monster, drink a toast to me.
+</T>
+<T>
+TRINCULO
+Servant monster? What a crazy island this is. They say there are only five people on it. Were three of them. If the other two are as loopy as we are, our countrys in bad shape.
+</T>
+<T>
+STEPHANO
+Drink when I order you, servant-monster. Your eyes look like theyve sunk into your head.
+</T>
+<T>
+TRINCULO
+Where else should his eyes be, if not in his head? Hed be quite a monster if his eyes were in his tail.
+</T>
+<T>
+STEPHANO
+My manmonster is so drunk he cant talk. As for me, no liquid can harm me, neither booze nor the whole sea itself. Before I could get to shore, I swam thirty-five leagues1 league = 3 milesleagues in it and still survived.Monster, youll be my lieutenant, or my flag-bearer.
+</T>
+<T>
+TRINCULO
+Lieutenant is better. Hes not standing straight enough to hold a flag.
+</T>
+<T>
+STEPHANO
+Were not going to run in our army, Monsieur Monster.
+</T>
+<T>
+TRINCULO
+Or walk either. Youll just lie there like sleeping dogs and say nothing.
+</T>
+<T>
+GONZALO
+I swear, I cant go any further, sir. My old bones are tired. Were wandering in a maze. If you dont mind, I need to rest a bit.
+</T>
+<T>
+ALONSO
+I cant blame you, old lord. Im so tired myself that its bringing me down. Sit down and rest. Im losing hope. The one were looking for is dead. Were searching on land, but hes lost in the sea. We have to give up and let him go.
+</T>
+<T>
+ANTONIO
+(speaking so that only SEBASTIAN can hear) Im glad hes so depressed. Dont back out of our plan just because it didnt work the first time.
+</T>
+<T>
+SEBASTIAN
+(speaking so that only ANTONIO can hear) The next chance we get, well do the deed.
+</T>
+<T>
+ANTONIO
+(speaking so that only SEBASTIAN can hear) Lets do it tonight. The men are so tired from traveling that they cant be as careful as they are when theyre fresh.
+</T>
+<T>
+PROSPERO
+(to FERDINAND) If Ive punished you too harshly, Im ready to make it up to you now, since Ive given you a third of my lifeeverything I live formy daughter Miranda. I put her in your hands. All the trouble I put you through was to test your love for her, and youve passed the test remarkably well. As heaven is my witness, I give you this valuable gift. Oh Ferdinand, dont smile at me for bragging about Miranda, for youll see soon enough that she outshines any praise of her.
+</T>
+<T>
+FERDINAND
+Id believe it even if oraclesAn oracle is someone who delivers messages from the gods.oracles told me differently.
+</T>
+<T>
+PROSPERO
+Then take my daughter, both as my gift to you and as something you have earned. But if you have sex with her before the marriage ceremony takes place, the heavens will not bless your relationship, but will overwhelm you with hate, contempt, and discord, and will poison your marriage bed so that you both grow to loathe it. So be careful, and make sure you respect the holy institution of marriage.
+</T>
+<T>
+PROSPERO
+My plans are almost at their climax. My spells are working well, my spirits are obeying me, and everything is right on schedule. What time is it?
+</T>
+<T>
+ARIEL
+Its after six o'clock, my lord, when you said our work would be finished.
+</T>
+<T>
+PROSPERO
+Thats what I said when I first conjured the tempest. Tell me, spirit, hows the king and his entourage?
+</T>
+<T>
+ARIEL
+All cooped up together, just as you ordered, all imprisoned in the grove of linden trees that protects your room from bad weather. They cant move till you release them. The king, his brother, and your brother are all waiting there in a crazed state of mind, and the rest are grieving over them, sad and astonished. Good old lord Gonzalo, as you call him, is saddest of all, with tears running down his beard. Your magic spell has such an effect on them that if you saw them now, youd feel sorry for them.
+</T>
+<T>
+PROSPERO
+Do you think so, spirit?
+</T>
+<T>
+ARIEL
+Id feel sorry for them, if I were human.
+</T>
+<T>
+PROSPERO
+Now my spells are all broken,
+And the only power I have is my own,
+Which is very weak. Now you all
+Have got the power to keep me prisoner here,
+Or send me off to Naples. Please dont
+Keep me here on this desert island
+With your magic spells. Release me
+So I can return to my dukedom
+With your help. The gentle wind
+You blow with your applause
+Will fill my ships sails. Without applause,
+My plan to please you has failed.
+Now I have no spirits to enslave,
+No magic to cast spells,
+And Ill end up in despair
+Unless Im relieved by prayer,
+Which wins over God himself
+And absolves all sins.
+Just as youd like to have your sins forgiven,
+Indulge me, forgive me, and set me free.
+</T>

@@ -1,0 +1,708 @@
+<T>
+ORLANDO
+I remember, Adam, thats exactlyThe actual reason is never made clear; the audience has happened upon a conversation already in progress.exactly why my father only left me a thousand crowns in his will. And as you know, my father commanded my brother, Oliver, to make sure that I was brought up welland thats where my sadness begins. Oliver keeps my brother Jaques away at school, and everyone says hes doing extremely well there. But he keeps me at home in the countryto be precise, he keeps me stuck at home but doesnt support me. I ask you, is this any way to treat a gentleman as nobly born as I am, to pen me in like an ox? His horses get treated better than I doat least he feeds them and trains them properly, and spends a lot of money on trainers for them. All Ive gained from his care is weight, which makes me as indebted to him as his animals on the manure pile are. He gives me plenty of nothing, and takes away everything else, letting me eat with his servants, refusing me whats owed me as his brother, and ruining my good birth with a poor education. This is what angers me, Adam. My fathers temper and spirit, which I think I share, makes me want to mutiny against my brothers tyranny. I wont stand for it any longer, though I havent yet figured out how to revolt.
+</T>
+<T>
+ADAM
+Here comes my master, your brother.
+</T>
+<T>
+ORLANDO
+Go hide, Adam, and youll hear how he abuses me.
+</T>
+<T>
+OLIVER
+Hey, you! What are you makingOliver means what are you doing here, but Orlando interprets making in its usual sense.making here?
+</T>
+<T>
+ORLANDO
+Nothing. Ive never been taught how to make anything.
+</T>
+<T>
+OLIVER
+Well, then, what are you messing up?
+</T>
+<T>
+ORLANDO
+Im helping you mess up one of Gods creationsyour poor, unworthy brotherby having him do nothing.
+</T>
+<T>
+OLIVER
+Indeed, sir, find something better to do and get lost for a while.
+</T>
+<T>
+ORLANDO
+Should I tend your pigs and eat husks with them? When did I wasteOrlando alludes to the prodigal son, a figure from the Bible who leaves home, spends all his money, and returns to his fathers house in poverty (Luke 15).waste so much money that I ended up this poor?
+</T>
+<T>
+OLIVER
+Do you know where you are, sir?
+</T>
+<T>
+ORLANDO
+Yes, sir, very wellIm here in your orchard.
+</T>
+<T>
+OLIVER
+Do you know whom youre talking to?
+</T>
+<T>
+ORLANDO
+Yes, better than you know me. I know youre my oldest brother, and deserve more respect. But were in the same family, so you should acknowledge that I am a gentleman too. According to custom, as the first-born you are my superior. But its not customary to treat me like Im not even a gentleman, even if there were twenty brothers between you and me. I have as much of our father in me as you do, though I admit youre closer to him and matter more because youre older.
+</T>
+<T>
+OLIVER
+(hitting ORLANDO) What nerve!
+</T>
+<T>
+ORLANDO
+(grabbing hold of OLIVER) Come on, big brother; you dont know anything about fighting.
+</T>
+<T>
+OLIVER
+What, you dare put your hands on me, villain?
+</T>
+<T>
+ORLANDO
+Im no villain. Im the youngest son of Sir Rowland de Boys, and anyone who claims my fathers sons are villains is a villain himself. If you werent my brother, Id leave this hand of mine on your neck until Id pulled out your tongue for talking like this. Youve only insulted yourself.
+</T>
+<T>
+ADAM
+Gentlemen, calm down. For the sake of your fathers memory, make peace.
+</T>
+<T>
+OLIVER
+Let me go, I say.
+</T>
+<T>
+ORLANDO
+I wont until Im ready. You will listen to me. My father instructed you in his will to give me a good education. But youve raised me as a peasant, hiding from me what I needed to become a gentleman. My fathers spirit is growing in me, and I wont take this any longer. Either give me the freedom to act like someone of my own rank or give me my share of the inheritance, so that I can seek my fortune elsewhere.
+</T>
+<T>
+OLIVER
+And what are you going to do after youve spent your money? Beg? Well, sir, go inside. Im not going to be bothered by you for long. Youll get some of what you want. Now please leave me alone.
+</T>
+<T>
+ORLANDO
+I wont bother you any more than necessary.
+</T>
+<T>
+OLIVER
+(to ADAM) And you get lost too, you old dog.
+</T>
+<T>
+ADAM
+Is that my rewardto be called old dog? Well, its true, Ive served this family so long Ive gotten old and toothless, like a dog. God bless my old master. He would never have spoken to me like this.
+</T>
+<T>
+OLIVER
+Is that how its going to be? Are you starting to challenge me? Ill cure you of your insolence, and Im not going to give you a thousand crowns, either!Hey, Dennis!
+</T>
+<T>
+DENNIS
+Did you call for me, your Worship?
+</T>
+<T>
+OLIVER
+Wasnt Charles, the dukes wrestler, here to speak with me?
+</T>
+<T>
+DENNIS
+Yes, sir, hes here at the door right now and asks to see you.
+</T>
+<T>
+OLIVER
+Call him in.
+</T>
+<T>
+I have a good plan. And tomorrow is the wrestling match.
+</T>
+<T>
+CHARLES
+Good morning, sir.
+</T>
+<T>
+OLIVER
+Good Mr. Charles! Tell me, whats the latest news at the new court?
+</T>
+<T>
+CHARLES
+No news but the old news: the old Duke Senior has been banished by his younger brother, the new Duke Frederick. A few loyal lords have gone into exile with Duke Senior, and given up their lands and money to Frederickso hes happy enough to have them leave.
+</T>
+<T>
+OLIVER
+Can you tell me whether Rosalind, Duke Seniors daughter, has also been banished?
+</T>
+<T>
+CHARLES
+Oh, no. Duke Fredericks daughter, Celia, grew up with Rosalind, and Celia loves her cousin so much that she would have either followed her into exile or died of grief. Rosalind has stayed at court, where Duke Frederick loves her like his own daughter. No two women ever loved each other like they do.
+</T>
+<T>
+OLIVER
+Where will the old duke live?
+</T>
+<T>
+CHARLES
+They say hes already in the Forest of Arden. He has many cheerful men with him, and they live like Robin Hood and his outlaws. People say that new batches of young men flock there every day, and that they all pass the time without a care, like people did in the Golden AgeIn Greek mythology, the first humans lived in a Golden Age, free from work, conflict, or violence, and without the need of laws.Golden Age.
+</T>
+<T>
+OLIVER
+So, are you going to wrestle before the new duke tomorrow?
+</T>
+<T>
+CHARLES
+Indeed I do, sir, and Ive come to let you in on a certain problem. Ive been informed by certain sources I cant disclose that your younger brother Orlando plans to fight me in disguise. Tomorrow, sir, Im fighting for my reputation, and any man who gets away without a broken bone or two is an exceptional wrestler indeed. Your brother is young and inexperienced, and because of my affection for you, Id hate to crush himthough Id have to, if he challenged me. Im telling you all this out of affection for you, so you can either keep him from carrying out his plans or prepare to accept his disgrace, which will be his own fault, not mine.
+</T>
+<T>
+OLIVER
+Charles, I thank you for your loyalty to me, and youll see that Ill reward you. Id heard about my brothers plan and have been subtly trying to change his mind, but hes determined. I tell you, Charles, hes the stubbornest young fellow in France: overly ambitious, jealous of other peoples good qualities, and a traitor against me, his own blood brother. So use your discretion. Id be just as happy if you broke his neck as his finger. And youd better be careful, because if you embarrass him at allin fact, if he doesnt beat you thoroughlyhell come after you and wont leave you alone till hes poisoned you or trapped youkilled you, in other words, one way or another. It brings me to tears to say this, but there isnt another person alive who is so young and at the same time so wicked. Because hes my brother, I have to take his side. But if I really laid him bare, Id have to weep and hang my head, and you would not believe me, his behavior is so shocking.
+</T>
+<T>
+CHARLES
+Im very glad I came to see you. If he shows up tomorrow, Ill give him whats coming to him. If he can manage to walk after our fight, Ill never wrestle for money again. Farewell, my lord.
+</T>
+<T>
+OLIVER
+Take care, Charles.
+</T>
+<T>
+Now its time to get this playboy brother of mine all worked up. I hope Ill see the end of him soonI dont know why, but I hate nothing in the world as much as him, though hes an upstanding guy. Hes never gone to school but hes smart, with good values, and everyone is delighted by him and loves him, especially my subjects, who know him the best. They love him, and therefore they despise me. But not for long; Charles will take care of everything. All I have to do is get Orlando to fight, which Ill do now.
+</T>
+<T>
+CELIA
+Please, Rosalind, my sweet cousinbe happy.
+</T>
+<T>
+ROSALIND
+Dear CeliaI already look much happier than I feel, but you want me to look even happier? Unless you can also teach me how to forget my banished father, you shouldnt try to teach me how to be happy.
+</T>
+<T>
+CELIA
+Well, by this I can see that you dont love me as much as I love you. If your father had banished my father, I could have learned to love your father as my own, as long as I still had you. Youd do the same, if your love for me were as true as mine for you.
+</T>
+<T>
+ROSALIND
+Well, Ill just forget the difficulties of my situation, in order to focus on the happiness of yours.
+</T>
+<T>
+CELIA
+You know Im my fathers only child, and he isnt likely to have another. And when he dies, you will inherit his fortunebecause whatever he took from your father by force, I will return to you as affection. I swear I will, and if I ever break my promise let me turn into a monster. So please, my sweet Rose, my dear Rose, be happy.
+</T>
+<T>
+ROSALIND
+From now on I will, cousin, and Ill think of all kinds of games for us. Let me seewhat do you think about falling in love?
+</T>
+<T>
+CELIA
+Yes, please do, so we can have a good laugh about it. But dont fall in love for real, and dont take the game too far. You want to get out of it easily, and with your honor intact.
+</T>
+<T>
+CELIA
+Whats going on, Rosalind? Cupid have mercy! You wont utter a single word?
+</T>
+<T>
+ROSALIND
+I dont even have one to throw at a dog.
+</T>
+<T>
+CELIA
+No, your words are too precious to be wasted on dogs. Throw some of your words at me. Come on, throw your words at me like you would throw stones at a dog.
+</T>
+<T>
+ROSALIND
+Then there would be two cousins lying sick in bed: one hurt by reasons and the other gone crazy without any.
+</T>
+<T>
+CELIA
+Is all of this about your father?
+</T>
+<T>
+ROSALIND
+No, some of it is about my childs father. Oh, this working-dayWorking-day=wearisome.working-day world is full of thorns!
+</T>
+<T>
+CELIA
+Theyre only burrs, cousin, thrown at you because you took a holiday from conventional behavior. If we walk on the well-worn paths, they wont get caught in our petticoats.
+</T>
+<T>
+ROSALIND
+Those burrs I could shake off my clothing, but these are in my heart.
+</T>
+<T>
+CELIA
+Cough them up.
+</T>
+<T>
+ROSALIND
+Id try it, if I could cry hem and have him.
+</T>
+<T>
+CELIA
+Come on, take control of your feelings.
+</T>
+<T>
+DUKE SENIOR
+Now, my companions and brothers in exile, hasnt experience made this simple life sweeter than a life of glittery pomp and circumstance? Arent these woods less perilous than the court, with all its jealousies and intrigues? Out here we feel the changing of the seasons, but were not bothered by it. When the icy fangs of the brutal, scolding wind bite and blow on my body, even though Im shivering with cold, I can appreciate the weathers honesty. I smile and think, Thank goodness the wind doesnt flatter me: its like a councilor who makes me feel what Im really made of. Adversity can have its benefitslike the ugly, poisonous toadToads were thought to be poisonous, and to each have a jewel embedded in its forehead.toad that wears a precious jewel in its forehead. In this life, far away from the civilized world, we can hear the language of the trees, read the books of the running streams, hear sermons in the stones, and discover the good in every single thing.
+</T>
+<T>
+AMIENS
+I wouldnt change my situation for anything. Youre lucky, my lord, to be able to see the peace and sweetness even in what bad luck has brought you.
+</T>
+<T>
+DUKE SENIOR
+Come, shall we hunt some deer for dinner? It bothers me, though, that these poor spotted innocents, who, after all, are this deserted citys native citizens, should be gouged with arrows.
+</T>
+<T>
+DUKE FREDERICK
+Can it be possible that no one saw them leave? It cannot be. Some villains in my court must have known about this and let it happen.
+</T>
+<T>
+FIRST LORD
+I cant find anyone who saw her leave. Her ladies-in-waiting saw her go to bed, and early this morning the bed was empty.
+</T>
+<T>
+SECOND LORD
+My lord, that dirty clown whom you laughed at so often is also missing. Hisperia, the princesss gentlewoman, confesses that she overheard your daughter and her cousin praising the good looks and skills of the wrestler who recently beat the muscular Charles. Hisperia believes that, wherever they have gone, that young man is likely with them.
+</T>
+<T>
+DUKE FREDERICK
+Send a message to his brother. Bring that swinger Orlando here. If hes not around, bring his brother Oliver to me. Ill make Oliver find him. Do this immediately, and dont stop searching and interrogating until youve brought home these foolish runaways.
+</T>
+<T>
+ORLANDO
+Whos there?
+</T>
+<T>
+ADAM
+My young master! Oh, my gentle master! My sweet master! Oh, you living memory of old Sir Rowland! What are you doing here? Why are you so strong and good? Why do people love you? And why are you noble, strong, and brave? Why would you be so foolish as to beat the moody dukes favorite champion? Your praise has beaten you home. Dont you know, master, that some mens best qualities do them in? Yours are like thatcomplete and utter traitors to you. Oh, what a world this is, when even what is beautiful in a man poisons him!
+</T>
+<T>
+ORLANDO
+Why, whats the matter?
+</T>
+<T>
+ADAM
+Oh, unlucky boy! Dont walk through these doors. In this house lives a man who despises all that is good in you. Oliver, your brotherno, not your brother; and yet hes the sonbut no, I wont call him the sonof that great man I was about to call his father, has heard about how well you did in the wrestling match, and tonight hes planning on burning your house down, with you in it. And if he fails at that, he will find other ways to kill you. I overheard him and his plans. This is no place for you; this home is now a slaughterhouse. Hate it, fear it, do not come inside.
+</T>
+<T>
+ROSALIND
+Oh Lord, my spirits are tired!
+</T>
+<T>
+TOUCHSTONE
+I wouldnt care about my spirits, if my legs werent tired.
+</T>
+<T>
+ROSALIND
+Id insult my manly wardrobe by weeping like a woman if I didnt have to comfort the weaker vessel here, as the jacket and hoseDoublet (jacket) and hose (heavy, pants-length stockings) were traditional mens clothing.jacket and hose ought to be brave for the sake of the petticoat. So, have courage, good Aliena.
+</T>
+<T>
+CELIA
+Please bear with me. I cant go any further.
+</T>
+<T>
+TOUCHSTONE
+Id rather bear with you than bearBy bear you, Touchstone means carry you.bear you. But if I did carry you, it would be no crossElizabethan coins had crosses stamped on them.cross to bear, because Im pretty sure you dont have any money.
+</T>
+<T>
+ROSALIND
+Well, this is the Forest of Arden.
+</T>
+<T>
+TOUCHSTONE
+Yes, now Im in Arden, and that makes me the bigger fool. When I was at home, I was in a better place. But travelers have to be content.
+</T>
+<T>
+ROSALIND
+Yes, be content, good Touchstone.
+</T>
+<T>
+Look whos coming: a young man and an old man, having a serious talk.
+</T>
+<T>
+AMIENS
+(singing)
+Whoever wants to lie with me,
+Under the greenwood tree,
+And turn his merry song
+To follow the sweet birds singing,
+Come here, come here, come here.
+Here you will find
+No enemy
+Besides winter and rough weather.
+</T>
+<T>
+JAQUES
+More, more, please, more.
+</T>
+<T>
+AMIENS
+Its only going to make you sad, Monsieur Jaques.
+</T>
+<T>
+JAQUES
+Im glad about that. More, please, more. I can suck sadness out of a song the way a weasel sucks eggs. More, please, more.
+</T>
+<T>
+AMIENS
+My voice is ragged. I know I wont please you.
+</T>
+<T>
+JAQUES
+I dont want you to please me, I want you to sing. Come on, another stanzais that what you call 'em, stanzas?
+</T>
+<T>
+AMIENS
+Call them whatever you want, Monsieur Jaques.
+</T>
+<T>
+JAQUES
+Nah, I dont care what their namesBy names, Jaques is thinking of the signatures on I.O.U notes, in which the name legally requires that the debt be honored.names are; they owe me nothing. Will you sing?
+</T>
+<T>
+ADAM
+Dear master, I cant go any farther. Oh, Im dying of hunger. Ill lie down here and measure out my grave. Farewell, kind master.
+</T>
+<T>
+ORLANDO
+Hey, whats this, Adam? No braver than this? Live a little, be comforted a little, cheer up a little. If I can find any animal in this wild forest, Ill either be food for it or bring it as food for you. Youre not as close to death as you think you are. For my sake, make yourself comfortable; keep death at arms length for a while. Ill be back soon, and if I havent brought you anything to eat, I will give you permission to die. But if you die before I return, youll have made a mockery of my efforts. There we go! You look happier already, and Ill be back quickly. But youre lying out in the cold. Come, Ill carry you to shelter. And you wont die for lack of dinner, if theres anything at all to eat in this desert-like forest. Cheer up, good Adam.
+</T>
+<T>
+DUKE SENIOR
+I think he must have turned into an animal, because I cant find him anywhere looking like a man.
+</T>
+<T>
+FIRST LORD
+My lord, he just left here. He was happy here, listening to a song.
+</T>
+<T>
+DUKE SENIOR
+If that man, whos made up of conflicts, becomes musical, then there must be something wrong with the universe. Go find him. Tell him I want to speak with him.
+</T>
+<T>
+FIRST LORD
+He saved me the trouble: here he comes.
+</T>
+<T>
+DUKE SENIOR
+Well, whats going on, mister? What kind of life do you lead that your poor friends must beg for your company? What, you look amused.
+</T>
+<T>
+JAQUES
+A fool, a fool! I met a foolFools were conventionally distin guished by their motley (multi-colored) costumefool in the forest, wearing motley. What a miserable world! As sure as I eat to stay alive, I met a fool who was lying in the sun and complaining about his fortune. He spoke smartly, though he was a fool. Good morning, fool, I said. No, sir, he said, dont call me a fool until heaven has sent me my fortuneFortune is supposed to favor fools.fortune.
+</T>
+<T>
+DUKE FREDERICK
+You havent seen him since? Sir, sir, that cant be true. If I werent a merciful man, Id forget about your missing brother and punish you in his place. But do this: find your brother, wherever he is. Bring him here dead or alive within the next year, or get out off my land. Im seizing your lands and all that you possess until your brother gives testimony that absolves you of any guilt.
+</T>
+<T>
+OLIVER
+I wish your Highness knew my true feelings in this matter: I have never in my life loved my brother.
+</T>
+<T>
+DUKE FREDERICK
+That makes you an even bigger villain.Well, throw him out, and have my officers seize his house and lands. Do this immediately, and send him packing.
+</T>
+<T>
+ORLANDO
+Hang there on this tree, you lines of poetry, and bear witness to my love. And you, goddess of the moonDianain Greek and Roman mythology, goddess of the moon and the huntwas the patron of virgin maidens like Rosalind.goddess of the moon, queen of the nightwith your chaste eye, from your pale home up abovewatch your huntress, who has the power to control my life. Oh, Rosalind, these trees will be my booksIll write my thoughts down on their bark. That way, everyone who passes through this forest will find your virtues everywhere. Run, run, Orlando, on every tree carve praises of her beauty, her virtue, and her inexpressibility.
+</T>
+<T>
+CORIN
+And how are you liking the shepherds life, Master Touchstone?
+</T>
+<T>
+TOUCHSTONE
+Well, in and of itself, it is a good life, but given that its a shepherds life, its worthless. In the fact that its solitary, I enjoy it very much; but in the sense that its private, its terrible. Now, Im very pleased with it being outdoors, but in its not being at the court, it is boring. Being a simple life, it suits me very well, but being a life without plenty, it doesnt suit me at all. Are you any kind of philosopher yourself, shepherd?
+</T>
+<T>
+TOUCHSTONE
+Come on, sweet Audrey. Ill get your goats, Audrey. Well now, what do you think, Audrey? Am I the man for you, Audrey? Do my simple features please you?
+</T>
+<T>
+AUDREY
+Your features, God help us! What features?
+</T>
+<T>
+TOUCHSTONE
+Well, Im out here with you and your goatsGoths sounds like goats. Touchstone makes a series of puns, none of which Audrey catches.goats, in the same way that the witty poet Ovid was abandoned to the barbaric Goths.
+</T>
+<T>
+JAQUES
+(to himself) Oh, knowledge put to such bad use is worse than a god cooped up in a hut.
+</T>
+<T>
+TOUCHSTONE
+When a mans jokes fall that flat, its as depressing as getting a large bill for a short stay in a little room. Really, Audrey, I wish you were more poetical.
+</T>
+<T>
+AUDREY
+I dont know what poetical means. Is it chaste in word and action? Does it mean being truthful?
+</T>
+<T>
+TOUCHSTONE
+Not really, for the truest poetry is often the most artificial. Lovers are fond of poetry and often concoct great lies in their poems.
+</T>
+<T>
+AUDREY
+But you still wish the gods had made me poetical?
+</T>
+<T>
+TOUCHSTONE
+I do, in fact. Right now you swear to me that you are a virgin; if you were a poet, I might have some hope you were lying.
+</T>
+<T>
+ROSALIND
+Dont talk to me. Im going to cry.
+</T>
+<T>
+CELIA
+Go ahead if you want, but remember that crying doesnt suit a man.
+</T>
+<T>
+ROSALIND
+But dont I have good reason to cry?
+</T>
+<T>
+CELIA
+As good a reason as any. So go ahead and cry.
+</T>
+<T>
+ROSALIND
+I mean, his hairJudas, the disciple who betrayed Jesus, was commonly depicted with red hair.hair is even redthe same color as that lying Judas.
+</T>
+<T>
+CELIA
+No, its a shade browner than JudassJudas betrayed Jesus to the Romans with a kiss.Judassbut his kisses are just like Judass.
+</T>
+<T>
+ROSALIND
+No, really, his hair is a nice color.
+</T>
+<T>
+CELIA
+A very good color, this chestnut.
+</T>
+<T>
+ROSALIND
+His kiss is as holy as bread blessed by a priest.
+</T>
+<T>
+CELIA
+He must have bought a cast-iron pair of DianasDiana was the patron goddess of virgins.Dianas lips: an elderly nun isnt anymore devoted in her kissing than he is. His kiss is cold and chaste.
+</T>
+<T>
+ROSALIND
+But why would he promise to come visit me this morning and then not come?
+</T>
+<T>
+SILVIUS
+Sweet Phoebe, do not scorn me. Do not, Phoebe. Go ahead and say you dont love me, but not so bitterly. The executioner, whos seen death so much his heart has grown hard, still says, forgive me before he drops the axe on the criminals neck. Are you going to be crueler than the man who makes his living by killing?
+</T>
+<T>
+PHOEBE
+I dont want to be your executioner: Im trying to avoid you so that I wont hurt you. You tell me my eyes are murderousthats a very pretty sentiment, and oh-so-probable, that my frail, soft eyes (which are so cowardly that they close their gates against dust) are tyrants, butchers, and murderers. Im frowning at you with all my might right now. If my eyes can injure, let them kill you now. Go ahead. Faint, fall downif you dont, then youre lying about my eyes being murderers. Come on, show me the wound that my eyes have caused. If you get scratched with a pin, it leaves a scar; even if you lean on a rush, it leaves an impression on your palm. But my eyes, which Ive darted at you, havent even left a mark. Now I am sure that eyes cant hurt a person.
+</T>
+<T>
+JAQUES
+Please, pretty young man, Id like to get to know you better.
+</T>
+<T>
+ROSALIND
+They say you are a melancholy fellow.
+</T>
+<T>
+JAQUES
+I am. I like it better than laughing.
+</T>
+<T>
+ROSALIND
+People who are either too serious or too silly are awful. They make themselves targets for ridicule even faster than drunks do.
+</T>
+<T>
+JAQUES
+Well, I think its good to be serious and keep quiet.
+</T>
+<T>
+ROSALIND
+In that case its good to be a post.
+</T>
+<T>
+JAQUES
+Im not a scholars kind of melancholy, which is all about impressing ones peers, or a musicians, which comes from his passion for his art. I dont have the proud melancholy of a courtier or the ambitious melancholy of a soldier or the calculated melancholy of a lawyer. My melancholy is not like a ladyswhich is nothing more than an affectationnor like a lovers, which combines all of these qualities. My melancholy is purely my owna compound made from many ingredients. Im serious because Ive traveled so much. When I think about all the things Ive seen, I sink into deep thoughts.
+</T>
+<T>
+JAQUES
+Which one of you killed the deer?
+</T>
+<T>
+FIRST LORD
+It was me, sir.
+</T>
+<T>
+JAQUES
+Lets bring this man to the duke, like a triumphant Roman conqueror. Put the deers horns on his head, like a victory branch. Do you have a song, forester, for this occasion?
+</T>
+<T>
+SECOND LORD
+Yes, sir.
+</T>
+<T>
+JAQUES
+Then sing it. It doesnt matter if its in tune so long as its loud enough.
+</T>
+<T>
+SECOND LORD
+(sings)
+What should we give to the man who killed this deer?
+Give him the hide and the horns to wear.
+Then sing this song to send him home
+(The other LORDS pick up the deer)
+Dont be ashamed to wear the horns.
+Theyve been worn since before you were born.
+Your fathers father wore it,
+And your father endured it.
+The horn, the horn, the lustful horn
+Is not to be laughed at or scorned.
+</T>
+<T>
+TOUCHSTONE
+Well get married at some point, Audrey. Be patient.
+</T>
+<T>
+AUDREY
+Really, the priest was good enough, no matter what that old guy said.
+</T>
+<T>
+TOUCHSTONE
+No, he was wicked and vile. But Audrey, theres a boy in the forest who claims youre his girl.
+</T>
+<T>
+AUDREY
+Yes, I know who youre talking about, but he has no claim on me.
+</T>
+<T>
+Here comes the man himself.
+</T>
+<T>
+TOUCHSTONE
+It warms my heart to encounter such a country bumpkin. Truly, we witty men cant hold our tongues. We have to mess with the likes of him, we just cant help it.
+</T>
+<T>
+WILLIAM
+Good evening, Audrey.
+</T>
+<T>
+AUDREY
+Good evening, William.
+</T>
+<T>
+WILLIAM
+And good evening to you, sir.
+</T>
+<T>
+TOUCHSTONE
+Good evening to you, good friend. No, no, put your hat back on, put it back on. No, please, keep your head covered. How old are you, friend?
+</T>
+<T>
+ORLANDO
+Is it really possible that you could like her right after meeting her? And fall in love with her after merely seeing her? And as soon as you fall in love, with her, woo her? And as soon as you woo her, have her accept? And do you really mean to marry her?
+</T>
+<T>
+OLIVER
+Dont question the foolish haste of it allor her poverty or our short time together or the abruptness of my courtship or the abruptness of her consentbut say with me, I love Aliena. And say with me that she loves me. Agree to this match, so we can enjoy each other. It will be to your advantage, because Ill leave our fathers house and all his property to you, while I live and die a shepherd here in the forest.
+</T>
+<T>
+ORLANDO
+You have my consent. You can be married tomorrow if you want. Ill invite the duke and all of his followers. Go get Aliena readybecause, look, here comes my Rosalind.
+</T>
+<T>
+ROSALIND
+Hello, brother.
+</T>
+<T>
+OLIVER
+And hello to you, fair sister.
+</T>
+<T>
+ROSALIND
+Oh, darling Orlando, its so hard to see you wearing your heart in a sling.
+</T>
+<T>
+TOUCHSTONE
+Tomorrow is the happy day, Audrey. Well be married tomorrow.
+</T>
+<T>
+AUDREY
+I cant wait. I hope it doesnt make me unchaste that I reallywant to be a married woman.
+</T>
+<T>
+Here come two of Duke Seniors pages.
+</T>
+<T>
+FIRST PAGE
+Good afternoon, good gentleman.
+</T>
+<T>
+TOUCHSTONE
+It really is good to see you. Come, sit, sit, and sing me a song.
+</T>
+<T>
+SECOND PAGE
+Sounds good to us. Sit between us.
+</T>
+<T>
+FIRST PAGE
+Should we just get down to it? Should we skip all that hacking and spitting and saying that were hoarse, which only makes clear what lousy singers we are?
+</T>
+<T>
+SECOND PAGE
+Yes, yes, and lets sing in unison, like two gypsies riding on a single horse.
+</T>
+<T>
+PAGES
+(singing)
+There was a lover and his girl,
+With a hey, and a ho, and a hey-nonny-no,
+Who walked through the cornfield
+In the springtime, the only proper wedding time,
+The time when birds sing, Hey ding-a-ding-ding.
+Sweet lovers love the spring.
+Between the acres of rye,
+</T>
+<T>
+DUKE SENIOR
+Orlando, do you really believe that this boy can do everything hes promised?
+</T>
+<T>
+ORLANDO
+Sometimes I do and sometimes I dont. Im afraid of hoping, but I hope anyway.
+</T>
+<T>
+ROSALIND
+(as Ganymede) Be patient for a bit longer while I go over the terms of our agreement. (to DUKE SENIOR) You say that if I bring Rosalind here, you will give her to Orlando in marriage?
+</T>
+<T>
+DUKE SENIOR
+Yes, even if I had whole kingdoms to give along with her.
+</T>
+<T>
+ROSALIND
+(to ORLANDO) And you promise to marry her, when I bring her here?
+</T>
+<T>
+ORLANDO
+I will, even if I were king of all kingdoms.
+</T>
+<T>
+ROSALIND
+(to PHOEBE) And you say youll marry me, if Im willing to marry you?
+</T>
+<T>
+PHOEBE
+Yes, even if I die an hour later.
+</T>
+<T>
+ROSALIND
+But if you decide not to marry me, youll marry this faithful shepherd instead?
+</T>

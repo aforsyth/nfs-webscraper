@@ -1,0 +1,484 @@
+<T>
+RUMOR
+Open your ears! For who could possibly block them when loud Rumor speaks? I make the wind my horse, and ride it from the Orient in the east to the place where the sun sets in the west, describing the events taking place in the world. I continually tell lies and I tell them in every language, stuffing mens ears with falsehoods. I say that things are peaceful when, in reality, concealed hatred is at work, hidden behind smiles of good will.
+And who but Rumorwho besides mecan make armies prepare anxious defenses, when in fact the world is uneasy for other reasons and theres no war coming at all? Rumor is like a flute. Guesswork, suspicion, and speculation are the breath that makes it sound, and its so easy to play that even the common massesthat dim monster with innumerable heads, forever clamoring and waveringcan play it. But why should I describe myself in such detail to the one group of people who knows exactly what falsehood is all about: a theater audience? Why am I here?
+King Henry has won the war, and at Shrewsbury, he ended the rebellion against him by defeating Hotspur and his allies, quenching the fire of revolt with the rebels' own blood. But what am I doing, telling you the truth up front? My job is to spread word that Hotspur in his fury killed Prince Hal, and that Douglas killed the King. Ive spread this rumor through all the peasant
+</T>
+<T>
+villages from Shrewsbury to the place where I now stand: in front of the worm-eaten, dilapidated castle of Northumberland, Hotspurs father, who lies within and pretends to be sick.
+The messengers are coming hot and heavy, and every single one of them will report nothing but what hes heard from me. Straight from Rumor, they bring pretty tales of false comfort, which are far worse than truthful news of misfortune.
+</T>
+<T>
+LORD BARDOLPH
+Hello? Whos the doorman around here?
+</T>
+<T>
+(to the PORTER) Wheres the Earl?
+</T>
+<T>
+PORTER
+Who shall I say you are?
+</T>
+<T>
+LORD BARDOLPH
+Tell the Earl that the Lord Bardolph is here to see him.
+</T>
+<T>
+PORTER
+His lordship is out walking in the orchard. If you dont mind, knock at the orchard gate and hell answer it himself.
+</T>
+<T>
+LORD BARDOLPH
+Here comes the Earl.
+</T>
+<T>
+NORTHUMBERLAND
+Whats the news, Lord Bardolph? Every minute, new violence erupts; it is a wild time. Conflict is like a horse, fed with too much rich food: it has broken out uncontrollably, and tramples everyone who stands before it.
+</T>
+<T>
+FALSTAFF
+SirrahSirrah = term of address for a person of lower social rankSirrah, you giantFalstaff is mocking the page for being so small.giant, what did the doctor say about my urine?
+</T>
+<T>
+PAGE
+He said that the urine itself was good, healthy urine, but that the man who owned it probably had more diseases than he could tell.
+</T>
+<T>
+FALSTAFF
+All kinds of people make it a matter of pride to heckle me. No manthat foolishly assembled lump of claycould ever invent something quite as funny as I seem to be to other people. Im not only witty on my own, but I bring out wit in other people. Look at the two of us, walking here: I look like a sow thats smothered all of her baby pigs, except for you. If the Prince sent you to serve me for any other reason than to irritate me, Im a fool. You weedy little son of a bitch: youre so tiny that you should be a decoration on my hat, not a servant at my feet. Ive never had a servant before who was as tiny as a ring stone. But I wont set you in a gold or silver ring; Ill wrap you in rags and send you back to your master, to be used as a jewelthat youth, the Prince your master, whose chin is still lacking a beard. Why, Ill grow a beard in the palm of my hand before hell have one that he can shave off his face. And yet, this doesnt stop him from claiming that he has a face for royaltyFalstaff puns on the fact that a royal was a kind of coin, stamped with the kings face.royalty. Well, God will give him a beard whenever he chooses totheres not a hair out of place yet. Its a good thing the Princes face is a royal, because a barber will never earn a coin from shaving it. And still, the
+</T>
+<T>
+ARCHBISHOP
+So thats what were fighting for, and thats the kind of support we have. Now please, my noble friends, tell me frankly if you think we have a chance. First you, Marshal Mowbray. What do you say?
+</T>
+<T>
+MOWBRAY
+I absolutely agree with our reasons for fighting. But given our resources, Id feel better if I knew how were going to grow bold and strong enough to defeat this mighty and powerful King.
+</T>
+<T>
+HASTINGS
+Our army has grown to twenty-five thousand good men. Our reinforcements are coming with Northumberland, and his heart burns with anger over all hes lost.
+</T>
+<T>
+LORD BARDOLPH
+Then, Lord Hastings, this is the question: can our twenty-five thousand get the job done without Northumberland?
+</T>
+<T>
+HASTINGS
+With him, we can.
+</T>
+<T>
+LORD BARDOLPH
+Yes, exactly, and thats the point. If were too weak without him, then I dont think we should advance until we know that his help is guaranteed. In a fight as bloody as this one, we need to be certain about the status of our supporters: we cant rely on conjecture, hope, and guesswork when aid isnt guaranteed.
+</T>
+<T>
+MISTRESS QUICKLY
+Master Fang, have you filed the lawsuit?
+</T>
+<T>
+FANG
+Its filed.
+</T>
+<T>
+MISTRESS QUICKLY
+Wheres your deputy? Is he a strong deputy? Will he rise to the occasion?
+</T>
+<T>
+FANG
+Sirrah, wheres Snare?
+</T>
+<T>
+MISTRESS QUICKLY
+Oh my goodness! Master Snare!
+</T>
+<T>
+SNARE
+Here, here.
+</T>
+<T>
+FANG
+Snare, weve got to arrest Sir John Falstaff.
+</T>
+<T>
+MISTRESS QUICKLY
+Yes, good Master Snare. Ive filed the suit against him and everything.
+</T>
+<T>
+SNARE
+It could cost some of us our lives: hell stab.
+</T>
+<T>
+MISTRESS QUICKLY
+Oh my goodness! Watch out for him: he stabbed me in my own house, and it was nasty. I swear, he doesnt care what trouble he causes. Once hes got his weapon out, hell thrust it like the devil. He wont spare man, woman, or child.
+</T>
+<T>
+FANG
+If I can get close to him, I wont worry about his thrusting.
+</T>
+<T>
+PRINCE HENRY
+I swear to God, Im exceedingly tired.
+</T>
+<T>
+POINS
+Really? I would have thought that weariness wouldnt dare afflict someone as highly born as you.
+</T>
+<T>
+PRINCE HENRY
+Well, it afflicts me, although saying so dims my nobility somewhat. Does it make me seem coarse and common to say that Id love a small beersmall beer = a kind of weak, thin beersmall beer?
+</T>
+<T>
+POINS
+A prince shouldnt be vulgarly inclined toward things like small beer.
+</T>
+<T>
+PRINCE HENRY
+Then I suppose dont have a princes appetite, because right now all I can think about is small beer. But its true: all these everyday considerations distance me from my own nobility. Its disgraceful that I should be familiar with a man like you! To know your name, your face, and your wardrobe so intimately that I know that you have two pairs of stockings: the ones youre wearing now, and those peach-colored ones. I even know how many shirts you have: one to wear, and one extra. But then, the keeper of the tennis courts knows your wardrobe better than I do, for when youve run out of clean shirts, you dont show up to play. And you havent played in a while, because the whore houses have eaten all the rest of your money, which youd otherwise use to buy more shirts. God only knows whether all the crying brats youve fathered will make it to heaven. But then, the midwives say that babies dont bear the sins of the parents. Thats how the population increases, and families are strengthened.
+</T>
+<T>
+NORTHUMBERLAND
+Please, my loving wife and sweet daughter-in-law, support me in my difficult tasks. Dont let the grimness of these days be reflected in your faces; dont add to Percys troubles.
+</T>
+<T>
+LADY NORTHUMBERLAND
+I give up; I wont say any more. Do what you want. Let your wisdom guide you.
+</T>
+<T>
+NORTHUMBERLAND
+For goodness sake, sweet wife, my honor is at stake. Nothing can redeem it except my going.
+</T>
+<T>
+LADY PERCY
+For Gods sake, dont go to these wars! Father-in-law, you once broke your word when you had better reason to keep it than you do now. Your own son Percymy hearts beloved Harrylooked northward again and again, hoping to see his father coming with an army. But he hoped in vain. Who persuaded you to stay home that time? Two honors were lost in that battle: yours, and your sons. As for yours, I hope God will make it shine again. As for Harrys honor, it clung to him like the sun in a pale blue sky, and by its light every knight in England was moved to act bravely. He was the mirror in which noble youths dressed themselves. All men copied his way of walking, except those who had no legs.
+And talking loudly and quicklythe one flaw nature had given himbecame the speech pattern for all brave men. Those who spoke softly and slowly would corrupt their proper speech, just to seem more like
+</T>
+<T>
+FRANCIS
+What the hell have you got there? Apple johnsapple johns = a variety of apple, eaten once the fruit is shriveledApple johns? You know Sir John cant stand apple johns.
+</T>
+<T>
+SECOND DRAWER
+Damn, youre right. One day the Prince put a plate of apple-johns in front of Falstaff and said, Here are five more Sir Johns. Then the Prince took off his hat and said, Im now going to bid farewell to these six dry, round, old, withered knights. It angered Sir John deeply, but he got over it.
+</T>
+<T>
+FRANCIS
+Well then, put the table cloth on and set the dish down. Go see if you can find Sneaks band of musicians. Mistress Tearsheet wants to hear some music.
+</T>
+<T>
+THIRD DRAWER
+Hurry! The room they ate in was too hot, and theyll be here any minute.
+</T>
+<T>
+FRANCIS
+Sirrah, the Prince and Poins will be here soon. Theyre going to put on a couple of our jackets and aprons. Sir John cant know its them. Bardolph came and told me.
+</T>
+<T>
+THIRD DRAWER
+Well, theres going to be hilarity here! What a great scheme!
+</T>
+<T>
+SECOND DRAWER
+Ill see if I can find Sneak.
+</T>
+<T>
+KING
+Call the earls of Surrey and Warwick. Tell them to read over these letters before they come, and to think carefully about them. Hurry.
+</T>
+<T>
+Thousands of even my poorest subjects are sleeping right now. Oh sleep! Oh sweet sleep, natures gentle healer, what have I done to frighten you? You wont weigh down my eyelids anymore, or dull my mind to make me forget. Sleep, why do you lie in filthy hovels, stretched out on uncomfortable cots, where insects' buzzing is the lullaby? Why dont you lie in the sweet-smelling bedrooms of kings, under opulent canopies, lulled with soft and beautiful music? You drowsy god, why do you lie with the common people in their loathsome beds, leaving the royal bed lonely like a sentry post, or a bell tower?
+Will you even close the eyes of a ship boy, high up on the whirling mast, and rock him gently in a cradle made of rough, tossing seas and howling windswinds which take the waves and, curling them over, crashes them through the air with such a deafening noise that they wake death itself? Can you, oh unfair sleep, give rest to a drenched little sailor in the midst of such roughness, and yet deny it to a king?
+</T>
+<T>
+SHALLOW
+Come on, come on, come on, sir. Shake my hand, sir, shake my hand. Youre an early riser, I swear. How are you, cousin Silence?
+</T>
+<T>
+SILENCE
+Good morning, cousin Shallow.
+</T>
+<T>
+SHALLOW
+And hows my cousin, your wife? And your prettiest daughter, my fair god-daughter Ellen?
+</T>
+<T>
+SILENCE
+Im afraid shes got dark hairDark hair was considered unattractive.dark hair, cousin Shallow!
+</T>
+<T>
+SHALLOW
+By gum, I bet Williams become a real scholar. Hes still at Oxford, right?
+</T>
+<T>
+SILENCE
+He sure is, and Im the one whos paying for it.
+</T>
+<T>
+SHALLOW
+Hell be going to law school soon. I studied law at Clements InnThe Inns of Court are London legal colleges.Clements Inn, where I think they still talk about crazy old Shallow.
+</T>
+<T>
+SILENCE
+You were known as lusty Shallow back then, cousin.
+</T>
+<T>
+SHALLOW
+I was known as anything, I swear. And I would have done anything too, and all the way, too. I was there, and little John Doit from Staffordshire, and black-haired George Barnes, and Francis Pickbone, and Will Squele, from the Cotswolds. Since then, no law college
+</T>
+<T>
+ARCHBISHOP
+Whats the name of this forest?
+</T>
+<T>
+HASTINGS
+Gaultree Forest, your grace.
+</T>
+<T>
+ARCHBISHOP
+Stop here, sirs. Send out scouts to find out how many soldiers our enemy has.
+</T>
+<T>
+HASTINGS
+Weve already done that.
+</T>
+<T>
+ARCHBISHOP
+Well done. My friends and brothers in this great undertaking, I have to share with you that Ive received new letters from Northumberland. They have a chilling purpose, tone, and content. He says that he wishes he could be here in person, with an army as strong someone of his rank should have, but he couldnt raise one. So hes going to go to Scotland to increase his power. He prays that your armies will prevail against the terrible power of the enemy.
+</T>
+<T>
+MOWBRAY
+And with that, any hope we had for him is thrown to the ground and dashed to pieces.
+</T>
+<T>
+FALSTAFF
+Whats your name, sir? Whats your rank, and where are you from?
+</T>
+<T>
+COLEVILLE
+I am a knight, sir. My name is Coleville of the Valley.
+</T>
+<T>
+FALSTAFF
+Well, then, Coleville is your name, your rank is knight, and the valley is where youre from. Coleville will still be your name now that traitor is your rank, and the dungeon is where youll be. Its a place so deep that youll still be in a kind of valley.
+</T>
+<T>
+COLEVILLE
+Arent you Sir John Falstaff?
+</T>
+<T>
+FALSTAFF
+Im as good a man as Falstaff, whoever I am. Will you surrender? Or am I going to have to break a sweat making you surrender? If I sweat, the drops will be the tears of your loved ones, weeping over your death. So youd better get scared and start to shake, and start praying to me for mercy.
+</T>
+<T>
+COLEVILLE
+I think you are Sir John Falstaff, and so I surrender.
+</T>
+<T>
+FALSTAFF
+My enormous belly can speak in many languages, and each language proclaims my name and my name alone. If I had a moderately sized belly, all Id be is an anonymous but very successful soldier. But my belly, my belly, my belly blows my cover. Here comes the general.
+</T>
+<T>
+KING
+Now, my lords: if God grants us a victory in this violent civil war that bleeds at our very doorsteps, I will lead our young people in a greater cause, and fight nothing but holy wars. Our navy is ready, our army is assembled, the leaders who are my subordinates have their orders, and everything is standing by to achieve my main aim. The only drawback is that Im feeling a little weak. So lets wait a short while, until the rebels, now on the run, are brought back in line and are made obedient again.
+</T>
+<T>
+WARWICK
+We are sure that youll soon enjoy both good health and the rebels' defeat.
+</T>
+<T>
+KING
+My son Humphrey of Gloucester, where is your brother, Prince Hal?
+</T>
+<T>
+GLOUCESTER
+I think hes gone hunting at Windsor.
+</T>
+<T>
+KING
+Whos with him?
+</T>
+<T>
+GLOUCESTER
+I dont know, father.
+</T>
+<T>
+KING
+Isnt his brother, Thomas of Clarence, with him?
+</T>
+<T>
+GLOUCESTER
+No, father. Hes here.
+</T>
+<T>
+CLARENCE
+What is it youd like, father?
+</T>
+<T>
+SHALLOW
+By gum, sir, you will not leave tonight. Hey, Davy!
+</T>
+<T>
+FALSTAFF
+Please excuse me, Master Robert Shallow.
+</T>
+<T>
+SHALLOW
+I will not excuse you. You will not be excused. Excuses will not be allowed. No excuse will do. You will not be excused. Hey, Davy!
+</T>
+<T>
+DAVY
+Here, sir.
+</T>
+<T>
+SHALLOW
+Davy, Davy, Davy, Davy, lets see, Davy, lets see, Davy, lets see. Oh yes, right: tell William the cook to come here. Sir John, you will not be excused.
+</T>
+<T>
+DAVY
+Well sir, heres the thing. Those warrants couldnt be served. And once more, sir, should we plant wheat at the fields edges?
+</T>
+<T>
+SHALLOW
+Plant red wheat, Davy. But as for William the cookarent there any young pigeons?
+</T>
+<T>
+DAVY
+Yes, sir. Heres the bill from the blacksmith for horseshoes and plow blades.
+</T>
+<T>
+WARWICK
+Whats happening, my Lord Chief Justice? Where are you going?
+</T>
+<T>
+CHIEF JUSTICE
+Hows the King doing?
+</T>
+<T>
+WARWICK
+Very well. All his worries are ended now.
+</T>
+<T>
+CHIEF JUSTICE
+Not dead, I hope.
+</T>
+<T>
+WARWICK
+Hes gone down natures path; for our purposes, he is no longer living.
+</T>
+<T>
+CHIEF JUSTICE
+I wish his majesty had brought me with him. The work I did for him while he was alive makes me very vulnerable, now that hes dead.
+</T>
+<T>
+WARWICK
+Indeed, I think the young King has no love for you.
+</T>
+<T>
+CHIEF JUSTICE
+I know he doesnt. Im preparing myself to deal with whatever happens, which cant be any worse than what Ive imagined.
+</T>
+<T>
+WARWICK
+Here come the heavy-hearted children of dead Harry. If only the living Harry had the character of the worst of these three young men. Then a lot of noblemen would remain secure, instead of having to step aside to make room for lowlifes.
+</T>
+<T>
+SHALLOW
+No, youre going to see my orchard. Well sit in an arbor and eat some of the pippin apples I cross-bred last season, along with some caraway seeds and so on. Come on, Silence. Then well go to bed.
+</T>
+<T>
+FALSTAFF
+I swear, you have a good-looking place here, and its fancy.
+</T>
+<T>
+SHALLOW
+Cheap, cheap, cheap. Were broke, broke, Sir John. But one thing we do have is good air. Set the table, Davy, set the table. Good job, Davy.
+</T>
+<T>
+FALSTAFF
+This Davy does a lot for you. Hes your right-hand man as well as your steward.
+</T>
+<T>
+SHALLOW
+A good servant, a very good servant, Sir John. By God, I had too much wine with dinner. A good servant. Now sit down, sit down. Come on, cousin.
+</T>
+<T>
+SILENCE
+Ah, Sirrah, he said. We will:
+Do nothing but eat and celebrate,
+(sings) And praise God for this happy year,
+When flesh is cheap but women are costly,
+And lusty men roam here and there,
+So merrily,
+And always so merrily.
+</T>
+<T>
+FALSTAFF
+Thats a merry heart! Master Silence, Ill drink a toast to you in a minute.
+</T>
+<T>
+MISTRESS QUICKLY
+No, you horrible rogue! I wish to God I were dead, so I could have you hanged. You dislocated my shoulder!
+</T>
+<T>
+FIRST BEADLE
+The street cops handed her over to me, and shell be whipped through and through, I promise. Shes been involved in a couple of murders.
+</T>
+<T>
+DOLL TEARSHEET
+Pig, Pig! You lie! Come on! Ill tell you what, you damned flabby-faced moron: if I have a miscarriage now, youll wish youd hit your own mother, you pasty-faced villain!
+</T>
+<T>
+MISTRESS QUICKLY
+Oh God, I wish Sir John would come! Hed make somebody bleed for this. I pray to God that she has a miscarriage!
+</T>
+<T>
+FIRST BEADLE
+Well, if she does, youll have twelve cushions on your couch again. You have only eleven now, since shes wearing one of them under her dress. I order both of you to come with me: the man that you two and Pistol beat up is dead.
+</T>
+<T>
+DOLL TEARSHEET
+Ill tell you what, you stick-figure; Ill have you beaten soundly for this. You blue-coated rogue, you filthy, starving correctioner! If you arent walloped for this, Ill swear off skirts.
+</T>
+<T>
+FIRST BEADLE
+Come on, come on, you little night sinner, come on.
+</T>
+<T>
+FIRST GROOM
+More rushes; more rushes.
+</T>
+<T>
+SECOND GROOM
+The trumpets have blown twice.
+</T>
+<T>
+FIRST GROOM
+Itll be two o'clock before they arrive from the coronation. Hurry, hurry.
+</T>
+<T>
+FALSTAFF
+Stand here near me, Master Robert Shallow. Ill make the King do good things for you: Ill throw him a look as he passes by. Just watch the face hell make at me.
+</T>
+<T>
+PISTOL
+God bless your lungs, good knight.
+</T>
+<T>
+FALSTAFF
+Come here, Pistol. Stand behind me. (to SHALLOW) Oh, if Id had time to make new clothes I would have spent the thousand pounds I borrowed from you. But it doesnt matter. These poor clothes are better; it shows how desperate I was to see him.
+</T>
+<T>
+SHALLOW
+It does indeed.
+</T>
+<T>
+FALSTAFF
+It shows how sincerely I love him
+</T>
+<T>
+SHALLOW
+It does indeed.
+</T>
+<T>
+FALSTAFF
+My devotion
+</T>

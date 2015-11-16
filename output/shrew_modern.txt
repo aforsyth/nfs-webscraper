@@ -1,0 +1,476 @@
+<T>
+SLY
+Ill fix you, I swear.
+</T>
+<T>
+HOSTESS
+You thug! Ill call for a pair of stocksThe stocks consisted of a wooden frame in which you could lock a criminals ankles so that he or she couldnt move.stocks!
+</T>
+<T>
+SLY
+There are no thugs in my family, whore! Read your history! WeSlysSly means William the Conqueror; he is saying he can trace his family back to the time of Englands first king, but gets the name wrong. Slys came over with Richard the Conqueror. Oh, the hell with it. I cant be bothered. Shut up!
+</T>
+<T>
+HOSTESS
+You wont pay for the glasses you smashed?
+</T>
+<T>
+SLY
+No, not a penny. Get out of my face. Go play with yourself.
+</T>
+<T>
+HOSTESS
+I know my rights. Ill call a policeman.
+</T>
+<T>
+SLY
+Call them all! I have a legal right to be here. Im not moving an inch, pal. Let them comeI dont care.
+</T>
+<T>
+LORD
+Huntsman, look after my hounds. Let Merriman catch his breaththe poor dogs foaming at the mouth. And tie up Clowder together with the long-mouthed bitch. (to his page) Did you see, boy, how Silver picked up the scent at the hedge corner, where it was weakest? I wouldnt part with that dog for twenty pounds.
+</T>
+<T>
+FIRST HUNTSMAN
+I think Belman is just as good, my lord. He set up a howl when the scent was lost completely and twice picked it up where it was weakest. I swear hes the better dog.
+</T>
+<T>
+LORD
+Youre a fool. If Echo were as fast, he would be worth a dozen like Belman. But give them all a good dinner and look after them well. Ill go hunting again tomorrow, I think.
+</T>
+<T>
+FIRST HUNTSMAN
+I will, my lord.
+</T>
+<T>
+LORD
+Whats this? A drunkard or a corpse? Check and see if hes breathing.
+</T>
+<T>
+SECOND HUNTSMAN
+He is, my lord. But this would be too cold a place to sleep if he hadnt warmed himself with ale.
+</T>
+<T>
+LORD
+Its disgusting, sleeping that waylike a pig in the gutter! Alas, grim death, how vile and ugly your near-twin, sleep, is! Gentlemen, I think Ill play a trick on this lout. What do you think? Say we were to carry him to one of the bedrooms, put fresh clothes on him and rings on his fingers, lay out a wonderful feast by his bed, and have servants in fancy dress near him when he wakes upwouldnt the poor tramp be confused?
+</T>
+<T>
+FIRST HUNTSMAN
+I dont think hed have any choice, my lord.
+</T>
+<T>
+SECOND HUNTSMAN
+When he woke, he wouldnt know where he was.
+</T>
+<T>
+LORD
+It would be just like a nice daydream or fantasy. Well, take him on up and well try to pull it off. Carry him to my best roomgently, so he doesnt wakeand hang all my erotic paintings around him. Bathe his filthy head with warm, scented water. Burn fragrant wood to give the room a pleasant smell, and have musicians at hand, ready to produce sweet, soothing sounds when he awakes. You want to be ready in case he speaks. If he does, bow low and say deferentially, What would your Honor have us do? Have one servant wait on him with a basin of rosewater (throw in some petals), have another servant carry a pitcher, and a third a cloth. Say, Would your Lordship care to freshen up? Have someone standing by with expensive clothes, and ask him what hed care to wear. Have another servant tell him about the dogs and horses that he owns and that his wife is grief-stricken over his illness. Convince him that he has been out of his mindand when he says hes out of his mind now, tell him hes mistaken and that he is in fact a mighty lord. Do thismake it convincingand well have fun. It could work if its done subtly.
+</T>
+<T>
+FIRST HUNTSMAN
+My lord, I promise we will play our parts so skillfully that he will believe everything we tell him.
+</T>
+<T>
+LORD
+Carry him gently to bed, and every man be ready at his post when he awakes.
+</T>
+<T>
+Go, lad, and find out what the trumpets sounding for.
+</T>
+<T>
+Its probably some noble gentleman stopping off in mid-journey, thinking to spend the night here.
+</T>
+<T>
+Well, who is it?
+</T>
+<T>
+SERVANT
+Sir, its a troupe of actors who want to perform for your Lordship.
+</T>
+<T>
+LORD
+Have them come in.
+</T>
+<T>
+You are welcome here, my friends.
+</T>
+<T>
+PLAYERS
+We thank your Honor.
+</T>
+<T>
+LORD
+Were you thinking of spending the night here?
+</T>
+<T>
+A PLAYER
+Yes, if that would be all right with your Lordship.
+</T>
+<T>
+LORD
+By all means. I remember this fellowhe once played the eldest son of a farmer. It was the play in which you wooed the gentlewoman so successfully. I have forgotten your name, but you were well cast in the role and played it convincingly.
+</T>
+<T>
+A PLAYER
+I believe your Honor is thinking of a character called Soto.
+</T>
+<T>
+LORD
+Yes, that was it. You gave an excellent performance. Well, this is very fortunate, your arriving just at this moment. I happen to be planning a little entertainment and could really use your services. There is a particular lord who will watch you perform tonight. Im a little worried, thoughbecause his Honor has never seen a play beforethat his odd behavior may strike you as funny. You might not be able to control your laughter and you might offend him. I warn you, hes sensitive. The slightest smile provokes him.
+</T>
+<T>
+A PLAYER
+Dont worry. Well restrain ourselvesno matter how bizarrely he behaves.
+</T>
+<T>
+LORD
+Go, lad, and take them to the pantry. Make them feel welcome and see to it that they have everything they require.
+</T>
+<T>
+You, fellow, go fetch my page, Bartholomew, and dress him up like a noble lady. When youve finished, bring him to the drunkards room, address him as madam, bow to him and treat him with all-round respect and deference, as though he were the lady of the house. Give him this message: if he wants to please me, he will conduct himself like a member of the aristocracy, mimicking the kind of behavior hes seen noble ladies use toward their husbands.
+</T>
+<T>
+Thats just how I want him to behave toward the drunkard, speaking in a low, soft voice and in humble, courteous tones and saying fancy stuff like, What does your Honor wish to command your lady, your humble wife, to do to show her devotion and demonstrate her love? Tell him to give the drunkard fond embraces and alluring kisses, and lay his head on the other mans breast, weeping like a woman overjoyed to see a husband restored to health who for the last seven years has imagined he was no better than a poor, pathetic beggar. The boy may lack a womans gift for weeping at will, so it might be good to have an onion handy, hidden in a handkerchief. Thatll make his eyes stream. Get this done as quickly as you can. Ill give you more instructions later.
+</T>
+<T>
+I know the boy will be a convincing gentlewoman, taking up her exact walk and talk and gentle gestures. I cant wait to hear him call the drunkard husband, and to watch my men smother their laughter as they pay their respects to this simple peasant. Ill go and coach them. My presence may put a damper on their high spirits, which might otherwise get out of control.
+</T>
+<T>
+SLY
+For Gods sake, would someone bring me a mug of beer!
+</T>
+<T>
+FIRST SERVANT
+Wouldnt your Lordship prefer some imported wine?
+</T>
+<T>
+SECOND SERVANT
+Would your Honor like to try this dried fruit?
+</T>
+<T>
+THIRD SERVANT
+What garment would your Honor like to wear today?
+</T>
+<T>
+SLY
+Im Christopher Sly. Dont call me your Honor and your Lordship. Ive never had imported wine in my life, and if you want to bring me something dried, try beef jerky. Why ask me what garment Ill wear? I have no more jackets than I have backs, no more leggings than I have legs, and no more shoes than I have feetin fact, sometimes I have fewer shoes than feet, as Im not sure the ones where my toes stick out can be called shoes.
+</T>
+<T>
+LORD
+May Heaven put an end to this foolish fantasy of your Honors! How terrible that a man of your influence and noble family, with so much wealth and an excellent reputation, should be infected with such a horrible illness!
+</T>
+<T>
+LUCENTIO
+Well, Tranio, here we are in fertile Lombardy, garden of Italy, about to fulfill my lifelong dream. You know how Ive always longed to see the fair city of Padua, famous for its arts and letters, and now, thanks to my fathers generosity, here I amwith his blessing and your good company. So, my trusty servantand youve never let me downwhy dont we settle here for a time to institute a course of study, a really rigorous curriculum. I was born in Pisa, famous for its serious citizens, like my father before me; my father, Vincentio, a successful, world-traveled merchant, was one of the BentivoliiThe Bentivolis were one of the leading families of Bologna, wielding great political power and influence.Bentivolii. Its only fitting that I, his son, reared in Florence, should concentrate on adding more virtuous deeds to my fathers own, stacking them on top of his wealth. For this reason, Tranio, Ill study ethics andfor the time being, anywaypursue those areas of philosophyLucentio is referring to the philosophy of Aristotle.philosophy that teach a man how to achieve happiness through virtue. What do you think of all this? Leaving Pisa for Padua, I feelLucentio means he is overwhelmed.I feel a little like a thirsty man who turns from a puddle to a vast lake he can drink from.
+</T>
+<T>
+PETRUCHIO
+Farewell, Verona! Im off to visit my friends in Paduaparticularly my best friend Hortensio. And I think this is his house. Here, you there, Grumio. Knock.
+</T>
+<T>
+GRUMIO
+Knock, sir? Whom should I knock? Has anyone offended your Worship?
+</T>
+<T>
+PETRUCHIO
+Moron! Im telling you to make a fist and pound.
+</T>
+<T>
+GRUMIO
+Really, sir, I hardly think it would be appropriate for me to poundGrumio acts as if Petruchio asked Grumio to hit him.pound you.
+</T>
+<T>
+PETRUCHIO
+Moron, here we are at the gate. Now put your fists to work, or Ill put mine to work on your head!
+</T>
+<T>
+GRUMIO
+My master is being difficult. If I do as he asks I think I know which one of us will be sorrierand its not going to be him!
+</T>
+<T>
+PETRUCHIO
+What are you standing there for! If you wont knock, Ill ringand youll be singing along in falsetto!
+</T>
+<T>
+GRUMIO
+(to the unseen mistress or master of the house) Help, mistress, help! My master has gone mad.
+</T>
+<T>
+BIANCA
+Dear sister, its unfair to meand unfair to yourselfto turn me into a slave. That I wont stand for. But if you want my thingsuntie my hands and Ill give them to you myself, everything, even down to my slip. Or anything else you order me to do. I know I should obey my elders.
+</T>
+<T>
+KATHERINE
+What I want is for you to tell me which of your suitors you like best. And dont lie.
+</T>
+<T>
+BIANCA
+I swear, dear sister, I have not yet encountered that special face I might prefer to any other.
+</T>
+<T>
+KATHERINE
+You lying brat. Its Hortensio, isnt it?
+</T>
+<T>
+BIANCA
+If you want him, dear sister, hes yours. I swear Ill woo him for you myself.
+</T>
+<T>
+KATHERINE
+Oh, I see. Youre more interested in money. Youll live in luxury with Gremio.
+</T>
+<T>
+BIANCA
+Is it because of him that you envy me? You must be kidding! And now I see that youve been joking all the while. Please, Kate, untie my hands.
+</T>
+<T>
+LUCENTIO
+(speaking as CAMBIO) Restrain yourself, fiddler! Youre too insistent. Have you forgotten how her sister Katherine thanked you for your lessons?
+</T>
+<T>
+HORTENSIO
+(speaking as LITIO) Quarrelsome teacher! This lady is the queen of heavenly harmony. Therefore allow me to claim her attention first, and after we have spent an hour on music you can have equal time for your lecture.
+</T>
+<T>
+LUCENTIO
+(as CAMBIO) Ridiculous ass! Youre not even educated enough to know why music was created. Wasnt it to refresh the mind of man after his studies and daily toil? Therefore allow me to read philosophy with her, and then, when I am finished, indulge in your harmony.
+</T>
+<T>
+HORTENSIO
+(as LITIO) Sir, you go too far! I will not stand for it!
+</T>
+<T>
+BIANCA
+Gentlemen, it seems to me youre both out of line to be laying down the law about things that are really up to me. I am no schoolboy, and I wont be dictated to with hours and schedules. Ill have my lessons in the order and manner I prefer. So to cut short this argument, lets figure this out.
+</T>
+<T>
+BAPTISTA
+(to TRANIO as LUCENTIO) Signior Lucentio, this is the day appointed for Katherine and Petruchios wedding, but theres no sign of the groom. What will people say? To have the priest right here, ready to perform the marriage ceremony, and be missing a bridegroom! What do you think about our humiliation, Lucentio?
+</T>
+<T>
+KATHERINE
+The humiliation is all mine. You forced me to accept this man against my will, this fancy con artist who was in such a hurry to get engaged. He has no intention of marrying me. I knew itI told you. The whole thing was a joke. He pretends to be this simple, backward guy, but its all a gag to amuse his witty friends. He goes around proposing to womenthey set a date, he gets introduced around, they send out the invitations and make a public announcement, but he has no intention of going through with it. So now everyone will point at me and say, Look, there goes the wife of that comedian Petruchioif he could be bothered to marry the pathetic thing!
+</T>
+<T>
+TRANIO
+(speaking as LUCENTIO) No, no, I assure you, Katherineand you, too, BaptistaPetruchio means well, whatever circumstance prevents him from keeping his word. Hes rough-edged, but hes a good man, and though he likes a joke, hes not a liar.
+</T>
+<T>
+GRUMIO
+To hell with all worn-out horses, all crazy masters, and all bad roads. Was a man ever beaten as much as me? Was a man ever as dirty as me? Was a man ever so tired? I have been sent on ahead to light a fire, and they are coming after to warm themselves. Its a good thing Im like a little pot and warm up quickly, or else my lips themselves would freeze and stick to my teeth, my tongue to the roof of my mouth, and my heart would freeze in my belly, before I managed to get thawed out. Ill warm myself by blowing on the fire. A taller man than I would catch cold in weather like this. Hey! Curtis! Hello!
+</T>
+<T>
+CURTIS
+Who calls so coldly?
+</T>
+<T>
+GRUMIO
+A piece of ice. Trust me, you could slide all the way from my shoulder to my heel taking no more of a running start than the distance between my head and my neck. Start the fire, good Curtis.
+</T>
+<T>
+CURTIS
+Are my master and his wife coming, Grumio?
+</T>
+<T>
+GRUMIO
+Yes, yes, Curtis, so hurry up and start the fire. Leave out the water.
+</T>
+<T>
+CURTIS
+Is she as fiery a shrew as they say?
+</T>
+<T>
+TRANIO
+(as LUCENTIO) I dont believe it, Litio. Its not possible that Bianca could prefer another man to me. Ive seen the way she behaves.
+</T>
+<T>
+HORTENSIO
+(as LITIO) You want proof of what Im telling you? Stand right here and watch this fellows lesson. (they stand off to one side)
+</T>
+<T>
+LUCENTIO
+(as CAMBIO) Well, mistress, are you learning from what youre reading?
+</T>
+<T>
+BIANCA
+What are you reading, teacher? Answer me that first.
+</T>
+<T>
+LUCENTIO
+(as CAMBIO) Im reading the book I know best The Art of LoveOvid the Art of Love was a manual of seduction.The Art of Love
+</T>
+<T>
+BIANCA
+I hope youre an expert in your field.
+</T>
+<T>
+LUCENTIO
+(as CAMBIO) Well, my dear, youre the mistress of my heart in any case!
+</T>
+<T>
+HORTENSIO
+(as LITIO) Quick work for schoolwork! How do you explain that? I though you said your precious Bianca loved no one better than you, Lucentio!
+</T>
+<T>
+TRANIO
+(as LUCENTIO) Oh spiteful love! Faithless womanhood! Its incredible, Litio!
+</T>
+<T>
+GRUMIO
+No, no, I cant, really. Hed kill me.
+</T>
+<T>
+KATHERINE
+The more I suffer, the more spiteful he becomes. Did he marry me just to starve me? Beggars at my fathers door are given money as soon as they ask for it. And if they dont find charity there, they find it someplace else. But I, who have never known how to beg and never had to beg, am starved for food, dizzy with lack of sleep, kept awake with curses and fed with brawling. And what irks me more than all these things put together is that he does it under the pretense of loveas though for me to eat or sleep would bring on fatal illness or sudden death. Please, go and get me something to eat. I dont care what so long as its nutritious.
+</T>
+<T>
+GRUMIO
+What do you say to a calfs foot?
+</T>
+<T>
+KATHERINE
+Oh, lovely. Can I have some?
+</T>
+<T>
+GRUMIO
+Im afraid it will raise your blood pressureCholeric = angryraise your blood pressure. What do you say to an ox stomach, nicely broiled?
+</T>
+<T>
+KATHERINE
+Id love it. Nice Grumio, bring me some.
+</T>
+<T>
+GRUMIO
+I dont know. Im afraid it will make you too hot, too. What do you say to a piece of beef with mustard?
+</T>
+<T>
+KATHERINE
+A favorite dish of mine.
+</T>
+<T>
+TRANIO
+(as LUCENTIO) Sir, this is the house. Would you like me to ring?
+</T>
+<T>
+MERCHANT
+Yes, certainly. Unless I am mistaken, Signior Baptista may remember me from the Pegasus in Genoa, where we both stayed twenty years ago.
+</T>
+<T>
+TRANIO
+(as LUCENTIO) Fine, fine. Just play your part and act as serious as a father should.
+</T>
+<T>
+MERCHANT
+Of course I will.
+</T>
+<T>
+But, sir, here comes your servant. Better fill him in.
+</T>
+<T>
+TRANIO
+(as LUCENTIO) Dont worry about him.You there, Biondello, now act your part convincingly. Behave as though this were the real Vincentio.
+</T>
+<T>
+BIONDELLO
+Dont worry about me.
+</T>
+<T>
+TRANIO
+(as LUCENTIO) And did you take the message to Baptista?
+</T>
+<T>
+BIONDELLO
+I told him that your father was in Venice, and that you expected him to arrive in Padua today.
+</T>
+<T>
+PETRUCHIO
+Come, lets continue on toward your fathers house. Good Lord, how bright and splendid is the moon tonight!
+</T>
+<T>
+KATHERINE
+The moon? You mean the sun! It is not nighttime now.
+</T>
+<T>
+PETRUCHIO
+I say its the moon that shines so bright.
+</T>
+<T>
+KATHERINE
+I know its the sun that shines so bright.
+</T>
+<T>
+PETRUCHIO
+Now, by my mothers son, and thats me, it will be moon or star or whatever I want before Ill travel to your fathers house. (to servants) Go return our horses. Constantly contradicted and contradicted, and nothing but contradicted!
+</T>
+<T>
+HORTENSIO
+(to KATHERINE) Say what he wants or well never go.
+</T>
+<T>
+KATHERINE
+Since weve come this far, pleaselets continue on. And whatever it ismoon or sun or anything you likeif you want to call it a tea candle, thats what it is as far as Im concerned. From now on, I promise.
+</T>
+<T>
+PETRUCHIO
+I say its the moon.
+</T>
+<T>
+KATHERINE
+I know its the moon.
+</T>
+<T>
+PETRUCHIO
+Well, youre a liar, then. Its the blessed sun.
+</T>
+<T>
+BIONDELLO
+Quickly and quietly, sir. The priest is already there.
+</T>
+<T>
+LUCENTIO
+Were off, Biondello. But they may need you at home, so you go on back.
+</T>
+<T>
+BIONDELLO
+Ill see them safely married first and then hurry back to my masters.
+</T>
+<T>
+GREMIO
+I wonder why Cambio hasnt shown up in all this time.
+</T>
+<T>
+PETRUCHIO
+Here is the door, sir. This is Lucentios house. My father-in-law lives closer to the marketplace. Thats where Im going now, so Ill leave you here.
+</T>
+<T>
+VINCENTIO
+You must not go without having a drink first. I think I may presume to welcome you, and theyre probably preparing some kind of feast to welcome me.
+</T>
+<T>
+GREMIO
+Theyre pretty busy in there. Youd better knock louder.
+</T>
+<T>
+LUCENTIO
+Finally, at long last, weve reconciled our differences. Now is the timewhen war is safely overto laugh at past dangers and adventures. My fair Bianca, bid my father welcome, while I with equal affection welcome yours. Brother Petruchio, sister Katherina, and you, Hortensio, with your loving widow, youll find no better entertainment anywhere. All of you are welcome in my house. This last course here is for closing up the stomach after great feasting. Now everyone be seated, as this is the part where we sit and chat as well as eat.
+</T>
+<T>
+PETRUCHIO
+All we do is sit and sit and eat and eat.
+</T>
+<T>
+BAPTISTA
+Yes, Padua is famous for this pleasant life, Petruchio, my son.
+</T>
+<T>
+PETRUCHIO
+Padua contains nothing that isnt pleasant.
+</T>
+<T>
+HORTENSIO
+I wish that were true for both our sakes!
+</T>
+<T>
+PETRUCHIO
+Well what do you know! Hortensio fearsFears here can mean bothis afraid of, which is how Petruchio means it, and frightens, which is how the widow takes it.fears his widow.
+</T>

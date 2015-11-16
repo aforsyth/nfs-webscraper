@@ -1,0 +1,736 @@
+<T>
+RUMOR
+Open your ears, for which of you will stop
+The vent of hearing when loud Rumor speaks?
+I, from the orient to the drooping west,
+Making the wind my post-horse, still unfold
+The acts commenced on this ball of earth.
+Upon my tongues continual slanders ride,
+The which in every language I pronounce,
+Stuffing the ears of men with false reports.
+I speak of peace while covert enmity
+Under the smile of safety wounds the world.
+And who but Rumor, who but only I,
+Make fearful musters and prepared defense,
+Whiles the big year, swoll'n with some other grief,
+Is thought with child by the stern tyrant war,
+And no such matter? Rumor is a pipe
+Blown by surmises, jealousies, conjectures,
+And of so easy and so plain a stop
+That the blunt monster with uncounted heads,
+The still-discordant wav'ring multitude,
+Can play upon it. But what need I thus
+My well-known body to anatomize
+Among my household? Why is Rumor here?
+I run before King Harrys victory,
+Who in a bloody field by Shrewsbury
+Hath beaten down young Hotspur and his troops,
+Quenching the flame of bold rebellion
+Even with the rebels' blood. But what mean I
+To speak so true at first? My office is
+To noise abroad that Harry Monmouth fell
+</T>
+<T>
+Under the wrath of noble Hotspurs sword,
+And that the King before the Douglas' rage
+Stooped his anointed head as low as death.
+This have I rumored through the peasant towns
+Between that royal field of Shrewsbury
+And this worm-eaten hold of ragged stone,
+Where Hotspurs father, old Northumberland,
+Lies crafty-sick. The posts come tiring on,
+And not a man of them brings other news
+Than they have learnt of me. From Rumors tongues
+They bring smooth comforts false, worse than true wrongs.
+</T>
+<T>
+LORD BARDOLPH
+Who keeps the gate here, ho?
+</T>
+<T>
+Where is the Earl?
+</T>
+<T>
+PORTER
+What shall I say you are?
+</T>
+<T>
+LORD BARDOLPH
+Tell thou the Earl
+That the Lord Bardolph doth attend him here.
+</T>
+<T>
+PORTER
+His lordship is walked forth into the orchard.
+Please it your Honor knock but at the gate
+And he himself will answer.
+</T>
+<T>
+LORD BARDOLPH
+Here comes the Earl.
+</T>
+<T>
+NORTHUMBERLAND
+What news, Lord Bardolph? Every minute now
+Should be the father of some stratagem.
+The times are wild. Contention, like a horse
+Full of high feeding, madly hath broke loose
+And bears down all before him.
+</T>
+<T>
+FALSTAFF
+Sirrah, you giant, what says the doctor to my water?
+</T>
+<T>
+PAGE
+He said, sir, the water itself was a good healthy water, but,
+for the party that owed it, he might have more diseases than
+he knew for.
+</T>
+<T>
+FALSTAFF
+Men of all sorts take a pride to gird at me. The brain of this
+foolish-compounded clay, man, is not able to invent
+anything that tends to laughter more than I invent, or is
+invented on me. I am not only witty in myself, but the cause
+that wit is in other men. I do here walk before thee like a sow that hath
+overwhelmed all her litter but one. If the Prince put
+thee into my service for any other reason than to set me off,
+why then I have no judgment. Thou whoreson mandrake,
+thou art fitter to be worn in my cap than to wait at my heels.
+I was never manned with an agate till now, but I will inset
+you neither in gold nor silver, but in vile apparel, and send
+you back again to your master for a jewel. The juvenal, the
+Prince your master, whose chin is not yet fledgeI will
+sooner have a beard grow in the palm of my hand than he
+shall get one off his cheek, and yet he will not stick to say
+his face is a face royal. God may finish it when He will. 'Tis
+not a hair amiss yet. He may keep it still at a face royal, for
+a barber shall never earn sixpence out of it, and yet hell be
+crowing as if he had writ man ever since his father was
+a bachelor. He may keep his own grace, but hes almost out of
+</T>
+<T>
+ARCHBISHOP
+Thus have you heard our cause and known our means,
+And, my most noble friends, I pray you all
+Speak plainly your opinions of our hopes.
+And first, Lord Marshal, what say you to it?
+</T>
+<T>
+MOWBRAY
+I well allow the occasion of our arms,
+But gladly would be better satisfied
+How in our means we should advance ourselves
+To look with forehead bold and big enough
+Upon the power and puissance of the King.
+</T>
+<T>
+HASTINGS
+Our present musters grow upon the file
+To five-and-twenty thousand men of choice,
+And our supplies live largely in the hope
+Of great Northumberland, whose bosom burns
+With an incensd fire of injuries.
+</T>
+<T>
+LORD BARDOLPH
+The question then, Lord Hastings, standeth thus:
+Whether our present five-and-twenty thousand
+May hold up head without Northumberland.
+</T>
+<T>
+HASTINGS
+With him we may.
+</T>
+<T>
+LORD BARDOLPH
+Yea, marry, theres the point.
+But if without him we be thought too feeble,
+My judgment is we should not step too far
+Till we had his assistance by the hand.
+For in a theme so bloody-faced as this,
+Conjecture, expectation, and surmise
+Of aids incertain should not be admitted.
+</T>
+<T>
+MISTRESS QUICKLY
+Master Fang, have you entered the action?
+</T>
+<T>
+FANG
+It is entered.
+</T>
+<T>
+MISTRESS QUICKLY
+Wheres your yeoman? Is t a lusty yeoman? Will a'
+stand to t?
+</T>
+<T>
+FANG
+Sirrah! Wheres Snare?
+</T>
+<T>
+MISTRESS QUICKLY
+O Lord, ay, good Master Snare.
+</T>
+<T>
+SNARE
+Here, here.
+</T>
+<T>
+FANG
+Snare, we must arrest Sir John Falstaff.
+</T>
+<T>
+MISTRESS QUICKLY
+Yea, good Master Snare, I have entered him and all.
+</T>
+<T>
+SNARE
+It may chance cost some of us our lives, for he will stab.
+</T>
+<T>
+MISTRESS QUICKLY
+Alas the day, take heed of him. He stabbed me in mine own
+house, and that most beastly, in good faith. He cares not what
+mischief he does. If his weapon be out, he will foin like any
+devil. He will spare neither man, woman, nor child.
+</T>
+<T>
+FANG
+If I can close with him, I care not for his thrust.
+</T>
+<T>
+PRINCE HENRY
+Before God, I am exceeding weary.
+</T>
+<T>
+POINS
+Is t come to that? I had thought weariness durst not have
+attached one of so high blood.
+</T>
+<T>
+PRINCE HENRY
+Faith, it does me; though it discolors the complexion of my
+greatness to acknowledge it. Doth it not show vilely in me
+to desire small beer?
+</T>
+<T>
+POINS
+Why, a prince should not be so loosely studied as to
+remember so weak a composition.
+</T>
+<T>
+PRINCE HENRY
+Belike then my appetite was not princely got, for, by my
+troth, I do now remember the poor creature small beer. But
+indeed these humble considerations make me out of love
+with my greatness. What a disgrace is it to me to remember
+thy name, or to know thy face tomorrow, or to take note how
+many pair of silk stockings thou hastwith these, and those
+that were thy peach-colored onesor to bear the inventory
+of thy shirts, as, one for superfluity and another for use. But
+that the tennis-court keeper knows better than I, for it is a
+low ebb of linen with thee when thou keepest not racket
+there, as thou hast not done a great while, because the rest of
+the low countries have made a shift to eat up thy holland; and
+God knows whether those that bawl out the ruins of thy linen
+shall inherit His kingdom; but the midwives say the children
+are not in the fault, whereupon the world increases and
+kindreds are mightily strengthened.
+</T>
+<T>
+NORTHUMBERLAND
+I pray thee, loving wife and gentle daughter,
+Give even way unto my rough affairs.
+Put not you on the visage of the times
+And be, like them, to Percy troublesome.
+</T>
+<T>
+LADY NORTHUMBERLAND
+I have given over. I will speak no more.
+Do what you will; your wisdom be your guide.
+</T>
+<T>
+NORTHUMBERLAND
+Alas, sweet wife, my honor is at pawn,
+And, but my going, nothing can redeem it.
+</T>
+<T>
+LADY PERCY
+O yet, for Gods sake, go not to these wars.
+The time was, father, that you broke your word,
+When you were more endeared to it than now,
+When your own Percy, when my hearts dear Harry,
+Threw many a northward look to see his father
+Bring up his powers; but he did long in vain.
+Who then persuaded you to stay at home?
+There were two honors lost, yours and your sons.
+For yours, the God of heaven brighten it.
+For his, it stuck upon him as the sun
+In the gray vault of heaven, and by his light
+Did all the chivalry of England move
+To do brave acts. He was indeed the glass
+Wherein the noble youth did dress themselves.
+He had no legs that practiced not his gait;
+And speaking thick, which nature made his blemish,
+Became the accents of the valiant;
+For those that could speak low and tardily
+Would turn their own perfection to abuse
+</T>
+<T>
+FRANCIS
+What the devil hast thou brought thereapplejohns? Thou
+knowest Sir John cannot endure an applejohn.
+</T>
+<T>
+SECOND DRAWER
+Mass, thou sayest true. The Prince once set a dish of
+applejohns before him and told him there were five more Sir
+Johns and, putting off his hat, said I will now take my leave
+of these six dry, round, old, withered knights. It angered
+him to the heart. But he hath forgot that.
+</T>
+<T>
+FRANCIS
+Why then, cover, and set them down, and see if thou canst
+find out Sneaks noise. Mistress Tearsheet would fain hear
+some music.
+</T>
+<T>
+THIRD DRAWER
+Dispatch: the room where they supped is too hot. Theyll
+come in straight.
+</T>
+<T>
+FRANCIS
+Sirrah, here will be the Prince and Master Poins anon, and
+they will put on two of our jerkins and aprons, and Sir John
+must not know of it. Bardolph hath brought word.
+</T>
+<T>
+THIRD DRAWER
+By the Mass, here will be old utis. It will be an excellent
+stratagem.
+</T>
+<T>
+SECOND DRAWER
+Ill see if I can find out Sneak.
+</T>
+<T>
+KING
+Go call the Earls of Surrey and of Warwick;
+But, ere they come, bid them o'erread these letters
+And well consider of them. Make good speed.
+</T>
+<T>
+How many thousand of my poorest subjects
+Are at this hour asleep! O sleep, O gentle sleep,
+Natures soft nurse, how have I frighted thee,
+That thou no more wilt weigh my eyelids down
+And steep my senses in forgetfulness?
+Why rather, sleep, liest thou in smoky cribs,
+Upon uneasy pallets stretching thee
+And hushed with buzzing night-flies to thy slumber,
+Than in the perfumed chambers of the great,
+Under the canopies of costly state,
+And lulld with sound of sweetest melody?
+O thou dull god, why liest thou with the vile
+In loathsome beds and leavest the kingly couch
+A watch-case or a common 'larum bell?
+Wilt thou upon the high and giddy mast
+Seal up the shipboys eyes, and rock his brains
+In cradle of the rude imperious surge
+And in the visitation of the winds,
+Who take the ruffian billows by the top,
+Curling their monstrous heads and hanging them
+With deafening clamor in the slippery clouds
+That with the hurly death itself awakes?
+Canst thou, O partial sleep, give thy repose
+To the wet sea-boy in an hour so rude,
+</T>
+<T>
+SHALLOW
+Come on, come on, come on. Give me your hand, sir, give
+me your hand, sir. An early stirrer, by the rood. And how
+doth my good cousin Silence?
+</T>
+<T>
+SILENCE
+Good morrow, good cousin Shallow.
+</T>
+<T>
+SHALLOW
+And how doth my cousin your bedfellow? And your fairest
+daughter and mine, my goddaughter Ellen?
+</T>
+<T>
+SILENCE
+Alas, a black ousel, cousin Shallow.
+</T>
+<T>
+SHALLOW
+By yea and no, sir. I dare say my cousin William is become
+a good scholar. He is at Oxford still, is he not?
+</T>
+<T>
+SILENCE
+Indeed, sir, to my cost.
+</T>
+<T>
+SHALLOW
+He must then to the Inns o' Court shortly. I was once of
+Clements Inn, where I think they will talk of mad Shallow
+yet.
+</T>
+<T>
+SILENCE
+You were called Lusty Shallow then, cousin.
+</T>
+<T>
+SHALLOW
+By the Mass, I was called anything, and I would have done
+anything indeed too, and roundly too. There was I, and little
+John Doit of Staffordshire, and black George Barnes, and
+Francis Pickbone, and Will Squele, a Cotswold man. You
+had not four such swinge-bucklers in all the Inns o' Court
+</T>
+<T>
+ARCHBISHOP
+What is this forest called?
+</T>
+<T>
+HASTINGS
+'Tis Gaultree Forest, an t shall please your Grace.
+</T>
+<T>
+ARCHBISHOP
+Here stand, my lords, and send discoverers forth
+To know the numbers of our enemies.
+</T>
+<T>
+HASTINGS
+We have sent forth already.
+</T>
+<T>
+ARCHBISHOP
+'Tis well done.
+My friends and brethren in these great affairs,
+I must acquaint you that I have received
+New-dated letters from Northumberland,
+Their cold intent, tenor, and substance, thus:
+Here doth he wish his person, with such powers
+As might hold sortance with his quality,
+The which he could not levy; whereupon
+He is retired, to ripe his growing fortunes,
+To Scotland, and concludes in hearty prayers
+That your attempts may overlive the hazard
+And fearful melting of their opposite.
+</T>
+<T>
+MOWBRAY
+Thus do the hopes we have in him touch ground
+And dash themselves to pieces.
+</T>
+<T>
+FALSTAFF
+Whats your name, sir? Of what condition are you, and of
+what place, I pray?
+</T>
+<T>
+COLEVILE
+I am a knight, sir, and my name is Colevile of the Dale.
+</T>
+<T>
+FALSTAFF
+Well, then, Colevile is your name, a knight is your degree,
+and your place the Dale. Colevile shall be still your name, a
+traitor your degree, and the dungeon your place, a place deep
+enough so shall you be still Colevile of the Dale.
+</T>
+<T>
+COLEVILE
+Are not you Sir John Falstaff?
+</T>
+<T>
+FALSTAFF
+As good a man as he, sir, whoe'er I am. Do ye yield, sir, or
+shall I sweat for you? If I do sweat, they are the drops of thy
+lovers and they weep for thy death. Therefore rouse up fear
+and trembling, and do observance to my mercy.
+</T>
+<T>
+COLEVILE
+I think you are Sir John Falstaff, and in that thought yield
+me.
+</T>
+<T>
+FALSTAFF
+I have a whole school of tongues in this belly of mine, and not a tongue of them all speaks any other word but my name. An I had but a belly of any indifferency, I were simply the most active fellow in Europe. My womb, my womb, my womb undoes me. Here comes our general.
+</T>
+<T>
+KING
+Now, lords, if God doth give successful end
+To this debate that bleedeth at our doors,
+We will our youth lead on to higher fields
+And draw no swords but what are sanctified.
+Our navy is addressed, our power collected,
+Our substitutes in absence well invested,
+And everything lies level to our wish.
+Only we want a little personal strength;
+And pause us till these rebels now afoot
+Come underneath the yoke of government.
+</T>
+<T>
+WARWICK
+Both which we doubt not but your Majesty
+Shall soon enjoy.
+</T>
+<T>
+KING
+Humphrey, my son of Gloucester,
+Where is the Prince your brother?
+</T>
+<T>
+GLOUCESTER
+I think hes gone to hunt, my lord, at Windsor.
+</T>
+<T>
+KING
+And how accompanied?
+</T>
+<T>
+GLOUCESTER
+I do not know, my lord.
+</T>
+<T>
+KING
+Is not his brother Thomas of Clarence with him?
+</T>
+<T>
+GLOUCESTER
+No, my good lord, he is in presence here.
+</T>
+<T>
+CLARENCE
+What would my lord and father?
+</T>
+<T>
+SHALLOW
+By cock and pie, sir, you shall not away tonight.What,
+Davy, I say!
+</T>
+<T>
+FALSTAFF
+You must excuse me, Master Robert Shallow.
+</T>
+<T>
+SHALLOW
+I will not excuse you. You shall not be excused. Excuses
+shall not be admitted. There is no excuse shall serve. You
+shall not be excused.Why, Davy!
+</T>
+<T>
+DAVY
+Here, sir.
+</T>
+<T>
+SHALLOW
+Davy, Davy, Davy, Davy, let me see, Davy, let me see, Davy,
+let me see. Yea, marry, William cook, bid him come
+hither.Sir John, you shall not be excused.
+</T>
+<T>
+DAVY
+Marry, sir, thus: those precepts cannot be served. And again,
+sir, shall we sow the hade land with wheat?
+</T>
+<T>
+SHALLOW
+With red wheat, Davy. But for William cook, are there no
+young pigeons?
+</T>
+<T>
+DAVY
+Yes, sir. Here is now the smiths note for shoeing and plow
+irons.
+</T>
+<T>
+WARWICK
+How now, my Lord Chief Justice, whither away?
+</T>
+<T>
+CHIEF JUSTICE
+How doth the King?
+</T>
+<T>
+WARWICK
+Exceeding well. His cares are now all ended.
+</T>
+<T>
+CHIEF JUSTICE
+I hope, not dead.
+</T>
+<T>
+WARWICK
+Hes walked the way of nature,
+And to our purposes he lives no more.
+</T>
+<T>
+CHIEF JUSTICE
+I would his Majesty had called me with him.
+The service that I truly did his life
+Hath left me open to all injuries.
+</T>
+<T>
+WARWICK
+Indeed, I think the young King loves you not.
+</T>
+<T>
+CHIEF JUSTICE
+I know he doth not, and do arm myself
+To welcome the condition of the time,
+Which cannot look more hideously upon me
+Than I have drawn it in my fantasy.
+</T>
+<T>
+WARWICK
+Here come the heavy issue of dead Harry.
+O, that the living Harry had the temper
+Of he the worst of these three gentlemen!
+How many nobles then should hold their places
+That must strike sail to spirits of vile sort!
+</T>
+<T>
+SHALLOW
+Nay, you shall see my orchard, where, in an arbor, we will
+eat a last years pippin of my own graffing, with a dish of
+caraways, and so forth.Come, cousin Silence.And then
+to bed.
+</T>
+<T>
+FALSTAFF
+Fore God, you have here a goodly dwelling and a rich.
+</T>
+<T>
+SHALLOW
+Barren, barren, barren, beggars all, beggars all, Sir John.
+Marry, good air.Spread, Davy, spread, Davy. Well said,
+Davy.
+</T>
+<T>
+FALSTAFF
+This Davy serves you for good uses. He is your servingman
+and your husband.
+</T>
+<T>
+SHALLOW
+A good varlet, a good varlet, a very good varlet, Sir John. By
+the Mass, I have drunk too much sack at supper. A good
+varlet. Now sit down, now sit down.Come, cousin.
+</T>
+<T>
+SILENCE
+Ah, sirrah, quoth he, we shall
+Do nothing but eat and make good cheer,
+(sings) And praise God for the merry year,
+When flesh is cheap and females dear,
+And lusty lads roam here and there
+So merrily,
+And ever among so merrily.
+</T>
+<T>
+FALSTAFF
+Theres a merry heart!Good Master Silence, Ill give you
+a health for that anon.
+</T>
+<T>
+MISTRESS QUICKLY
+No, thou arrant knave. I would to God that I might die, that
+I might have thee hanged. Thou hast drawn my shoulder out
+of joint.
+</T>
+<T>
+FIRST BEADLE
+The Constables have delivered her over to me, and she shall
+have whipping cheer enough, I warrant her. There hath been
+a man or two lately killed about her.
+</T>
+<T>
+DOLL TEARSHEET
+Nut-hook, nut-hook, you lie! Come on, I ll tell thee what,
+thou damned tripe-visaged rascal: an the child I now go with
+do miscarry, thou wert better thou hadst struck thy mother,
+thou paper-faced villain.
+</T>
+<T>
+MISTRESS QUICKLY
+O the Lord, that Sir John were come! I would make this a
+bloody day to somebody. But I pray God the fruit of her
+womb might miscarry.
+</T>
+<T>
+FIRST BEADLE
+If it do, you shall have a dozen of cushions again; you have
+but eleven now. Come, I charge you both go with me, for the
+man is dead that you and Pistol beat amongst you.
+</T>
+<T>
+DOLL TEARSHEET
+Ill tell you what, you thin man in a censer, I will have you
+as soundly swinged for this, you bluebottle rogue, you filthy
+famished correctioner. If you be not swinged, Ill forswear
+half-kirtles.
+</T>
+<T>
+FIRST BEADLE
+Come, come, you she knight-errant, come.
+</T>
+<T>
+FIRST GROOM
+More rushes, more rushes.
+</T>
+<T>
+SECOND GROOM
+The trumpets have sounded twice.
+</T>
+<T>
+FIRST GROOM
+'Twill be two o'clock ere they come from the coronation.
+Dispatch, dispatch.
+</T>
+<T>
+FALSTAFF
+Stand here by me, Master Robert Shallow. I will make the
+King do you grace. I will leer upon him as he comes by, and
+do but mark the countenance that he will give me.
+</T>
+<T>
+PISTOL
+God bless thy lungs, good knight!
+</T>
+<T>
+FALSTAFF
+Come here, Pistol, stand behind me.(to SHALLOW) O, if I
+had had time to have made new liveries, I would have
+bestowed the thousand pound I borrowed of you. But tis no
+matter. This poor show doth better. This doth infer the zeal
+I had to see him.
+</T>
+<T>
+SHALLOW
+It doth so.
+</T>
+<T>
+FALSTAFF
+It shows my earnestness of affection
+</T>
+<T>
+SHALLOW
+It doth so.
+</T>
+<T>
+FALSTAFF
+My devotion
+</T>

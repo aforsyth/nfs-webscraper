@@ -1,0 +1,413 @@
+<T>
+THESEUS
+Our wedding day is almost here, my beautiful Hippolyta. Well be getting married in four days, on the day of the new moon. But it seems to me that the days are passing too slowlythe old moon is taking too long to fade away! That old, slow moon is keeping me from getting what I want, just like an old widow makes her stepson wait to get his inheritance.
+</T>
+<T>
+HIPPOLYTA
+No, youll see, four days will quickly turn into four nights. And since we dream at night, time passes quickly then. Finally the new moon, curved like a silver bow in the sky, will look down on our wedding celebration.
+</T>
+<T>
+THESEUS
+Go, Philostrate, get the young people of Athens ready to celebrate and have a good time. Sadness is only appropriate for funerals. We dont want it at our festivities.
+</T>
+<T>
+Hippolyta, I wooed you with violence, using my sword, and got you to fall in love with me by injuring you. But Ill marry you under different circumstanceswith extravagant festivals, public festivities, and celebration.
+</T>
+<T>
+EGEUS
+Long live Theseus, our famous and respected duke!
+</T>
+<T>
+THESEUS
+Thanks, good Egeus. Whats new with you?
+</T>
+<T>
+EGEUS
+Im here, full of anger, to complain about my daughter Hermia.Step forward, Demetrius.My lord, this man, Demetrius, has my permission to marry her.Step forward, Lysander.But this other man, Lysander, has cast a magic spell over my childs heart.You, you, Lysander, youve given her poems, and exchanged tokens of love with my daughter. Youve pretended to be in love with her, singing fake love songs softly at her window by moonlight, and youve captured her imagination by giving her locks of your hair, rings, toys, trinkets, knickknacks, little presents, flowers, and candiesthings that can really influence an impressionable young person. Youve connived to steal my daughters heart, making her stubborn and harsh instead of obedient (like she should be).And, my gracious duke, if she wont agree to marry Demetrius right now, I ask you to let me exercise the right that all fathers have in Athens. Since she belongs to me, I can do what I want with heras the law says: I can either make her marry Demetriusor have her killed.
+</T>
+<T>
+THESEUS
+What do you have to say for yourself, Hermia? Think carefully, pretty girl. You should think of your father as a god, since hes the one who gave you your beauty. To him, youre like a figure that hes sculpted out of wax, and he has the power to keep that figure intact or to disfigure it. Demetrius is an admirable man.
+</T>
+<T>
+HERMIA
+So is Lysander.
+</T>
+<T>
+THESEUS
+Youre right, Lysanders admirable too. But since your father doesnt want him to marry you, you have to consider Demetrius to be the better man.
+</T>
+<T>
+HERMIA
+I wish my father could see them with my eyes.
+</T>
+<T>
+THESEUS
+No, you must see them as your father sees them.
+</T>
+<T>
+HERMIA
+Your grace, please forgive me. I dont know what makes me think I can say this, and I dont know if speaking my mind to such a powerful and noble person as yourself will damage my reputation for modesty. But please, tell me the worst thing that could happen to me if I refuse to marry Demetrius.
+</T>
+<T>
+THESEUS
+Youll either be executed or youll never see another man again. So think carefully about what you want, beautiful Hermia. Consider how young you are, and question your feelings. Then decide whether you could stand to be a nun, wearing a priestesss habit and caged up in a cloister forever, living your entire life without a husband or children, weakly chanting hymns to the cold and virginal goddess of the moon. People who can restrain their passions and stay virgins forever are holy. But although a virgin priestess might be rewarded in heaven, a married woman is happier on Earth. A married woman is like a rose who is picked and made into a beautiful perfume, while a priestess just withers away on the stem.
+</T>
+<T>
+HERMIA
+Id rather wither away than give up my virginity to someone I dont love.
+</T>
+<T>
+THESEUS
+Take some time to think about this. By the time of the next new moonthe day when Hippolyta and I will be marriedbe ready either to be executed for disobeying your father, to marry Demetrius as your father wishes, or to take a vow to spend the rest of your life as a virgin priestess of the moon goddess.
+</T>
+<T>
+DEMETRIUS
+Please give in, sweet Hermia.And Lysander, stop acting like shes yours. Ive got more of a right to her than you do.
+</T>
+<T>
+LYSANDER
+Her father loves you, Demetrius. So why dont you marry him and let me have Hermia?
+</T>
+<T>
+EGEUS
+Its true, rude Lysander, I do love him. Thats why Im giving him my daughter. Shes mine, and Im giving her to Demetrius.
+</T>
+<T>
+LYSANDER
+(to THESEUS) My lord, Im just as noble and rich as he is. I love Hermia more than he does. My prospects are as good as his, if not better. And beautiful Hermia loves mewhich is more important than all those other things Im bragging about. Why shouldnt I be able to marry her? Demetriusand Ill say this to his facecourted Nedars daughter, Helena, and made her fall in love with him. That sweet lady, Helena, loves devoutly. She adores this horrible and unfaithful man.
+</T>
+<T>
+THESEUS
+I have to admit Ive heard something about that, and meant to ask Demetrius about it, but I was too busy with personal matters and it slipped my mind.Anyway, Demetrius and Egeus, both of you, come with me. I want to say a few things to you in private.As for you, beautiful Hermia, get ready to do what your father wants, because otherwise the law says that you must die or become a nun, and theres nothing I can do about that.Come with me, Hippolyta. How are you, my love?Demetrius and Egeus, come with us. I want you to do some things for our wedding, and I also want to discuss something that concerns you both.
+</T>
+<T>
+EGEUS
+Were following you not only because it is our duty, but also because we want to.
+</T>
+<T>
+LYSANDER
+Whats going on, my love? Why are you so pale? Why have your rosy cheeks faded so quickly?
+</T>
+<T>
+HERMIA
+Probably because my cheeks' roses needed rain, which I could easily give them with all the tears in my eyes.
+</T>
+<T>
+LYSANDER
+Oh, honey! Listen, in books they say that true love always faces obstacles. Either the lovers have different social standings
+</T>
+<T>
+HERMIA
+Oh, what an obstacle that would be! Imagine being too high on the social ladder, and falling in love with someone beneath you.
+</T>
+<T>
+LYSANDER
+Or else they were very different ages
+</T>
+<T>
+HERMIA
+How awful! Being too old to marry someone young.
+</T>
+<T>
+LYSANDER
+Or else their guardians and advisors said no
+</T>
+<T>
+HERMIA
+What hell, to have your love life determined by someone else!
+</T>
+<T>
+LYSANDER
+Or, even if the lovers are a good match, their love might be ruined by war, death, or sickness, so that the affair only lasts an instant. Their time together might be as fleeting as a shadow or as short as a dream, lasting only as long as it takes a lightning bolt to flash across the sky. Before you can say look, its gone. Thats how intense things like love are quickly destroyed.
+</T>
+<T>
+HERMIA
+If true lovers are always thwarted, then it must be a rule of fate. So lets try to be patient as we deal with our problem. Its as normal a part of love as dreams, sighs, wishes, and tears.
+</T>
+<T>
+LYSANDER
+Thats the right attitude. So, listen, Hermia. I have an aunt who is a widow, whos very rich and doesnt have any children. She lives about twenty miles from Athens, and she thinks of me as a son. I could marry you there, gentle Hermia, where the strict laws of Athens cant touch us. So heres the plan. If you love me, sneak out of your fathers house tomorrow night and meet me in the forest a few miles outside of town.
+</T>
+<T>
+You remember the placeI met you there once with Helena to celebrate May Day.Ill wait for you there.
+</T>
+<T>
+HERMIA
+Oh, Lysander, I swear Ill be there tomorrow. I swear by Cupids strongest bow and his best gold-tipped arrow, by the Goddess of Loves innocent doves, by everything that ties lovers together, by the bonfire where Queen Dido burned herself to death when her lover Aeneas jilted her, and by all the promises that men have broken (and men have broken more promises than women have ever made). I give you my word, I will meet you at that spot tomorrow.
+</T>
+<T>
+LYSANDER
+Keep your promise, my love. Look, here comes Helena.
+</T>
+<T>
+HERMIA
+Hello, beautiful Helena! Where are you going?
+</T>
+<T>
+HELENA
+Did you just call me beautiful? Take it back. Youre the beautiful one as far as Demetrius is concerned. Oh, youre so lucky! Your eyes are like stars, and your voice is more musical than a larks song is to a shepherd in the springtime. Sickness is contagiousI wish beauty were contagious too! I would catch your good looks before I left. My ear would be infected by your voice, my eye by your eye, and my tongue would come down with a bad case of your melodious speech. If the world were mine, Id give it all upeverything except Demetriusto be you.
+</T>
+<T>
+Oh, teach me how you look the way you do, and which tricks you used to make Demetrius fall in love with you.
+</T>
+<T>
+HERMIA
+I frown at him, but he still loves me.
+</T>
+<T>
+HELENA
+Oh, if only my smiles could inspire love as effectively as your frowns!
+</T>
+<T>
+HERMIA
+I curse him, but he loves me.
+</T>
+<T>
+HELENA
+If only my prayers could inspire that kind of affection!
+</T>
+<T>
+HERMIA
+The more I hate him, the more he follows me around.
+</T>
+<T>
+HELENA
+The more I love him, the more he hates me.
+</T>
+<T>
+HERMIA
+Its not my fault he acts like that, Helena.
+</T>
+<T>
+HELENA
+Thats true, its your beautys fault. I wish I had a fault like that!
+</T>
+<T>
+HERMIA
+Dont worry. He wont see my face ever again. Lysander and I are running away from here. Before I saw Lysander, Athens seemed like paradise to me. But Lysanders so attractive that hes turned heaven into hell!
+</T>
+<T>
+LYSANDER
+Helena, well tell you about our secret plan. Tomorrow night, when the moon shines on the water and decorates the grass with tiny beads of pearly light (the time of night that always hides runaway lovers), we plan to sneak out of Athens.
+</T>
+<T>
+HERMIA
+(to HELENA) In the woods where you and I used to lounge around on the pale primroses, telling each other sweet secretsthats where Lysander and I will meet.
+</T>
+<T>
+From then on well turn our backs on Athens. Well look for new friends and keep the company of strangers. Goodbye, old friend. Pray for us, and I hope you win over Demetrius!Keep your promise, Lysander. We need to stay away from each other until midnight tomorrow.
+</T>
+<T>
+LYSANDER
+I will, my Hermia.
+</T>
+<T>
+Goodbye, Helena. I hope Demetrius comes to love you as much as you love him!
+</T>
+<T>
+HELENA
+Its amazing how much happier some people are than others! People throughout Athens think Im as beautiful as Hermia. But so what? Demetrius doesnt think so, and thats all that matters. He refuses to admit what everyone else knows. But even though hes making a mistake by obsessing over Hermia so much, Im also making a mistake, since I obsess over him. Love can make worthless things beautiful. When were in love, we dont see with our eyes but with our minds. Thats why paintings of Cupid, the god of love, always show him as blind. And love doesnt have good judgment eitherCupid, has wings and no eyes, so hes bound to be reckless and hasty. Thats why they say love is a child. because it makes such bad choices. Just as boys like to play games by telling lies, Cupid breaks his promises all the time. Before Demetrius ever saw Hermia, he showered me with promises and swore hed be mine forever.
+</T>
+<T>
+But when he got all hot and bothered over Hermia, his promises melted away. Ill go tell Demetrius that Hermia is running away tomorrow night. Hell run after her. If hes grateful to me for this information, itll be worth my pain in helping him pursue my rival Hermia. At least Ill get to see him when he goes, and then again when he comes back.
+</T>
+<T>
+QUINCE
+Is everyone here?
+</T>
+<T>
+BOTTOM
+You should call their names generally,Bottom means individually, not generally. Bottom frequently makes mistakes with words.generally, one person at a time, in the order in which their names appear on this piece of paper.
+</T>
+<T>
+QUINCE
+This is a list of the names of all the men in Athens who are good enough to act in the play were going to perform for the duke and duchess on their wedding night.
+</T>
+<T>
+BOTTOM
+First, Peter Quince, tell us what the play is about, then read the names of the actors, and then shut up.
+</T>
+<T>
+QUINCE
+All right. Our play is called A Very Tragic Comedy About the Horrible Deaths of Pyramus and Thisbe.
+</T>
+<T>
+BOTTOM
+Let me tell you, its a great piece of work, and veryfunny.Now, Peter Quince, call the names of the actors on the list. Men, gather around him.
+</T>
+<T>
+QUINCE
+Answer when I call your name.Nick Bottom, the weaver?
+</T>
+<T>
+BOTTOM
+Here. Tell me which part Im going to play, then go on.
+</T>
+<T>
+QUINCE
+You, Nick Bottom, have been cast as Pyramus.
+</T>
+<T>
+ROBIN
+Hello, spirit! Where are you going?
+</T>
+<T>
+FAIRY
+I go over hills and valleys, through bushes and thorns, over parks and fenced-in spaces, through water and fire. I wander everywhere faster than the moon revolves around the Earth. I work for Titania, the Fairy Queen, and organize fairy dances for her in the grass. The cowslip flowers are her bodyguards. Youll see that their petals have spots on themthose are rubies, fairy gifts. Their sweet smells come from those little freckles. Now I have to go find some dewdrops and hang a pearl earring on every cowslip flower. Goodbye, you dumb old spirit. Ive got to go. The queen and her elves will be here soon.
+</T>
+<T>
+ROBIN
+The kings having a party here tonight. Just make sure the queen doesnt come anywhere near him, because King Oberon is extremely angry. Hes furious because she stole an adorable boy from an Indian king. Shes never kidnapped such a darling human child before, and Oberons jealous. He wants the child for himself, to accompany him on his wanderings through the wild forests. But the queen refuses to hand the boy over to Oberon. Instead, she puts flowers in the boys hair and makes a fuss over him.
+</T>
+<T>
+TITANIA
+Come, dance in a circle and sing a fairy song, and then go off for a while to do your work. Some of you will kill the worms infesting the rosebuds, some of you will fight with bats to get their leathery wings, so we can make coats for my small elves. Some of you will keep that loud owl away, the one that hoots and wonders every night at us dainty fairies. Sing me to sleep now, and then go off to do your duties and let me rest.
+</T>
+<T>
+FIRST FAIRY
+(singing)
+Snakes with forked tongues,
+And porcupines, dont be seen.
+Deadly lizards, dont be mean.
+Dont come near our fairy queen.
+</T>
+<T>
+FAIRIES
+(singing)
+Nightingale, melodiously
+Sing our sweet lullaby.
+Lulla, lulla, lullaby, lulla, lulla, lullaby.
+Let no harm
+Or spell or charm
+Come near our lovely lady.
+Say good night with a lullaby.
+</T>
+<T>
+FIRST FAIRY
+(singing)
+Spiders with your webs, stay away.
+You long-legged things, begone!
+</T>
+<T>
+BOTTOM
+Are we all here?
+</T>
+<T>
+QUINCE
+Right on time. This is the perfect place to rehearse. This clearing will be the stage, and this hawthorn bush will be our dressing room. Lets put on our play exactly as well perform it for the duke.
+</T>
+<T>
+BOTTOM
+Peter Quince
+</T>
+<T>
+QUINCE
+What is it, jolly Bottom?
+</T>
+<T>
+BOTTOM
+There are things in this comedy of Pyramus and Thisbe that will never work. First of all, Pyramus has to take out a sword to kill himself, which the ladies in the audience wont be able to stand. What should we do about that?
+</T>
+<T>
+SNOUT
+By God, thats a real problem, its true.
+</T>
+<T>
+STARVELING
+I think well have to leave out all the killing, come to think of it.
+</T>
+<T>
+BOTTOM
+Not at all! Ive got a plan that will fix everything. Write me a prologue that I can recite to the audience before the play starts. Ill tell them that we wont hurt anyone with our swords, and that Pyramus isnt really dead. And to make it even clearer, we can tell them that Im playing Pyramus but Im not really Pyramusreally, Im Bottom the weaver. Thatll keep them from being afraid.
+</T>
+<T>
+OBERON
+I wonder if Titania is awake yet, and if she is, I wonder what the first thing she saw was. Whatever it is, she must be completely in love with it now.
+</T>
+<T>
+Ah, here comes my messenger.Whats going on, you crazy spirit? What havoc have you wreaked in this part of the forest?
+</T>
+<T>
+ROBIN
+My mistress Titania is in love with a monster. While she was sleeping in her bed of flowers, a group of bumbling idiots, rough workmen from Athens, got together nearby to rehearse some play they plan to perform on Theseuss wedding day. The stupidest one, who played Pyramus in their play, finished his scene and went to sit in the bushes to wait for his next cue. I took that opportunity to stick a donkeys head on him. When it was time for him to go back onstage and talk to his Thisbe, he came out of the bushes and everyone saw him. His friends ran away as fast as ducks scatter when they hear a hunters gunshot. One of them was so frightened when he heard my footsteps that he yelled, Murder! and called for help from Athens. They were all so afraid that they completely lost their common sense. They started to become scared of inanimate objects, terrified by the thorns and briars that catch at their clothing and pull off their sleeves and hats. I led them on in this frightened, distracted state, and left sweet
+</T>
+<T>
+TITANIA
+(to BOTTOM) Come over here and sit down on this flowery bed while I caress those lovable cheeks. Ill put roses on your silky, smooth head and kiss your big, beautiful ears, my gentle darling.
+</T>
+<T>
+BOTTOM
+Wheres Peaseblossom?
+</T>
+<T>
+PEASEBLOSSOM
+Here.
+</T>
+<T>
+BOTTOM
+Scratch my head, Peaseblossom. Wheres Monsieur Cobweb?
+</T>
+<T>
+COBWEB
+Here.
+</T>
+<T>
+BOTTOM
+Monsieur Cobweb, sir, get out your weapons and kill me a striped bumblebee on a thistle, and bring me its honey. Dont tire yourself out, monsieur. Oh, and monsieur, be careful not to break the honey-sac. Id hate to see you drowned in honey, sir.
+</T>
+<T>
+Wheres Monsieur Mustardseed?
+</T>
+<T>
+MUSTARDSEED
+Here.
+</T>
+<T>
+QUINCE
+Have you sent anyone to Bottoms house? Has he come home yet?
+</T>
+<T>
+STARVELING
+No ones heard from him. Im sure hes been kidnapped.
+</T>
+<T>
+FLUTE
+If he doesnt show up, the play is ruined. It wont go on. Will it?
+</T>
+<T>
+QUINCE
+No, it would be impossible. Hes the only person in Athens who can play Pyramus.
+</T>
+<T>
+FLUTE
+Definitely. Hes quite simply the smartest working-man in Athens.
+</T>
+<T>
+QUINCE
+Yes, and the best looking too. And his voice is the paramour of sweetness.
+</T>
+<T>
+FLUTE
+You mean paragon. A paramourparamour = loverparamour is something bad.
+</T>
+<T>
+SNUG
+The dukes leaving the temple. Two or three more lords and ladies have been married too. If wed been able to put on our play, we would have had it made.
+</T>
+<T>
+FLUTE
+Oh that great, funny guy, Bottom! He would have gotten a pension of six pence a day for his whole life. Six pence a day wouldve been forced on him. Ill be damned if the duke wouldnt have given him six pence a day for playing Pyramus.
+</T>
+<T>
+HIPPOLYTA
+These lovers are saying some strange things, Theseus.
+</T>
+<T>
+THESEUS
+Yes, strangeand totally made up too. Ill never believe any of these old legends or fairy tales. Lovers and madmen hallucinate about things that sane people just cant understand. Lunatics, lovers, and poets all are ruled by their overactive imaginations. some people think they see devils and monsters everywhereand theyre lunatics. Lovers are just as crazy, and think a dark-skinned gypsy is the most gorgeous woman in the world. Poets are always looking around like theyre having a fit, confusing the mundane with the otherworldly, and describing things in their writing that simply dont exist. All these people have such strong imaginations that, when they feel happy, they assume a god or some other supernatural being is bringing that happiness to them. Or if theyre afraid of something at night, they look at the shrubbery and imagine its a wild bear!
+</T>
+<T>
+HIPPOLYTA
+But the story that these lovers are telling, and the fact that they all saw and heard exactly the same things, make me think theres more going on here than imaginary fantasies. Their story is bizarre and astounding, but its solid and consistent.
+</T>

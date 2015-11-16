@@ -1,0 +1,916 @@
+<T>
+ANTONIO
+In sooth, I know not why I am so sad.
+It wearies me; you say it wearies you.
+But how I caught it, found it, or came by it,
+What stuff tis made of, whereof it is born,
+I am to learn.
+And such a want-wit sadness makes of me,
+That I have much ado to know myself.
+</T>
+<T>
+SALARINO
+Your mind is tossing on the ocean,
+There, where your argosies with portly sail,
+Like signors and rich burghers on the flood
+Or, as it were, the pageants of the sea
+Do overpeer the petty traffickers
+That curtsy to them, do them reverence
+As they fly by them with their woven wings.
+</T>
+<T>
+SOLANIO
+Believe me, sir, had I such venture forth,
+The better part of my affections would
+Be with my hopes abroad. I should be still
+Plucking the grass to know where sits the wind,
+Peering in maps for ports and piers and roads.
+And every object that might make me fear
+Misfortune to my ventures out of doubt
+Would make me sad.
+</T>
+<T>
+SALARINO
+My wind cooling my broth
+Would blow me to an ague when I thought
+What harm a wind too great at sea might do.
+I should not see the sandy hourglass run,
+But I should think of shallows and of flats
+And see my wealthy Andrew docked in sand,
+Vailing her high top lower than her ribs
+To kiss her burial. Should I go to church
+And see the holy edifice of stone
+And not bethink me straight of dangerous rocks,
+Which, touching but my gentle vessels side,
+Would scatter all her spices on the stream,
+Enrobe the roaring waters with my silks,
+And, in a word, but even now worth this,
+And now worth nothing? Shall I have the thought
+To think on this, and shall I lack the thought
+That such a thing bechanced would make me sad?
+But tell not me. I know Antonio
+Is sad to think upon his merchandise.
+</T>
+<T>
+ANTONIO
+Believe me, no. I thank my fortune for it
+My ventures are not in one bottom trusted,
+Nor to one place, nor is my whole estate
+Upon the fortune of this present year.
+Therefore my merchandise makes me not sad.
+</T>
+<T>
+SOLANIO
+Why then, you are in love.
+</T>
+<T>
+ANTONIO
+Fie, fie!
+</T>
+<T>
+SOLANIO
+Not in love neither? Then let us say you are sad
+Because you are not merryand twere as easy
+For you to laugh and leap and say you are merry
+Because you are not sad. Now, by two-headed Janus,
+Nature hath framed strange fellows in her time.
+</T>
+<T>
+Some that will evermore peep through their eyes
+And laugh like parrots at a bagpiper,
+And other of such vinegar aspect
+That theyll not show their teeth in way of smile
+Though Nestor swear the jest be laughable.
+</T>
+<T>
+Here comes Bassanio, your most noble kinsman,
+Gratiano, and Lorenzo. Fare ye well.
+We leave you now with better company.
+</T>
+<T>
+SALARINO
+I would have stayed till I had made you merry
+If worthier friends had not prevented me.
+</T>
+<T>
+ANTONIO
+Your worth is very dear in my regard.
+I take it your own business calls on you
+And you embrace th' occasion to depart.
+</T>
+<T>
+SALARINO
+(to BASSANIO, LORENZO, GRATIANO)
+Good morrow, my good lords.
+</T>
+<T>
+BASSANIO
+(to SALARINO and SOLANIO)
+Good signors both, when shall we laugh? Say, when?
+You grow exceeding strange. Must it be so?
+</T>
+<T>
+SALARINO
+Well make our leisures to attend on yours.
+</T>
+<T>
+LORENZO
+My Lord Bassanio, since you have found Antonio,
+We two will leave you. But at dinnertime
+I pray you have in mind where we must meet.
+</T>
+<T>
+BASSANIO
+I will not fail you.
+</T>
+<T>
+GRATIANO
+You look not well, Signor Antonio.
+You have too much respect upon the world.
+They lose it that do buy it with much care.
+Believe me, you are marvelously changed.
+</T>
+<T>
+ANTONIO
+I hold the world but as the world, Gratiano
+A stage where every man must play a part,
+And mine a sad one.
+</T>
+<T>
+GRATIANO
+Let me play the fool.
+With mirth and laughter let old wrinkles come.
+And let my liver rather heat with wine
+Than my heart cool with mortifying groans.
+Why should a man whose blood is warm within
+Sit like his grandsire cut in alabaster,
+Sleep when he wakes, and creep into the jaundice
+By being peevish? I tell thee what, Antonio
+I love thee, and tis my love that speaks
+There are a sort of men whose visages
+Do cream and mantle like a standing pond,
+And do a willful stillness entertain
+With purpose to be dressed in an opinion
+Of wisdom, gravity, profound conceit,
+As who should say, I am Sir Oracle,
+And when I ope my lips, let no dog bark!
+O my Antonio, I do know of these
+That therefore only are reputed wise
+For saying nothing, when I am very sure
+If they should speak, would almost damn those ears
+Which, hearing them, would call their brothers fools.
+Ill tell thee more of this another time.
+But fish not with this melancholy bait
+For this fool gudgeon, this opinion.
+Come, good Lorenzo.Fare ye well awhile.
+Ill end my exhortation after dinner.
+</T>
+<T>
+LORENZO
+Well, we will leave you then till dinnertime.
+I must be one of these same dumb wise men,
+For Gratiano never lets me speak.
+</T>
+<T>
+GRATIANO
+Well, keep me company but two years more,
+Thou shalt not know the sound of thine own tongue.
+</T>
+<T>
+ANTONIO
+Farewell. Ill grow a talker for this gear.
+</T>
+<T>
+GRATIANO
+Thanks, i' faith, for silence is only commendable
+In a neats tongue dried and a maid not vendible.
+</T>
+<T>
+ANTONIO
+Is that any thing now?
+</T>
+<T>
+BASSANIO
+Gratiano speaks an infinite deal of nothing, more thanany man in all Venice. His reasons are as two grains ofwheat hid in two bushels of chaffyou shall seek all dayere you find them, and when you have them they are notworth the search.
+</T>
+<T>
+ANTONIO
+Well, tell me now what lady is the same
+To whom you swore a secret pilgrimage,
+That you today promised to tell me of?
+</T>
+<T>
+BASSANIO
+'Tis not unknown to you, Antonio,
+How much I have disabled mine estate,
+By something showing a more swelling port
+Than my faint means would grant continuance.
+Nor do I now make moan to be abridged
+From such a noble rate. But my chief care
+</T>
+<T>
+Is to come fairly off from the great debts
+Wherein my time something too prodigal
+Hath left me gaged. To you, Antonio,
+I owe the most in money and in love,
+And from your love I have a warranty
+To unburden all my plots and purposes
+How to get clear of all the debts I owe.
+</T>
+<T>
+ANTONIO
+I pray you, good Bassanio, let me know it.
+And if it stand, as you yourself still do,
+Within the eye of honor, be assured
+My purse, my person, my extremest means
+Lie all unlocked to your occasions.
+</T>
+<T>
+BASSANIO
+In my school days, when I had lost one shaft,
+I shot his fellow of the selfsame flight
+The selfsame way with more advisd watch
+To find the other forthand by adventuring both,
+I oft found both. I urge this childhood proof
+Because what follows is pure innocence.
+I owe you much, and, like a willful youth,
+That which I owe is lost. But if you please
+To shoot another arrow that self way
+Which you did shoot the first, I do not doubt,
+As I will watch the aim, or to find both
+Or bring your latter hazard back again
+And thankfully rest debtor for the first.
+</T>
+<T>
+ANTONIO
+You know me well, and herein spend but time
+To wind about my love with circumstance.
+And out of doubt you do me now more wrong
+In making question of my uttermost
+Than if you had made waste of all I have.
+Then do but say to me what I should do
+That in your knowledge may by me be done,
+And I am pressed unto it. Therefore speak.
+</T>
+<T>
+BASSANIO
+In Belmont is a lady richly left,
+And she is fair andfairer than that word
+Of wondrous virtues. Sometimes from her eyes
+I did receive fair speechless messages.
+Her name is Portia, nothing undervalued
+To Catos daughter, Brutus' Portia.
+Nor is the wide world ignorant of her worth,
+For the four winds blow in from every coast
+Renownd suitors, and her sunny locks
+Hang on her temples like a golden fleece,
+Which makes her seat of Belmont Colchos' strand,
+And many Jasons come in quest of her.
+O my Antonio, had I but the means
+To hold a rival place with one of them,
+I have a mind presages me such thrift
+That I should questionless be fortunate!
+</T>
+<T>
+ANTONIO
+Thou knowst that all my fortunes are at sea.
+Neither have I money nor commodity
+To raise a present sum. Therefore go forth,
+Try what my credit can in Venice do
+That shall be racked even to the uttermost
+To furnish thee to Belmont, to fair Portia.
+Go presently inquire, and so will I,
+Where money is, and I no question make
+To have it of my trust or for my sake.
+</T>
+<T>
+PORTIA
+By my troth, Nerissa, my little body is aweary of this greatworld.
+</T>
+<T>
+NERISSA
+You would be, sweet madam, if your miseries were in thesame abundance as your good fortunes are. And yet foraught I see, they are as sick that surfeit with too much asthey that starve with nothing. It is no mean happiness,therefore, to be seated in the mean. Superfluity comessooner by white hairs, but competency lives longer.
+</T>
+<T>
+PORTIA
+Good sentences, and well pronounced.
+</T>
+<T>
+NERISSA
+They would be better if well followed.
+</T>
+<T>
+PORTIA
+If to do were as easy as to know what were good to do,chapels had been churches and poor mens cottagesprinces' palaces. It is a good divine that follows his owninstructions. I can easier teach twenty what were good tobe done than be one of the twenty to follow mine ownteaching. The brain may devise laws for the blood, but ahot temper leaps o'er a cold decree. Such a hare ismadness the youthto skip o'er the meshes of goodcounsel the cripple. But this reasoning is not in thefashion to choose me a husband. O me, the wordchoose! I may neither choose whom I would nor refusewhom I dislikeso is the will of a living daughter curbedby the will of a dead father. Is it not hard, Nerissa, that Icannot choose one nor refuse none?
+</T>
+<T>
+SHYLOCK
+Three thousand ducats, well.
+</T>
+<T>
+BASSANIO
+Ay, sir, for three months.
+</T>
+<T>
+SHYLOCK
+For three months, well.
+</T>
+<T>
+BASSANIO
+For the which, as I told you, Antonio shall be bound.
+</T>
+<T>
+SHYLOCK
+Antonio shall become bound, well.
+</T>
+<T>
+BASSANIO
+May you stead me? Will you pleasure me? Shall I knowyour answer?
+</T>
+<T>
+SHYLOCK
+Three thousand ducats for three months, and Antoniobound.
+</T>
+<T>
+BASSANIO
+Your answer to that?
+</T>
+<T>
+SHYLOCK
+Antonio is a good man.
+</T>
+<T>
+BASSANIO
+Have you heard any imputation to the contrary?
+</T>
+<T>
+SHYLOCK
+Ho, no, no, no, no. My meaning in saying he is a goodman is to have you understand me that he is sufficient. Yethis means are in supposition. He hath an argosy bound toTripolis, another to the Indies. I understand moreover,upon the Rialto, he hath a third at Mexico, a fourth forEngland, and other ventures he hath squandered abroad.
+</T>
+<T>
+MOROCCO
+Mislike me not for my complexion,
+The shadowed livery of the burnished sun,
+To whom I am a neighbor and near bred.
+Bring me the fairest creature northward born,
+Where Phoebus' fire scarce thaws the icicles,
+And let us make incision for your love
+To prove whose blood is reddest, his or mine.
+I tell thee, lady, this aspect of mine
+Hath feared the valiant. By my love I swear
+The best-regarded virgins of our clime
+Have loved it too. I would not change this hue
+Except to steal your thoughts, my gentle queen.
+</T>
+<T>
+PORTIA
+In terms of choice I am not solely led
+By nice direction of a maidens eyes.
+Besides, the lottery of my destiny
+Bars me the right of voluntary choosing.
+But if my father had not scanted me
+And hedged me by his wit to yield myself
+His wife who wins me by that means I told you,
+Yourself, renownd Prince, then stood as fair
+As any comer I have looked on yet
+For my affection.
+</T>
+<T>
+LAUNCELOT
+Certainly my conscience will serve me to run from thisJew, my master. The fiend is at mine elbow and temptsme, saying to me, Gobbo, Launcelot Gobbo, GoodLauncelot, or Good Gobbo, or Good LauncelotGobbo use your legs, take the start, run away. Myconscience says, No. Take heed, honest Launcelot. Takeheed, honest Gobbo, or as aforesaid, Honest LauncelotGobbo, do not run. Scorn running with thy heels. Well,the most courageous fiend bids me pack. Fia! says thefiend. Away! says the fiend. For the heavens, rouse upa brave mind, says the fiend, and run. Well, myconscience, hanging about the neck of my heart, says verywisely to me, My honest friend Launcelot, being anhonest mans sonor rather an honest womans son, forindeed my father did something smack, something growto. He had a kind of taste.Well, my conscience says,Launcelot, budge not. Budge! says the fiend.Budge not, says my conscience. Conscience, say I,you counsel well. Fiend, say I, you counsel well.To be ruled by my conscience I should stay with the Jewmy master, who, God bless the mark, is a kind of devil.And to run away from the Jew I should be ruled by thefiend, who, saving your reverence, is the devil himself.Certainly the Jew is the very devil incarnation. And in myconscience, my conscience is but a kind of hardconscience, to offer to counsel me to stay with the Jew.The fiend gives the more friendly counsel. I will run,fiend. My heels are at your command. I will run.
+</T>
+<T>
+JESSICA
+I am sorry thou wilt leave my father so.
+Our house is hell, and thou, a merry devil,
+Didst rob it of some taste of tediousness.
+But fare thee well, there is a ducat for thee.
+And Launcelot, soon at supper shalt thou see
+Lorenzo, who is thy new masters guest.
+Give him this letter.
+(gives LAUNCELOT a letter)
+Do it secretly.
+And so farewell. I would not have my father
+See me in talk with thee.
+</T>
+<T>
+LAUNCELOT
+Adieu! Tears exhibit my tongue. Most beautiful pagan,most sweet Jew! If a Christian do not play the knave andget thee, I am much deceived. But adieu. These foolishdrops do something drown my manly spirit. Adieu.
+</T>
+<T>
+JESSICA
+Farewell, good Launcelot.
+</T>
+<T>
+Alack, what heinous sin is it in me
+To be ashamed to be my fathers child!
+But though I am a daughter to his blood,
+I am not to his manners. O Lorenzo,
+If thou keep promise, I shall end this strife,
+Become a Christian and thy loving wife.
+</T>
+<T>
+LORENZO
+Nay, we will slink away in supper time,
+Disguise us at my lodging, and return,
+All in an hour.
+</T>
+<T>
+GRATIANO
+We have not made good preparation.
+</T>
+<T>
+SALARINO
+We have not spoke us yet of torchbearers.
+</T>
+<T>
+SOLANIO
+'Tis vile, unless it may be quaintly ordered,
+And better in my mind not undertook.
+</T>
+<T>
+LORENZO
+'Tis now but four o'clock. We have two hours
+To furnish us.
+</T>
+<T>
+Friend Launcelot, whats the news?
+</T>
+<T>
+LAUNCELOT
+(giving LORENZO the letter)
+An it shall please you to break up this, it shall seem to signify.
+</T>
+<T>
+LORENZO
+I know the hand. In faith, tis a fair hand,
+And whiter than the paper it writ on
+Is the fair hand that writ.
+</T>
+<T>
+GRATIANO
+Love news, in faith?
+</T>
+<T>
+LAUNCELOT
+(to LORENZO) By your leave, sir.
+</T>
+<T>
+SHYLOCK
+Well, thou shalt see, thy eyes shall be thy judge,
+The difference of old Shylock and Bassanio.
+What, Jessica!Thou shalt not gormandize
+As thou hast done with me.What, Jessica!
+And sleep and snore, and rend apparel out
+Why, Jessica, I say!
+</T>
+<T>
+LAUNCELOT
+Why, Jessica!
+</T>
+<T>
+SHYLOCK
+Who bids thee call? I do not bid thee call.
+</T>
+<T>
+LAUNCELOT
+Your worship was wont to tell me that I could do nothingwithout bidding.
+</T>
+<T>
+JESSICA
+Call you? What is your will?
+</T>
+<T>
+SHYLOCK
+I am bid forth to supper, Jessica.
+There are my keys.But wherefore should I go?
+I am not bid for love. They flatter me.
+But yet Ill go in hate to feed upon
+The prodigal Christian.Jessica, my girl,
+Look to my house. I am right loath to go.
+There is some ill a-brewing towards my rest,
+For I did dream of money bags tonight.
+</T>
+<T>
+GRATIANO
+This is the penthouse under which Lorenzo
+Desired us to make stand.
+</T>
+<T>
+SALARINO
+His hour is almost past.
+</T>
+<T>
+GRATIANO
+And it is marvel he outdwells his hour,
+For lovers ever run before the clock.
+</T>
+<T>
+SALARINO
+Oh, ten times faster Venus' pigeons fly
+To seal loves bonds new made than they are wont
+To keep obligd faith unforfeited.
+</T>
+<T>
+GRATIANO
+That ever holds. Who riseth from a feast
+With that keen appetite that he sits down?
+Where is the horse that doth untread again
+His tedious measures with the unbated fire
+That he did pace them first? All things that are,
+Are with more spirit chasd than enjoyed.
+How like a younger or a prodigal
+The scarfd bark puts from her native bay,
+Hugged and embrad by the strumpet wind!
+How like the prodigal doth she return,
+With overweathered ribs and ragged sails
+Lean, rent, and beggared by the strumpet wind!
+</T>
+<T>
+SALARINO
+Here comes Lorenzo. More of this hereafter.
+</T>
+<T>
+PORTIA
+(to servant) Go draw aside the curtains and discover
+The several caskets to this noble prince.
+</T>
+<T>
+A curtain is drawn showing a gold, silver, and lead casket
+</T>
+<T>
+(to MOROCCO) Now make your choice.
+</T>
+<T>
+MOROCCO
+The first, of gold, who this inscription bears:
+Who chooseth me shall gain what many men desire.
+The second, silver, which this promise carries:
+Who chooseth me shall get as much as he deserves.
+This third, dull lead, with warning all as blunt:
+Who chooseth me must give and hazard all he hath.
+How shall I know if I do choose the right?
+</T>
+<T>
+PORTIA
+The one of them contains my picture, Prince.
+If you choose that, then I am yours withal.
+</T>
+<T>
+MOROCCO
+Some god direct my judgment! Let me see.
+I will survey th' inscriptions back again.
+What says this leaden casket?
+Who chooseth me must give and hazard all he hath.
+Must givefor what? For lead? Hazard for lead?
+This casket threatens. Men that hazard all
+Do it in hope of fair advantages.
+A golden mind stoops not to shows of dross.
+Ill then nor give nor hazard aught for lead.
+What says the silver with her virgin hue?
+</T>
+<T>
+SALARINO
+Why, man, I saw Bassanio under sail.
+With him is Gratiano gone along.
+And in their ship I am sure Lorenzo is not.
+</T>
+<T>
+SOLANIO
+The villain Jew with outcries raised the Duke,
+Who went with him to search Bassanios ship.
+</T>
+<T>
+SALARINO
+He came too late. The ship was under sail.
+But there the Duke was given to understand
+That in a gondola were seen together
+Lorenzo and his amorous Jessica.
+Besides, Antonio certified the Duke
+They were not with Bassanio in his ship.
+</T>
+<T>
+SOLANIO
+I never heard a passion so confused,
+So strange, outrageous, and so variable,
+As the dog Jew did utter in the streets.
+My daughter! O my ducats! O my daughter,
+Fled with a Christian! O my Christian ducats!
+Justice, the law, my ducats, and my daughter!
+A seald bag, two seald bags of ducats,
+Of double ducats, stol'n from me by my daughter!
+And jewelstwo stones, two rich and precious stones
+Stol'n by my daughter! Justice, find the girl!
+She hath the stones upon her, and the ducats.
+</T>
+<T>
+SALARINO
+Why, all the boys in Venice follow him,
+Crying, His stones, his daughter, and his ducats!
+</T>
+<T>
+NERISSA
+Quick, quick, I pray thee. Draw the curtain straight.
+The Prince of Arragon hath ta'en his oath
+And comes to his election presently.
+</T>
+<T>
+PORTIA
+Behold, there stand the caskets, noble Prince.
+If you choose that wherein I am contained,
+Straight shall our nuptial rites be solemnized.
+But if you fail, without more speech, my lord,
+You must be gone from hence immediately.
+</T>
+<T>
+ARRAGON
+I am enjoined by oath to observe three things:
+First, never to unfold to any one
+Which casket twas I chose; next, if I fail
+Of the right casket, never in my life
+To woo a maid in way of marriage; lastly,
+If I do fail in fortune of my choice,
+Immediately to leave you and be gone.
+</T>
+<T>
+PORTIA
+To these injunctions every one doth swear
+That comes to hazard for my worthless self.
+</T>
+<T>
+ARRAGON
+And so have I addressed me. Fortune now
+To my hearts hope! Gold, silver, and base lead.
+Who chooseth me must give and hazard all he hath.
+You shall look fairer ere I give or hazard.
+What says the golden chest? Ha, let me see.
+Who chooseth me shall gain what many men desire.
+</T>
+<T>
+SOLANIO
+Now, what news on the Rialto?
+</T>
+<T>
+SALARINO
+Why, yet it lives there unchecked that Antonio hath aship of rich lading wracked on the narrow seas. TheGoodwins I think they call the placea very dangerousflat, and fatal, where the carcasses of many a tall ship lieburied, as they say, if my gossip report be an honestwoman of her word.
+</T>
+<T>
+SOLANIO
+I would she were as lying a gossip in that as ever knappedginger or made her neighbors believe she wept for thedeath of a third husband. But it is true, without any slipsof prolixity or crossing the plain highway of talk, that thegood Antonio, the honest Antoniooh, that I had a titlegood enough to keep his name company!
+</T>
+<T>
+SALARINO
+Come, the full stop.
+</T>
+<T>
+SOLANIO
+Ha, what sayest thou? Why, the end is he hath lost a ship.
+</T>
+<T>
+SALARINO
+I would it might prove the end of his losses.
+</T>
+<T>
+SOLANIO
+Let me say Amen betimes, lest the devil cross myprayer, for here he comes in the likeness of a Jew.
+</T>
+<T>
+PORTIA
+(to BASSANIO) I pray you, tarry. Pause a day or two
+Before you hazard, for in choosing wrong
+I lose your company. Therefore forbear awhile.
+Theres something tells mebut it is not love
+I would not lose you, and you know yourself
+Hate counsels not in such a quality.
+But lest you should not understand me well
+And yet a maiden hath no tongue but thought
+I would detain you here some month or two
+Before you venture for me. I could teach you
+How to choose right, but I am then forsworn.
+So will I never be. So may you miss me.
+But if you do, youll make me wish a sin,
+That I had been forsworn. Beshrew your eyes,
+They have o'erlooked me and divided me.
+One half of me is yours, the other half yours
+Mine own, I would say. But if mine, then yours,
+And so all yours. Oh, these naughty times
+Put bars between the owners and their rights!
+And so, though yours, not yours. Prove it so.
+Let Fortune go to hell for it, not I.
+I speak too long, but tis to peize the time,
+To eke it and to draw it out in length,
+To stay you from election.
+</T>
+<T>
+BASSANIO
+Let me choose,
+For as I am, I live upon the rack.
+</T>
+<T>
+PORTIA
+Upon the rack, Bassanio? Then confess
+What treason there is mingled with your love.
+</T>
+<T>
+SHYLOCK
+Jailer, look to him. Tell not me of mercy.
+This is the fool that lent out money gratis.
+Jailer, look to him.
+</T>
+<T>
+ANTONIO
+Hear me yet, good Shylock.
+</T>
+<T>
+SHYLOCK
+Ill have my bond. Speak not against my bond.
+I have sworn an oath that I will have my bond.
+Thou calledst me dog before thou hadst a cause.
+But since I am a dog, beware my fangs.
+The duke shall grant me justice.I do wonder,
+Thou naughty jailer, that thou art so fond
+To come abroad with him at his request.
+</T>
+<T>
+ANTONIO
+I pray thee, hear me speak.
+</T>
+<T>
+SHYLOCK
+Ill have my bond. I will not hear thee speak.
+Ill have my bond, and therefore speak no more.
+Ill not be made a soft and dull-eyed fool
+To shake the head, relent and sigh, and yield
+To Christian intercessors. Follow not.
+Ill have no speaking. I will have my bond.
+</T>
+<T>
+SOLANIO
+It is the most impenetrable cur
+That ever kept with men.
+</T>
+<T>
+LORENZO
+Madam, although I speak it in your presence,
+You have a noble and a true conceit
+Of godlike amity, which appears most strongly
+In bearing thus the absence of your lord.
+But if you knew to whom you show this honor,
+How true a gentleman you send relief,
+How dear a lover of my lord your husband,
+I know you would be prouder of the work
+Than customary bounty can enforce you.
+</T>
+<T>
+PORTIA
+I never did repent for doing good,
+Nor shall not now; for in companions
+That do converse and waste the time together
+Whose souls do bear an equal yoke of love,
+There must be needs a like proportion
+Of lineaments, of manners, and of spirit,
+Which makes me think that this Antonio,
+Being the bosom lover of my lord,
+Must needs be like my lord. If it be so,
+How little is the cost I have bestowed
+In purchasing the semblance of my soul
+From out the state of hellish cruelty!
+This comes too near the praising of myself.
+Therefore no more of it. Hear other things.
+Lorenzo, I commit into your hands
+The husbandry and manage of my house
+Until my lords return.
+</T>
+<T>
+LAUNCELOT
+Yes, truly, for look you, the sins of the father are to be laidupon the children. Therefore I promise ye I fear you. Iwas always plain with you, and so now I speak myagitation of the matter. Therefore be o' good cheer, fortruly I think you are damned. There is but one hope in itthat can do you any good, and that is but a kind of bastardhope neither.
+</T>
+<T>
+JESSICA
+And what hope is that, I pray thee?
+</T>
+<T>
+LAUNCELOT
+Marry, you may partly hope that your father got you not,that you are not the Jews daughter.
+</T>
+<T>
+JESSICA
+That were a kind of bastard hope indeed. So the sins of mymother should be visited upon me.
+</T>
+<T>
+LAUNCELOT
+Truly then I fear you are damned both by father andmother. Thus when I shun Scylla your father, I fall intoCharybdis your mother. Well, you are gone both ways.
+</T>
+<T>
+JESSICA
+I shall be saved by my husband. He hath made me a
+Christian.
+</T>
+<T>
+LAUNCELOT
+Truly, the more to blame he. We were Christians eno'before, e'en as many as could well live one by another.This making Christians will raise the price of hogs. If wegrow all to be pork-eaters, we shall not shortly have arasher on the coals for money.
+</T>
+<T>
+DUKE
+What, is Antonio here?
+</T>
+<T>
+ANTONIO
+Ready, so please your grace.
+</T>
+<T>
+DUKE
+I am sorry for thee. Thou art come to answer
+A stony adversary, an inhuman wretch
+Uncapable of pity, void and empty
+From any dram of mercy.
+</T>
+<T>
+ANTONIO
+I have heard
+Your grace hath ta'en great pains to qualify
+His rigorous course. But since he stands obdurate
+And that no lawful means can carry me
+Out of his envys reach, I do oppose
+My patience to his fury, and am armed
+To suffer with a quietness of spirit
+The very tyranny and rage of his.
+</T>
+<T>
+DUKE
+Go, one, and call the Jew into the court.
+</T>
+<T>
+SALERIO
+He is ready at the door. He comes, my lord.
+</T>
+<T>
+PORTIA
+Inquire the Jews house out. Give him this deed,
+And let him sign it. Well away tonight,
+And be a day before our husbands home.
+This deed will be well welcome to Lorenzo.
+</T>
+<T>
+GRATIANO
+(giving PORTIA BASSANIOs ring)
+Fair sir, you are well o'erta'en.
+My Lord Bassanio upon more advice
+Hath sent you here this ring, and doth entreat
+Your company at dinner.
+</T>
+<T>
+PORTIA
+That cannot be.
+His ring I do accept most thankfully.
+And so I pray you tell him. Furthermore,
+I pray you show my youth old Shylocks house.
+</T>
+<T>
+GRATIANO
+That will I do.
+</T>
+<T>
+NERISSA
+(to PORTIA)
+Sir, I would speak with you.
+(aside to PORTIA)
+Ill see if I can get my husbands ring,
+Which I did make him swear to keep for ever.
+</T>
+<T>
+PORTIA
+(aside to NERISSA)
+Thou mayst, I warrant. We shall have old swearing
+That they did give the rings away to men.
+But well outface them, and outswear them too.
+</T>
+<T>
+LORENZO
+The moon shines bright. In such a night as this,
+When the sweet wind did gently kiss the trees
+And they did make no noise, in such a night
+Troilus methinks mounted the Trojan walls
+And sighed his soul toward the Grecian tents
+Where Cressid lay that night.
+</T>
+<T>
+JESSICA
+In such a night
+Did Thisbe fearfully o'ertrip the dew
+And saw the lions shadow ere himself
+And ran dismayed away.
+</T>
+<T>
+LORENZO
+In such a night
+Stood Dido with a willow in her hand
+Upon the wild sea banks, and waft her love
+To come again to Carthage.
+</T>
+<T>
+JESSICA
+In such a night
+Medea gathered the enchanted herbs
+That did renew old son.
+</T>

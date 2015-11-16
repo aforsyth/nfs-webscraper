@@ -1,0 +1,432 @@
+<T>
+MASTER
+Boatswain!
+</T>
+<T>
+BOATSWAIN
+Here, master. What cheer?
+</T>
+<T>
+MASTER
+Good, speak to th' mariners. Fall to t yarely, or we run ourselves aground. Bestir, bestir.
+</T>
+<T>
+BOATSWAIN
+Heigh, my hearts! Cheerly, cheerly, my hearts! Yare! Yare!
+Take in the topsail.Tend to th' masters whistle.Blow, till thou burst thy wind, if room enough!
+</T>
+<T>
+ALONSO
+Good Boatswain, have care. Wheres the Master?
+Play the men.
+</T>
+<T>
+BOATSWAIN
+I pray now, keep below.
+</T>
+<T>
+ANTONIO
+Where is the Master, Boatswain?
+</T>
+<T>
+BOATSWAIN
+Do you not hear him? You mar our labor. Keep your cabins.
+You do assist the storm.
+</T>
+<T>
+GONZALO
+Nay, good, be patient.
+</T>
+<T>
+BOATSWAIN
+When the sea is. Hence! What cares these roarers for the name of king? To cabin, silence! Trouble us not.
+</T>
+<T>
+GONZALO
+Good, yet remember whom thou hast aboard.
+</T>
+<T>
+BOATSWAIN
+None that I more love than myself. You are a councilor. If you can command these elements to silence and work the peace of the present, we will not hand a rope more. Use your authority. If you cannot, give thanks you have lived so long and make yourself ready in your cabin for the mischance of the hour, if it so hap.Cheerly, good hearts!Out of our way, I say.
+</T>
+<T>
+GONZALO
+I have great comfort from this fellow. Methinks he hath no drowning mark upon him. His complexion is perfect gallows. Stand fast, good Fate, to his hanging. Make the rope of his destiny our cable, for our own doth little advantage. If he be not born to be hanged, our case is miserable.
+</T>
+<T>
+BOATSWAIN
+Down with the topmast! Yare, lower, lower! Bring her to try wi' th' main course.
+</T>
+<T>
+A plague upon this howling! They are louder than the weather or our office.
+</T>
+<T>
+Yet again? What do you here? Shall we give o'er and drown?
+Have you a mind to sink?
+</T>
+<T>
+SEBASTIAN
+A pox o' your throat, you bawling, blasphemous, incharitable dog!
+</T>
+<T>
+BOATSWAIN
+Work you, then.
+</T>
+<T>
+ANTONIO
+Hang, cur! Hang, you whoreson insolent noisemaker! We are less afraid to be drowned than thou art.
+</T>
+<T>
+GONZALO
+Ill warrant him for drowning though the ship were no stronger than a nutshell and as leaky as an unstanched wench.
+</T>
+<T>
+BOATSWAIN
+Lay her a-hold, a-hold! Set her two courses off to sea again.
+Lay her off!
+</T>
+<T>
+MARINERS
+All lost! To prayers, to prayers, all lost!
+</T>
+<T>
+BOATSWAIN
+What, must our mouths be cold?
+</T>
+<T>
+GONZALO
+The king and prince at prayers. Lets assist them, for our case is as theirs.
+</T>
+<T>
+SEBASTIAN
+Im out of patience.
+</T>
+<T>
+ANTONIO
+We are merely cheated of our lives by drunkards. This wide-chopped rascalwould thou mightst lie drowning the washing of ten tides!
+</T>
+<T>
+GONZALO
+Hell be hanged yet, though every drop of water swear against it and gape at widest to glut him.
+</T>
+<T>
+VOICES
+(within) Mercy on us!We split, we split!Farewell, my wife and children!Farewell, brother!We split, we split, we split!
+</T>
+<T>
+ANTONIO
+Lets all sink wi' th' king.
+</T>
+<T>
+SEBASTIAN
+Lets take leave of him.
+</T>
+<T>
+GONZALO
+Now would I give a thousand furlongs of sea for an acre of barren ground: long heath, brown furze, anything. The wills above be done, but I would fain die a dry death.
+</T>
+<T>
+MIRANDA
+If by your art, my dearest father, you have
+Put the wild waters in this roar, allay them.
+The sky, it seems, would pour down stinking pitch,
+But that the sea, mounting to th' welkins cheek,
+Dashes the fire out. Oh, I have suffered
+With those that I saw suffer. A brave vessel
+Who had, no doubt, some noble creature in her
+Dashed all to pieces. Oh, the cry did knock
+Against my very heart! Poor souls, they perished.
+Had I been any god of power, I would
+Have sunk the sea within the earth or ere
+It should the good ship so have swallowed and
+The fraughting souls within her.
+</T>
+<T>
+PROSPERO
+Be collected.
+No more amazement. Tell your piteous heart
+Theres no harm done.
+</T>
+<T>
+MIRANDA
+Oh, woe the day!
+</T>
+<T>
+PROSPERO
+No harm.
+I have done nothing but in care of thee,
+Of thee, my dear onethee my daughter, who
+Art ignorant of what thou art, naught knowing
+Of whence I am, nor that I am more better
+Than Prospero, master of a full poor cell
+And thy no greater father.
+</T>
+<T>
+MIRANDA
+More to know
+Did never meddle with my thoughts.
+</T>
+<T>
+GONZALO
+(to ALONSO)
+Beseech you, sir, be merry. You have cause,
+So have we all, of joy, for our escape
+Is much beyond our loss. Our hint of woe
+Is common. Every day some sailors wife,
+The masters of some merchant, and the merchant
+Have just our theme of woe. But for the miracle
+I mean our preservationfew in millions
+Can speak like us. Then wisely, good sir, weigh
+Our sorrow with our comfort.
+</T>
+<T>
+ALONSO
+Prithee, peace.
+</T>
+<T>
+SEBASTIAN
+(to ANTONIO) He receives comfort like cold porridge.
+</T>
+<T>
+ANTONIO
+(to SEBASTIAN) The visitor will not give him o'er so.
+</T>
+<T>
+SEBASTIAN
+Look hes winding up the watch of his wit. By and by it will strike.
+</T>
+<T>
+GONZALO
+(to ALONSO) Sir
+</T>
+<T>
+SEBASTIAN
+(to ANTONIO) One. Tell.
+</T>
+<T>
+GONZALO
+When every grief is entertained thats offered,
+Comes to th' entertainer
+</T>
+<T>
+CALIBAN
+All the infections that the sun sucks up
+From bogs, fens, flats, on Prosper fall and make him
+By inchmeal a disease! His spirits hear me
+And yet I needs must curse. But theyll nor pinch,
+Fright me with urchin-shows, pitch me i' th' mire,
+Nor lead me like a firebrand in the dark
+Out of my way, unless he bid 'em. But
+For every trifle are they set upon me,
+Sometime like apes that mow and chatter at me,
+And after bite me, then like hedgehogs which
+Lie tumbling in my barefoot way and mount
+Their pricks at my footfall. Sometime am I
+All wound with adders who with cloven tongues
+Do hiss me into madness.
+</T>
+<T>
+Lo, now, lo!
+Here comes a spirit of his, and to torment me
+For bringing wood in slowly. Ill fall flat.
+Perchance he will not mind me.
+(lies down, covered by his gaberdine)
+</T>
+<T>
+TRINCULO
+Heres neither bush nor shrub to bear off any weather at all.
+And another storm brewing, I hear it sing i' th' wind. Yond same black cloud, yond huge one, looks like a foul bombard that would shed his liquor. If it should thunder as it did before, I know not where to hide my head. Yond same cloud cannot choose but fall by pailfuls. (sees CALIBAN)
+</T>
+<T>
+FERDINAND
+There be some sports are painful, and their labor
+Delight in them sets off. Some kinds of baseness
+Are nobly undergone. And most poor matters
+Point to rich ends. This my mean task
+Would be as heavy to me as odious, but
+The mistress which I serve quickens whats dead
+And makes my labors pleasures. Oh, she is
+Ten times more gentle than her fathers crabbed,
+And hes composed of harshness. I must remove
+Some thousands of these logs and pile them up,
+Upon a sore injunction. My sweet mistress
+Weeps when she sees me work, and says such baseness
+Had never like executor. I forget,
+But these sweet thoughts do even refresh my labors,
+Most busiest when I do it.
+</T>
+<T>
+MIRANDA
+Alas now, pray you,
+Work not so hard. I would the lightning had
+Burnt up those logs that you are enjoined to pile!
+Pray, set it down and rest you. When this burns,
+'Twill weep for having wearied you. My father
+Is hard at study. Pray now, rest yourself.
+Hes safe for these three hours.
+</T>
+<T>
+STEPHANO
+Tell not me. When the butt is out, we will drink water. Nota drop before. Therefore bear up and board 'em.Servant-monster, drink to me.
+</T>
+<T>
+TRINCULO
+Servant-monster? The folly of this island. They saytheres but five upon this isle. We are three of them. If th' other two be brained like us, the state totters.
+</T>
+<T>
+STEPHANO
+Drink, servant-monster, when I bid thee. Thy eyes arealmost set in thy head.
+</T>
+<T>
+TRINCULO
+Where should they be set else? He were a brave monsterindeed, if they were set in his tail.
+</T>
+<T>
+STEPHANO
+My man-monster hath drowned his tongue in sack. For mypart, the sea cannot drown me. I swam, ere I could recoverthe shore, five and thirty leagues off and on. By this light,thou shalt be my lieutenant, monster, or my standard.
+</T>
+<T>
+TRINCULO
+Your lieutenant, if you list. Hes no standard.
+</T>
+<T>
+STEPHANO
+Well not run, Monsieur Monster.
+</T>
+<T>
+TRINCULO
+Nor go neither. But youll lie like dogs, and yet say nothingneither.
+</T>
+<T>
+GONZALO
+(to ALONSO) By 'r lakin, I can go no further, sir.
+My old bones ache. Heres a maze trod indeed
+Through forthrights and meanders. By your patience,
+I needs must rest me.
+</T>
+<T>
+ALONSO
+Old lord, I cannot blame thee,
+Who am myself attached with weariness
+To th' dulling of my spirits. Sit down and rest.
+Even here I will put off my hope and keep it
+No longer for my flatterer. He is drowned
+Whom thus we stray to find, and the sea mocks
+Our frustrate search on land. Well, let him go.
+</T>
+<T>
+ANTONIO
+(aside to SEBASTIAN) I am right glad that hes so out of hope.
+Do not for one repulse forego the purpose
+That you resolved t' effect.
+</T>
+<T>
+SEBASTIAN
+(aside to ANTONIO)The next advantage
+Will we take throughly.
+</T>
+<T>
+ANTONIO
+(aside to SEBASTIAN)Let it be tonight,
+For now they are oppressed with travel. They
+Will not, nor cannot, use such vigilance
+As when they are fresh.
+</T>
+<T>
+PROSPERO
+(to FERDINAND) If I have too austerely punished you,
+Your compensation makes amends, for I
+Have given you here a third of mine own life
+Or that for which I livewho once again
+I tender to thy hand. All thy vexations
+Were but my trials of thy love and thou
+Hast strangely stood the test. Here, afore heaven,
+I ratify this my rich gift. O Ferdinand,
+Do not smile at me that I boast of her,
+For thou shalt find she will outstrip all praise
+And make it halt behind her.
+</T>
+<T>
+FERDINAND
+
+I do believe it
+Against an oracle.
+</T>
+<T>
+PROSPERO
+Then as my gift and thine own acquisition
+Worthily purchased, take my daughter. But
+If thou dost break her virgin knot before
+All sanctimonious ceremonies may
+With full and holy rite be ministered,
+No sweet aspersion shall the heavens let fall
+To make this contract grow, but barren hate,
+Sour-eyed disdain, and discord shall bestrew
+The union of your bed with weeds so loathly
+That you shall hate it both. Therefore take heed,
+As Hymens lamps shall light you.
+</T>
+<T>
+PROSPERO
+Now does my project gather to a head.
+My charms crack not, my spirits obey, and time
+Goes upright with his carriage. Hows the day?
+</T>
+<T>
+ARIEL
+On the sixth hour, at which time, my lord,
+You said our work should cease.
+</T>
+<T>
+PROSPERO
+I did say so
+When first I raised the tempest. Say, my spirit,
+How fares the king and s followers?
+</T>
+<T>
+ARIEL
+Confined together
+In the same fashion as you gave in charge,
+Just as you left them, all prisoners, sir,
+In the line grove which weather-fends your cell.
+They cannot budge till your release. The king,
+His brother, and yours, abide all three distracted,
+And the remainder mourning over them,
+Brimful of sorrow and dismay. But chiefly
+Him that you termed, sir, the good old Lord Gonzalo,
+His tears run down his beard like winters drops
+From eaves of reeds. Your charm so strongly works 'em
+That if you now beheld them, your affections
+Would become tender.
+</T>
+<T>
+PROSPERO
+Dost thou think so, spirit?
+</T>
+<T>
+ARIEL
+Mine would, sir, were I human.
+</T>
+<T>
+PROSPERO
+Now my charms are all o'erthrown,
+And what strength I haves mine own,
+Which is most faint. Now, tis true,
+I must be here confined by you,
+Or sent to Naples. Let me not,
+Since I have my dukedom got
+And pardoned the deceiver, dwell
+In this bare island by your spell,
+But release me from my bands
+With the help of your good hands.
+Gentle breath of yours my sails
+Must fill, or else my project fails,
+Which was to please. Now I want
+Spirits to enforce, art to enchant,
+And my ending is despair,
+Unless I be relieved by prayer,
+Which pierces so that it assaults
+Mercy itself and frees all faults.
+As you from crimes would pardoned be,
+Let your indulgence set me free.
+</T>

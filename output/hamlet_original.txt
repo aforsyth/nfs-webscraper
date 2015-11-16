@@ -1,0 +1,1131 @@
+<T>
+BARNARDO
+Whos there?
+</T>
+<T>
+FRANCISCO
+Nay, answer me. Stand and unfold yourself.
+</T>
+<T>
+BARNARDO
+Long live the king!
+</T>
+<T>
+FRANCISCO
+Barnardo?
+</T>
+<T>
+BARNARDO
+He.
+</T>
+<T>
+FRANCISCO
+You come most carefully upon your hour.
+</T>
+<T>
+BARNARDO
+'Tis now struck twelve. Get thee to bed, Francisco.
+</T>
+<T>
+FRANCISCO
+For this relief much thanks. 'Tis bitter cold,
+And I am sick at heart.
+</T>
+<T>
+BARNARDO
+Have you had quiet guard?
+</T>
+<T>
+FRANCISCO
+Not a mouse stirring.
+</T>
+<T>
+BARNARDO
+Well, good night.
+If you do meet Horatio and Marcellus,
+The rivals of my watch, bid them make haste.
+</T>
+<T>
+FRANCISCO
+I think I hear them.Stand, ho! Whos there?
+</T>
+<T>
+HORATIO
+Friends to this ground.
+</T>
+<T>
+MARCELLUS
+And liegemen to the Dane.
+</T>
+<T>
+FRANCISCO
+Give you good night.
+</T>
+<T>
+MARCELLUS
+O, farewell, honest soldier. Who hath relieved you?
+</T>
+<T>
+FRANCISCO
+Barnardo has my place. Give you good night.
+</T>
+<T>
+MARCELLUS
+Holla, Barnardo.
+</T>
+<T>
+BARNARDO
+Say what, is Horatio there?
+</T>
+<T>
+HORATIO
+A piece of him.
+</T>
+<T>
+BARNARDO
+Welcome, Horatio.Welcome, good Marcellus.
+</T>
+<T>
+MARCELLUS
+What, has this thing appeared again tonight?
+</T>
+<T>
+BARNARDO
+I have seen nothing.
+</T>
+<T>
+MARCELLUS
+Horatio says tis but our fantasy
+And will not let belief take hold of him
+Touching this dreaded sight twice seen of us.
+Therefore I have entreated him along
+With us to watch the minutes of this night,
+That if again this apparition come
+He may approve our eyes and speak to it.
+</T>
+<T>
+HORATIO
+Tush, tush, twill not appear.
+</T>
+<T>
+BARNARDO
+Sit down a while
+And let us once again assail your ears,
+That are so fortified against our story,
+What we have two nights seen.
+</T>
+<T>
+HORATIO
+Well, sit we down,
+And let us hear Barnardo speak of this.
+</T>
+<T>
+BARNARDO
+Last night of all,
+When yond same star thats westward from the pole
+Had made his course t' illume that part of heaven
+Where now it burns, Marcellus and myself,
+The bell then beating one
+</T>
+<T>
+MARCELLUS
+Peace, break thee off. Look where it comes again!
+</T>
+<T>
+BARNARDO
+In the same figure like the king thats dead.
+</T>
+<T>
+MARCELLUS
+(to HORATIO) Thou art a scholar. Speak to it, Horatio.
+</T>
+<T>
+BARNARDO
+Looks it not like the king? Mark it, Horatio.
+</T>
+<T>
+HORATIO
+Most like. It harrows me with fear and wonder.
+</T>
+<T>
+BARNARDO
+It would be spoke to.
+</T>
+<T>
+MARCELLUS
+Question it, Horatio.
+</T>
+<T>
+HORATIO
+What art thou that usurpst this time of night
+Together with that fair and warlike form
+In which the majesty of buried Denmark
+Did sometimes march? By heaven, I charge thee, speak.
+</T>
+<T>
+MARCELLUS
+It is offended.
+</T>
+<T>
+BARNARDO
+See, it stalks away.
+</T>
+<T>
+HORATIO
+Stay! Speak, speak! I charge thee, speak!
+</T>
+<T>
+MARCELLUS
+'Tis gone and will not answer.
+</T>
+<T>
+BARNARDO
+How now, Horatio? You tremble and look pale.
+Is not this something more than fantasy?
+What think you on t?
+</T>
+<T>
+HORATIO
+Before my God, I might not this believe
+Without the sensible and true avouch
+Of mine own eyes.
+</T>
+<T>
+MARCELLUS
+Is it not like the king?
+</T>
+<T>
+HORATIO
+As thou art to thyself.
+Such was the very armour he had on
+When he the ambitious Norway combated.
+So frowned he once when, in an angry parle,
+He smote the sledded Polacks on the ice.
+'Tis strange.
+</T>
+<T>
+MARCELLUS
+Thus twice before, and jump at this dead hour,
+With martial stalk hath he gone by our watch.
+</T>
+<T>
+HORATIO
+In what particular thought to work I know not,
+But in the gross and scope of mine opinion
+This bodes some strange eruption to our state.
+</T>
+<T>
+MARCELLUS
+Good now, sit down and tell me, he that knows,
+Why this same strict and most observant watch
+So nightly toils the subject of the land,
+And why such daily cast of brazen cannon
+And foreign mart for implements of war,
+Why such impress of shipwrights, whose sore task
+Does not divide the Sunday from the week.
+What might be toward, that this sweaty haste
+Doth make the night joint laborer with the day?
+Who is t that can inform me?
+</T>
+<T>
+HORATIO
+That can I.
+At least, the whisper goes so: our last king,
+Whose image even but now appeared to us,
+Was, as you know, by Fortinbras of Norway,
+Thereto pricked on by a most emulate pride,
+Dared to the combat; in which our valiant Hamlet
+(For so this side of our known world esteemed him)
+Did slay this Fortinbras, who by a sealed compact
+Well ratified by law and heraldry,
+Did forfeit, with his life, all those his lands
+Which he stood seized of to the conqueror,
+Against the which a moiety competent
+Was gagd by our king, which had returned
+To the inheritance of Fortinbras
+Had he been vanquisher, as, by the same covenant
+And carriage of the article designed,
+His fell to Hamlet. Now, sir, young Fortinbras,
+Of unimprovd mettle hot and full,
+Hath in the skirts of Norway here and there
+Sharked up a list of lawless resolutes,
+For food and diet, to some enterprise
+That hath a stomach in t, which is no other
+As it doth well appear unto our state
+But to recover of us, by strong hand
+</T>
+<T>
+And terms compulsatory, those foresaid lands
+So by his father lost. And this, I take it,
+Is the main motive of our preparations,
+The source of this our watch, and the chief head
+Of this posthaste and rummage in the land.
+</T>
+<T>
+BARNARDO
+I think it be no other but e'en so.
+Well may it sort that this portentous figure
+Comes armd through our watch so like the king
+That was and is the question of these wars.
+</T>
+<T>
+HORATIO
+A mote it is to trouble the minds eye.
+In the most high and palmy state of Rome,
+A little ere the mightiest Julius fell,
+The graves stood tenantless and the sheeted dead
+Did squeak and gibber in the Roman streets
+As stars with trains of fire and dews of blood,
+Disasters in the sun, and the moist star
+Upon whose influence Neptunes empire stands
+Was sick almost to doomsday with eclipse.
+And even the like precurse of feared events,
+As harbingers preceding still the fates
+And prologue to the omen coming on,
+Have heaven and earth together demonstrated
+Unto our climatures and countrymen.
+</T>
+<T>
+But soft, behold! Lo, where it comes again.
+Ill cross it though it blast me.Stay, illusion!
+</T>
+<T>
+If thou hast any sound or use of voice,
+Speak to me.
+</T>
+<T>
+If there be any good thing to be done
+That may to thee do ease and grace to me,
+Speak to me.
+If thou art privy to thy countrys fate,
+Which happily foreknowing may avoid,
+Oh, speak!
+Or if thou hast uphoarded in thy life
+Extorted treasure in the womb of earth,
+For which, they say, you spirits oft walk in death,
+Speak of it. Stay and speak!
+</T>
+<T>
+Stop it, Marcellus.
+</T>
+<T>
+MARCELLUS
+Shall I strike at it with my partisan?
+</T>
+<T>
+HORATIO
+Do, if it will not stand.
+</T>
+<T>
+BARNARDO
+'Tis here.
+</T>
+<T>
+HORATIO
+'Tis here.
+</T>
+<T>
+MARCELLUS
+'Tis gone.
+We do it wrong, being so majestical,
+To offer it the show of violence,
+For it is, as the air, invulnerable,
+And our vain blows malicious mockery.
+</T>
+<T>
+BARNARDO
+It was about to speak when the cock crew.
+</T>
+<T>
+HORATIO
+And then it started like a guilty thing
+Upon a fearful summons. I have heard
+The cock, that is the trumpet to the morn,
+Doth with his lofty and shrill-sounding throat
+Awake the god of day, and, at his warning,
+Whether in sea or fire, in earth or air,
+Th' extravagant and erring spirit hies
+To his confine, and of the truth herein
+This present object made probation.
+</T>
+<T>
+MARCELLUS
+It faded on the crowing of the cock.
+Some say that ever 'gainst that season comes
+Wherein our Saviours birth is celebrated,
+The bird of dawning singeth all night long.
+And then, they say, no spirit dare stir abroad.
+The nights are wholesome. Then no planets strike,
+No fairy takes, nor witch hath power to charm,
+So hallowed and so gracious is that time.
+</T>
+<T>
+HORATIO
+So have I heard and do in part believe it.
+But look, the morn, in russet mantle clad,
+Walks o'er the dew of yon high eastward hill.
+Break we our watch up, and by my advice,
+Let us impart what we have seen tonight
+Unto young Hamlet, for, upon my life,
+This spirit, dumb to us, will speak to him.
+Do you consent we shall acquaint him with it,
+As needful in our loves, fitting our duty?
+</T>
+<T>
+MARCELLUS
+Lets do t, I pray, and I this morning know
+Where we shall find him most conveniently.
+</T>
+<T>
+CLAUDIUS
+Though yet of Hamlet our dear brothers death
+The memory be green, and that it us befitted
+To bear our hearts in grief and our whole kingdom
+To be contracted in one brow of woe,
+Yet so far hath discretion fought with nature
+That we with wisest sorrow think on him
+Together with remembrance of ourselves.
+Therefore our sometime sister, now our queen,
+Th' imperial jointress to this warlike state,
+Have weas twere with a defeated joy,
+With an auspicious and a dropping eye,
+With mirth in funeral and with dirge in marriage,
+In equal scale weighing delight and dole
+Taken to wife. Nor have we herein barred
+Your better wisdoms, which have freely gone
+With this affair along. For all, our thanks.
+Now follows that you know. Young Fortinbras,
+Holding a weak supposal of our worth
+Or thinking by our late dear brothers death
+Our state to be disjoint and out of frame,
+Colleagud with the dream of his advantage,
+He hath not failed to pester us with message
+Importing the surrender of those lands
+Lost by his father, with all bonds of law,
+To our most valiant brother. So much for him.
+</T>
+<T>
+Now for ourself and for this time of meeting
+</T>
+<T>
+LAERTES
+My necessaries are embarked. Farewell.
+And, sister, as the winds give benefit
+And convey is assistant, do not sleep,
+But let me hear from you.
+</T>
+<T>
+OPHELIA
+Do you doubt that?
+</T>
+<T>
+LAERTES
+For Hamlet and the trifling of his favor,
+Hold it a fashion and a toy in blood,
+A violet in the youth of primy nature,
+Forward, not permanent, sweet, not lasting,
+The perfume and suppliance of a minute.
+No more.
+</T>
+<T>
+OPHELIA
+No more but so?
+</T>
+<T>
+LAERTES
+Think it no more.
+For nature, crescent, does not grow alone
+In thews and bulk, but, as this temple waxes,
+The inward service of the mind and soul
+Grows wide withal. Perhaps he loves you now,
+And now no soil nor cautel doth besmirch
+The virtue of his will, but you must fear.
+His greatness weighed, his will is not his own,
+For he himself is subject to his birth.
+He may not, as unvalued persons do,
+Carve for himself, for on his choice depends
+The safety and health of this whole state.
+And therefore must his choice be circumscribed
+Unto the voice and yielding of that body
+Whereof he is the head. Then if he says he loves you,
+</T>
+<T>
+HAMLET
+The air bites shrewdly. It is very cold.
+</T>
+<T>
+HORATIO
+It is a nipping and an eager air.
+</T>
+<T>
+HAMLET
+What hour now?
+</T>
+<T>
+HORATIO
+I think it lacks of twelve.
+</T>
+<T>
+MARCELLUS
+No, it is struck.
+</T>
+<T>
+HORATIO
+Indeed? I heard it not. It then draws near the season
+Wherein the spirit held his wont to walk.
+</T>
+<T>
+What does this mean, my lord?
+</T>
+<T>
+HAMLET
+The king doth wake tonight and takes his rouse,
+Keeps wassail and the swaggering upspring reels,
+And, as he drains his draughts of Rhenish down,
+The kettle-drum and trumpet thus bray out
+The triumph of his pledge.
+</T>
+<T>
+HORATIO
+Is it a custom?
+</T>
+<T>
+HAMLET
+Ay, marry, is t.
+But to my mind, though I am native here
+And to the manner born, it is a custom
+More honored in the breach than the observance.
+This heavy-headed revel east and west
+Makes us traduced and taxed of other nations.
+</T>
+<T>
+HAMLET
+Where wilt thou lead me? Speak, Ill go no further.
+</T>
+<T>
+GHOST
+Mark me.
+</T>
+<T>
+HAMLET
+I will.
+</T>
+<T>
+GHOST
+My hour is almost come
+When I to sulfurous and tormenting flames
+Must render up myself.
+</T>
+<T>
+HAMLET
+Alas, poor ghost!
+</T>
+<T>
+GHOST
+Pity me not, but lend thy serious hearing
+To what I shall unfold.
+</T>
+<T>
+HAMLET
+Speak. I am bound to hear.
+</T>
+<T>
+GHOST
+So art thou to revenge when thou shalt hear.
+</T>
+<T>
+HAMLET
+What?
+</T>
+<T>
+GHOST
+I am thy fathers spirit,
+Doomed for a certain term to walk the night
+And for the day confined to fast in fires,
+Till the foul crimes done in my days of nature
+Are burnt and purged away. But that I am forbid
+To tell the secrets of my prison house,
+I could a tale unfold whose lightest word
+Would harrow up thy soul, freeze thy young blood,
+</T>
+<T>
+POLONIUS
+Give him this money and these notes, Reynaldo.
+</T>
+<T>
+REYNALDO
+I will, my lord.
+</T>
+<T>
+POLONIUS
+You shall do marvelous wisely, good Reynaldo,
+Before you visit him, to make inquire
+Of his behavior.
+</T>
+<T>
+REYNALDO
+My lord, I did intend it.
+</T>
+<T>
+POLONIUS
+Marry, well said, very well said. Look you, sir,
+Inquire me first what Danskers are in Paris,
+And how, and who, what means, and where they keep
+What company at what expense; and finding
+By this encompassment and drift of question
+That they do know my son, come you more nearer
+Than your particular demands will touch it.
+Take you, as twere, some distant knowledge of him,
+As thus: I know his father and his friends,
+And, in part, him. Do you mark this, Reynaldo?
+</T>
+<T>
+REYNALDO
+Ay, very well, my lord.
+</T>
+<T>
+POLONIUS
+And in part him, but, you may say, not well.
+But, if t be he I mean, hes very wild.
+Addicted so and so. And there put on him
+What forgeries you please. Marry, none so rank
+As may dishonor him. Take heed of that.
+But, sir, such wanton, wild, and usual slips
+</T>
+<T>
+CLAUDIUS
+Welcome, dear Rosencrantz and Guildenstern.
+Moreover that we much did long to see you,
+The need we have to use you did provoke
+Our hasty sending. Something have you heard
+Of Hamlets transformationso call it
+Since nor th' exterior nor the inward man
+Resembles that it was. What it should be,
+More than his fathers death, that thus hath put him
+So much from th' understanding of himself,
+I cannot dream of. I entreat you both
+That, being of so young days brought up with him
+And since so neighbored to his youth and 'havior,
+That you vouchsafe your rest here in our court
+Some little time so by your companies
+To draw him on to pleasures and to gather,
+So much as from occasion you may glean,
+Whether aught, to us unknown, afflicts him thus
+That, opened, lies within our remedy.
+</T>
+<T>
+GERTRUDE
+Good gentlemen, he hath much talked of you.
+And sure I am two men there are not living
+To whom he more adheres. If it will please you
+To show us so much gentry and good will
+As to expend your time with us awhile
+For the supply and profit of our hope,
+Your visitation shall receive such thanks
+As fits a kings remembrance.
+</T>
+<T>
+CLAUDIUS
+And can you by no drift of conference
+Get from him why he puts on this confusion,
+Grating so harshly all his days of quiet
+With turbulent and dangerous lunacy?
+</T>
+<T>
+ROSENCRANTZ
+He does confess he feels himself distracted.
+But from what cause he will by no means speak.
+</T>
+<T>
+GUILDENSTERN
+Nor do we find him forward to be sounded.
+But with a crafty madness keeps aloof
+When we would bring him on to some confession
+Of his true state.
+</T>
+<T>
+GERTRUDE
+Did he receive you well?
+</T>
+<T>
+ROSENCRANTZ
+Most like a gentleman.
+</T>
+<T>
+GUILDENSTERN
+But with much forcing of his disposition.
+</T>
+<T>
+ROSENCRANTZ
+Niggard of question, but of our demands
+Most free in his reply.
+</T>
+<T>
+GERTRUDE
+Did you assay him?
+To any pastime?
+</T>
+<T>
+ROSENCRANTZ
+Madam, it so fell out, that certain players
+We o'erraught on the way. Of these we told him,
+And there did seem in him a kind of joy
+</T>
+<T>
+HAMLET
+Speak the speech, I pray you, as I pronounced it to you,trippingly on the tongue. But if you mouth it, as many ofyour players do, I had as lief the town crier spoke my lines.Nor do not saw the air too much with your hand thus, butuse all gently, for in the very torrent, tempest, and (as I maysay) whirlwind of passion, you must acquire and beget atemperance that may give it smoothness. Oh, it offends meto the soul to hear a robustious periwig-pated fellow tear apassion to tatters, to very rags, to split the ears of thegroundlings, who for the most part are capable of nothingbut inexplicable dumb-shows and noise. I would have sucha fellow whipped for o'erdoing Termagant. It out-HerodsHerod. Pray you, avoid it.
+</T>
+<T>
+FIRST PLAYER
+I warrant your honor.
+</T>
+<T>
+HAMLET
+Be not too tame neither, but let your own discretion be yourtutor. Suit the action to the word, the word to the action,with this special observance that you o'erstep not themodesty of nature. For anything so overdone is from thepurpose of playing, whose end, both at the first and now,was and is to hold, as twere, the mirror up to nature, toshow virtue her own feature, scorn her own image, and thevery age and body of the time his form and pressure. Nowthis overdone or come tardy off, though it make theunskillful laugh, cannot but make the judicious grieve, thecensure of the which one must in your allowance o'erweigha whole theatre of others.
+</T>
+<T>
+CLAUDIUS
+I like him not, nor stands it safe with us
+To let his madness range. Therefore prepare you.
+I your commission will forthwith dispatch,
+And he to England shall along with you.
+The terms of our estate may not endure
+Hazard so dangerous as doth hourly grow
+Out of his lunacies.
+</T>
+<T>
+GUILDENSTERN
+We will ourselves provide.
+Most holy and religious fear it is
+To keep those many, many bodies safe
+That live and feed upon your majesty.
+</T>
+<T>
+ROSENCRANTZ
+The single and peculiar life is bound
+With all the strength and armor of the mind
+To keep itself from noyance, but much more
+That spirit upon whose weal depend and rest
+The lives of many. The cease of majesty
+Dies not alone, but, like a gulf, doth draw
+Whats near it with it. It is a massy wheel
+Fixed on the summit of the highest mount,
+To whose huge spokes ten thousand lesser things
+Are mortised and adjoined, which, when it falls,
+Each small annexment, petty consequence,
+Attends the boisterous ruin. Never alone
+Did the king sigh, but with a general groan.
+</T>
+<T>
+CLAUDIUS
+Arm you, I pray you, to this speedy voyage.
+For we will fetters put upon this fear,
+Which now goes too free-footed.
+</T>
+<T>
+POLONIUS
+He will come straight. Look you lay home to him.
+Tell him his pranks have been too broad to bear with,
+And that your grace hath screened and stood between
+Much heat and him. Ill silence me even here.
+Pray you, be round with him.
+</T>
+<T>
+HAMLET
+(within) Mother, mother, mother!
+</T>
+<T>
+GERTRUDE
+Ill warrant you. Fear me not. Withdraw, I hear him coming.
+</T>
+<T>
+HAMLET
+Now mother, whats the matter?
+</T>
+<T>
+GERTRUDE
+Hamlet, thou hast thy father much offended.
+</T>
+<T>
+HAMLET
+Mother, you have my father much offended.
+</T>
+<T>
+GERTRUDE
+Come, come, you answer with an idle tongue.
+</T>
+<T>
+HAMLET
+Go, go, you question with a wicked tongue.
+</T>
+<T>
+GERTRUDE
+Why, how now, Hamlet?
+</T>
+<T>
+HAMLET
+Whats the matter now?
+</T>
+<T>
+GERTRUDE
+Have you forgot me?
+</T>
+<T>
+HAMLET
+No, by the rood, not so.
+You are the queen, your husbands brothers wife,
+Andwould it were not so!you are my mother.
+</T>
+<T>
+CLAUDIUS
+(to GERTRUDE) Theres matter in these sighs, these profound heaves.
+You must translate. 'Tis fit we understand them.
+Where is your son?
+</T>
+<T>
+GERTRUDE
+(to ROSENCRANTZ and GUILDENSTERN)
+Bestow this place on us a little while.
+</T>
+<T>
+Ah, my good lord, what have I seen tonight!
+</T>
+<T>
+CLAUDIUS
+What, Gertrude? How does Hamlet?
+</T>
+<T>
+GERTRUDE
+Mad as the sea and wind when both contend
+Which is the mightier. In his lawless fit,
+Behind the arras hearing something stir,
+Whips out his rapier, cries, A rat, a rat!
+And in this brainish apprehension kills
+The unseen good old man.
+</T>
+<T>
+CLAUDIUS
+O heavy deed!
+It had been so with us, had we been there.
+His liberty is full of threats to all
+To you yourself, to us, to everyone.
+Alas, how shall this bloody deed be answered?
+It will be laid to us, whose providence
+Should have kept short, restrained and out of haunt,
+This mad young man. But so much was our love,
+We would not understand what was most fit,
+</T>
+<T>
+HAMLET
+Safely stowed.
+</T>
+<T>
+GENTLEMEN
+(from within) Hamlet! Lord Hamlet!
+</T>
+<T>
+HAMLET
+But soft, what noise? Who calls on Hamlet?
+Oh, here they come.
+</T>
+<T>
+ROSENCRANTZ
+What have you done, my lord, with the dead body?
+</T>
+<T>
+HAMLET
+Compounded it with dust, whereto tis kin.
+</T>
+<T>
+ROSENCRANTZ
+Tell us where tis, that we may take it thence
+And bear it to the chapel.
+</T>
+<T>
+HAMLET
+Do not believe it.
+</T>
+<T>
+ROSENCRANTZ
+Believe what?
+</T>
+<T>
+HAMLET
+That I can keep your counsel and not mine own. Besides, tobe demanded of a sponge! What replication should be madeby the son of a king?
+</T>
+<T>
+ROSENCRANTZ
+Take you me for a sponge, my lord?
+</T>
+<T>
+CLAUDIUS
+I have sent to seek him and to find the body.
+How dangerous is it that this man goes loose!
+Yet must not we put the strong law on him.
+Hes loved of the distracted multitude,
+Who like not in their judgment, but their eyes.
+And where tis so, th' offenders scourge is weighed,
+But never the offense. To bear all smooth and even,
+This sudden sending him away must seem
+Deliberate pause. Diseases desperate grown
+By desperate appliance are relieved,
+Or not at all.
+</T>
+<T>
+How now, what hath befall'n?
+</T>
+<T>
+ROSENCRANTZ
+Where the dead body is bestowed, my lord,
+We cannot get from him.
+</T>
+<T>
+CLAUDIUS
+But where is he?
+</T>
+<T>
+ROSENCRANTZ
+Without, my lord; guarded, to know your pleasure.
+</T>
+<T>
+CLAUDIUS
+Bring him before us.
+</T>
+<T>
+ROSENCRANTZ
+Ho, Guildenstern! Bring in my lord.
+</T>
+<T>
+CLAUDIUS
+Now, Hamlet, wheres Polonius?
+</T>
+<T>
+FORTINBRAS
+Go, Captain, from me greet the Danish king
+Tell him that, by his license, Fortinbras
+Craves the conveyance of a promised march
+Over his kingdom. You know the rendezvous.
+If that his majesty would aught with us,
+We shall express our duty in his eye,
+And let him know so.
+</T>
+<T>
+CAPTAIN
+I will do t, my lord.
+</T>
+<T>
+FORTINBRAS
+Go softly on.
+</T>
+<T>
+HAMLET
+Good sir, whose powers are these?
+</T>
+<T>
+CAPTAIN
+They are of Norway, sir.
+</T>
+<T>
+HAMLET
+How purposed, sir, I pray you?
+</T>
+<T>
+CAPTAIN
+Against some part of Poland.
+</T>
+<T>
+HAMLET
+Who commands them, sir?
+</T>
+<T>
+CAPTAIN
+The nephew to old Norway, Fortinbras.
+</T>
+<T>
+HAMLET
+Goes it against the main of Poland, sir,
+Or for some frontier?
+</T>
+<T>
+GERTRUDE
+I will not speak with her.
+</T>
+<T>
+GENTLEMAN
+She is importunate,
+Indeed distract. Her mood will needs be pitied.
+</T>
+<T>
+GERTRUDE
+What would she have?
+</T>
+<T>
+GENTLEMAN
+She speaks much of her father, says she hears
+Theres tricks i' th' world, and hems, and beats her heart,
+Spurns enviously at straws, speaks things in doubt
+That carry but half sense. Her speech is nothing,
+Yet the unshaped use of it doth move
+The hearers to collection. They aim at it,
+And botch the words up fit to their own thoughts,
+Which, as her winks and nods and gestures yield them,
+Indeed would make one think there might be thought,
+Though nothing sure, yet much unhappily.
+</T>
+<T>
+HORATIO
+'Twere good she were spoken with, for she may strew
+Dangerous conjectures in ill-breeding minds.
+</T>
+<T>
+GERTRUDE
+Let her come in.
+</T>
+<T>
+(aside) To my sick soul (as sins true nature is)
+Each toy seems prologue to some great amiss.
+So full of artless jealousy is guilt,
+It spills itself in fearing to be spilt.
+</T>
+<T>
+HORATIO
+What are they that would speak with me?
+</T>
+<T>
+SERVANT
+Seafaring men, sir. They say they have letters for you.
+</T>
+<T>
+HORATIO
+Let them come in.
+</T>
+<T>
+I do not know from what part of the world
+I should be greeted, if not from Lord Hamlet.
+</T>
+<T>
+SAILOR
+God bless you, sir.
+</T>
+<T>
+HORATIO
+Let him bless thee too.
+</T>
+<T>
+SAILOR
+He shall, sir, an t please Him. Theres a letter for you, sirit comes from the ambassador that was bound forEnglandif your name be Horatio, as I am let to know it is. (gives HORATIO a letter)
+</T>
+<T>
+HORATIO
+(reads)
+Horatio,
+When thou shalt have overlooked this, give these fellows some means to the king. They have letters for him. Ere we were two days old at sea, a pirate of very warlike appointment gave us chase. Finding ourselves too slow of sail, we put on a compelled valor, and in the grapple I boarded them. On the instant, they got clear of our ship, so I alone became their prisoner. They have dealt with me like thieves of mercy, but they knew what they did; I am to do a good turn for them.
+</T>
+<T>
+CLAUDIUS
+Now must your conscience my acquaintance seal,
+And you must put me in your heart for friend,
+Sith you have heard, and with a knowing ear,
+That he which hath your noble father slain
+Pursued my life.
+</T>
+<T>
+LAERTES
+It well appears. But tell me
+Why you proceeded not against these feats,
+So criminal and so capital in nature,
+As by your safety, wisdom, all things else,
+You mainly were stirred up.
+</T>
+<T>
+CLAUDIUS
+Oh, for two special reasons,
+Which may to you perhaps seem much unsinewed,
+But yet to me they are strong. The queen his mother
+Lives almost by his looks, and for myself
+My virtue or my plague, be it either which
+Shes so conjunctive to my life and soul,
+That, as the star moves not but in his sphere,
+I could not but by her. The other motive
+Why to a public count I might not go,
+Is the great love the general gender bear him,
+Who, dipping all his faults in their affection,
+Would, like the spring that turneth wood to stone,
+Convert his gyves to gracesso that my arrows,
+Too slightly timbered for so loud a wind,
+Would have reverted to my bow again,
+And not where I had aimed them.
+</T>
+<T>
+GRAVEDIGGER
+Is she to be buried in Christian burial when she willfullyseeks her own salvation?
+</T>
+<T>
+OTHER
+I tell thee she is. Therefore make her grave straight. Thecrowner hath sat on her and finds it Christian burial.
+</T>
+<T>
+GRAVEDIGGER
+How can that be, unless she drowned herself in her owndefense?
+</T>
+<T>
+OTHER
+Why, tis found so.
+</T>
+<T>
+GRAVEDIGGER
+It must be se offendendo. It cannot be else. For here liesthe point: if I drown myself wittingly, it argues an act. And anact hath three branchesit is to act, to do, to perform.Argal, she drowned herself wittingly.
+</T>
+<T>
+OTHER
+Nay, but hear you, Goodman Delver
+</T>
+<T>
+GRAVEDIGGER
+Give me leave. Here lies the water. Good. Here stands theman. Good. If the man go to this water and drown himself,it is, will he nill he, he goes. Mark you that. But if the watercome to him and drown him, he drowns not himself. Argal,he that is not guilty of his own death shortens not his ownlife.
+</T>
+<T>
+OTHER
+But is this law?
+</T>
+<T>
+HAMLET
+So much for this, sir. Now shall you see the other.
+You do remember all the circumstance?
+</T>
+<T>
+HORATIO
+Remember it, my lord?
+</T>
+<T>
+HAMLET
+Sir, in my heart there was a kind of fighting
+That would not let me sleep. Methought I lay
+Worse than the mutines in the bilboes. Rashly
+And praised be rashness for it: let us know
+Our indiscretion sometimes serves us well
+When our deep plots do pall, and that should teach us
+Theres a divinity that shapes our ends,
+Rough-hew them how we will
+</T>
+<T>
+HORATIO
+That is most certain.
+</T>
+<T>
+HAMLET
+Up from my cabin,
+My sea-gown scarfed about me, in the dark
+Groped I to find out them, had my desire,
+Fingered their packet, and in fine withdrew
+To mine own room again, making so bold
+(My fears forgetting manners) to unseal
+Their grand commission, where I found, Horatio
+O royal knavery!an exact command,
+Larded with many several sorts of reasons
+Importing Denmarks health, and Englands too,
+Withho!such bugs and goblins in my life
+That, on the supervise (no leisure bated,
+No, not to stay the grinding of the ax)
+My head should be struck off.
+</T>

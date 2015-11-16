@@ -1,0 +1,634 @@
+<T>
+CHORUS
+If only we had divine inspiration, our play might rise to the highest level of imagination. If we had a stage as big as a kingdom, real kings and queens to act the part of kings and queens, and royalty to also witness the glorious spectacle, then it would be as it really was. Then valiant King Harry would resemble the god of war, as he did in life, and famine, sword, and fire would sit like dogs at his feet, waiting to be unleashed.
+But, ladies and gentlemen, since thats not the case, you must forgive us plain, ordinary men who dare to act out so great a story on this humble stage. Can this theater seem to contain the sweeping fields of France? Could we even squeeze into this little theater the helmets that looked so frightening at Agincourt? Hardly! But, pardon us, because just as a few strokes of a pen, a few zeros, can signify a huge number, we, who are zeros in this great story, can work on your imagination. Pretend that within the confines of this theater sit two great kingdoms divided by a narrow but perilous ocean. Let your thoughts make up for our imperfections. Divide each man into a thousand, and there you will have an imaginary army. Imagine, when we talk of horses, that you see them planting their proud hooves in the soft earth. Because now it is your thoughts that must dress up our kings and transport them from place to place. Your thoughts must leap over huge spans of time, turning the events of many
+</T>
+<T>
+years into the space of a few hours. To that end, consider me a sort of chorus, here to help tell the story. And, as the speaker of any prologue should, I ask you to hear our play courteously and to judge it kindly.
+</T>
+<T>
+CANTERBURY
+My lord, this bill thats being proposed is the same one that was proposed in the eleventh year of old King Henrys reign. Everyone thought it would pass then, and it probably would have had it not been for the great civil unrest and uncertainty of the time, which required the matter to be put off.
+</T>
+<T>
+ELY
+But how will we keep it from being passed now, my lord?
+</T>
+<T>
+CANTERBURY
+We have to think about that. If it does pass, the Church will lose more than half of what it possesses, because the bill would strip us of enough real estate left to the church by wealthy, pious men in their wills to support fifteen earls and fifteen hundred knights, six thousand two hundred squires, and a hundred well-supplied almshouses for the relief of lepers, old-age pensioners, the poor, and those too weak or sick to work. Add to that a yearly sum of a thousand pounds to go directly into the kings coffers. Thats what the bill says.
+</T>
+<T>
+ELY
+That would be quite a drain.
+</T>
+<T>
+CANTERBURY
+It would drain us dry.
+</T>
+<T>
+ELY
+But what can be done to prevent it?
+</T>
+<T>
+CANTERBURY
+The king is virtuous and kind.
+</T>
+<T>
+ELY
+And a true lover of the holy Church.
+</T>
+<T>
+KING HENRY
+Where is my gracious lord of Canterbury?
+</T>
+<T>
+EXETER
+Hes not here.
+</T>
+<T>
+KING HENRY
+Send for him, dear uncle.
+</T>
+<T>
+WESTMORELAND
+Shall we call in the ambassador, my liege?
+</T>
+<T>
+KING HENRY
+Not yet, cousin. Before I hear him, I want to decide some important issues that are on my mind concerning my throne and France.
+</T>
+<T>
+CANTERBURY
+May God and his angels guard your sacred throne and grant that you dignify it for a long time.
+</T>
+<T>
+KING HENRY
+Thank you, Im sure. My learned lord, kindly explain to us the legal and religious grounds for why this French Salic law either should or shouldnt bar me in my claim. And God forbid, my dear and faithful lord, that you should invent, twist, or distort your interpretation, or burden your conscience by subtly arguing for false claims. For God knows how many healthy men will shed their blood in support of whatever you persuade me to do. So think carefully before you incite me
+</T>
+<T>
+CHORUS
+Now all the young men of England are inspired and have stored their party clothes in the closet. Armorers are doing great business, and all men think about is honor. People are selling off their land to buy warhorses so they can follow the exemplary king into battle as if they had winged feet, like MercuryIn Roman mythology, Mercury is the messenger of the gods, often de picted with winged feet.Mercury. Theres a sense of anticipation in the air. In the minds of Harry and his followers, visions of the kingdoms, spoils, and titles to be won eclipse thoughts of actual fighting. The French, meanwhile, have been forewarned of all this preparation by their spies and tremble in fear. They seek to derail the English with cowardly tricks. Oh, England! You are physically small but inwardly great, like a mighty heart enclosed in a small body. There is nothing you couldnt accomplish if all your subjects were loyal and loving! But, see, the king of France has detected your weak spot: a nest of faithless traitors, whose treachery he has purchased with gold. Three corrupt menRichard, earl of Cambridge; Henry, Lord Scroop of Masham; and Sir Thomas Grey, knight, of Northumberlandhave agreed to conspire with the French in exchange for money. The gracious king will die by their hands in Southampton before he sets sail for Franceif Hell and treason have their way. Stick with us, ladies and gentlemen, and well make a play, conquering space and time. Imagine that the traitors have been paid and made their choice. The king has left London, and the scene now
+</T>
+<T>
+BARDOLPH
+Good to see you, Corporal Nym.
+</T>
+<T>
+NYM
+Good day, Lieutenant Bardolph.
+</T>
+<T>
+BARDOLPH
+Tell me, are you and Ensign Pistol friends again yet?
+</T>
+<T>
+NYM
+For my part, I really dont care. I dont say much, but when the time comes, well smile at each other. But thats as it may be. I wont fight, but I can close my eyes and take a swipe with my swordjust a simple sword, but so what? Its good enough to toast cheese, and it will survive cold as well as another mans sword. And thats that.
+</T>
+<T>
+BARDOLPH
+Ill buy you both breakfast if it will make you two friends. Then we can all three be comrades on our way to France. How about it, Corporal Nym?
+</T>
+<T>
+NYM
+Well, I will live until I die, thats for sure, and when I cant live anymore, Ill deal with it. Thats it. Thats really all I can say.
+</T>
+<T>
+BARDOLPH
+Its true, corporal, that he is married to Nell Quickly. And its true that she did you wrong, since you were engaged to her.
+</T>
+<T>
+NYM
+Its not for me to say. Things are what they are. Men may sleep, and when they do they may have their throats with them, and some people say knives have blades. What must be must be, and though my patience is worn out, it will last a little longer. There must be some resolution. Well, its not for me to say.
+</T>
+<T>
+BEDFORD
+I must say, the king is taking a bold risk letting these traitors go free.
+</T>
+<T>
+EXETER
+Theyll be arrested in a little while.
+</T>
+<T>
+WESTMORELAND
+How smooth and cool they seem! Just as if they were perfectly loyal and faithful.
+</T>
+<T>
+BEDFORD
+The king has been informed of all their plans, but they have no idea.
+</T>
+<T>
+EXETER
+No, but its unbelievable that the man who was his dearest friend, a man he has showered with love and favor, would repay the king with treachery, selling his own sovereigns life to a foreign power!
+</T>
+<T>
+KING HENRY
+Now that the wind is favorable, lets board the ship.
+My Lord of Cambridge and my good Lord of Masham and you, my noble knight, what do you think? Will our army cut a swath through the fighting force of France, achieving and accomplishing everything Ive assembled them to do?
+</T>
+<T>
+SCROOP
+No doubt it will, my liege, if each man does his best.
+</T>
+<T>
+HOSTESS
+Please, sweet husband, let me come with you as far as the town of Staines.
+</T>
+<T>
+PISTOL
+No, because my manly heart is grieving. Bardolph, be happy.Nym, rouse your bragging spirits.Boy, be brave. Falstaff is dead, and we must mourn him.
+</T>
+<T>
+BARDOLPH
+I wish I were with him, wherever he isin heaven or in hell.
+</T>
+<T>
+HOSTESS
+Oh, no, hes surely not in hell. Hes in Arthurs bosomThe hostess means Abrahams bosom, the proverbial resting place of good Christians, but has King Arthur on the brain.Arthurs bosom, if any man ever went to Arthurs bosom. He died as peacefully as a baby. He departed right between twelve and one, just as the tide was turning. For after I saw him fumbling with the sheets and playing with imaginary flowers and smiling at the ends of his fingers, I knew it was the end. His face was gaunt and he was babbling about green fields. Now, now, Sir John! I said. Whats all this? Cheer up! And he called out God, God, God! three or four times. To soothe him, I told him not to think of God, that I hoped it wasnt yet time to bother with such thoughts. So he asked me to put more blankets on his feet. I put my hand into the bed and felt his feet, and they were stone-cold. Then I felt his legs, and they were stone-cold, and so I moved upward and upward, and his whole body was stone-cold.
+</T>
+<T>
+NYM
+They say he cried out against sherry.
+</T>
+<T>
+HOSTESS
+Yes, he did.
+</T>
+<T>
+CHORUS
+And so, on the wings of imagination and at the speed of thought, our scene flies swiftly on. Imagine that you have seen the well-equipped king at Dover pier set sail in full royal regalia and his noble fleet fan the rising sun with its silken banners. Give your imagination free rein. Picture the cabin boys climbing around the rigging. Hear the shrill whistle that brings order to the hubbub. Picture the linen sails driven by the invisible and subtle wind as they pull the vast hulls through the wrinkled sea, breasting the high waves. Pretend that youre standing on the shore, watching a city dance on the shifting waves, and youll have an idea of the look of this majestic fleet as it holds a straight course for Harfleur. Follow it, follow it! Hitch your minds to this navys sterns and leave your England, silent as midnight, guarded by grandfathers, babies, and old women. For what male subject is there old enough for his chin to be graced with even one hair who doesnt want to follow this select band of hand-picked knights to France? Once there, make your thoughts work harder, and witness a siege. Take in the wheeled canons with their deadly gaping mouths trained on the walled city of Harfleur. Imagine the French ambassador returning to inform Harry that the king offers him
+</T>
+<T>
+KING HENRY
+Attack the breach in the city wall once more, dear friends, attack it once moreor else lets close it up with English corpses. In peacetime, nothing looks better in a man than restraint and humility. But when the battle trumpet blows in our ears, then its time to act like the tiger. With muscles taut and blood stirred up, hide your civilized nature under the guise of ugly rage. Lend your eyes a terrifying gleam and let them jut out from the portholes of the head like brass cannon. Make your brow jut out over your eyes like a frightening cliff over the wild and desolate ocean. Now grit your teeth and let your nostrils flare. Take a deep breath and draw on every impulse to its fullest strength. On, on, you noblest Englishmen, descended as you are from battle-tested fathers, fathers who, like so many Alexander the Greats, have fought in these regions from morning until night, sheathing their swords only when there was no one left to fight. Dont dishonor your mothers! Prove that the men you call your fathers did truly conceive you. Serve as an example to men of common birth and teach them how to fight. And you, good farmers, whose limbs were made in England, show us here the vigor of your upbringing. Prove you are worthy of your birth, which I do not doubt for a moment. For there isnt one of you so low-born that your eyes dont shine with noble luster. I see youre standing like greyhounds
+</T>
+<T>
+BARDOLPH
+On, on, on, on, on! To the breach, to the breach!
+</T>
+<T>
+NYM
+Please, corporal, stop! The fighting is too violent. Speaking for myself, I only have one life, not dozens. Too violent! Thats just how it is, the plain truth of it.
+</T>
+<T>
+PISTOL
+The plain truth doesnt lie. You can see how it is all around. Fighting comes and goes, Gods loyal servants drop and die. (he sings)
+And sword and shield
+In bloody field
+Will win immortal fame.
+</T>
+<T>
+BOY
+I wish I were in an alehouse in London! I would give all my glory for a mug of ale and safety.
+</T>
+<T>
+PISTOL
+Me too. (he sings)
+If wishes could avail me,
+My purpose would not fail me,
+Its there that I would go.
+</T>
+<T>
+BOY
+(singing)
+As surely but more poorly
+Than birds sing on the bough.
+</T>
+<T>
+FLUELLEN
+Up to the breach, you dogs! Go! Get a move on, you scrotems!
+</T>
+<T>
+KING HENRY
+What has the governor of the town decided? This is the final discussion I will grant. So submit to my mercy or, like men who revel in their own destruction, challenge me to do my worst. For, as I am a soldier, the name I think suits me best, once I begin my attack on Harfleur again, I will not leave the half-conquered town until she lies buried in her own ashes. The gates of mercy will be closed by then, and harsh and hard-hearted soldiers, who have tasted blood, will have free reign to commit whatever violence they want, mowing down your lovely young virgins and budding infants. What will it matter to me, since you will have brought it on yourselves, if sacrilegious war, dressed in red like Satan, his face blackened by smoke, should commit every form of savage destruction and ruin? What will it matter to me if your innocent maidens are raped, since you will have asked for it? What power can rein in promiscuous evil once its gotten rolling? We might as well send orders to the whale to come ashore as try to restore order in soldiers carried away with their looting. Therefore, you men of Harfleur, take pity on your town and on your people while I still have control over my men, while the cool and moderate winds of mercy still have power to disperse the depraved, infected clouds of murder, plunder, and crazed soldiers defile your shrieking daughters with their foul hands, and your fathers dragged by their silver beards, their reverend heads dashed against the walls. Expect to see your naked babies skewered upon pikes while their
+</T>
+<T>
+KATHERINE
+(speaking in French, for the entire scene) Alice, you have been to England and you know the language.
+</T>
+<T>
+ALICE
+(speaking in French, for the entire scene) A little, madam.
+</T>
+<T>
+KATHERINE
+Please teach me English. I must learn to speak it. What is the word for la main in English?
+</T>
+<T>
+ALICE
+La main? That is de hand.
+</T>
+<T>
+KATHERINE
+De hand. And les doigts?
+</T>
+<T>
+ALICE
+Les doigts? Good lord, I forget les doigts. But it will come to me. The word for les doigts, I believe, is de fangres. Yes, de fangres.
+</T>
+<T>
+KATHERINE
+La main, de hand; les doigts, de fangres. I think I am a very apt student! I have learned two words of English already. What is the word for les ongles?
+</T>
+<T>
+ALICE
+Les ongles? That is de nails.
+</T>
+<T>
+KATHERINE
+De nails. Listen! Tell me if Im saying it right. De hand, de fangres, et de nails.
+</T>
+<T>
+ALICE
+Well done, madam. Excellent English.
+</T>
+<T>
+KATHERINE
+Tell me the English for le bras.
+</T>
+<T>
+ALICE
+De arm, madam.
+</T>
+<T>
+KING OF FRANCE
+Hes certainly crossed the river Somme.
+</T>
+<T>
+CONSTABLE
+And if he advances unopposed, my lord, let us abandon France. Let us leave everything and give our vineyards to the barbarous nation.
+</T>
+<T>
+DAUPHIN
+God alive! Shall a few offshoots of our nation, born of our fathers lustour branches grafted to wild and savage trunksgrow to such a height that they look down with contempt on the plants from which they first sprangThe Dauphin is referring to the Nor man invasion of 1066, in which William the Conqueror and natives of Normandy conquered England.sprang?
+</T>
+<T>
+BOURBON
+Normans, nothing more than bastard Normans, Norman bastards! I hope I die! If they march along unopposed, I will sell my dukedom for a sodden, filthy farm in that craggy isle of Albion.
+</T>
+<T>
+CONSTABLE
+God of battles! Where do they get this spirit? Isnt their climate foggy, cold, and dark? Doesnt the sun shine palely down on them, as though in contempt, killing their fruit with frowns? Can boiled water (beer, they call it)a drink for broken-down horses, heat their cold blood to such a valiant level? And shall our lively blood, quickened by wine, be so frosty? Oh, for the
+</T>
+<T>
+GOWER
+Greetings, Captain Fluellen! Have you just come from the bridge?
+</T>
+<T>
+FLUELLEN
+I assure you, there are some excellent military operations being carried out at the bridge.
+</T>
+<T>
+GOWER
+Is the duke of Exeter safe?
+</T>
+<T>
+FLUELLEN
+The duke of Exeter is as courageous as AgamemnonAgamemnon was the leader of the Greek army in the Trojan War. Mark Antony fought Brutus for control of the Roman Empire.Agamemnonand a man whom I love and honor deeply, with my soul, and my heart, and my duty, and my life, and my livelihood, to the very utmost of my being. He is notGod be praised and blessedhurt in any way but is holding the bridge most valiantly, with excellent discipline. There is a standard-bearer there at the bridge. I truly think he is as valiant a man as Mark Antony. He is a man of no rank or consequence, but I saw him fight as gallantly as though he were.
+</T>
+<T>
+GOWER
+What is his name?
+</T>
+<T>
+FLUELLEN
+He is called Ensign Pistol.
+</T>
+<T>
+GOWER
+I dont know him.
+</T>
+<T>
+FLUELLEN
+Here he is.
+</T>
+<T>
+CONSTABLE
+Nonsense. I have the best armor in the world. I wish it were day!
+</T>
+<T>
+ORLANS
+You have wonderful armor, but give my horse his due.
+</T>
+<T>
+CONSTABLE
+It is the best horse in Europe.
+</T>
+<T>
+ORLANS
+Will it never be morning?
+</T>
+<T>
+DAUPHIN
+My lord of Orlans, and my lord high Constable, are you talking about horses and armor?
+</T>
+<T>
+ORLANS
+You are as well provided in both respects as any prince in the world.
+</T>
+<T>
+DAUPHIN
+What a long night this is! I will not trade my horse for any that walks on four legs. He leaps from the ground as if his insides were light as hairs. Hes a flying horse, a Pegasus, breathing fire out of his nostrils. When I sit astride him, I soar, I am a hawk. He trots on air. The earth sings when he touches it. The lowest part of his hoof is more musical than Pans pipe.
+</T>
+<T>
+ORLANS
+Hes the color of nutmeg.
+</T>
+<T>
+DAUPHIN
+And hot as ginger. He is an animal worthy of Perseus. He is pure air and fire. The duller elements of earth and water have no part in him, except in the moment of patient stillness when his rider mounts him. He is indeed worthy of the name horse, and you can call all the rest beasts.
+</T>
+<T>
+CHORUS
+Now summon up the image of stealthy murmurs and engulfing darkness filling the wide vessel of the universe. From camp to camp through the dark cave of night, the noise from both armies grows so quiet that those standing watch almost think they can hear the whispered secrets of one anothers sentinels. One by one, fires are lit on both sides, and through their pale flames, each army thinks he sees the smoke-tinged faces of the other. The horses of each army answer one anothers proud, threatening neighs as they pierce the dull night, and from the tents the sound of the blacksmiths' hammers as they fit out the knights, closing rivets up, adds a note of fear to the preparations. The country cocks crow and the clocks toll, sounding a drowsy three o'clock in the morning. Proud of their army and secure in their numbers, the confident and overeager French play dice, betting on how many worthless Englishmen each will capture. They scold the limping, slowly moving night, which, like an ugly old woman, takes so long to pass. The poor doomed English, like sacrificial beasts, sit patiently, and privately contemplate the dangers that will arrive with morning. With their grave faces, emaciated cheeks, and war-torn coats, they seem to the gazing moon like so many horrifying ghosts. Now, whoever spots the royal captain of this ruined army walking from camp to camp, from tent to tent, let him cry Praise and glory on his head! For out he goes visiting all his troops. He bids them good morning with a modest smile and calls
+</T>
+<T>
+KING HENRY
+Gloucester, its true that we are in great danger. But our courage should only be the greater for that. Good morning, brother Bedford. God Almighty, there must be some essential goodness even in evil, if men would only look for it. In our case, our bad neighbors over their make us early risers, a healthy and sensible thing to be. Besides, they act as outward consciences and preachers to us all, a visible reminder that we should prepare ourselves for death. Think like that, and youll manage to get honey out of a common weed and find a moral lesson in the devil himself.
+</T>
+<T>
+Good morning, old Sir Thomas Erpingham! A nice, soft pillow would be a more suitable place to lay that good white head than Frances hard, cold ground.
+</T>
+<T>
+ERPINGHAM
+Not at all, my liege. I prefer these quarters, since they allow me to say, Now I live like a king.
+</T>
+<T>
+KING HENRY
+Its good for men to be given an example of how to take pleasure in discomfort. It eases the spirit. And when the mind is engaged, the rest of the body, dead and dull before, wakes up and comes to life with a new nimbleness and sensitivity, like a snake shedding its dead skin. Lend me your cloak, Sir Thomas. Brothers, give my regards to the princes in our camp. Say good day to them from me and ask them to come to my tent.
+</T>
+<T>
+ORLANS
+The sun glints off our armor. Awake, my lords!
+</T>
+<T>
+DAUPHIN
+Mount up our horses! Bring my horse, lackey! Ha!
+</T>
+<T>
+ORLANS
+Oh, brave spirit!
+</T>
+<T>
+DAUPHIN
+Hell take me through flood and field.
+</T>
+<T>
+ORLANS
+Is that all? How about air and fire?
+</T>
+<T>
+DAUPHIN
+Just the heavens, cousin Orlans.
+</T>
+<T>
+Is it time, my Lord Constable?
+</T>
+<T>
+CONSTABLE
+Listen to our horses neighing, longing to be working.
+</T>
+<T>
+DAUPHIN
+Mount them and dig your spurs into their flanks so that their hot blood may spurt in English eyes and douse them with some of the spare courage we have around. Ha!
+</T>
+<T>
+RAMBURES
+What, you want them to weep our horses' blood? Then how will we see their own natural tears?
+</T>
+<T>
+GLOUCESTER
+Where is the king?
+</T>
+<T>
+BEDFORD
+The king rode out alone to view their troops.
+</T>
+<T>
+WESTMORELAND
+They have fully sixty thousand fighting men.
+</T>
+<T>
+EXETER
+Thats five to one. Besides, theyre fresh.
+</T>
+<T>
+SALISBURY
+May Gods arm strike on our side! These are frightening odds. God be with all of you, princes. Ill go and join my men. If we dont meet again before we meet in heaven, still well meet joyfully. My noble Lord of Bedford, my dear Lord Gloucester, and my good Lord Exeter, and my kind kinsmen, warriors all, adieu.
+</T>
+<T>
+BEDFORD
+Farewell, good Salisbury; and may good luck go with you.
+</T>
+<T>
+EXETER
+Farewell, kind lord. Fight valiantly today. But then I do you wrong to say as much, since you are the very embodiment of bravery.
+</T>
+<T>
+BEDFORD
+He is as full of courage as of kindness, princely in both.
+</T>
+<T>
+PISTOL
+Surrender, dog!
+</T>
+<T>
+FRENCH SOLDIER
+(speaking in French) You seem like a gentleman of high rank.
+</T>
+<T>
+PISTOL
+Qualtitie calmie custurePistol is speaking nonsense as though it were a real for eign tongue.custure me! Are you a gentleman? What is your name? Expound.
+</T>
+<T>
+FRENCH SOLDIER
+(speaking in French) Oh, God above!
+</T>
+<T>
+PISTOL
+This man, one O. Signieur DewPistol misunder stands the French man to be saying his name is O. ignieur Dew. Be cause seigneur means lord, Pis ol thinks his pris oner is a nobleman.O. Signieur Dew, must be a gentleman. Consider my words, O. Signieur Dew, and take note: O. Signieur Dew, youll be killed with my sword unless you pay me an absurd amount of money for your ransom.
+</T>
+<T>
+FRENCH SOLDIER
+(speaking in French) Oh, have mercy! Take pity on me!
+</T>
+<T>
+PISTOL
+(mistaking moi, the French word for me, as a unit of money) One moy is not enough. I must have forty moys, or I will reach into your throat and pull out some moys, along with a lot of blood.
+</T>
+<T>
+FRENCH SOLDIER
+(speaking in French) Is it impossible to escape your mighty arm?
+</T>
+<T>
+CONSTABLE
+O, hell!
+</T>
+<T>
+ORLANS
+O Lord, the day is lost! All is lost!
+</T>
+<T>
+DAUPHIN
+Dear God! All is lost, all! Regret and everlasting shame sit on our helmets, mocking us.
+</T>
+<T>
+What stinking luck! Do not run away.
+</T>
+<T>
+CONSTABLE
+Our men have all broken ranks.
+</T>
+<T>
+DAUPHIN
+O, everlasting shame! Lets fall on our swords. Are these the wretches that we threw dice for?
+</T>
+<T>
+ORLANS
+Is this the king we offered to ransom?
+</T>
+<T>
+BOURBON
+Shame, eternal shame, and nothing but shame! Let us die honorably. Back into the fray once again! He who will not follow me now, let him depart and stand in the doorway like a pimp, cap in hand, while some slave, no nobler than my dog, violates his daughter.
+</T>
+<T>
+CONSTABLE
+Maybe we can benefit from the same chaos that has defeated us. Lets go offer up our lives en masse.
+</T>
+<T>
+KING HENRY
+We have done well, my valiant countrymen. But its not over. The French are still fighting.
+</T>
+<T>
+EXETER
+The duke of York sends your Majesty his respects.
+</T>
+<T>
+KING HENRY
+Is he still alive, good uncle? Three times in an hour I saw him down, and three times up again and fighting. He was covered with blood from his helmet to his spurs.
+</T>
+<T>
+EXETER
+The valiant soldier is still dressed like that, lying on the ground, drenching the field with his blood. By his side lies the noble earl of Suffolk, Yorks comrade and equal in brave wounds. Suffolk died first, and York, cut to pieces, came to him where he lay in his blood and took him by the face, kissing his gashes. He cried out, Wait for me, dear cousin. My soul will keep yours company on the way to heaven. Wait for mine, sweet soul. Well fly there side by side, just as we stood together as brother-knights in this glorious and well-fought battle! At this, I went to comfort him. He smiled at me close, gave me his hand, gripping me feebly, and said, My dear lord, commend my service to my king. With that, he turned and threw his wounded arm around Suffolks neck and kissed his lips. And so,
+</T>
+<T>
+FLUELLEN
+To kill the boys with the luggage! Its expressly against the rules of combat. Its as complete a work of villainy as any that could be thought up. Tell me, dont you think so?
+</T>
+<T>
+GOWER
+Theres certainly not a boy left alive, and it was done by the cowardly rascals who were running from the battle. On top of this, theyve either burned or carried away everything that was in the kings tent. So the king has quite rightly ordered that every prisoners throat be cut. Oh, hes a gallant king!
+</T>
+<T>
+FLUELLEN
+Yes, he was born at Monmouth, Captain Gower. What is the name of the town where Alexander the PigFluellen pronounces p for b he means big.Pig was born?
+</T>
+<T>
+GOWER
+Alexander the Great.
+</T>
+<T>
+FLUELLEN
+And is pig not the same as great, may I ask? The pig or the mighty or the huge or the magnanimousthey all mean the same thing, with some variation.
+</T>
+<T>
+GOWER
+I think Alexander the Great was born in Macedon. His father was Philip of Macedon, as I remember.
+</T>
+<T>
+FLUELLEN
+I think that Macedon is indeed where Alexander was born. I tell you, Captain, if you look at a map of the world, Ill bet you will find, comparing Macedon and Monmouth, that the situations, see, are very similar.
+</T>
+<T>
+WILLIAMS
+Im sure it is to knight you, Captain.
+</T>
+<T>
+FLUELLEN
+As it is Gods will and pleasure, Captain, I entreat you to come quickly to the king. There is more good fortune in store for you than you could ever imagine.
+</T>
+<T>
+WILLIAMS
+Sir, do you recognize this glove?
+</T>
+<T>
+FLUELLEN
+Know the glove! I know the glove is a glove.
+</T>
+<T>
+WILLIAMS
+Well, I recognize this one (indicates the glove FLUELLEN wears in his cap), and I hereby challenge you. (strikes him)
+</T>
+<T>
+FLUELLEN
+Good God! As absolute a traitor as any in the whole entire worldor even France or England!
+</T>
+<T>
+GOWER
+What is this, you villain!
+</T>
+<T>
+WILLIAMS
+Do you think Id break my oath?
+</T>
+<T>
+FLUELLEN
+Stand aside, Captain Gower. Ill reward treason with blows, I promise you.
+</T>
+<T>
+WILLIAMS
+Im not a traitor.
+</T>
+<T>
+FLUELLEN
+An infamous lie! I accuse you in the name of the king. Arrest him: hes a friend of the duke of Alenons.
+</T>
+<T>
+CHORUS
+Allow me to fill in the gaps for those of you who have not read this story. As for those who have, I beg you to excuse the gaps in time, and the many people and things that cannot be represented here in all their magnitude and proper form. Lets bring the king now to Calais. Imagine him there and, having seen him there, haul him back across the sea on the wings of your imagination. Theres the coast of England: see how the sea seems to be fenced in by the men and wives and boys who line the shore, their shouts and wild applause drowning out the deep roar of the surf. As the kings ship draws near, the very ocean is like a man running before the king, preparing his way. Lets have him land and solemnly proceed to London. Thoughts work so quickly that even now you can imagine him on Blackheath, where his lords suggest that he should carry his battle-scarred sword and helmet on a procession through the city. He refuses, as he is free of vanity and self-serving pride and ascribes all the glory and responsibility for victory to God. Now in the factory of thought, create the image of all London pouring forth into the streets. Picture the mayor and all his brother citizens dressed in their best as they go forth like senators of ancient Rome to welcome home their conquering Caesar. Imagine if our own queens general returned from Ireland, having stamped out the rebellion there, as we hope he does very soon, how many people would leave the city to come welcome him. Even more people than that welcomed Harry home,
+</T>
+<T>
+GOWER
+Yes, thats true, but why are you wearing your leek today? Saint Davys Day has passed.
+</T>
+<T>
+FLUELLEN
+There are reasons and causes why and how in everything. Ill tell you as my friend, Captain Gower: that rascally, mean, beggarly, lousy, bragging Pistol, whom you and yourself and all the world know to be no better than a peasantseewith no good qualities at all: he came to me yesterday and brought me bread and salt and told me to eat my leek. We were somewhere where I couldnt pick a fight with him, but Ive decided to wear it in my cap until I see him again, whereupon Ill give him a little piece of my mind.
+</T>
+<T>
+GOWER
+And here he comes, puffing himself up like a turkey.
+</T>
+<T>
+FLUELLEN
+Never mind his puffings and his turkeys. God bless you, Ensign Pistol! You lousy, rotten, villain, God bless you!
+</T>
+<T>
+PISTOL
+Are you mad? Do you want me to cut your life short, you deceiving lowlife? Away! The smell of leek turns my stomach.
+</T>
+<T>
+FLUELLEN
+I wonder if youd be so good, you lousy, rotten villain, to grant my wish and my request and gratify me, see, by eating this leek. Id like you to, see, because you dont like it, and because it isnt to your taste, and because it doesnt agree with you.
+</T>
+<T>
+KING HENRY
+Peace to this occasion thats brought us all together. Health and good day to our brother the king of France and to our sister the queen. Joy and good wishes to our lovely royal cousin, Katherine. And you, Duke of Burgundy, who brought this great assembly together, we salute you as descendent and member of this royal family. And a health to all you lords and princes of France.
+</T>
+<T>
+KING OF FRANCE
+We rejoice to see you, most worthy brother of England. You are welcome here, as are all of you English princes.
+</T>
+<T>
+QUEEN ISABEL
+Brother of England, may this meeting prove as fruitful as it is joyous. We are glad to look upon your facea face whose eyes have until now carried in them a glance as deadly, for any Frenchman they alighted on, as the poisonous eyes of those mythical lizards, the basilisks. We hope your poison has worn off and this day shall transform all grievances and quarrels into friendship.
+</T>
+<T>
+KING HENRY
+Were here to say amen to that.
+</T>
+<T>
+QUEEN ISABEL
+All you English princes, I salute you.
+</T>

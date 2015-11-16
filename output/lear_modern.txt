@@ -1,0 +1,1064 @@
+<T>
+KENT
+I thought the king preferred the Duke of Albany to the Duke of Cornwall.
+</T>
+<T>
+GLOUCESTER
+We used to think so too. But the way hes divided the kingdom recently, nobody can tell which of the dukes he favors more. Hes split the kingdom so evenly that its impossible to see any indication of favoritism.
+</T>
+<T>
+KENT
+(pointing to EDMUND) Isnt this your son, my lord?
+</T>
+<T>
+GLOUCESTER
+Yes, Ive been responsible for his upbringing. Ive had to acknowledge that hes my son so many times that now I can do it without embarrassment.
+</T>
+<T>
+KENT
+I cant conceive of what you mean.
+</T>
+<T>
+GLOUCESTER
+You cant conceive? Well, this guys mother could conceive him all to well. She grew a big belly and had a baby for her crib before she had a husband for her bed. Do you smell something naughty?
+</T>
+<T>
+KENT
+Well, I wouldnt want to undo the naughtiness, since the boy turned out so well.
+</T>
+<T>
+GLOUCESTER
+But I have a legitimate son a few years older than this one, and I dont love him any more than I love my bastard. Edmund may have snuck into the world a little before his time, but his mother was pretty, we had a fun time making him, and now I have to acknowledge the guy as my son.Do you know this gentleman, Edmund?
+</T>
+<T>
+EDMUND
+No, I dont, my lord.
+</T>
+<T>
+GLOUCESTER
+(to EDMUND) This is Lord Kent. Remember him as my friend and an honorable man.
+</T>
+<T>
+EDMUND
+Very pleased to meet you, my lord.
+</T>
+<T>
+KENT
+I look forward to getting to know you better.
+</T>
+<T>
+EDMUND
+Ill try to make myself worth your knowledge.
+</T>
+<T>
+GLOUCESTER
+Hes been gone for nine years and hes leaving again soon.
+</T>
+<T>
+The king is coming.
+</T>
+<T>
+LEAR
+Go escort the lords of France and Burgundy, Gloucester.
+</T>
+<T>
+GLOUCESTER
+Yes, my lord.
+</T>
+<T>
+LEAR
+In the meantime Ill get down to my real business.Hand me that map over there.I hereby announce that Ive divided my kingdom into three parts, which Im handing over to the younger generation so I can enjoy a little rest and peace of mind in my old age.Cornwall and Albany, my loving sons-in-law, I now want to announce publicly what each of my daughters will inherit, to avoid hostilities after I die. The two
+</T>
+<T>
+great princes of France and Burgundy, vying for the hand of my youngest Cordelia, have been at my court a long time and will soon have their answers.My daughters, since Im about to give up my throne and the worries that go along with it, tell me which one of you loves me most, so that I can give my largest gift to the one who deserves it most.Goneril, my oldest daughter, you speak first.
+</T>
+<T>
+GONERIL
+Sir, I love you more than words can say. I love you more than eyesight, space, and freedom, beyond wealth or anything of value. I love you as much as life itself, and as much as status, health, beauty, or honor. I love you as much as any child has ever loved her father, with a love too deep to be spoken of. I love you more than any answer to the question How much?
+</T>
+<T>
+CORDELIA
+(to herself) What will I say? I can only love and be silent.
+</T>
+<T>
+LEAR
+I give you all this land, from this line to that onedense forests, fertile fields, rivers rich with fish, wide meadows. This land will belong to your and Albanys children forever.And now what does my second daughter Regan, the wife of Cornwall, have to say? Tell me.
+</T>
+<T>
+REGAN
+Sir, Im made of the same stuff as my sister and consider myself just as good as she is. Shes described my feelings of love for you precisely, but her description falls a little short of the truth. I reject completely any
+</T>
+<T>
+joy except my love for you, and I find that only your majestys love makes me happy.
+</T>
+<T>
+CORDELIA
+(to herself) Poor me, what am I going to say now? But Im not poor in lovemy love is bigger than my words are.
+</T>
+<T>
+LEAR
+You and your heirs hereby receive this large third of our lovely kingdom, no smaller in area or value than what I gave Goneril.Now, you, my youngest daughter, my joy, courted by the rich rulers of France and Burgundy, what can you tell me that will make me give you a bigger part of my kingdom than I gave your sisters? Speak.
+</T>
+<T>
+CORDELIA
+Nothing, my lord.
+</T>
+<T>
+LEAR
+Nothing?
+</T>
+<T>
+CORDELIA
+Nothing.
+</T>
+<T>
+LEAR
+Come on, nothing will get you nothing. Try again.
+</T>
+<T>
+CORDELIA
+Im unlucky. I dont have a talent for putting my hearts feelings into words. I love you as a child should love her father, neither more nor less.
+</T>
+<T>
+LEAR
+What are you saying, Cordelia? Revise your statement, or you may damage your inheritance.
+</T>
+<T>
+CORDELIA
+My lord, you brought me up and loved me, and Im giving back just as I should: I obey you, love you, and
+</T>
+<T>
+honor you. How can my sisters speak the truth when they say they love only you? Dont they love their husbands too? Hopefully when I get married, Ill give my husband half my love and half my sense of duty. Im sure Ill never get married in the way my sisters say theyre married, loving their father only.
+</T>
+<T>
+LEAR
+But do you mean what youre saying?
+</T>
+<T>
+CORDELIA
+Yes, my lord.
+</T>
+<T>
+LEAR
+So young and so cruel?
+</T>
+<T>
+CORDELIA
+So young, my lord, and honest.
+</T>
+<T>
+LEAR
+Then thats the way itll be. The truth will be all the inheritance you get. I swear by the sacred sun, by the mysterious moon, and by all the planets that rule our lives, that I disown you now as my daughter. As of now, there are no family ties between us, and I consider you a stranger to me. Foreign savages who eat their own children for dinner will be as close to my heart as you, ex-daughter of mine.
+</T>
+<T>
+KENT
+But sir
+</T>
+<T>
+LEAR
+Be quiet, Kent. Dont get in my way when Im angry. I loved Cordelia most of all and planned to spend my old age with her taking care of me. (to CORDELIA) Go
+</T>
+<T>
+away! Get out of my sight!I guess if she doesnt love her father, then Ill only have peace when Im dead.Call the King of France. Why is nobody doing anything? Call the Duke of Burgundy.
+</T>
+<T>
+Cornwall and Albany, you and your wives can divide this last third of my kingdom between you. If she wants to be proud, or honest, as she calls it, she can just marry her own pride. I hereby grant to you two my crown and all the privileges that kingship brings. Ill live one month with one of you, the next month with the other one. All I ask is that you provide me with a hundred knights for my own entourage. Ill keep only the title of king, but youll have everything else: all the authority and income that come with kingship. To confirm all this, take this crown to share between yourselves. (he gives CORNWALL and ALBANY the crown)
+</T>
+<T>
+KENT
+King Lear, Ive always honored you as king, loved you as my father, obeyed you as my master, and thanked you in my prayers
+</T>
+<T>
+LEAR
+Im furious and ready to snap. Stay away or else Ill take my anger out on you.
+</T>
+<T>
+KENT
+Let your anger fall on me then, even if its sharpness pierces my heart. Kent can speak rudely when Lear goes mad. What are you doing, old man? When powerful kings cave in to flatterers, do you think loyal men will be afraid to speak out against it? When a majestic king starts acting silly, then its my duty to be blunt.
+</T>
+<T>
+Hold on to your crown and use your better judgment to rethink this rash decision. On my life I swear to you that your youngest daughter doesnt love you least. A loud mouth often points to an empty heart, and just because shes quiet doesnt mean shes unloving.
+</T>
+<T>
+LEAR
+Kent, if you want to stay alive, stop talking.
+</T>
+<T>
+KENT
+I never considered my life as anything more than a chess pawn for you to play off against your enemies. Im not afraid to lose it if it helps protect you.
+</T>
+<T>
+LEAR
+Get out of my sight!
+</T>
+<T>
+KENT
+Learn to see better, Lear, and let me stay here where you can look to me for good advice.
+</T>
+<T>
+LEAR
+Now, I swear by Apollo
+</T>
+<T>
+KENT
+By Apollo, King, youre taking the names of the gods in vain.
+</T>
+<T>
+LEAR
+Oh, you lowlife! Scum!
+</T>
+<T>
+ALBANY, CORNWALL
+Please stop, sir.
+</T>
+<T>
+KENT
+Sure, kill the doctor whos trying to cure you and pay your disease. Take back your gift to Albany and Cornwall. If you dont, then as long as Im able to speak Ill keep telling you youve done a bad, bad thing.
+</T>
+<T>
+LEAR
+Listen to me, you traitor. Youll pay the price for trying to make me go back on the vow I made when I bequeathed my kingdom to them. Ive never broken a vow yet. You tried to make me revise my judgment on my youngest daughter, disrespecting my power as
+</T>
+<T>
+kingwhich I cant put up with either as a ruler or as a person. This is your punishment: Ill give you five days to gather together what you need to survive, then on the sixth day youll leave this kingdom that hates you. If the day after that youre found in my kingdom, you die. Now get out of here! I swear by Jupiter Ill never revoke this punishment.
+</T>
+<T>
+KENT
+Farewell, King. If this is how you act, its clear that freedom has been banished from this kingdom.(to CORDELIA) I hope the gods will protect you, my dear girl, for thinking fairly and speaking correctly. (to REGAN and GONERIL) And you two, I hope your actions carry out your grand promises of love, so that big words can bring big results. Farewell to all of you. Ill carry on my old life in a new land.
+</T>
+<T>
+GLOUCESTER
+Here are the rulers of France and Burgundy, my lord.
+</T>
+<T>
+LEAR
+My lord the ruler of Burgundy, Ill speak to you first. Youve been competing with this king for my daughter. Whats the least that you will settle for as a dowry?A dowry is a payment traditionally made to a husband by his father-in-law at the time of marriage.dowry?
+</T>
+<T>
+BURGUNDY
+Your highness, I want nothing more than what youve already offered. I know youll offer nothing less than that.
+</T>
+<T>
+LEAR
+Burgundy, I valued her highly when I cared about her. But now her price has fallen. There she is, over there. If theres anything you like about that worthless little thing, then go for it. Shes all yours. But what you see is what you gether only dowry is my disapproval. There she is.
+</T>
+<T>
+BURGUNDY
+I dont know what to say.
+</T>
+<T>
+LEAR
+Shes got big flaws. She has no friends or protectors. I no longer love her. Her only dowry is my curse and banishment. So do you take her or leave her?
+</T>
+<T>
+BURGUNDY
+Im sorry, sir, but nobody can make a choice like this in such circumstances.
+</T>
+<T>
+LEAR
+Then leave her, sir. I swear to God shes not worth anything more than what I told you. (to FRANCE) And as for you, great King of France, Id never insult our friendship by encouraging you to marry a girl I hate. So I beg you to look around for a better match than this wretched creature that you can barely call human.
+</T>
+<T>
+FRANCE
+This is very odd. Until very recently she was your favorite, the object of all your praise and the delight of your old age. Its strange that someone so dear to you could do anything so horrible as to warrant this sudden
+</T>
+<T>
+hatred. Her crime must be extreme and monstrous, or else your earlier love for her wasnt as true as it seemed. But itd take a miracle to make me believe she could do anything that horrible.
+</T>
+<T>
+CORDELIA
+(to LEAR) Please, your majesty, I dont have a glib way with words and I only say what I mean. If I decide to do something, then I do it instead of talking about it. So I beg your majesty to let people know that it wasnt because I did something atrocious
+that I fell from your favor. I didnt murder or commit any immoral or lustful act. Im out of favor simply because Im not a fortune-hunter and I dont have a smooth way with wordsand Im a better person because of it, even though it has cost me your love.
+</T>
+<T>
+LEAR
+Enough. It wouldve been better for you not to have been born at all than to displease me as you did.
+</T>
+<T>
+FRANCE
+You mean this is the whole problem, that she is shy and hasnt said everything she means to say and do?My lord of Burgundy, what do you have to say to this lady? Loves not love when it gets mixed up with irrelevant outside matters. Will you marry her? She herself is as valuable as any dowry could ever be.
+</T>
+<T>
+BURGUNDY
+(to LEAR) King, just give me the dowry you promised me, and Ill make Cordelia the Duchess of Burgundy right away.
+</T>
+<T>
+LEAR
+No, Ill give nothing. I wont budge on that.
+</T>
+<T>
+BURGUNDY
+(to CORDELIA) In that case, Im sorry you have to lose me as a husband because you lost the king as a father.
+</T>
+<T>
+CORDELIA
+Peace to you, my lord of Burgundy. Since you love money and power so much, I wont be your wife.
+</T>
+<T>
+FRANCE
+Beautiful Cordelia, youre all the richer now that youre poor. Youre more valuable now that youre rejected and more loved now that youre hated.
+Ill take you and your wonderful virtues here and now, if its okay that Im picking up what others have thrown away. Its so strange that in neglecting you so cruelly, the gods have made me love you so dearly.King, the daughter youve rejected is now mine, as Queen of France. No Duke of spineless Burgundy can take this treasure of a girl from me now.Say goodbye to them, Cordelia, even though theyve been unkind to you. Youll find a much better place in France than what youre giving up here.
+</T>
+<T>
+LEAR
+Shes yours, King of France. Take her. Shes no longer my daughter, and Ill never see her face again. (to CORDELIA) So get out of here. Leave without any blessing or love from me.Come with me, Burgundy.
+</T>
+<T>
+FRANCE
+Say goodbye to your sisters.
+</T>
+<T>
+CORDELIA
+Sisters, you whom our father loves so dearly, I leave you now with tears in my eyes. I know you for what you really are, but as your sister Im reluctant to criticize you. Take good care of our father and show him the love that you have professed. I leave him in your carebut oh, if only I were still in his favor I could arrange for better care for him. Goodbye to you both.
+</T>
+<T>
+REGAN
+Dont tell us what our duty is.
+</T>
+<T>
+GONERIL
+You should focus instead on pleasing your husband, whos taken you in as an act of charity. Youve failed to obey your father and you deserve to be deprived of everything thats been taken away from you.
+</T>
+<T>
+CORDELIA
+Time will tell what youve got up your sleeve. You can be deceitful in the short term, but eventually truth will come out. Have a good life.
+</T>
+<T>
+FRANCE
+Come with me, my dear Cordelia.
+</T>
+<T>
+GONERIL
+Sister, I have a lot to say about things that concern us both. I think that our father will leave here tonight.
+</T>
+<T>
+REGAN
+Yes, Im sure he willto stay with you. Next month hell stay with us.
+</T>
+<T>
+GONERIL
+Hes so flighty in his old age, as we keep noticing. He has always loved Cordelia best, and his bad judgment in disowning her now is obvious.
+</T>
+<T>
+REGAN
+Hes going senile. But then again hes never really understood his own feelings very well.
+</T>
+<T>
+GONERIL
+Yes, he was hotheaded even in the prime of his life. Now that hes old, we can expect to have to deal not only with his old character flaws, which have turned into deep-rooted habits, but also with the uncontrollable crabbiness that comes with old age.
+</T>
+<T>
+REGAN
+Well probably witness many more outbursts from him, like banishing Kent.
+</T>
+<T>
+GONERIL
+Theres still the King of Frances farewell ceremony. Lets put our heads together. If our father continues to use his authority as usual, then his recent abdication of the kingdom will just hurt us.
+</T>
+<T>
+REGAN
+Well have to think about it carefully.
+</T>
+<T>
+GONERIL
+We have to strike while the irons hot.
+</T>
+<T>
+EDMUND
+I only worship whats natural, not whats manmade. Why should I let myself be tortured by manmade social customs that deprive me of my rights simply because I was born twelve or fourteen months later than my older brother? Why do they call me bastard and lowlife when Im just as gifted in mind and body as legitimate children? Why do they call us bastards lowlifes? Always lowlife, bastard, lowlife, lowlife. At least we bastards were conceived in a moment of passionate lust rather than in a dull, tired marriage bed, where half-sleeping parents monotonously churn out a bunch of sissy kids. All right then, legitimate brother Edgar, I have to have your lands. Our father loves me just as much as the legitimate Edgar. What a nice word that is, legitimate! Well, my legitimate Edgar, if this letter works and my plan succeeds, Edmund the lowlife will beat the legitimate. Look out, Im on my way up. Three cheers for bastards!
+</T>
+<T>
+GLOUCESTER
+Kents been banished just like that? And the King of France gone in a huff? And King Lears abdicated his authority, making his kingship a ceremonial title only? All this so suddenly?Edmund, whats going on? Whats the news?
+</T>
+<T>
+GONERIL
+Did my father hit one of my attendants for scolding his fool?
+</T>
+<T>
+OSWALD
+Yes, ma'am.
+</T>
+<T>
+GONERIL
+He constantly offends me. Every hour he comes out with some horrible new offense that puts us all on edge. I wont stand for it. His knights are getting out of control, and he himself reprimands us about every little detail. When he comes back from hunting, Im not going to speak to him. Tell him Im sick. And if youre not as attentive in serving him as you used to be, thatll be good. Ill take responsibility for it.
+</T>
+<T>
+OSWALD
+Hes coming, ma'am. I hear him.
+</T>
+<T>
+GONERIL
+Be as lazy and neglectful as you like around himyou and the other servants. I want it to become an issue. If he doesnt like it, he can go live with my sister. I know she feels the same way about him that I do, and shell stand her ground. That useless old man still thinks he can wield all the powers hes given away. I swear, old fools become like babies again. You cant just flatter them; you also have to discipline them when you see that theyre misguided. Remember what Ive told you.
+</T>
+<T>
+OSWALD
+Very well, ma'am.
+</T>
+<T>
+KENT
+If I can disguise my voice as well as my appearance, then Ill be able to carry out my plan perfectly. I was banished, but hopefully I can serve the very king who condemned me. I love my master, and hell find me very hard-working.
+</T>
+<T>
+LEAR
+Dont make me wait for dinner even a moment. Get it ready immediately.
+</T>
+<T>
+(to KENT) Well now, who are you?
+</T>
+<T>
+KENT
+A man, sir.
+</T>
+<T>
+LEAR
+Whats your profession? What do you want from me?
+</T>
+<T>
+KENT
+IKent interprets your profession as your declaration rather than your job.I profess that Im as good as I seemIll faithfully serve a master who trusts me, love those who are honest, talk with those who are wise and dont talk too much. Im God-fearing, I fight if I must, and I dont eat fish.
+</T>
+<T>
+LEAR
+But who are you?
+</T>
+<T>
+KENT
+An honest guy whos as poor as the king.
+</T>
+<T>
+LEAR
+If youre as poor a subject as he is a king, you definitely are poor. What do you want?
+</T>
+<T>
+LEAR
+(to KENT, giving him letters) Go ahead of us and deliver these letters to the Earl of Gloucester. Answer my daughters questions about the letter, but dont tell her anything else you know. If youre not quick enough, Ill get there before you.
+</T>
+<T>
+KENT
+I wont sleep until Ive delivered your letter, my lord.
+</T>
+<T>
+FOOL
+If a mans brain were in his feet, wouldnt it be susceptible to frostbite?
+</T>
+<T>
+LEAR
+Yes, boy.
+</T>
+<T>
+FOOL
+In that case, cheer up. Your brains wont need slippers to protect them from frostbite, since your brains arent in your feetif they were you wouldnt take this useless journey to see Regan.
+</T>
+<T>
+LEAR
+Ha, ha, ha!
+</T>
+<T>
+FOOL
+Your other daughter Regan will treat you kindly, youll see. Even though shes as similar to Goneril as one crabapple is like another, still I know what I know.
+</T>
+<T>
+LEAR
+And what do you know, boy?
+</T>
+<T>
+FOOL
+I know that Regan will taste just like Gonerilboth of them sour crabapples. Do you know why the nose is in the middle of a persons face?
+</T>
+<T>
+EDMUND
+Hello, Curan.
+</T>
+<T>
+CURAN
+Hello, sir. I just saw your father the Lord Gloucester and notified him that the Duke of Cornwall and his wife Regan will stay with him here tonight.
+</T>
+<T>
+EDMUND
+Why is that?
+</T>
+<T>
+CURAN
+I dont know. Have you heard the latest news?I mean the whispered rumors, since thats all they are at this point.
+</T>
+<T>
+EDMUND
+No, I havent. Whats going on?
+</T>
+<T>
+CURAN
+You havent heard of the war brewing between the Dukes of Cornwall and Albany?
+</T>
+<T>
+EDMUND
+Not a word.
+</T>
+<T>
+CURAN
+You may hear about it soon. Goodbye, sir.
+</T>
+<T>
+EDMUND
+The duke will be here tonight? All the betterin fact its the best that could happen. His arrival fits perfectly into my plan. My fathers ready to arrest my brother, and I have one risky thing to do. Fast work and a little luck are all I need.Brother, could I have a word with you? Come down, brother.
+</T>
+<T>
+OSWALD
+Good morning to you, friend. Do you work in this house?
+</T>
+<T>
+KENT
+Yes, I do.
+</T>
+<T>
+OSWALD
+Where should we stable our horses?
+</T>
+<T>
+KENT
+In the mud.
+</T>
+<T>
+OSWALD
+Please, sir, be kind to me and tell me.
+</T>
+<T>
+KENT
+I wont be kind to you.
+</T>
+<T>
+OSWALD
+In that case, I dont much care for you either.
+</T>
+<T>
+KENT
+If I could get my hands on you, Id make you care.
+</T>
+<T>
+OSWALD
+Why are you talking to me like this? I dont even know you.
+</T>
+<T>
+KENT
+Ah, but I know you.
+</T>
+<T>
+OSWALD
+Who am I then?
+</T>
+<T>
+KENT
+Youre a lowlife, a rascal who eats leftover scraps. Youre an ignoble, arrogant, shallow, vulgar, pretentious, conceited, filthy third-rate servant who thinks hes something special. Youre a cowardly lawyer-loving bastard; a vain, brown-nosing, prissy scoundrel whod pimp himself out to advance his career; a bag lady. Youre nothing but a lowlife, a beggar, a coward, and a pimp, the son and heir of a mutt bitch. Ill beat you until you whine and cry if you deny the least bit of this.
+</T>
+<T>
+EDGAR
+I heard myself declared an outlaw and escaped capture by hiding in the trunk of a hollow tree. Every town and port is crawling with henchmen on the lookout, waiting to capture me. But Ill survive while I can. Ive decided to disguise myself as the lowliest and rattiest beggar that mankind has ever seen. Ill smear my face with filth, put on a loincloth, make my hair matted and tangled, and face the bad weather wearing almost nothing. Ive seen beggars out of insane asylums who stick pins and nails into their numb arms. They pray or roar lunatic curses, horrifying farmers and villagers into giving them alms. Poor crazy Tom! they call themselves. Well, at least thats something. As Edgar, Im nothing at all.
+</T>
+<T>
+LEAR
+Its strange that Regan and her husband left their house without sending back my messenger.
+</T>
+<T>
+GENTLEMAN
+According to what I heard, they had no travel plans as of last night.
+</T>
+<T>
+KENT
+(to LEAR) Hail, noble master!
+</T>
+<T>
+LEAR
+Whats this? Are you sitting around in this humiliation to amuse yourself?
+</T>
+<T>
+KENT
+No, my lord.
+</T>
+<T>
+FOOL
+Ha, ha! Thats a nasty garter belt. You tie up horses by their heads, dogs and bears by their necks, monkeys by their waists, and humans by their legs. When a persons prone to wanderlust, he has to wear wooden socks, like a chastity belt around his ankles.
+</T>
+<T>
+LEAR
+(to KENT) Who could have misunderstood your assigment so completely as to lock you up like this?
+</T>
+<T>
+KENT
+Your daughter and son-in-law.
+</T>
+<T>
+LEAR
+No.
+</T>
+<T>
+KENT
+Yes.
+</T>
+<T>
+LEAR
+Im telling you No.
+</T>
+<T>
+KENT
+And Im telling you Yes.
+</T>
+<T>
+KENT
+Whos there, aside from this foul weather?
+</T>
+<T>
+GENTLEMAN
+Someone whose mood is as foul as the weather, very troubled.
+</T>
+<T>
+KENT
+I know you. Wheres the king?
+</T>
+<T>
+GENTLEMAN
+Struggling with the wind and rain. Hes shouting at the wind to blow the earth into the sea, or make the sea flood the earthhe wants to see the world return to primal chaos. He keeps tearing out his white hair, which the blindly raging winds catch up and blow away into nothingness. Small but brave in his surroundings, hes trying to stand up against the wind and rain blowing back and forth. Hes running bareheaded, calling for the end of the world, out there on a night like this, when even savage animals ravenous with hunger crawl under cover and hide.
+</T>
+<T>
+KENT
+But whos with him?
+</T>
+<T>
+GENTLEMAN
+Nobody but the fool, whos trying to soothe the wounds in the kings heart with jokes.
+</T>
+<T>
+LEAR
+Blow, winds! Blow until your cheeks crack! Rage on, blow! Let tornadoes spew water until the steeples of our churches and the weathervanes are all drowned. Let quick sulfurous lightning, strong enough to split enormous trees, singe the white hair on my head. Let thunder flatten the spherical world, crack open all the molds from which nature forms human beings, and spill all the seeds from which ungrateful humans grow!
+</T>
+<T>
+FOOL
+Oh, uncle, its better to smile and flatter indoors where its dry than get soaked out here. Please, uncle, lets go in and ask your daughters to forgive you. This storm has no pity for either wise men or fools.
+</T>
+<T>
+LEAR
+Let thunder rumble! Let lightning spit fire! Let the rain spray! The rain, the wind, the thunder and lightning are not my daughters. Nature, I dont accuse your weather of unkindness. I never gave you a kingdom or raised you as my child, and you dont owe me any obedience. So go ahead and have your terrifying fun. Here I am, your slavea poor, sick, weak, hated old man. But I can still accuse you of kowtowing, taking my daughters' side against me, ancient as I am. Oh, its foul!
+</T>
+<T>
+FOOL
+Anyone who has a house to cover his head has a good head on his shoulders.
+The guy who finds a place to put his penis
+Before he has a house of his own
+Will wind up dirt poor and covered with lice
+</T>
+<T>
+GLOUCESTER
+Oh, oh, Edmund, I dont like this monstrous business. When asked the Duke and Duchess of Cornwall if I could take pity on the king and shelter him from the storm, they took my house away from me and ordered me never to talk about him, lobby for him, or support him in any way.
+</T>
+<T>
+EDMUND
+Thats uncivilized and unnatural!
+</T>
+<T>
+GLOUCESTER
+Oh, be quiet. Theres a feud between the two dukes. And theres something even worse than that. I got a letter tonight. Its dangerous to talk about it. Ive locked it up in my room. The humiliation that the king is suffering now will be revenged thoroughly. Armed forces have already landed. We have to take the kings side. Ill look for him and secretly help him. You go and talk to the duke so he wont notice Im helping the king. If he asks to see me, tell him Im sick and went to bed. Even if I have to dieas they threatenI have to help the king. Strange things are about to happen, Edmund. Please be careful.
+</T>
+<T>
+EDMUND
+Ill tell the duke right away that youre going to see the king, which is forbidden. And Ill tell him about the letter too. Youll get what you deserve, and Ill be rewarded with everything you losein other words, all your lands. The young generation rises while the old one falls.
+</T>
+<T>
+KENT
+Heres the hut, my lord. Please go inside. The nights too rough for humans to bear.
+</T>
+<T>
+LEAR
+Leave me for a bit.
+</T>
+<T>
+KENT
+My lord, here is the entrance.
+</T>
+<T>
+LEAR
+Will you break my heart?
+</T>
+<T>
+KENT
+Id rather break my own heart. Now please go in.
+</T>
+<T>
+LEAR
+You think its a big deal that this fierce storm is soaking me to the skin. Its a big deal to you. But whenever you feel a larger pain, the smaller one disappears. You would run away from a bear, but if the only way to run was into the stormy ocean, youd turn around and confront the bear. When your mind is at peace, your body is sensitive to the elements. But this storm in my mind keeps me from feeling anything except whats tormenting mehow ungrateful my children are! Isnt their ingratitude like the mouth biting the hand that feeds it? But Ill punish them thoroughly. No, I wont cry any more. Imagine them locking me out on a night like this! But let it rain; Ill survive. On a night like this! Oh, Regan, Goneril, your kind old father whose generous heart gave you everythingOh, if I think about that Ill go mad. I want to avoid that. No more of these thoughts.
+</T>
+<T>
+CORNWALL
+Ill get my revenge before I leave this house.
+</T>
+<T>
+EDMUND
+Im afraid to think how Ill be criticized for letting my natural affection for my father give way to my loyalty to you.
+</T>
+<T>
+CORNWALL
+Now I realize your brother tried to kill your father not just because your brother is an evil man, but because your father deserved it by being wicked himself.
+</T>
+<T>
+EDMUND
+How unlucky am I, having to apologize for doing the right thing! (giving CORNWALL a letter) This is the letter he was talking about, and it confirms he was a spy for France. Oh God, I wish he had never betrayed us, or that I hadnt been the one to discover his treason.
+</T>
+<T>
+CORNWALL
+Come with me to see the duchess.
+</T>
+<T>
+EDMUND
+If this letters right, youve got a lot to deal with.
+</T>
+<T>
+CORNWALL
+Right or not, its made you the Earl of Gloucester. Go find your father and let him know were going to arrest him.
+</T>
+<T>
+EDMUND
+(to himself) If I catch my father helping the king, hell seem even more guily. (to CORNWALL) Ill do what I must loyally, even though it pains me to take action against my father.
+</T>
+<T>
+CORNWALL
+I put my trust in you. Youll see that Im a better father to you than Gloucester.
+</T>
+<T>
+GLOUCESTER
+Its better here than outside. Be happy about it. Ill do what I can to make you even more comfortable. I wont be gone long.
+</T>
+<T>
+KENT
+He cant bear his grief and so hes losing his mind. May God reward you for your kindness!
+</T>
+<T>
+EDGAR
+The devil Frateretto is telling me that the diabolical Roman emperor NeroNero was a first-century A.D. Roman emperor who, according to legend, played the fiddle while Rome burned.Nero likes to go fishing in hell. Pray to the gods, you fool, and beware the foul devil.
+</T>
+<T>
+FOOL
+Heres a riddle, uncle. Is the lunatic a gentleman or an ordinary guy?
+</T>
+<T>
+LEAR
+Hes a king, a king!
+</T>
+<T>
+FOOL
+No, hes an ordinary guy who s got a gentleman for a son, since someone would have to be crazy to let his son become a gentleman before hes achieved that distinction himself.
+</T>
+<T>
+LEAR
+I see Regan and Goneril in hellA thousand hissing devils with sizzling red pitchforks come up to them!
+</T>
+<T>
+EDGAR
+The nasty devils biting my butt.
+</T>
+<T>
+CORNWALL
+(to GONERIL) Hurry to your husband. Show him this letter. The French army has landed.Find the traitor Gloucester.
+</T>
+<T>
+REGAN
+Hang him immediately.
+</T>
+<T>
+GONERIL
+Gouge out his eyes!
+</T>
+<T>
+CORNWALL
+Leave him to my wrath.Edmund, go with my sister-in-law. You shouldnt have to see the punishment we inflict on your father. Tell the Duke of Albany to prepare for war immediately. We will do the same. Well keep the lines of communication open between us. (to GONERIL) Goodbye, my dear sister-in-law. (to EDMUND) Goodbye, lord Gloucester.
+</T>
+<T>
+Hello. Wheres the king?
+</T>
+<T>
+OSWALD
+Lord Gloucester has helped him leave. Thirty-five or thirty-six of his knights met him at the gate, and together with some others theyve set off for Dover, where they claim to have powerful friends.
+</T>
+<T>
+EDGAR
+Still, Im better off now, as a beggar who is openly hated, than when I was flattered to my face hated in secret. The lowliest and most dejected creatures live without fear and still harbor hope. The worst kind of change is when good fortune turns sour. At the bottom, any change is for the better. So I welcome this wind freely. Ive sunk as far down as I can go, so Ive got nothing more to fear from the weather.
+</T>
+<T>
+But who is this? My father, led by a poor peasant? Oh, life is full of surprises! We age and die because they wear us out.
+</T>
+<T>
+OLD MAN
+(to GLOUCESTER) My good lord,
+Ive rented land from you and your father for eighty years.
+</T>
+<T>
+GLOUCESTER
+Away, get out of here. Leave me, my friend. Theres nothing you can do to help me now, and being with me puts your life in danger.
+</T>
+<T>
+OLD MAN
+But you cant see where youre going, sir.
+</T>
+<T>
+GLOUCESTER
+I dont have anywhere to go, so I dont need to see. When I could see, I didnt always see clearly. I made
+</T>
+<T>
+GONERIL
+Welcome, my lord. Im surprised my bland husband didnt meet me on the way here.
+</T>
+<T>
+Wheres your master?
+</T>
+<T>
+OSWALD
+Hes inside, ma'am, but he has changed dramatically since you last saw him. When I told him that the invading army has landed, he just smiled at me. When I told him you were on your way, he replied, Too bad. When I told him about Gloucesters betrayal and his son Edmunds loyal service, he called me an idiot and said I had it all wrong. He was delighted by the bad news and disgusted by the good news.
+</T>
+<T>
+GONERIL
+(to EDMUND) Then dont come in with me. Hes a coward and cant commit himself to doing anything risky. He chooses not to be insulted rather than challenge those who offend him. But what we talked about with longing on the way may soon come true. EdmundGoneril may be referring to the beginnings of a romance between her and Edmund.Edmund, go back to see my brother-in-law. Gather his soldiers and organize his troops. I plan to take charge of my household. From now on I will wear the pants, and my husband can play the housewife. We can trust Oswald to carry messages between us. If you act boldly, you will soon obey me as your true mistress. Take this as a token of my esteem. Dont speak. Lean down. This kiss should encourage you. (she kissesEDMUNDGonerils words suggest both that she will take charge and that she will become Edmunds lover. In many productions, Goneril gives Edmund a chain that she puts around his neck.EDMUND) I hope you understand me. Goodbye, and good luck.
+</T>
+<T>
+KENT
+Do you know why the King of France suddenly went back home?
+</T>
+<T>
+GENTLEMAN
+Hed left some unfinished business, which he remembered after arriving here. It was urgent and important enough to require his personal presence.
+</T>
+<T>
+KENT
+Whom did he leave in charge here?
+</T>
+<T>
+GENTLEMAN
+The marshal of France, Monsieur la Far.
+</T>
+<T>
+KENT
+Was Queen Cordelia aggrieved by the letters you delivered?
+</T>
+<T>
+GENTLEMAN
+Yes, sir. She took the letters and read them in front of me. Now and then a large tear trickled down her delicate cheek. She seemed to be trying to control her emotions, which were overwhelming her.
+</T>
+<T>
+KENT
+So she was moved by it?
+</T>
+<T>
+GENTLEMAN
+There were no outbursts. She was struggling between emotion and self-control. Youve seen how it can rain while the sun shines? Thats how she was, smiling and crying at once, only more lovely. The little smile on her full lips didnt seem aware of the tears that were dropping like diamonds from her pearly eyes. If everyone looked so lovely in their sorrow, then sorrow would be highly prized.
+</T>
+<T>
+CORDELIA
+Sadly, its the king thats missing. They saw him just now as mad and deranged as the stormy sea, singing loudly, wearing a crown of nettles, thorns, hemlock, and all the other weeds that grow in our cornfields.Send out a hundred soldiers to find him. Search high and low, in every acre of the fields, and bring him here for me to see him.
+</T>
+<T>
+What can human knowledge do to make him sane again? Id give all my wealth to whoever can help him.
+</T>
+<T>
+DOCTOR
+There is a way, ma'am. Nature heals people with rest, which Lear hasnt had. But there are many herbs that will help him rest and take his mind off his anguish for a while.
+</T>
+<T>
+CORDELIA
+Then Ill water all those precious herbs with my tears to make them grow. May they relieve a sick old mans suffering. Go find those herbs for him, before his madness puts his life in danger.
+</T>
+<T>
+SECOND MESSENGER
+I have news, ma'am. The British forces are on their way here.
+</T>
+<T>
+REGAN
+Have my brother-in-laws troops been mobilized?
+</T>
+<T>
+OSWALD
+Yes, ma'am.
+</T>
+<T>
+REGAN
+Is he there in person?
+</T>
+<T>
+OSWALD
+Yes, making a big fuss. Your sisters the better soldier of the two.
+</T>
+<T>
+REGAN
+Lord Edmund didnt speak to your master at home?
+</T>
+<T>
+OSWALD
+No, ma'am.
+</T>
+<T>
+REGAN
+What could my sisters letter to him say?
+</T>
+<T>
+OSWALD
+I dont know, ma'am.
+</T>
+<T>
+REGAN
+He rushed away on serious business. It was a huge mistake to let old Gloucester live after we blinded him. Wherever he goes, he inspires compassion and people turn against us. I think Edmund went off to kill him, to put him out of his blind misery. And also to find out the size of the enemy army.
+</T>
+<T>
+OSWALD
+I have to follow him and give him the letter.
+</T>
+<T>
+REGAN
+Our troops are deployed tomorrow. Stay with us tonight. Its dangerous out there.
+</T>
+<T>
+GLOUCESTER
+When will we get to the top of that cliff?
+</T>
+<T>
+EDGAR
+Were walking up to the top right now. See how hard it is to climb?
+</T>
+<T>
+GLOUCESTER
+The ground feels flat to me.
+</T>
+<T>
+EDGAR
+No, its dreadfully steep. Listen. Do you hear the sea?
+</T>
+<T>
+GLOUCESTER
+No, really, I dont.
+</T>
+<T>
+EDGAR
+Then your other senses must be getting worse because of the trauma of blindness.
+</T>
+<T>
+GLOUCESTER
+It may be so. It seems to me that your voice has changed, and that your speech is more elegant than it used to be.
+</T>
+<T>
+EDGAR
+Youre mistaken about all that. The only thing different about me is my clothes.
+</T>
+<T>
+GLOUCESTER
+I think youre more articulate.
+</T>
+<T>
+EDGAR
+Come on, sir. This is the place. Stand still. Its so scary to look down! It makes me dizzy. The crows flying down below look as small as ants. Halfway down the cliff theres somebody clinging to the rock and gathering wild herbsa risky business! He looks like a dot to me. The fishermen walking along the beach are as small as mice. That big ship over there looks no bigger
+</T>
+<T>
+CORDELIA
+Oh, Kent, what could I ever do to become as good as you are? I wont live long enough, and all my efforts will fail me.
+</T>
+<T>
+KENT
+Just being thanked is more than enough for me, madam. I hope all reports about me simply tell the truth, no more or less.
+</T>
+<T>
+CORDELIA
+Change into better clothes. These rags will just remind us of those bad times when you had to wear a disguise. Please take them off.
+</T>
+<T>
+KENT
+Im sorry, madam, but I cant do that yet. If people recognize me now, I wont be able to carry out my plans. I have to ask you, as a favor, not to let on that you recognize me until the time is right.
+</T>
+<T>
+CORDELIA
+All right, my lord.Hows the king doing?
+</T>
+<T>
+DOCTOR
+Hes still sleeping, ma'am.
+</T>
+<T>
+CORDELIA
+Kind gods, heal the wounds that hes wrongly suffered! Restore the sanity of this father whose children have driven him mad and changed him into a child again!
+</T>
+<T>
+DOCTOR
+Would you mind if we woke up the king? Hes slept a long time.
+</T>
+<T>
+EDMUND
+(to a gentleman) Go find out from the Duke of Albany if his decision still holds, or if hes changed his mind. Hes always going back and forth and second-guessing himself. Come back and tell me what his final decision is.
+</T>
+<T>
+REGAN
+My sisters servant Oswald has certainly run into trouble.
+</T>
+<T>
+EDMUND
+Im afraid that may be the case, madam.
+</T>
+<T>
+REGAN
+Now, my sweet lord, you know how much I like you. Tell me truthfully, do you love my sister?
+</T>
+<T>
+EDMUND
+Yes, truly and honorably.
+</T>
+<T>
+REGAN
+But have you ever gone in my brother-in-laws bed and had sex with her?
+</T>
+<T>
+EDMUND
+No. You dishonor yourself and our relationship by thinking that.
+</T>
+<T>
+REGAN
+Im just worried that youve been cozying up to her, and gotten intimate with her.
+</T>
+<T>
+EDMUND
+No, I swear on my honor, I havent, madam.
+</T>
+<T>
+EDGAR
+Here, father, rest awhile in the shade of this tree. Say a little prayer for our side in battle. If I ever come back, Ill bring you good news.
+</T>
+<T>
+GLOUCESTER
+Good luck, sir.
+</T>
+<T>
+EDGAR
+We have to get out of here, old man. Let me help you up. Lets go! King Lears been defeated. He and his daughter are captured. Give me your hand. Come on.
+</T>
+<T>
+GLOUCESTER
+I cant go any further, sir. This is as good a place as any to die.
+</T>
+<T>
+EDGAR
+Are you depressed again? You cant choose your time of death any more than your time of birth. We live and die when our time comes. Come on.
+</T>
+<T>
+GLOUCESTER
+And thats true too.
+</T>
+<T>
+EDMUND
+Officers, take them away. Guard them carefully until we decide how to punish them.
+</T>
+<T>
+CORDELIA
+(to LEAR) At least were not the first ones in our position. The road to hell is paved with good intentions. But Im worried about you, my poor King. If it were only me, I would just wait out my bad luck. Should we meet with my sisters?
+</T>
+<T>
+LEAR
+No, no, no, no! Come on, lets go to prison. The two of us together will sing like birds in a cage. We will be good to each other. When you ask for my blessing, Ill get down on my knees and ask you to forgive me. Thats how well livewell pray, well sing, well tell old stories, well laugh at pretentious courtiers, well listen to nasty court gossip, well find out whos losing and whos winning, whos in and whos out. Well think about the mysteries of the universe as if we were Gods spies. In prison well outlast hordes of rulers that will come and go as their fortunes change.
+</T>
+<T>
+EDMUND
+Take them away.
+</T>
+<T>
+LEAR
+My Cordelia, even the gods admire how much youve sacrificed for me. Have I hugged you yet? Anyone who wants to separate us will have to smoke us out of the cave of our togetherness like foxes. Wipe your eyes.
+</T>

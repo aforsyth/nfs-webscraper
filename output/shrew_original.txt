@@ -1,0 +1,713 @@
+<T>
+SLY
+Ill pheeze you, in faith.
+</T>
+<T>
+HOSTESS
+A pair of stocks, you rogue!
+</T>
+<T>
+SLY
+Y'are a baggage, the Slys are no rogues. Look inthe chronicleswe came in with Richard Conqueror.Therefore paucas pallabris: let the world slide. Sessa!
+</T>
+<T>
+HOSTESS
+You will not pay for the glasses you have burst?
+</T>
+<T>
+SLY
+No, not a denier. Go by, Saint Jeronimy. Go to thy cold bed and warm thee.
+</T>
+<T>
+HOSTESS
+I know my remedy. I must go fetch the thirdborough.
+</T>
+<T>
+SLY
+Third, or fourth, or fifth borough, Ill answer him by law.
+Ill not budge an inch, boy. Let him come, and kindly.
+</T>
+<T>
+LORD
+Huntsman, I charge thee, tender well my hounds.
+Breathe Merriman, the poor cur is embossed,
+And couple Clowder with the deep-mouthed brach.
+Sawst thou not, boy, how Silver made it good
+At the hedge corner, in the coldest fault?
+I would not lose the dog for twenty pound.
+</T>
+<T>
+FIRST HUNTSMAN
+Why, Belman is as good as he, my lord.
+He cried upon it at the merest loss,
+And twice today picked out the dullest scent.
+Trust me, I take him for the better dog.
+</T>
+<T>
+LORD
+Thou art a fool. If Echo were as fleet,
+I would esteem him worth a dozen such.
+But sup them well and look unto them all.
+Tomorrow I intend to hunt again.
+</T>
+<T>
+FIRST HUNTSMAN
+I will, my lord.
+</T>
+<T>
+LORD
+Whats here? One dead, or drunk? See, doth he breathe?
+</T>
+<T>
+SECOND HUNTSMAN
+He breathes, my lord. Were he not warmed with ale,
+This were a bed but cold to sleep so soundly.
+</T>
+<T>
+LORD
+O monstrous beast, how like a swine he lies!
+Grim death, how foul and loathsome is thine image!
+Sirs, I will practice on this drunken man.
+What think you: if he were conveyed to bed,
+Wrapped in sweet clothes, rings put upon his fingers,
+A most delicious banquet by his bed,
+And brave attendants near him when he wakes,
+Would not the beggar then forget himself?
+</T>
+<T>
+FIRST HUNTSMAN
+Believe me, lord, I think he cannot choose.
+</T>
+<T>
+SECOND HUNTSMAN
+It would seem strange unto him when he waked.
+</T>
+<T>
+LORD
+Even as a flatt'ring dream or worthless fancy.
+Then take him up and manage well the jest.
+Carry him gently to my fairest chamber
+And hang it round with all my wanton pictures.
+Balm his foul head in warm distilled waters
+And burn sweet wood to make the lodging sweet.
+Procure me music ready when he wakes,
+To make a dulcet and a heavenly sound.
+And if he chance to speak, be ready straight
+And with a low submissive reverence
+Say, What is it your Honor will command?
+Let one attend him with a silver basin
+Full of rose-water and bestrewed with flowers,
+Another bear the ewer, the third a diaper,
+And say, Will t please your Lordship cool your hands?
+Someone be ready with a costly suit
+And ask him what apparel he will wear.
+Another tell him of his hounds and horse,
+And that his lady mourns at his disease.
+Persuade him that he hath been lunatic,
+And when he says he is, say that he dreams,
+For he is nothing but a mighty lord.
+This do, and do it kindly, gentle sirs.
+It will be pastime passing excellent
+If it be husbanded with modesty.
+</T>
+<T>
+FIRST HUNTSMAN
+My lord, I warrant you we will play our part
+As he shall think by our true diligence
+He is no less than what we say he is.
+</T>
+<T>
+LORD
+Take him up gently, and to bed with him,
+And each one to his office when he wakes.
+</T>
+<T>
+Sirrah, go see what trumpet tis that sounds.
+</T>
+<T>
+Belike some noble gentleman that means,
+Traveling some journey, to repose him here.
+</T>
+<T>
+How now! who is it?
+</T>
+<T>
+SERVANT
+Ant please your Honor, players
+That offer service to your Lordship.
+</T>
+<T>
+LORD
+Bid them come near.
+</T>
+<T>
+Now, fellows, you are welcome.
+</T>
+<T>
+PLAYERS
+We thank your Honor.
+</T>
+<T>
+LORD
+Do you intend to stay with me tonight?
+</T>
+<T>
+A PLAYER
+So please your Lordship to accept our duty.
+</T>
+<T>
+LORD
+With all my heart. This fellow I remember
+Since once he played a farmers eldest son.
+'Twas where you wooed the gentlewoman so well.
+I have forgot your name, but sure that part
+Was aptly fitted and naturally performed.
+</T>
+<T>
+A PLAYER
+I think twas Soto that your Honor means.
+</T>
+<T>
+LORD
+'Tis very true. Thou didst it excellent.
+Well, you are come to me in happy time,
+The rather for I have some sport in hand
+Wherein your cunning can assist me much.
+There is a lord will hear you play tonight;
+But I am doubtful of your modesties,
+Lest over-eyeing of his odd behavior
+For yet his Honor never heard a play
+You break into some merry passion
+And so offend him. For I tell you, sirs,
+If you should smile, he grows impatient.
+</T>
+<T>
+A PLAYER
+Fear not, my lord, we can contain ourselves
+Were he the veriest antic in the world.
+</T>
+<T>
+LORD
+Go, sirrah, take them to the buttery
+And give them friendly welcome every one.
+Let them want nothing that my house affords.
+</T>
+<T>
+Sirrah, go you to Bartholmew, my page,
+And see him dressed in all suits like a lady.
+That done, conduct him to the drunkards chamber
+And call him madam, do him obeisance.
+Tell him from me, as he will win my love,
+He bear himself with honorable action,
+Such as he hath observed in noble ladies
+Unto their lords, by them accomplishd.
+</T>
+<T>
+Such duty to the drunkard let him do
+With soft low tongue and lowly courtesy,
+And say, What is t your Honor will command,
+Wherein your lady and your humble wife
+May show her duty and make known her love?
+And then with kind embracements, tempting kisses,
+And with declining head into his bosom,
+Bid him shed tears, as being overjoyed
+To see her noble lord restored to health,
+Who for this seven years hath esteemed him
+No better than a poor and loathsome beggar.
+And if the boy have not a womans gift
+To rain a shower of commanded tears,
+An onion will do well for such a shift,
+Which in a napkin being close conveyed
+Shall in despite enforce a watery eye.
+See this dispatched with all the haste thou canst:
+Anon Ill give thee more instructions.
+</T>
+<T>
+I know the boy will well usurp the grace,
+Voice, gait, and action of a gentlewoman.
+I long to hear him call the drunkard husband,
+And how my men will stay themselves from laughter
+When they do homage to this simple peasant.
+Ill in to counsel them. Haply my presence
+May well abate the over-merry spleen
+Which otherwise would grow into extremes.
+</T>
+<T>
+SLY
+For Gods sake, a pot of small ale.
+</T>
+<T>
+FIRST SERVANT
+Will t please your Lordship drink a cup of sack?
+</T>
+<T>
+SECOND SERVANT
+Will t please your Honor taste of these conserves?
+</T>
+<T>
+THIRD SERVANT
+What raiment will your Honor wear today?
+</T>
+<T>
+SLY
+I am Christophero Sly. Call not me Honor nor Lordship. I ne'er drank sack in my life. An if you give me any conserves, give me conserves of beef. Ne'er ask me what raiment Ill wear, for I have no more doublets than backs, no more stockings than legs, nor no more shoes than feet, nay sometime more feet than shoes, or such shoes as my toes look through the over-leather.
+</T>
+<T>
+LORD
+Heaven cease this idle humor in your Honor!
+Oh, that a mighty man of such descent,
+Of such possessions and so high esteem,
+Should be infusd with so foul a spirit!
+</T>
+<T>
+LUCENTIO
+Tranio, since for the great desire I had
+To see fair Padua, nursery of arts,
+I am arrived for fruitful Lombardy,
+The pleasant garden of great Italy,
+And by my fathers love and leave am armed
+With his goodwill and thy good company.
+My trusty servant, well approved in all,
+Here let us breathe and haply institute
+A course of learning and ingenious studies.
+Pisa, renownd for grave citizens,
+Gave me my being and my father first,
+A merchant of great traffic through the world,
+Vincentio, come of the Bentivolii.
+Vincentios son, brought up in Florence,
+It shall become to serve all hopes conceived
+To deck his fortune with his virtuous deeds.
+And therefore, Tranio, for the time I study
+Virtue, and that part of philosophy
+Will I apply that treats of happiness
+By virtue specially to be achieved.
+Tell me thy mind, for I have Pisa left
+And am to Padua come, as he that leaves
+A shallow plash to plunge him in the deep
+And with satiety seeks to quench his thirst.
+</T>
+<T>
+PETRUCHIO
+Verona, for a while I take my leave,
+To see my friends in Padua, but of all
+My best belovd and approvd friend,
+Hortensio. And I trow this is his house.
+Here, sirrah Grumio. Knock, I say.
+</T>
+<T>
+GRUMIO
+Knock, sir? Whom should I knock? Is there any man has rebused your Worship?
+</T>
+<T>
+PETRUCHIO
+Villain, I say, knock me here soundly.
+</T>
+<T>
+GRUMIO
+Knock you here, sir? Why, sir, what am I, sir, that I should knock you here, sir?
+</T>
+<T>
+PETRUCHIO
+Villain, I say, knock me at this gate
+And rap me well, or Ill knock your knaves pate.
+</T>
+<T>
+GRUMIO
+My master is grown quarrelsome. I should knock you first,
+And then I know after who comes by the worst.
+</T>
+<T>
+PETRUCHIO
+Will it not be?
+Faith, sirrah, an youll not knock, Ill ring it.
+Ill try how you can sol, fa, and sing it.
+</T>
+<T>
+GRUMIO
+Help, mistress, help! My master is mad.
+</T>
+<T>
+BIANCA
+Good sister, wrong me not nor wrong yourself,
+To make a bondmaid and a slave of me.
+That I disdain. But for these other goods
+Unbind my hands, Ill pull them off myself,
+Yea, all my raiment to my petticoat,
+Or what you will command me will I do,
+So well I know my duty to my elders.
+</T>
+<T>
+KATHERINE
+Of all thy suitors here I charge thee tell
+Whom thou lovest best. See thou dissemble not.
+</T>
+<T>
+BIANCA
+Believe me, sister, of all the men alive
+I never yet beheld that special face
+Which I could fancy more than any other.
+</T>
+<T>
+KATHERINE
+Minion, thou liest. Is t not Hortensio?
+</T>
+<T>
+BIANCA
+If you affect him, sister, here I swear
+Ill plead for you myself, but you shall have him.
+</T>
+<T>
+KATHERINE
+Oh, then belike you fancy riches more.
+You will have Gremio to keep you fair.
+</T>
+<T>
+BIANCA
+Is it for him you do envy me so?
+Nay, then you jest, and now I well perceive
+You have but jested with me all this while.
+I prithee, sister Kate, untie my hands.
+</T>
+<T>
+LUCENTIO
+(as CAMBIO) Fiddler, forbear. You grow too forward, sir.
+Have you so soon forgot the entertainment
+Her sister Katherina welcomed you withal?
+</T>
+<T>
+HORTENSIO
+(as LITIO) But, wrangling pedant, this is
+The patroness of heavenly harmony.
+Then give me leave to have prerogative,
+And when in music we have spent an hour,
+Your lecture shall have leisure for as much.
+</T>
+<T>
+LUCENTIO
+(as CAMBIO) Preposterous ass, that never read so far
+To know the cause why music was ordained.
+Was it not to refresh the mind of man
+After his studies or his usual pain?
+Then give me leave to read philosophy
+And, while I pause, serve in your harmony.
+</T>
+<T>
+HORTENSIO
+(as LITIO) Sirrah, I will not bear these braves of thine.
+</T>
+<T>
+BIANCA
+Why, gentlemen, you do me double wrong
+To strive for that which resteth in my choice.
+I am no breeching scholar in the schools.
+Ill not be tied to hours nor 'pointed times
+But learn my lessons as I please myself.
+And, to cut off all strife, here sit we down.
+</T>
+<T>
+BAPTISTA
+(to TRANIO) Signior Lucentio, this is the 'pointed day
+That Katherine and Petruchio should be married,
+And yet we hear not of our son-in-law.
+What will be said? What mockery will it be,
+To want the bridegroom when the priest attends
+To speak the ceremonial rites of marriage?
+What says Lucentio to this shame of ours?
+</T>
+<T>
+KATHERINE
+No shame but mine. I must, forsooth, be forced
+To give my hand, opposed against my heart,
+Unto a mad-brain rudesby, full of spleen,
+Who wooed in haste and means to wed at leisure.
+I told you, I, he was a frantic fool,
+Hiding his bitter jests in blunt behavior,
+And, to be noted for a merry man,
+Hell woo a thousand, 'point the day of marriage,
+Make friends, invite, and proclaim the banns,
+Yet never means to wed where he hath wooed.
+Now must the world point at poor Katherine
+And say, Lo, there is mad Petruchios wife,
+If it would please him come and marry her!
+</T>
+<T>
+TRANIO
+(as LUCENTIO) Patience, good Katherine, and Baptista too.
+Upon my life, Petruchio means but well,
+Whatever fortune stays him from his word:
+Though he be blunt, I know him passing wise;
+Though he be merry, yet withal hes honest.
+</T>
+<T>
+GRUMIO
+Fie, fie on all tired jades, on all mad masters, and all foul ways! Was ever man so beaten? Was ever man so 'rayed? Was ever man so weary? I am sent before to make a fire, and they are coming after to warm them. Now, were not I a little pot and soon hot, my very lips might freeze to my teeth, my tongue to the roof of my mouth, my heart in my belly, ere I should come by a fire to thaw me. But I with blowing the fire shall warm myself. For, considering the weather, a taller man than I will take cold.Holla, ho! Curtis!
+</T>
+<T>
+CURTIS
+Who is that calls so coldly?
+</T>
+<T>
+GRUMIO
+A piece of ice. If thou doubt it, thou mayst slide from my shoulder to my heel with no greater a run but my head and my neck. A fire, good Curtis.
+</T>
+<T>
+CURTIS
+Is my master and his wife coming, Grumio?
+</T>
+<T>
+GRUMIO
+Oh, ay, Curtis, ay, and therefore fire, fire. Cast on no water.
+</T>
+<T>
+CURTIS
+Is she so hot a shrew as shes reported?
+</T>
+<T>
+TRANIO
+(as LUCENTIO)
+Is t possible, friend Litio, that mistress Bianca
+Doth fancy any other but Lucentio?
+I tell you, sir, she bears me fair in hand.
+</T>
+<T>
+HORTENSIO
+(as LITIO) Sir, to satisfy you in what I have said,
+Stand by and mark the manner of his teaching.
+They stand aside
+</T>
+<T>
+LUCENTIO
+(as CAMBIO) Now, mistress, profit you in what you read?
+</T>
+<T>
+BIANCA
+What, master, read you? First resolve me that.
+</T>
+<T>
+LUCENTIO
+(as CAMBIO) I read that I profess, The Art to Love.
+</T>
+<T>
+BIANCA
+And may you prove, sir, master of your art.
+</T>
+<T>
+LUCENTIO
+(as CAMBIO) While you, sweet dear, prove mistress of my heart!
+</T>
+<T>
+HORTENSIO
+(as LITIO) Quick proceeders, marry! Now, tell me, I pray,
+You that durst swear that your mistress Bianca
+Loved none in the world so well as Lucentio.
+</T>
+<T>
+TRANIO
+(as LUCENTIO) O despiteful love! Unconstant womankind!
+I tell thee, Litio, this is wonderful!
+</T>
+<T>
+GRUMIO
+No, no, forsooth, I dare not for my life.
+</T>
+<T>
+KATHERINE
+The more my wrong, the more his spite appears.
+What, did he marry me to famish me?
+Beggars that come unto my fathers door
+Upon entreaty have a present alms.
+If not, elsewhere they meet with charity.
+But I, who never knew how to entreat,
+Nor never needed that I should entreat,
+Am starved for meat, giddy for lack of sleep,
+With oaths kept waking and with brawling fed.
+And that which spites me more than all these wants,
+He does it under name of perfect love,
+As who should say, if I should sleep or eat,
+'Twere deadly sickness or else present death.
+I prithee, go and get me some repast,
+I care not what, so it be wholesome food.
+</T>
+<T>
+GRUMIO
+What say you to a neats foot?
+</T>
+<T>
+KATHERINE
+'Tis passing good. I prithee let me have it.
+</T>
+<T>
+GRUMIO
+I fear it is too choleric a meat.
+How say you to a fat tripe finely broiled?
+</T>
+<T>
+KATHERINE
+I like it well. Good Grumio, fetch it me.
+</T>
+<T>
+GRUMIO
+I cannot tell. I fear tis choleric. What say you to a piece of beef and mustard?
+</T>
+<T>
+KATHERINE
+A dish that I do love to feed upon.
+</T>
+<T>
+TRANIO
+(as LUCENTIO) Sir, this is the house. Please it you that I call?
+</T>
+<T>
+MERCHANT
+Ay, what else? and but I be deceived,
+Signior Baptista may remember me,
+Near twenty years ago, in Genoa,
+Where we were lodgers at the Pegasus.
+</T>
+<T>
+TRANIO
+(as LUCENTIO) 'Tis well; and hold your own, in any case,
+With such austerity as 'longeth to a father.
+</T>
+<T>
+MERCHANT
+I warrant you.
+</T>
+<T>
+But, sir, here comes your boy.
+'Twere good he were schooled.
+</T>
+<T>
+TRANIO
+(as LUCENTIO) Fear you not him.Sirrah Biondello,
+Now do your duty throughly, I advise you.
+Imagine twere the right Vincentio.
+</T>
+<T>
+BIONDELLO
+Tut, fear not me.
+</T>
+<T>
+TRANIO
+(as LUCENTIO) But hast thou done thy errand to Baptista?
+</T>
+<T>
+BIONDELLO
+I told him that your father was at Venice,
+And that you looked for him this day in Padua.
+</T>
+<T>
+PETRUCHIO
+Come on, i' Gods name, once more toward our fathers.
+Good Lord, how bright and goodly shines the moon!
+</T>
+<T>
+KATHERINE
+The moon? The sun! It is not moonlight now.
+</T>
+<T>
+PETRUCHIO
+I say it is the moon that shines so bright.
+</T>
+<T>
+KATHERINE
+I know it is the sun that shines so bright.
+</T>
+<T>
+PETRUCHIO
+Now, by my mothers son, and thats myself,
+It shall be moon, or star, or what I list,
+Or e'er I journey to your fathers house.
+(to servants) Go on, and fetch our horses back again.
+Evermore crossed and crossed, nothing but crossed!
+</T>
+<T>
+HORTENSIO
+(to KATHERINE) Say as he says, or we shall never go.
+</T>
+<T>
+KATHERINE
+Forward, I pray, since we have come so far,
+And be it moon, or sun, or what you please.
+An if you please to call it a rush candle,
+Henceforth I vow it shall be so for me.
+</T>
+<T>
+PETRUCHIO
+I say it is the moon.
+</T>
+<T>
+KATHERINE
+I know it is the moon.
+</T>
+<T>
+PETRUCHIO
+Nay, then you lie. It is the blessd sun.
+</T>
+<T>
+BIONDELLO
+Softly and swiftly, sir, for the priest is ready.
+</T>
+<T>
+LUCENTIO
+I fly, Biondello. But they may chance to need thee at home.
+Therefore leave us.
+</T>
+<T>
+BIONDELLO
+Nay, faith, Ill see the church a' your back, and then come back to my masters as soon as I can.
+</T>
+<T>
+GREMIO
+I marvel Cambio comes not all this while.
+</T>
+<T>
+PETRUCHIO
+Sir, heres the door. This is Lucentios house.
+My fathers bears more toward the marketplace.
+Thither must I, and here I leave you, sir.
+</T>
+<T>
+VINCENTIO
+You shall not choose but drink before you go.
+I think I shall command your welcome here,
+And, by all likelihood, some cheer is toward.
+</T>
+<T>
+GREMIO
+Theyre busy within. You were best knock louder.
+</T>
+<T>
+LUCENTIO
+At last, though long, our jarring notes agree,
+And time it is when raging war is done
+To smile at scapes and perils overblown.
+My fair Bianca, bid my father welcome,
+While I with selfsame kindness welcome thine.
+Brother Petruchio, sister Katherina,
+And thou, Hortensio, with thy loving widow,
+Feast with the best, and welcome to my house.
+My banquet is to close our stomachs up,
+After our great good cheer. Pray you, sit down,
+For now we sit to chat as well as eat.
+</T>
+<T>
+PETRUCHIO
+Nothing but sit and sit, and eat and eat!
+</T>
+<T>
+BAPTISTA
+Padua affords this kindness, son Petruchio.
+</T>
+<T>
+PETRUCHIO
+Padua affords nothing but what is kind.
+</T>
+<T>
+HORTENSIO
+For both our sakes, I would that word were true.
+</T>
+<T>
+PETRUCHIO
+Now, for my life, Hortensio fears his widow.
+</T>

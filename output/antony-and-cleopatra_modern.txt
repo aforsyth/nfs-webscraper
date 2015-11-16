@@ -1,0 +1,1302 @@
+<T>
+PHILO
+No, our generals infatuation is out of control. His eyes used to glow with pride when he reviewed his troops. Now his eyes devote themselves exclusively to a certain brown-skinned face. His heart used to burst the buckles on his breastplate in great fights, but now hes lost all temperance and dedicates his heart to satisfying the lust of an Egyptian whore.
+</T>
+<T>
+Look at them. Take a good look, and youll see that one of the three men who rule the world has turned into a whores jester. Look and see.
+</T>
+<T>
+CLEOPATRA
+If what you feel is really love, tell me how much.
+</T>
+<T>
+ANTONY
+It would be a pretty stingy love if it could be counted and calculated.
+</T>
+<T>
+CLEOPATRA
+I want to measure the extent of your love, to see how far it stretches.
+</T>
+<T>
+ANTONY
+Then you would have to go beyond heaven, beyond earth.
+</T>
+<T>
+MESSENGER
+I have news from Rome, my good lord.
+</T>
+<T>
+ANTONY
+Which irritaties me. Give me a summary.
+</T>
+<T>
+CLEOPATRA
+No, listen to it, Antony. Perhaps FulviaFulvia is Marc Antonys wife.Fulvia is angry with you. Who knows, maybe the baby-faced CaesarOctavius Caesar was only in his twenties at this time, about twenty years younger than Antony.baby-faced Caesar has orders for you: Do this, do that; conquer that kingdom, liberate this one. Do it or well condemn you.
+</T>
+<T>
+ANTONY
+What, my love?
+</T>
+<T>
+CLEOPATRA
+Maybe? No, most likely. You cant stay here any longer. Caesar has sent your dismissal, so pay attention, Antony. Wheres Fulvias summonsexcuse me, I should have said Caesars. Or do Fulvia and Caesar both beckon you back to Rome? Call in the messengers and well find out. As surely as I am the queen of Egypt, Antony, youre blushing, which means youre Caesars servant. Or that that bitch Fulvia still has the power to humiliate you. Call the messengers!
+</T>
+<T>
+ANTONY
+Let Rome be washed away in the TiberRome was built on the river Tiber.Let Rome be washed away in the Tiber and let the great empire fall. My place is here. Kingdoms are only dirt. The soil feeds animals as well as people, so how does having a kingdom separate humans from beasts? The noblest thing is to do what were doing, particularly when the couple is as well matched as we are. I demand that the world admit we are the perfect couple or else suffer the consequences.
+</T>
+<T>
+CLEOPATRA
+(to herself) What an enormous lie! Why did he marry Fulvia if he didnt love her? Ill pretend to be a fool and believe him. Hell never change.
+</T>
+<T>
+ANTONY
+(overhearing the last sentence) Unless he is moved and inspired by Cleopatra. Now, since we love the feeling of being in love, lets not spoil the mood with serious discussion. We shouldnt spend a minute without some kind of amusement. What shall we do tonight?
+</T>
+<T>
+CLEOPATRA
+Meet with the ambassadors.
+</T>
+<T>
+ANTONY
+Shame on you, stubborn Queen! Everything you do is attractivescolding, laughing, cryingevery emotion seems admirable when you express it. I wont see any messengers but yours. Tonight well wander through the streets and observe the people. Come, my Queen. Thats what you wanted to do last night. (to the MESSENGER ) Dont talk to us.
+</T>
+<T>
+DEMETRIUS
+Does Antony have so little respect for Caesar?
+</T>
+<T>
+PHILO
+Sir, sometimes hes like a different person, a person who cant measure up to the former Antony.
+</T>
+<T>
+DEMETRIUS
+Im sad to say this confirms the stories being told about him in Rome, which I had taken to be lies. Well, Ill hope things change for the better soon. Have a good night!
+</T>
+<T>
+CHARMIAN
+Lord Alexas, sweet Alexas, most anything Alexas, almost the most consummate Alexas, wheres the fortuneteller you recommended so highly to the Queen? Oh, I only wish I knew the name of that husband you said he predicted will have a cheating wife!
+</T>
+<T>
+ALEXAS
+(calling) Fortuneteller!
+</T>
+<T>
+FORTUNETELLER
+What can I do for you?
+</T>
+<T>
+CHARMIAN
+(to ALEXAS ) Is this the man you recommended? (to the FORTUNETELLER ) Are you the man who knows the future?
+</T>
+<T>
+FORTUNETELLER
+I can understand a few of natures infinite secrets.
+</T>
+<T>
+ALEXAS
+(to CHARMIAN ) Give him your hand to read.
+</T>
+<T>
+ENOBARBUS
+(to the servants) Bring the dessert in right away, and make sure theres enough wine to toast Cleopatras health.
+</T>
+<T>
+CHARMIAN
+(giving her hand to the FORTUNETELLER ) Kind sir, give me a good fortune.
+</T>
+<T>
+FORTUNETELLER
+I dont make fortunes; I only see them.
+</T>
+<T>
+CHARMIAN
+Then see a good one for me.
+</T>
+<T>
+FORTUNETELLER
+Your beauty will be even greater than it is now.
+</T>
+<T>
+CHARMIAN
+(to the others) He means Ill get fat.
+</T>
+<T>
+IRAS
+No, he means youll use makeup when youre old.
+</T>
+<T>
+CHARMIAN
+May my wrinkles forbid that!
+</T>
+<T>
+ALEXAS
+Dont joke about his predictions. Pay attention.
+</T>
+<T>
+CHARMIAN
+Quiet!
+</T>
+<T>
+FORTUNETELLER
+You will love more than you are loved.
+</T>
+<T>
+CLEOPATRA
+Where is he?
+</T>
+<T>
+CHARMIAN
+I havent seen him recently.
+</T>
+<T>
+CLEOPATRA
+(to ALEXAS ) Find out where he is, whos with him, and what hes doing. Dont tell him I sent you. If hes sad, tell him Im dancing. If hes happy, say that Ive suddenly taken sick. Hurry, and come back.
+</T>
+<T>
+CHARMIAN
+Madam, I think if you love him so much, you arent using the best way to get him to reciprocate.
+</T>
+<T>
+CLEOPATRA
+What should I do that Im not doing?
+</T>
+<T>
+CHARMIAN
+Always give him his way. Never contradict him.
+</T>
+<T>
+CLEOPATRA
+You advise me like a fool. Thats the way to lose him.
+</T>
+<T>
+CHARMIAN
+Dont push him too far. I wish youd be patient. We come to hate that which controls us.
+</T>
+<T>
+But here comes Antony.
+</T>
+<T>
+CLEOPATRA
+I am sick and sullen.
+</T>
+<T>
+ANTONY
+Im sorry to have to say this
+</T>
+<T>
+CLEOPATRA
+Help me away from here, dear Charmian! I shall faint. I wont be able to go on this way much longer. Human nature isnt built to withstand this.
+</T>
+<T>
+CAESAR
+Now youll see, Lepidus, that I dont disdain our noble ally because of a personal whim. Heres the news from Alexandra: Antony fishes, drinks, and celebrates all night. Hes become as frivolous and self-indulgent as PtolemyPtolemy was Pharaoh of Egypt and Cleopatras husband, now dead. (He was also her younger brother.)Ptolemys queen, Cleopatra. He rarely attends to his duties or acknowledges he has partners to be considered. Heres a man who is the epitome of all the vices known to man.
+</T>
+<T>
+LEPIDUS
+I cant believe there could be enough vice in the world to outshine all the good in him. His faults stand out because they must be compared to all his virtues, like stars that shine brightly against the dark night sky. Theyre more likely to be the result of inherited weakness than independent choice.
+</T>
+<T>
+CAESAR
+Youre too forgiving. Lets say, for arguments sake, that its not improper to fool around with Ptolemys wife, or to trade a kingdom for a joke. That its fine to engage in drinking matches with inferiors, or stumble drunkenly through the streets in the middle of the day, or get into fist fights with sweaty servants. Even if we said that this behavior suits himthough only a man with a perfect character could avoid being disgraced by such anticstheres no excuse for the extra work weve had to take on while hes been off amusing himself. If hes been spending his leisure time in lustful pursuits, then hell be punished with venereal diseases, and thats his business. But hes wasting time and resources vital to our cause and endangering both his position and ours. He should be chastised, like any boy who knows whats right but chooses to satisfy his desires regardless.
+</T>
+<T>
+CLEOPATRA
+Charmian!
+</T>
+<T>
+CHARMIAN
+Madam?
+</T>
+<T>
+CLEOPATRA
+Ah, give me some mandragoranarcotic syrupmandragora to drink.
+</T>
+<T>
+CHARMIAN
+Why, madam?
+</T>
+<T>
+CLEOPATRA
+So I can sleep away the time while my Antony is gone.
+</T>
+<T>
+CHARMIAN
+You think about him too much.
+</T>
+<T>
+CLEOPATRA
+Thats treason!
+</T>
+<T>
+CHARMIAN
+I hope not, Madam.
+</T>
+<T>
+CLEOPATRA
+Eunuch! Mardian!
+</T>
+<T>
+MARDIAN
+What can I do for your highness?
+</T>
+<T>
+CLEOPATRA
+I dont want to hear you sing. Im not interested in anything a eunuch can do. Its a good thing for you that, being castrated, you can better concentrate on my needs. Do you have desires?
+</T>
+<T>
+MARDIAN
+Yes, dear madam.
+</T>
+<T>
+CLEOPATRA
+Indeed?
+</T>
+<T>
+MARDIAN
+Well, not in deed, madam, since I cant do anything unchaste. But I do have intense passionsand I do think about what Venus did with MarsVenus, goddess of love, and Mars, god of war, were legendary lovers.what Venus did with Mars.
+</T>
+<T>
+CLEOPATRA
+Oh, Charmian, where do you think he is now? Is he standing or sitting? Or is he walking? Or is he on his horse? Oh, how fortunate that horse is to have Antony on him. Do well, horse. Do you know whom it is you carry? A man who carries responsibility for a third of the world on his shoulders. Hes speaking now, or perhaps hes whispering, Wheres my serpent of the Nile? For thats his pet name for me. Im killing myself with this provocative speculation... Are you thinking about me? Even though Ive been darkened by the sun and wrinkled with age? Caesar, with your broad forehead, when you were alive, I was the perfect young consort for a king. And powerful Pompey used to stare at me as if he were frozen in time.Referring to two previous lovers, Julius Caesar and Gneius Pompey (son of Pompey the Great and elder brother of Sextus Pompeius).I was the perfect young consort for a king. And powerful Pompey used to stare at me as if he were frozen in time.
+</T>
+<T>
+POMPEY
+If the great gods are just, they will help the most honest men.
+</T>
+<T>
+MENAS
+You should know, noble Pompey, that although the gods may delay action, that doesnt mean they will necessarily refuse their help.
+</T>
+<T>
+POMPEY
+But while we pray and wait for that help, the cause we petition for may be lost.
+</T>
+<T>
+MENAS
+Sometimes we dont know whats best for us and ask for things that may harm us. In that case, the wise gods deny our prayers for our own good.
+</T>
+<T>
+POMPEY
+Ill do well. The people are on my side, and Im in charge of the sea. My forces are growing, and everything I know tells me its all coming together. Mark Antony is at dinner in Egypt and wont be going outside to make war. Caesar loses supporters wherever he raises money. Lepidus flatters both of them, as they flatter him, but he doesnt love them, and they dont love him.
+</T>
+<T>
+MENAS
+Caesar and Lepidus are organizing their military operation. They have a massive army.
+</T>
+<T>
+POMPEY
+Where did you hear this? Its not true.
+</T>
+<T>
+LEPIDUS
+Good Enobarbus, you would be doing a very good thing if you advised your captain to speak calmly and quietly.
+</T>
+<T>
+ENOBARBUS
+I will advise him to speak as he usually does. If Caesar makes him mad, let Antony stand tall and speak as loudly as Mars, the god of war. By Jupiter, if I were Antony, I wouldnt shave my beard today. Id leave it long and dare Caesar to insult me by pulling on it, just so I could fight him.
+</T>
+<T>
+LEPIDUS
+This is not the time for dwelling on personal grievances.
+</T>
+<T>
+ENOBARBUS
+Its always appropriate to deal with matters as they arise.
+</T>
+<T>
+LEPIDUS
+But major issues must come before minor ones.
+</T>
+<T>
+ENOBARBUS
+Not if the minor ones come up first.
+</T>
+<T>
+LEPIDUS
+You speak out of passion, but I beg you not to stir things up. Here comes the noble Antony.
+</T>
+<T>
+ENOBARBUS
+And there comes Caesar.
+</T>
+<T>
+ANTONY
+(to VENTIDIUS ) If we can come to an agreement here, well move on to Parthia. Listen, Ventidius.
+</T>
+<T>
+CAESAR
+(to MAECENAS ) I dont know, Maecenas. Ask Agrippa.
+</T>
+<T>
+ANTONY
+(to OCTAVIA ) There will be times when my duties and responsibilities take me away from you.
+</T>
+<T>
+OCTAVIA
+And I will spend our time apart on my knees, praying for you.
+</T>
+<T>
+ANTONY
+(to CAESAR ) Good night, sir. My Octavia, dont believe everything you hear about me. I havent always lived a conventional life, but the future will be by the book. Good night, dear lady. (to CAESAR ) Good night, sir.
+</T>
+<T>
+CAESAR
+Good night.
+</T>
+<T>
+ANTONY
+Now, sirrahterm of address for a person of lower statussirrah, I hear you wish you were back in Egypt.
+</T>
+<T>
+FORTUNETELLER
+I wish I had never left Egypt and that you had never come to Egypt.
+</T>
+<T>
+ANTONY
+Tell me why, if you can.
+</T>
+<T>
+FORTUNETELLER
+Its a feeling, but nothing I can put into words. But you had better get back to Egypt again.
+</T>
+<T>
+ANTONY
+Tell me who shall have the better luck, Caesar or me?
+</T>
+<T>
+FORTUNETELLER
+Caesar. So youd better not stay with him, Antony. Your guardian angel is noble, courageous, significant, and unmatched when Caesars not around. But when you are with him, your angel is weakened and easily frightened. Thats why there must be space between you.
+</T>
+<T>
+LEPIDUS
+Dont spend any more time here. Go tell your generals to hurry their preparations.
+</T>
+<T>
+AGRIPPA
+Sir, well follow as soon as Mark Antony kisses Octavia good-bye.
+</T>
+<T>
+LEPIDUS
+Good-bye then, until the time I see you dressed in your battle gear, which will suit you both very well.
+</T>
+<T>
+MAECENAS
+According to my reckoning, well get to Mt. Misena before you, Lepidus.
+</T>
+<T>
+LEPIDUS
+Youre taking a shorter route. My plans take me a roundabout way. Youll get there two days before me.
+</T>
+<T>
+BOTH
+Good luck, sir.
+</T>
+<T>
+LEPIDUS
+Farewell.
+</T>
+<T>
+CLEOPATRA
+Play me some music. Music feeds the melancholy moods of us lovers.
+</T>
+<T>
+ALL
+Musicians, come in!
+</T>
+<T>
+CLEOPATRA
+Never mind. Lets play billiards. Play with me, Charmian.
+</T>
+<T>
+CHARMIAN
+My arm is sore. Youll have a better game with Mardian.
+</T>
+<T>
+CLEOPATRA
+Playing with a eunuch is the same as playing with a woman. Will you play with me, sir?
+</T>
+<T>
+MARDIAN
+Ill do my best, madam.
+</T>
+<T>
+CLEOPATRA
+When a person tries in good faith, even if he fails he cannot be blamed. I dont want to play now. Give me my fishing rod. Well go to the river. With my music playing in the background, Ill lure fish. My hook will go through their slimy jaws and as I pull them up Ill imagine each one is Antony. Ill say, Aha! I caught you!
+</T>
+<T>
+CHARMIAN
+It was funny when you and Antony bet on who could catch the first fish. You had a diver put a salted fish on his hook. He was so excited as he hurried to pull it in!
+</T>
+<T>
+CLEOPATRA
+That time? Oh, there were so many fun times. I would play some trick on him and laugh until he lost his patience. Then, that night, I would laugh with him while we made love until he was patient again. Then by nine in the morning I would have him so drunk I could dress him in my clothes while I wore the sword he used at the famous battle of Philippi.
+</T>
+<T>
+POMPEY
+I have your hostages and you have mine. Lets talk before we fight.In order to conduct negotiations in safety, warring sides exchanged important persons and held the hostages until negotiations were complete.I have your hostages and you have mine. Lets talk before we fight.
+</T>
+<T>
+CAESAR
+Its proper that we speak first, which is why we sent our proposals ahead of us for your consideration. If youve had time to think over these points, let us know whether they will relieve your frustration. If yes, then a lot of brave young men can return to Sicily who would otherwise die here.
+</T>
+<T>
+POMPEY
+I address the three of you, the sole rulers of this world and the main arbiters of the gods will. I dont know why my fathers death shouldnt be avenged, since he has a son and friends to do it. You avenged Julius Caesars death at Philippi, where his ghost haunted his killer, Brutus. Why did Cassius conspire against Caesar? And why did the honorable, well-intentioned Brutus and the others, men devoted to the ideal of freedom, assassinate Caesar? They didnt want one man to be king in Rome.
+And thats why Ive built my navy, which is so huge that the weight of the ships makes the sea foam with anger. I will punish Rome for her ingratitude toward my noble father.
+</T>
+<T>
+FIRST SERVANT
+Heres where theyll end up, on the floor. Some of them are leaning already. It wont take much for them to fall over.
+</T>
+<T>
+SECOND SERVANT
+Lepidus is red in the face.
+</T>
+<T>
+FIRST SERVANT
+They made him drink the leftover wine usually given to the poor.
+</T>
+<T>
+SECOND SERVANT
+Their various personalities grate on one another. Lepidus cries, No more arguing! and then when they agree he resigns himself to drink.
+</T>
+<T>
+FIRST SERVANT
+Which goes on to impede his judgment.
+</T>
+<T>
+SECOND SERVANT
+Thats what happens when you partner with great men but lack their power. Id rather carry a reed that obviously cant protect me than a sword I cannot lift.
+</T>
+<T>
+FIRST SERVANT
+To be so unimportant in the company of important men is like having a face without any eyes.
+</T>
+<T>
+ANTONY
+This is how they do it, sir: they measure the depth of the Nile, according to certain marks made on the walls of the Pyramid. They know by those measurements if there will be famine or plenty. The higher the Nile flows, the better the harvest. As the river ebbs, the farmer scatters his seeds on the remaining silt. The harvest comes shortly after that.
+</T>
+<T>
+VENTIDIUS
+Now Ive paid you back, Parthia, and gotten revenge for Marcus Crassus death. Carry King OrodesOrodes was King of Parthia and father of Pacorus. He assassinated Marcus Crassus, a member of the first Roman triumvirate.King Orodes son at the front of our army, so all the Parthians will knowOrodes, Pacorus pays for Marcus Crassus!
+</T>
+<T>
+SILIUS
+Noble Ventidius, while your sword is still warm with the blood of slain Parthians, why not finish the job? The Parthians retreat. Go after them. Chase them down if you have to track them through Media, MesopotamiaMedia and Mesopotamia were countries bordering ParthiaMedia, Mesopotamia, or any other places they may go to hide. Then our great general, Antony, will commend you.
+</T>
+<T>
+VENTIDIUS
+Oh, Silius, Silius, Ive done enough. A subordinate may exceed his authority. You must understand, Silius, that its better to leave something undone than achieve too much fame in your superiors absence. Caesar and Antony have always achieved more by delegating authority to their officers than by leading their troops in person. Sossius, an officer that held the same position in Syria as I do here, achieved great distinction very quickly but lost Antonys support as a result. A man who achieves more in war than his captain does becomes his captains rival. Ambition is a good quality in a soldier, but it proves detrimental rather than beneficial when used to surpass his superiors. I could do more to help Antony, but to do so would insult him. And by insulting him, I would lose credit for the good I have done him already.
+</T>
+<T>
+AGRIPPA
+Did the brothers-in-law leave?
+</T>
+<T>
+ENOBARBUS
+They finished their business with Pompey, and Pompey has left. Now the three triumvirs are putting their official seals on the treaty. Octavia weeps at the thought of leaving Rome. Caesar is in a sober mood. And Menas reports that Lepidus has been hungover since Pompeys party.
+</T>
+<T>
+AGRIPPA
+That Lepidus is an elegant man.A pun: lepidus means elegant in Latin.That Lepidus is an elegant man.
+</T>
+<T>
+ENOBARBUS
+Hes a stylish man. And how he loves Caesar!
+</T>
+<T>
+AGRIPPA
+Yes, but how he adores Mark Antony!
+</T>
+<T>
+ENOBARBUS
+Caesar? Hes a god of a man.Enobarbus and Agrippa mock Lepidus excessive flattery.Hes a god of a man.
+</T>
+<T>
+AGRIPPA
+Then whats Antony? A god of a god?
+</T>
+<T>
+ENOBARBUS
+Are you talking about Caesar? Hes without equal!
+</T>
+<T>
+AGRIPPA
+Oh, Antony! Oh, you phoenixmythical bird, symbol of immortalityphoenix!
+</T>
+<T>
+ENOBARBUS
+If you want to praise Caesar, just say his namethats all the praise thats necessary.
+</T>
+<T>
+AGRIPPA
+He certainly flattered them both with extravagant compliments.
+</T>
+<T>
+ENOBARBUS
+He loves Caesar best, but he also loves Antony. Oh! No one can describe or fathom Lepidus love for Antony! Hearts cannot think it, tongues cannot speak it, meas-urements cannot calculate it, scribes cannot write it, bards cannot sing it, and poets cannot make verses about it. But when it comes to Caesar, Lepidus love approaches the awestruck wonder of a worshipper.
+</T>
+<T>
+AGRIPPA
+He loves them both.
+</T>
+<T>
+ENOBARBUS
+They are his dung, and he their beetle.
+</T>
+<T>
+CLEOPATRA
+Where is that messenger?
+</T>
+<T>
+ALEXAS
+Hes afraid to come in.
+</T>
+<T>
+CLEOPATRA
+Oh, come on.Come here, sir.
+</T>
+<T>
+ALEXAS
+Gracious Queen, even Herod of Judea wouldnt dare look at you unless you were in a good mood.
+</T>
+<T>
+CLEOPATRA
+Ill have Herods head chopped off! But now that Antonys gone, who will do it for me? (to MESSENGER ) Come closer.
+</T>
+<T>
+MESSENGER
+Most formidable Queen!
+</T>
+<T>
+CLEOPATRA
+Did you see Octavia?
+</T>
+<T>
+MESSENGER
+Yes, revered Queen.
+</T>
+<T>
+CLEOPATRA
+Where?
+</T>
+<T>
+MESSENGER
+In Rome, Madam. I saw her face as she walked with her brother and Mark Antony.
+</T>
+<T>
+CLEOPATRA
+Is she as tall as I am?
+</T>
+<T>
+MESSENGER
+She is not, madam.
+</T>
+<T>
+CLEOPATRA
+Did you hear her speak? Is her voice pitched high or low?
+</T>
+<T>
+MESSENGER
+Madam, I heard her speak. She has a low-pitched voice.
+</T>
+<T>
+CLEOPATRA
+Thats not in her favor. He cant like her very long.
+</T>
+<T>
+ANTONY
+No, no, Octavia, its not only that. That would be excusablethat and a thousand other offenses like it. But Caesar has gone and waged a new war against Pompey. He made his will and read it in a public assembly.Roman politicians could gain popularity among the common people by writing a will that included bequests in their favor, such as sums of money, parkland, or orchards dedicated to their use.He made his will and read it in a public assembly. He hardly refers to me at all, though official decisions are supposed to be made jointly. When he cant avoid mentioning my services to the state, he minimizes them as much as possible. When situations arise when it would be natural to emphasize my due credit, he either ignores them or only pays me lip service.
+</T>
+<T>
+OCTAVIA
+Oh, dear husband, dont believe everything you hearor if you must believe it, dont let it all make you angry. No lady could be more miserable than I if you two disagree. Ill be left in the middle, praying for both sides. The good gods will laugh at me when on the one hand I pray for my husband and on the other for my brother. Let my husband win! Let my brother win! One prayer cancels out the other. Theres no middle ground between these two extremes.
+</T>
+<T>
+ANTONY
+Gentle Octavia, support the one that supports you. If Im defeated, I lose my reputation. If I lose my reputation, I lose myself. It would be better for you to have no husband than a husband who lacks honor. However, as you requested, you may go and try to negotiate with your brother. In the meantime, Ill raise an army that will surpass his. Go as soon as possible, so your prayers may be answered the sooner.
+</T>
+<T>
+ENOBARBUS
+How goes it, friend Eros?
+</T>
+<T>
+EROS
+Some startling news has just arrived, sir.
+</T>
+<T>
+ENOBARBUS
+What news, man?
+</T>
+<T>
+EROS
+Caesar and Lepidus declared war against Pompey.
+</T>
+<T>
+ENOBARBUS
+Thats old news. Whos winning?
+</T>
+<T>
+EROS
+Caesar used Lepidus in the war, but as soon as it was over, Lepidus was expelled from the triumvirate. He wasnt allowed any of the glory of the victory, and he was accused of treasonous correspondence with Pompey. On the basis of Caesars accusation alone, Lepidus was imprisoned. So the weak third of the triumvirate is imprisoned until death frees him.
+</T>
+<T>
+ENOBARBUS
+So now the world will only be devoured by two sets of jawsCaesars and Antonys. And even if you throw everything you possess to the two of them, theyll battle each other to the death to have it all. Wheres Antony?
+</T>
+<T>
+EROS
+Hes walking in the garden, like this (imitating anger). And he kicks the leaves on the path, exclaiming, Lepidus, you fool! Then he threatens to kill the officer who murdered Pompey.Pompey was killed by one of Antonys officers, Titius, during his campaign for Antonys territories. Some historians believe that Titius acted on Antonys specific order.Then he threatens to kill the officer who murdered Pompey.
+</T>
+<T>
+ENOBARBUS
+Antonys grand navy is prepared.
+</T>
+<T>
+EROS
+To sail to Italy and Caesar. Another thing, Domitius: Antony wants to see you now. I should have waited to tell you my news.
+</T>
+<T>
+CAESAR
+In Alexandria he condemned Rome, and thats not all. This is what happened: he and Cleopatra sat on chairs of gold on a silver-covered stage in the marketplace. Caesarionwhom they call my fathers sonJulius Caesar was Octavius Caesars adopted father (biologically, he was his uncle).Caesarionwhom they call my fathers sonand all their illegitimate children sat at their feet. Antony confirmed her possession of Egypt and made her absolute Queen of lower Syria, Cyprus, and Lydia.
+</T>
+<T>
+MAECENAS
+He did this in public?
+</T>
+<T>
+CAESAR
+In the public arena, where they perform sporting events. He proclaimed his sons to be kings of kings. He gave Media, Parthia, and Armenia to Alexander. He gave Syria, Cilicia, and Phoenicia to Ptolemy. Cleopatra was dressed like the goddess Isis. They say she often attended her public functions like that.
+</T>
+<T>
+MAECENAS
+Lets send this news to Rome.
+</T>
+<T>
+AGRIPPA
+The Roman people are fed up with his arrogance already. Theyll abandon him completely when they hear this.
+</T>
+<T>
+CLEOPATRA
+Ill be straight with you. Do not doubt it.
+</T>
+<T>
+ENOBARBUS
+But why, why, why?
+</T>
+<T>
+CLEOPATRA
+You opposed my taking part in the war. You said it wasnt proper.
+</T>
+<T>
+ENOBARBUS
+Well, is it? Is it?
+</T>
+<T>
+CLEOPATRA
+Isnt this war against me? Why shouldnt I be there in person?
+</T>
+<T>
+ENOBARBUS
+Well, I could answer that if we went to war on male and female horses alikethe male horses would be totally distracted and useless. The mares would be ridden by their riders and the male horses.
+</T>
+<T>
+CLEOPATRA
+What do you mean?
+</T>
+<T>
+ENOBARBUS
+Antony will necessarily be distracted by your presence. You will affect his heart and his head. Youll take up time he cant afford to lose. Hes already criticized for frivolous behavior. In Rome they say that your eunuch Photinus and your maids run the war.
+</T>
+<T>
+CLEOPATRA
+Let Rome fall! May the tongues of our critics rot! I have responsibilities in this war, and as the absolute ruler of my kingdom I will carry out my duties as if I were a man. Dont argue against it. I wont stay behind.
+</T>
+<T>
+CAESAR
+Taurus!
+</T>
+<T>
+TAURUS
+My lord?
+</T>
+<T>
+CAESAR
+Dont attack by land. Keep the army together. Dont provoke them to battle until we have finished at sea. Dont exceed your orders as written here.
+</T>
+<T>
+Our fate depends on this chance.
+</T>
+<T>
+ANTONY
+Assemble our squadrons on the other side of the hill, in sight of Caesars navy. From there well be able to see how many ships he has and plan accordingly.
+</T>
+<T>
+ENOBARBUS
+Were ruined, ruined, ruined! I cant watch any more. The Egyptian flagship, the Antoniad, followed by all sixty Egyptian ships, has turned and fled. It destroyed my eyes to look upon it.
+</T>
+<T>
+SCARUS
+Gods and goddessesthe whole congregation of them!
+</T>
+<T>
+ENOBARBUS
+Whats wrong with you?
+</T>
+<T>
+SCARUS
+We have lost a major portion of the world through utter foolishness. We have kissed away entire kingdoms and provinces.
+</T>
+<T>
+ENOBARBUS
+How goes the battle?
+</T>
+<T>
+SCARUS
+Our side shows all the signs of certain defeat, which appear like the symptomatic sores of the plague. Right in the middle of the fight, just when the battle could have gone either wayactually we had a slight advantagethat immoral Egyptian nagMay she die of leprosy!suddenly became frightened, and turned her ships around and fled.
+</T>
+<T>
+ENOBARBUS
+I saw that. The sight made me so sick I couldnt watch any more.
+</T>
+<T>
+ANTONY
+Listen. The earth tells me to stop walking upon it, as its ashamed to carry me. Friends, come here. Im completely lost. I have a ship full of treasure. Take that. Divide it. Escape and make peace with Caesar.
+</T>
+<T>
+ALL
+Flee? Not us.
+</T>
+<T>
+ANTONY
+I have already fled from my true self. Ive told cowards to turn their backs on me and run. Friends, go. Ive decided on a plan that doesnt require your assistance. Leave. My treasures in the harbor; take it. Oh, I followed something Im ashamed to look at now! Even my hair revolts. The white hairs blame the brown hairs for being irresponsible, and the brown ones blame the white ones for being spineless and foolish. Friends, go. Ill give you letters of introduction to some friends of mine who will help you. Please, dont be sad, and dont tell me how reluctant you are. Take your cues from my own despair. Abandon the person that has abandoned himself. Go to the harbor immediately! Ill give you the title to that ship and its treasure. Just give me a moment, pleaseonly a moment. Ive relinquished my authority, so pleaseIll see you all before long.
+</T>
+<T>
+CAESAR
+Let the envoy from Antony come in. Do you know him?
+</T>
+<T>
+DOLABELLA
+Its Antonys schoolmaster. By sending such an insignificant emissary, Antony shows us how low he has sunk. Not so long ago, he had so many royal supporters that he sent along extra kings as messengers.
+</T>
+<T>
+CAESAR
+Come forward and speak.
+</T>
+<T>
+AMBASSADOR
+Humble as I am, I represent Antony. Until recently, I was as unimportant to his affairs as the morning dew is to the wide ocean.
+</T>
+<T>
+CAESAR
+So be it. Say what youre here for.
+</T>
+<T>
+AMBASSADOR
+He acknowledges that you are the master of his fate, and he requests to be allowed to live in Egypt. If that is not granted, he reduces his requests and asks only that he be allowed to live as a private man in Athens. Thats all he asks for himself. Cleopatra recognizes your greatness and accepts your authority. She only asks that the crown of Egypt pass to her heirs, who are now at your mercy.
+</T>
+<T>
+CLEOPATRA
+What are we going to do, Enobarbus?
+</T>
+<T>
+ENOBARBUS
+Think about our situation, then die.
+</T>
+<T>
+CLEOPATRA
+Who is to blame for this: Antony or I?
+</T>
+<T>
+ENOBARBUS
+Only Antony was at fault. He put his desire in charge of his reason. So what if you ran from the battle, terrified, as ranks of ships threatened one another? Why should he have followed you? With half the world opposing the other half, it wasnt the time for Antony, the pivotal player, to let love distract him. To race after your departing ships, leaving his navy to watch, was a shame as great as the resulting loss.
+</T>
+<T>
+CLEOPATRA
+Please, lets not talk about it.
+</T>
+<T>
+ANTONY
+Is that his answer?
+</T>
+<T>
+AMBASSADOR
+Yes, my lord.
+</T>
+<T>
+ANTONY
+The Queen will be treated fairly if she gives me up?
+</T>
+<T>
+AMBASSADOR
+Thats what he says.
+</T>
+<T>
+ANTONY
+Tell her. (to CLEOPATRA ) If you send my aged head to that boy, Caesar, hell give you all the kingdoms you want.
+</T>
+<T>
+CAESAR
+He calls me boy and scolds me as if he had the power to whip me out of Egypt. He whipped my messenger with rods. He dares me to personal combat, Caesar against Antony. Let the old ruffian discover that I have many other ways to die, and in the meantime, well laugh at his challenge.
+</T>
+<T>
+MAECENAS
+Caesar must realize that when a man as powerful as Antony begins to rage, he has been pursued to the point of collapse. Dont give him time to catch his breath. Take advantage of his unreasonable rage. Anger does not protect the angry well.
+</T>
+<T>
+CAESAR
+Tell our top commanders that I want tomorrows battle to be the last we fight. Our army has recently acquired many of Mark Antonys former soldiersenough to capture him. See that it is done, and prepare a feast for the soldiers. We have enough supplies for it, and theyve earned it. Poor Antony!
+</T>
+<T>
+ANTONY
+He wont fight with me, Domitius?
+</T>
+<T>
+ENOBARBUS
+No.
+</T>
+<T>
+ANTONY
+Why wont he?
+</T>
+<T>
+ENOBARBUS
+He thinks that since his fortune is twenty times better than yours, it would be like pitting twenty men against one.
+</T>
+<T>
+ANTONY
+Tomorrow, soldier, Ill fight by sea and land. By the end I will either live, or else Ill restore my honor by shedding my blood. Will you fight well?
+</T>
+<T>
+ENOBARBUS
+When I strike, Ill cry, All or nothing!
+</T>
+<T>
+ANTONY
+Well put. Come on. Call out my household servants.
+</T>
+<T>
+Tonight lets have plenty to eat.
+</T>
+<T>
+Give me your hand; youve been truly honestso have you and youand youyou too.
+You have all served me well, and kings are your peers.
+</T>
+<T>
+CLEOPATRA
+(aside to ENOBARBUS ) What is this?
+</T>
+<T>
+ENOBARBUS
+(aside to CLEOPATRA ) Its one of those nostalgic moods caused by sorrow.
+</T>
+<T>
+FIRST SOLDIER
+Good night, brother. Tomorrow is the day.
+</T>
+<T>
+SECOND SOLDIER
+This battle will determine who wins the war. Take care of yourself. Have you heard about anything unusual happening in the city?
+</T>
+<T>
+FIRST SOLDIER
+No. What was it?
+</T>
+<T>
+SECOND SOLDIER
+It was probably just a rumor. Good night.
+</T>
+<T>
+FIRST SOLDIER
+Well sir, good night.
+</T>
+<T>
+SECOND SOLDIER
+Soldiers, watch carefully.
+</T>
+<T>
+THIRD SOLDIER
+You too. Good night. Good night.
+</T>
+<T>
+SECOND SOLDIER
+This is our station. And if our navy wins tomorrow, no doubt our army will do their part.
+</T>
+<T>
+FIRST SOLDIER
+Its an outstanding army and highly motivated.
+</T>
+<T>
+SECOND SOLDIER
+Quiet! Whats that sound?
+</T>
+<T>
+FIRST SOLDIER
+Listen! Listen!
+</T>
+<T>
+SECOND SOLDIER
+Listen!
+</T>
+<T>
+FIRST SOLDIER
+Theres music coming out of thin air.
+</T>
+<T>
+THIRD SOLDIER
+From under the earth.
+</T>
+<T>
+FOURTH SOLDIER
+Its a lucky sign, isnt it?
+</T>
+<T>
+THIRD SOLDIER
+No.
+</T>
+<T>
+ANTONY
+(calling) Eros! Bring my armor, Eros.
+</T>
+<T>
+CLEOPATRA
+Get a little sleep.
+</T>
+<T>
+ANTONY
+No, my dear... Eros, come on, bring my armor, Eros.
+</T>
+<T>
+Come on, good fellow, help me into that armor youre carrying. If luck deserts us today, its because we defy it. Come on.
+</T>
+<T>
+CLEOPATRA
+No, Ill help too. Whats this part for?
+</T>
+<T>
+ANTONY
+Ah, leave it alone. Leave it alone! You armor my heart. No! No! That part goes there.
+</T>
+<T>
+CLEOPATRA
+Really, Ill help. It must go like this.
+</T>
+<T>
+ANTONY
+Yes, well done. Weve got it now.Do you see this, my good fellow? Go and put on your own armor.
+</T>
+<T>
+EROS
+In a minute, sir.
+</T>
+<T>
+CLEOPATRA
+Didnt I buckle this well?
+</T>
+<T>
+ANTONY
+Excellently, excellently. Anyone who unbuckles this before I want to take it off to rest will be sorry.Youre fumbling, Eros. My Queens a better squire than you are. Hurry.Oh, love, if you could only watch the battle today and see how expert I am at my craft.
+</T>
+<T>
+SOLDIER
+May the gods bless Antony today!
+</T>
+<T>
+ANTONY
+I wish you and your scarred self had convinced me to wage our last battle on land.
+</T>
+<T>
+SOLDIER
+If you had, the kings that have revolted and the soldier that deserted this morning would still be behind you.
+</T>
+<T>
+ANTONY
+Who deserted this morning?
+</T>
+<T>
+SOLDIER
+You dont know? Someone who was always near you. If you call for Enobarbus, he wont hear you. Or if he can hear you from Caesars camp, hell reply, Im no longer on your side.
+</T>
+<T>
+ANTONY
+What are you saying?
+</T>
+<T>
+SOLDIER
+Sir, hes with Caesar.
+</T>
+<T>
+EROS
+Sir, he left his belongings and treasure.
+</T>
+<T>
+ANTONY
+Hes gone?
+</T>
+<T>
+SOLDIER
+Its certain.
+</T>
+<T>
+ANTONY
+Eros, send his treasure to him. Do it now. Dont keep anything back, I insist. Write to him from meIll sign itsending greetings and gentle good-byes. Say that I hope he never has cause to look for a new master. Oh, my bad luck has forced honest men to become traitors. Hurry. Enobarbus!
+</T>
+<T>
+CAESAR
+Agrippa, go start the battle. We want Antony taken alive. Make sure everyone knows that.
+</T>
+<T>
+AGRIPPA
+I will, Caesar.
+</T>
+<T>
+CAESAR
+An era of universal peace is about to start. If this battle goes well for us, there will be peace in all three corners of the worldAfrica, Asia, and Europe, which were all under Roman rulethree corners of the world.
+</T>
+<T>
+MESSENGER
+Antony has come onto the battlefield.
+</T>
+<T>
+CAESAR
+Go order Agrippa to put the men who deserted Antonys army at the front. That way Antony will feel like hes fighting his own men.
+</T>
+<T>
+ENOBARBUS
+Alexas deserted. He went to Judea as if on Antonys business, but he persuaded Herod to support Caesar instead. Caesar hanged him for this service. Canidius and the others that left Antony are given hospitality here but no positions of trust. Ive done a bad thing, for which I will blame myself so much that Ill never be happy again.
+</T>
+<T>
+AGRIPPA
+Retreat! Weve advanced too far. Caesar himself is in trouble and there are more adversaries than we expected.
+</T>
+<T>
+SCARUS
+Oh, my brave Emperor, this is what I call a fight! If wed fought like this before, wed have driven them home with bandaged heads.
+</T>
+<T>
+ANTONY
+Youre bleeding a lot.
+</T>
+<T>
+SCARUS
+I had a scar here that looked like a T; now its an H.
+</T>
+<T>
+ANTONY
+Theyre retreating.
+</T>
+<T>
+SCARUS
+Well chase em into their latrines. I still have room for six more wounds.
+</T>
+<T>
+EROS
+Theyre retreating, sir, and our superiority indicates a clear victory.
+</T>
+<T>
+SCARUS
+Lets slash their backs and grab em like we do rabbits, from behind. Its fair game to mark a coward.
+</T>
+<T>
+ANTONY
+Ill reward you once for your cheerfulness and ten times for your courage. Come on.
+</T>
+<T>
+ANTONY
+Weve driven him all the way back to his camp. One of you run to the Queen with the news.
+</T>
+<T>
+Before sunrise tomorrow, well kill anyone who escaped today. I want to thank all of you. Youre formidable. You fought not as if you served the cause but as though it were as much your personal fight as mine. You are all HectorsHector was a powerful Trojan warriorHectors. Go on into the city. Embrace your wives and your friends. Describe your feats for them while they cry for joy. Their tears will wash the congealed blood from your wounds, and they will kiss those honorable cuts until they heal.
+</T>
+<T>
+(to SCARUS ) Give me your hand. Ill praise your actions to this powerful enchantress so that she will thank you with blessings. Oh, light of the world, (to CLEOPATRA ) wrap your arms around my armored neck. Leap, with all your finery through my armor and go straight to my heart. There you can ride upon my heartbeats, sharing in my triumph.
+</T>
+<T>
+CLEOPATRA
+Lord of lords! Your courage is infinite. Have you returned smiling from the great battle for the world?
+</T>
+<T>
+SENTRY
+If we arent relieved in an hour, we have to return to our barracks. The night is bright, and they say well be forming for battle by two a.m.
+</T>
+<T>
+FIRST WATCH
+That last day was a hard one for us.
+</T>
+<T>
+ENOBARBUS
+Oh, listen to me, night
+</T>
+<T>
+SECOND WATCH
+Who is this?
+</T>
+<T>
+FIRST WATCH
+Stay hidden and listen.
+</T>
+<T>
+ENOBARBUS
+Be my witness, oh you blessed moon. The men who revolted against Antony will be remembered scornfully in the history books. But poor Enobarbus repented.
+</T>
+<T>
+SENTRY
+Thats Enobarbus?
+</T>
+<T>
+SECOND WATCH
+Quiet! Keep listening.
+</T>
+<T>
+ENOBARBUS
+Oh, moon, you queen of sadness, drop poisonous dew on me so that my life, which continues against my wishes, will end. Take my heart and throw it against my hard, stony sin. My heart, which dried out with grief, will surely break apart into a powder, and that will be the end of my disgusting mind. Oh, Antony! You are more noble than my revolt is dishonorable. Forgive my crimes against you, but let history record me as a fugitive traitor. Oh, Antony! Oh, Antony!
+</T>
+<T>
+ANTONY
+Theyve switched their operation to the sea today. We didnt please them on land.
+</T>
+<T>
+SCARUS
+Were ready for both, my lord.
+</T>
+<T>
+ANTONY
+I wish theyd fight in fire or in the air. Wed meet them there too. But heres the plan: our army will stay with us on the hills by the city. Orders have been given to the navy and theyve left port. Well be able to analyze and direct the battle better from the hills.
+</T>
+<T>
+CAESAR
+We wont move our land forces unless were attacked. And I doubt that will happen, since most of Antonys men are with his navy. Lets take up the best positions we can in the valleys.
+</T>
+<T>
+ANTONY
+They still havent joined the battle. Ill be able to see better from that pine tree over there. Ill let you know right away how its going.
+</T>
+<T>
+SCARUS
+Swallows have built nests in Cleopatras sails. The fortunetellers wont say whether thats a good sign or a bad one, but they dont look happy. Antony is valiant and dejected. His mood changes by fits and starts; his checkered luck vacillates between hope and fear, winning and losing.
+</T>
+<T>
+ANTONY
+All is lost! This treacherous Egyptian has betrayed me. My fleet has surrendered to the enemy. You can see them over there throwing their hats up in the air and drinking together like long lost friends. Three-time traitor and whore! Its you who have sold me to this youth, Caesar. Now my war is only with you. Tell the army to flee. Revenge on Cleopatra will be my last act. Order them to escape. Go!
+</T>
+<T>
+CLEOPATRA
+Help me, ladies! Oh, Antony is more furious than Telamon, who killed himself in a jealous rage. The wild boar of Thessaly, which the goddess Diana sent to punish King Caledon for neglecting her sacrifices, didnt foam at the mouth as much as Antony does now.
+</T>
+<T>
+CHARMIAN
+Go to your tomb! Lock yourself in and send him word that youre dead. When a great person departs, it causes more pain than when the soul leaves the body.
+</T>
+<T>
+CLEOPATRA
+To my tomb! Mardian, go tell him Ive killed myself. Say the last word I spoke was Antony, and please word it pathetically. Go, Mardian, and let me know how he reacts to my death. (to the others) To the tomb!
+</T>
+<T>
+ANTONY
+Eros, can you still see me?
+</T>
+<T>
+EROS
+Yes, noble lord.
+</T>
+<T>
+ANTONY
+Sometimes we see a cloud that looks like a dragon. Sometimes theres a cloud like a bear or a lion, a castle, a floating rock, a craggy mountain. Or it might look like a blue cliff with trees on it that bow to the ground. These things fool our eyes by seeming solid, when they are actually only air. Youve seen these illusions. Theyre spectacles that appear at sunset.
+</T>
+<T>
+EROS
+Yes, my lord.
+</T>
+<T>
+ANTONY
+What looks like a horse is quick as thought disfigured by the wind, made as difficult to distinguish as water poured into water.
+</T>
+<T>
+EROS
+Thats true, my lord.
+</T>
+<T>
+ANTONY
+Eros, my young friend, your captain is now just like that cloud. Here and now I seem like Antony, but I cant keep myself in this form, my boy. I went to war to save Cleopatra, whose love I thought I had, since she had mineand mine carried with it a million others, those of my soldiers, now lost. The Queen conspired with Caesar to undermine my success and assure his victory. No, dont cry, kind Eros. We still have the option of killing ourselves.
+</T>
+<T>
+CLEOPATRA
+Oh, Charmian, I will never leave this tomb!
+</T>
+<T>
+CHARMIAN
+Be calm, dear lady.
+</T>
+<T>
+CLEOPATRA
+No, I wont. Strange and terrible events are all welcome, but I despise comforts. The size of my sorrow must be as great as its source.
+</T>
+<T>
+Whats the news! Is he dead?
+</T>
+<T>
+DIOMEDES
+He is close to death, but not dead yet. Look out the other window; his guard has brought him here.
+</T>
+<T>
+CLEOPATRA
+Oh, sun, burn up the orbit in which you move, so that the world may be dark forever! Oh, Antony, Antony, Antony! Help, Charmian, help, Iras, help! Help, friends below; lift him up here.
+</T>
+<T>
+ANTONY
+Be calm! It was not Caesars bravery that conquered Antony but Antonys that has triumphed over himself.
+</T>
+<T>
+CLEOPATRA
+Thats the way it should beonly Antony should conquer Antony. But how terrible that it has happened!
+</T>
+<T>
+CAESAR
+Dolabella, go see Antony. Tell him to surrender. His position is hopeless. This delay makes him look ridiculous.
+</T>
+<T>
+DOLABELLA
+Right away, Caesar.
+</T>
+<T>
+CAESAR
+What are you doing with a sword? Who do you think you are coming in here armed?
+</T>
+<T>
+DECRETUS
+My name is Decretus. I served Mark Antony, who was the commander most worthy of my services. While he was alive, I lived only to serve him and oppose his enemies. If you accept my service, Ill serve you the same way. If not, you can kill me.
+</T>
+<T>
+CAESAR
+What are you saying?
+</T>
+<T>
+DECRETUS
+Caesar, Im telling you that Antony is dead.
+</T>
+<T>
+CAESAR
+When such a great man dies there should be a thunderclap. The fractured world, in its confusion, should send lions into the city streets and humans into the wilderness to live in lions dens. This isnt the death of one man. Its the death of half the world.
+</T>
+<T>
+CLEOPATRA
+Being alone has helped me better understand my life. Its pathetic to be Caesar. He cant be Fortune; hes only Fortunes errand boy. It would be a great deed to commit suicidethat act which ends all other things, which makes all accidents and changes stop. Which causes you to sleep, and takes you away from earthly concerns.
+</T>
+<T>
+PROCULEIUS
+Caesar greets the Queen of Egypt and asks that you consider what you will ask from him.
+</T>
+<T>
+CLEOPATRA
+Whats your name?
+</T>
+<T>
+PROCULEIUS
+My name is Proculeius.
+</T>
+<T>
+CLEOPATRA
+Antony told me about you. He said you were a man I could trust. But I dont worry about being deceived because I dont need to trust. If your master wants a queen to beg from him, you should tell him that a queen will beg for no less than a kingdom.
+If he will grant me conquered Egypt, so that I may give it to my son, I will kneel to him with thanks.
+</T>

@@ -1,0 +1,876 @@
+<T>
+RODERIGO
+Tush! Never tell me. I take it much unkindly
+That thou, Iago, who hast had my purse
+As if the strings were thine, shouldst know of this.
+</T>
+<T>
+IAGO
+'Sblood, but youll not hear me! If ever Idid dream of such a matter, abhor me.
+</T>
+<T>
+RODERIGO
+Thou toldst me
+Thou didst hold him in thy hate.
+</T>
+<T>
+IAGO
+Despise me
+If I do not. Three great ones of the city
+(In personal suit to make me his lieutenant)
+Off-capped to him, and by the faith of man
+I know my price, I am worth no worse a place.
+But he (as loving his own pride and purposes)
+Evades them with a bombast circumstance
+Horribly stuffed with epithets of war,
+And in conclusion
+Nonsuits my mediators. For Certes, sayshe,
+I have already chose my officer.
+And what was he?
+Forsooth, a great arithmetician,
+One Michael Cassio, a Florentine
+(A fellow almost damned in a fair wife)
+That never set a squadron in the field,
+Nor the division of a battle knows
+More than a spinsterunless the bookish theoric,
+</T>
+<T>
+Wherein the toged consuls can propose
+As masterly as he. Mere prattle without practice
+Is all his soldiership. But he, sir, had th' election
+And I, of whom his eyes had seen the proof
+At Rhodes, at Cyprus, and on other grounds
+Christian and heathen, must be beleed and calmed
+By debitor and creditor. This counter-caster
+He (in good time) must his lieutenant be
+And I, bless the mark, his Moorships ancient.
+</T>
+<T>
+RODERIGO
+By heaven, I rather would have been his hangman.
+</T>
+<T>
+IAGO
+Why, theres no remedy. 'Tis the curse ofservice.
+Preferment goes by letter and affection,
+And not by old gradation, where each second
+Stood heir to th' first. Now sir, be judge yourself,
+Whether I in any just term am affined
+To love the Moor.
+</T>
+<T>
+RODERIGO
+I would not follow him then.
+</T>
+<T>
+IAGO
+O sir, content you.
+I follow him to serve my turn upon him.
+We cannot all be masters, nor all masters
+Cannot be truly followed. You shall mark
+Many a duteous and knee-crooking knave
+That (doting on his own obsequious bondage)
+Wears out his time much like his masters ass
+For naught but provender, and when hes old, cashiered.
+Whip me such honest knaves. Others there are
+Who, trimmed in forms and visages of duty,
+Keep yet their hearts attending on themselves
+And, throwing but shows of service on their lords,
+Do well thrive by them. And when they have lined their coats,
+Do themselves homage. These fellows have some soul,
+</T>
+<T>
+And such a one do I profess myself. For, sir,
+It is as sure as you are Roderigo,
+Were I the Moor, I would not be Iago.
+In following him, I follow but myself.
+Heaven is my judge, not I for love and duty,
+But seeming so, for my peculiar end.
+For when my outward action doth demonstrate
+The native act and figure of my heart
+In compliment extern, tis not long after
+But I will wear my heart upon my sleeve
+For daws to peck at. I am not what I am.
+</T>
+<T>
+RODERIGO
+What a full fortune does the Thick-lips owe
+If he can carryt thus!
+</T>
+<T>
+IAGO
+Call up herfather.
+Rouse him. Make after him, Poison his delight,
+Proclaim him in the streets. Incense her kinsmen,
+And, though he in a fertile climate dwell,
+Plague him with flies. Though that his joy be joy
+Yet throw such changes of vexation ont,
+As it may lose some color.
+</T>
+<T>
+RODERIGO
+Here is her fathers house, Ill call aloud.
+</T>
+<T>
+IAGO
+Do, with like timorous accent and dire yell
+As when, by night and negligence, the fire
+Is spied in populous cities.
+</T>
+<T>
+RODERIGO
+What, ho, Brabantio! Signior Brabantio, ho!
+</T>
+<T>
+IAGO
+Awake! What, ho, Brabantio! Thieves! Thieves!
+Look to your house, your daughter, and your bags!
+Thieves! thieves!
+</T>
+<T>
+BRABANTIO
+What is the reason of this terrible summons?
+What is the matter there?
+</T>
+<T>
+RODERIGO
+Signior, is all your family within?
+</T>
+<T>
+IAGO
+Are your doors locked?
+</T>
+<T>
+BRABANTIO
+Why, wherefore askyou this?
+</T>
+<T>
+IAGO
+Zounds, sir, youre robbed! For shame, put on yourgown.
+Your heart is burst, you have lost half your soul.
+Even now, now, very now, an old black ram
+Is tupping your white ewe. Arise, arise,
+Awake the snorting citizens with the bell
+Or else the devil will make a grandsire of you.
+Arise, I say!
+</T>
+<T>
+BRABANTIO
+What, have youlost your wits?
+</T>
+<T>
+RODERIGO
+Most reverend signior, do you know my voice?
+</T>
+<T>
+BRABANTIO
+Not I. What are you?
+</T>
+<T>
+RODERIGO
+My name is Roderigo.
+</T>
+<T>
+BRABANTIO
+The worser welcome.
+I have charged thee not to haunt about my doors.
+In honest plainness thou hast heard me say
+My daughter is not for thee. And now in madness,
+Being full of supper and distempering drafts,
+Upon malicious knavery dost thou come
+To start my quiet?
+</T>
+<T>
+RODERIGO
+Sir, sir, sir
+</T>
+<T>
+BRABANTIO
+But thou must needs be sure
+My spirits and my place have in their power
+To make this bitter to thee.
+</T>
+<T>
+RODERIGO
+Patience, goodsir.
+</T>
+<T>
+BRABANTIO
+What tellst thou me of robbing? This is Venice,
+My house is not a grange.
+</T>
+<T>
+RODERIGO
+Most graveBrabantio,
+In simple and pure soul I come to you
+</T>
+<T>
+IAGO
+Zounds, sir, you are one of those that will not serve God, if thedevil bid you. Because we come to do you service and you think weare ruffians, youll have your daughter covered with aBarbary horse. Youll have your nephews neigh to you.Youll have coursers for cousins and gennets for germans.
+</T>
+<T>
+BRABANTIO
+What profane wretch art thou?
+</T>
+<T>
+IAGO
+I am one, sir, that comes to tell you your daughter and the Moor are now making the beast with two backs.
+</T>
+<T>
+BRABANTIO
+Thou art a villain!
+</T>
+<T>
+IAGO
+You are a senator!
+</T>
+<T>
+BRABANTIO
+This thou shalt answer. I know thee, Roderigo.
+</T>
+<T>
+RODERIGO
+Sir, I will answer any thing. But, I beseech you,
+Ift be your pleasure and most wise consent
+(As partly I find it is) that your fair daughter
+At this odd-even and dull watch o' th' night
+</T>
+<T>
+Transported with no worse nor better guard
+But with a knave of common hire, a gondolier,
+To the gross clasps of a lascivious Moor,
+If this be known to you and your allowance,
+We then have done you bold and saucy wrongs.
+But if you know not this my manners tell me
+We have your wrong rebuke. Do not believe
+That, from the sense of all civility,
+I thus would play and trifle with your reverence.
+Your daughter (if you have not given her leave)
+I say again, hath made a gross revolt,
+Tying her duty, beauty, wit, and fortunes
+In an extravagant and wheeling stranger
+Of here and everywhere. Straight satisfy yourself.
+If she be in her chamber or your house,
+Let loose on me the justice of the state
+For thus deluding you.
+</T>
+<T>
+BRABANTIO
+Strike on thetinder, ho!
+Give me a taper, call up all my people!
+This accident is not unlike my dream,
+Belief of it oppresses me already.
+Light, I say, light!
+</T>
+<T>
+IAGO
+(to RODERIGO)
+Farewell, for Imust leave you.
+It seems not meet, nor wholesome to my place,
+To be producted (as, if I stay, I shall)
+Against the Moor. For I do know the state
+(However this may gall him with some check)
+Cannot with safety cast him, for hes embarked
+With such loud reason to the Cyprus wars
+(Which even now stand in act) that, for their souls,
+Another of his fathom they have none
+To lead their business. In which regard,
+</T>
+<T>
+Though I do hate him as I do hell pains,
+Yet for necessity of present life
+I must show out a flag and sign of love,
+(Which is indeed but sign). That you shall surely find him,
+Lead to the Sagittary the raisd search,
+And there will I be with him. So farewell.
+</T>
+<T>
+BRABANTIO
+It is too true an evil. Gone she is.
+And whats to come of my despisd time
+Is naught but bitterness. Now, Roderigo,
+Where didst thou see her?Oh, unhappy girl!
+With the Moor, sayst thou?Who would be afather?
+How didst thou know twas she?Oh, shedeceives me
+Past thought!What said she to you?Get moretapers,
+Raise all my kindred. Are they married, think you?
+</T>
+<T>
+RODERIGO
+Truly, I think they are.
+</T>
+<T>
+BRABANTIO
+Oh, heaven, how got she out? Oh, treason of the blood!
+Fathers, from hence trust not your daughters' minds
+By what you see them act. Is there not charms
+By which the property of youth and maidhood
+May be abused? Have you not read, Roderigo,
+Of some such thing?
+</T>
+<T>
+RODERIGO
+Yes, sir, I haveindeed.
+</T>
+<T>
+BRABANTIO
+Call up my brotherOh, would you had had her!
+Some one way, some another. Do you know
+Where we may apprehend her and the Moor?
+</T>
+<T>
+RODERIGO
+I think I can discover him, if you please
+To get good guard and go along with me.
+</T>
+<T>
+BRABANTIO
+Pray you lead on. At every house Ill call.
+I may command at most.Get weapons, ho!
+And raise some special officers of might.
+On, good Roderigo. I will deserve your pains.
+</T>
+<T>
+IAGO
+Though in the trade of war I have slain men,
+Yet do I hold it very stuff o' th'conscience
+To do no contrived murder. I lack iniquity
+Sometimes to do me service. Nine or ten times
+I had thought t' have yerked him here under the ribs.
+</T>
+<T>
+OTHELLO
+'Tis better as it is.
+</T>
+<T>
+IAGO
+Nay, but he prated
+And spoke such scurvy and provoking terms
+Against your honor
+That, with the little godliness I have,
+I did full hard forbear him. But I pray you, sir,
+Are you fast married? Be assured of this:
+That the Magnifico is much beloved
+And hath in his effect a voice potential
+As double as the Dukes. He will divorce you,
+Or put upon you what restraint and grievance
+The law (with all his might to enforce it on)
+Will give him cable.
+</T>
+<T>
+OTHELLO
+Let him do hisspite.
+My services which I have done the signiory
+Shall out-tongue his complaints. 'Tis yet toknow
+Which, when I know that boasting is an honor,
+I shall promulgate. I fetch my life and being
+From men of royal siege, and my demerits
+May speak unbonneted to as proud a fortune
+As this that I have reached. For know, Iago,
+But that I love the gentle Desdemona,
+I would not my unhousd free condition
+Put into circumscription and confine
+For the seas worth. But look, what lights come yond?
+</T>
+<T>
+DUKE
+Theres no composition in this news
+That gives them credit.
+</T>
+<T>
+FIRST SENATOR
+Indeed, they are disproportioned.
+My letters say a hundred and seven galleys.
+</T>
+<T>
+DUKE
+And mine a hundred and forty.
+</T>
+<T>
+SECOND SENATOR
+And mine, twohundred.
+But though they jump not on a just account
+As in these cases, where the aim reports
+'Tis oft with differenceyet do they allconfirm
+A Turkish fleet, and bearing up to Cyprus.
+</T>
+<T>
+DUKE
+Nay, it is possible enough to judgment.
+I do not so secure me in the error,
+But the main article I do approve
+In fearful sense.
+</T>
+<T>
+SAILOR
+(within)
+What, ho, what,ho, what, ho!
+</T>
+<T>
+OFFICER
+A messenger from the galleys.
+</T>
+<T>
+DUKE
+Now, whats the business?
+</T>
+<T>
+SAILOR
+The Turkish preparation makes for Rhodes,
+So was I bid report here to the state
+By Signior Angelo.
+</T>
+<T>
+MONTANO
+What from the cape can you discern at sea?
+</T>
+<T>
+FIRST GENTLEMAN
+Nothing at all. It is a high-wrought flood.
+I cannot twixt the heaven and the main
+Descry a sail.
+</T>
+<T>
+MONTANO
+Methinks the wind hath spoke aloud at land,
+A fuller blast ne'er shook our battlements.
+If it hath ruffianed so upon the sea
+What ribs of oak, when mountains melt on them,
+Can hold the mortise? What shall we hear of this?
+</T>
+<T>
+SECOND GENTLEMAN
+A segregation of the Turkish fleet.
+For do but stand upon the foaming shore,
+The chidden billow seems to pelt the clouds,
+The wind-shaked surge, with high and monstrous mane,
+Seems to cast water on the burning bear,
+And quench the guards of th' ever-fixdpole.
+I never did like molestation view
+On the enchafd flood.
+</T>
+<T>
+MONTANO
+If that the Turkish fleet
+Be not ensheltered and embayed, they are drowned.
+It is impossible they bear it out.
+</T>
+<T>
+HERALD
+It is Othellos pleasure, our noble and valiantgeneral, that, upon certain tidings now arrived, importing the mereperdition of the Turkish fleet, every man put himself into triumph:some to dance, some to make bonfires, each man to what sport andrevels his addiction leads him. For besides these beneficial news,it is the celebration of his nuptial. So much was his pleasureshould be proclaimed. All offices are open, and there is fullliberty of feasting from this present hour of five till the bellhave told eleven. Bless the isle of Cyprus and our noble generalOthello!
+</T>
+<T>
+OTHELLO
+Good Michael, look you to the guard tonight.
+Lets teach ourselves that honorable stop
+Not to outsport discretion.
+</T>
+<T>
+CASSIO
+Iago hath direction what to do,
+But notwithstanding with my personal eye
+Will I look to t.
+</T>
+<T>
+OTHELLO
+Iago is mosthonest.
+Michael, good night. Tomorrow with your earliest
+Let me have speech with you.
+Come, my dear love,
+The purchase made, the fruits are to ensue:
+That profits yet to come tween me and you.
+Good night.
+</T>
+<T>
+CASSIO
+Welcome, Iago. We must to the watch.
+</T>
+<T>
+IAGO
+Not this hour, lieutenant, tis not yet teno' the clock. Our general cast us thus early for the loveof his Desdemonawho let us not therefore blame. He hathnot yet made wanton the night with her, and she is sport for Jove.
+</T>
+<T>
+CASSIO
+Shes a most exquisite lady.
+</T>
+<T>
+IAGO
+And, Ill warrant her, full of game.
+</T>
+<T>
+CASSIO
+Masters, play here, I will content your pains.
+Something thats brief, and bid Goodmorrow, general.
+</T>
+<T>
+CLOWN
+Why masters, have your instruments been in Naples, that they speaki' th' nose thus?
+</T>
+<T>
+MUSICIAN
+How, sir? How?
+</T>
+<T>
+CLOWN
+Are these, I pray you, wind instruments?
+</T>
+<T>
+MUSICIAN
+Ay, marry, are they, sir.
+</T>
+<T>
+CLOWN
+Oh, thereby hangs a tail.
+</T>
+<T>
+MUSICIAN
+Whereby hangs a tale, sir?
+</T>
+<T>
+CLOWN
+Marry sir, by many a wind instrument that I know. But, masters,heres money for you, and the general so likes your musicthat he desires you, for loves sake, to make no morenoise with it.
+</T>
+<T>
+MUSICIAN
+Well, sir, we will not.
+</T>
+<T>
+OTHELLO
+These letters give, Iago, to the pilot,
+And by him do my duties to the senate.
+That done, I will be walking on the works,
+Repair there to me.
+</T>
+<T>
+IAGO
+Well, my good lord, Ill do t.
+</T>
+<T>
+OTHELLO
+This fortification, gentlemen, shall we see t?
+</T>
+<T>
+GENTLEMEN
+Well wait upon your lordship.
+</T>
+<T>
+DESDEMONA
+Be thou assured, good Cassio, I will do
+All my abilities in thy behalf.
+</T>
+<T>
+EMILIA
+Good madam, do. I warrant it grieves my husband
+As if the cause were his.
+</T>
+<T>
+DESDEMONA
+Oh, thats an honest fellow. Do not doubt, Cassio,
+But I will have my lord and you again
+As friendly as you were.
+</T>
+<T>
+CASSIO
+Bounteous madam,
+Whatever shall become of Michael Cassio,
+Hes never anything but your true servant.
+</T>
+<T>
+DESDEMONA
+I know t, I thank you. You do love my lord.
+You have known him long, and be you well assured
+He shall in strangeness stand no farther off
+Than in a polite distance.
+</T>
+<T>
+CASSIO
+Ay, but, lady,
+That policy may either last so long,
+Or feed upon such nice and waterish diet,
+Or breed itself so out of circumstances,
+That, I being absent and my place supplied,
+My general will forget my love and service.
+</T>
+<T>
+DESDEMONA
+Do not doubt that. Before Emilia here
+I give thee warrant of thy place. Assure thee,
+If I do vow a friendship, Ill perform it
+To the last article. My lord shall never rest,
+Ill watch him tame and talk him out of patience.
+</T>
+<T>
+DESDEMONA
+Do you know, sirrah, where Lieutenant Cassio lies?
+</T>
+<T>
+CLOWN
+I dare not say he lies anywhere.
+</T>
+<T>
+DESDEMONA
+Why, man?
+</T>
+<T>
+CLOWN
+Hes a soldier, and for one to say a soldier lies, tis stabbing.
+</T>
+<T>
+DESDEMONA
+Go to. Where lodges he?
+</T>
+<T>
+CLOWN
+To tell you where he lodges is to tell you where I lie.
+</T>
+<T>
+DESDEMONA
+Can anything be made of this?
+</T>
+<T>
+CLOWN
+I know not where he lodges, and for me to devise a lodging and say he lies here, or he lies there, were to lie in mine own throat.
+</T>
+<T>
+DESDEMONA
+Can you inquire him out and be edified by report?
+</T>
+<T>
+CLOWN
+I will catechize the world for him, that is, make questions, and by them answer.
+</T>
+<T>
+DESDEMONA
+Seek him, bid him come hither. Tell him I have moved my lord on his behalf, and hope all will be well.
+</T>
+<T>
+CLOWN
+To do this is within the compass of mans wit, and therefore I will attempt the doing it.
+</T>
+<T>
+IAGO
+Will you think so?
+</T>
+<T>
+OTHELLO
+Think so, Iago?
+</T>
+<T>
+IAGO
+What,
+To kiss in private?
+</T>
+<T>
+OTHELLO
+An unauthorized kiss!
+</T>
+<T>
+IAGO
+Or to be naked with her friend in bed
+An hour or more, not meaning any harm?
+</T>
+<T>
+OTHELLO
+Naked in bed, Iago, and not mean harm!
+It is hypocrisy against the devil.
+They that mean virtuously, and yet do so,
+The devil their virtue tempts, and they tempt heaven.
+</T>
+<T>
+IAGO
+So they do nothing, tis a venial slip.
+But if I give my wife a handkerchief
+</T>
+<T>
+OTHELLO
+What then?
+</T>
+<T>
+IAGO
+Why then tis hers, my lord, and, being hers,
+She may, I think, bestow t on any man.
+</T>
+<T>
+OTHELLO
+She is protectress of her honor too.
+May she give that?
+</T>
+<T>
+OTHELLO
+You have seen nothing then?
+</T>
+<T>
+EMILIA
+Nor ever heard, nor ever did suspect.
+</T>
+<T>
+OTHELLO
+Yes, you have seen Cassio and she together.
+</T>
+<T>
+EMILIA
+But then I saw no harm, and then I heard
+Each syllable that breath made up between them.
+</T>
+<T>
+OTHELLO
+What, did they never whisper?
+</T>
+<T>
+EMILIA
+Never, my lord.
+</T>
+<T>
+OTHELLO
+Nor send you out o' th' way?
+</T>
+<T>
+EMILIA
+Never.
+</T>
+<T>
+OTHELLO
+To fetch her fan, her gloves, her mask, nor nothing?
+</T>
+<T>
+EMILIA
+Never, my lord.
+</T>
+<T>
+OTHELLO
+Thats strange.
+</T>
+<T>
+EMILIA
+I durst, my lord, to wager she is honest,
+Lay down my soul at stake. If you think other
+Remove your thought, it doth abuse your bosom.
+If any wretch have put this in your head
+Let heaven requite it with the serpents curse
+For if she be not honest, chaste, and true
+Theres no man happy. The purest of their wives
+Is foul as slander.
+</T>
+<T>
+LODOVICO
+I do beseech you, sir, trouble yourself no further.
+</T>
+<T>
+OTHELLO
+Oh, pardon me, twill do me good to walk.
+</T>
+<T>
+LODOVICO
+Madam, good night. I humbly thank your ladyship.
+</T>
+<T>
+DESDEMONA
+Your honor is most welcome.
+</T>
+<T>
+OTHELLO
+Will you walk, sir?O Desdemona
+</T>
+<T>
+DESDEMONA
+My lord?
+</T>
+<T>
+OTHELLO
+Get you to bed on th' instant, I will be returned
+Forthwith. Dismiss your attendant there, look t be done.
+</T>
+<T>
+DESDEMONA
+I will, my lord.
+</T>
+<T>
+EMILIA
+How goes it now? He looks gentler than he did.
+</T>
+<T>
+DESDEMONA
+He says he will return incontinent,
+And hath commanded me to go to bed
+And bid me to dismiss you.
+</T>
+<T>
+EMILIA
+Dismiss me?
+</T>
+<T>
+DESDEMONA
+It was his bidding. Therefore, good Emilia,
+Give me my nightly wearing, and adieu.
+We must not now displease him.
+</T>
+<T>
+IAGO
+Here, stand behind this bulk, straight will he come.
+Wear thy good rapier bare, and put it home.
+Quick, quick! Fear nothing. Ill be at thy elbow.
+It makes us, or it mars us. Think on that,
+And fix most firm thy resolution.
+</T>
+<T>
+RODERIGO
+Be near at hand, I may miscarry in t.
+</T>
+<T>
+IAGO
+Here, at thy hand. Be bold, and take thy stand.
+</T>
+<T>
+RODERIGO
+I have no great devotion to the deed
+And yet he hath given me satisfying reasons.
+'Tis but a man gone. Forth, my sword: he dies.
+</T>
+<T>
+IAGO
+(aside) I have rubbed this young quat almost to the sense,
+And he grows angry. Now, whether he kill Cassio
+Or Cassio him, or each do kill the other,
+Every way makes my gain. Live Roderigo,
+He calls me to a restitution large
+Of gold and jewels that I bobbed from him
+As gifts to Desdemona.
+It must not be. If Cassio do remain
+He hath a daily beauty in his life
+That makes me ugly. And besides, the Moor
+May unfold me to himthere stand I in much peril.
+No, he must die. But so, I hear him coming.
+</T>
+<T>
+OTHELLO
+It is the cause, it is the cause, my soul.
+Let me not name it to you, you chaste stars,
+It is the cause. Yet Ill not shed her blood,
+Nor scar that whiter skin of hers than snow
+And smooth as monumental alabaster.
+Yet she must die, else shell betray more men.
+Put out the light, and then put out the light.
+If I quench thee, thou flaming minister,
+I can again thy former light restore
+Should I repent me. But once put out thy light,
+Thou cunningst pattern of excelling nature,
+I know not where is that Promethean heat
+That can thy light relume. When I have plucked thy rose
+I cannot give it vital growth again,
+It must needs wither. Ill smell thee on the tree.
+Oh, balmy breath, that dost almost persuade
+Justice to break her sword! One more, one more.
+Be thus when thou art dead and I will kill thee
+And love thee after. (kissing her) One more, and thats the last.
+So sweet was ne'er so fatal. I must weep,
+But they are cruel tears. This sorrows heavenly,
+It strikes where it doth love. She wakes.
+</T>
+<T>
+DESDEMONA
+Whos there? Othello?
+</T>
+<T>
+OTHELLO
+Ay, Desdemona.
+</T>

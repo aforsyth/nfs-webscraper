@@ -1,0 +1,568 @@
+<T>
+FLAVIUS
+Get out of here! Go home, you lazy men. What, is today a holiday? Dont you know that working men arent supposed to walk around on a workday without wearing their work clothes? You there, speak up. Whats your occupation?
+</T>
+<T>
+CARPENTER
+Im a carpenter, sir.
+</T>
+<T>
+MURELLUS
+Where are your leather apron and your ruler? What are you doing, wearing your best clothes? And you, sir, whats your trade?
+</T>
+<T>
+COBBLER
+Well, compared to a fine workman, you might call me a mere cobbler.
+</T>
+<T>
+MURELLUS
+But whats your trade? Answer me straightforwardly.
+</T>
+<T>
+COBBLER
+It is a trade, sir, that I practice with a clear conscience. I am a mender of worn soles.
+</T>
+<T>
+MURELLUS
+What trade, boy? You insolent rascal, what trade?
+</T>
+<T>
+COBBLER
+Sir, please, dont be angry. But if your soles are worn out, I can mend you.
+</T>
+<T>
+MURELLUS
+What do you mean by that? Mend me, you impertinent fellow?!
+</T>
+<T>
+COBBLER
+Cobble you, sir.
+</T>
+<T>
+FLAVIUS
+Youre a cobbler, are you?
+</T>
+<T>
+COBBLER
+Sir, I make my living using an awl. I stick to my work; I dont meddle in politics or chase women. Im a surgeon to old shoes. When theyre endangered, I save them. The noblest men who ever walked on leather have walked on my handiwork.
+</T>
+<T>
+FLAVIUS
+But why arent you in your shop today? Why are you leading these men through the streets?
+</T>
+<T>
+COBBLER
+Well, to wear out their shoes and get myself more work. Seriously, though, we took the day off to see Caesar, sir, and celebrate his triumph.
+</T>
+<T>
+MURELLUS
+Why would you celebrate it? What victory does he bring home? What foreign lands has he conquered and captive foreigners chained to his chariot wheels? You blockheads, you unfeeling men! You hard hearts, you cruel men of Rome, didnt you know PompeyCaesar has just conquered the sons of his deceased enemy Pompey. He as won in a civil war, not a foreign conquest.Pompey? Many times you climbed up on walls and battlements, towers and windowseven chimney topswith your babies in your arms, and sat there patiently all day waiting to see great Pompey ride through the streets of Rome. And when you caught a glimpse of his chariot, didnt you shout so loud that the river Tiber shook as it echoed? And now you put on your best clothes? And now you take a holiday?
+</T>
+<T>
+And now you toss flowers in the path of Caesar, who comes in triumph over Pompeys defeated sons? Go home! Run to your houses, fall on your knees, and pray to the gods to spare you the pain that you deserve for such ingratitude.
+</T>
+<T>
+FLAVIUS
+Go, go, good countrymen, and to make up for having done wrong, gather up all the poor men like yourselves, lead them to the Tiber, and weep into the river until it overflows its banks.
+</T>
+<T>
+Well, that ought to move even the most thickheaded of them. There they go, feeling so guilty theyre now tongue-tiedthey dont have a thing to say. You go down toward the Capitol, and Ill go this way. Undress the statues if theyre decorated in honor of Caesar.
+</T>
+<T>
+MURELLUS
+Can we do that? You know its the feast of LupercalThe feast of Lupercal is an annual celebration to honor the Roman god Lupercus (called Pan in Greek mythology).Lupercal.
+</T>
+<T>
+FLAVIUS
+It doesnt matter. Make sure that none of the statues are decorated in tribute to Caesar. Ill walk around and force the commoners off the streets. You do the same, wherever the crowds are thick. If we take away Caesars support, hell have to come back down to earth; otherwise, hell fly too high and keep the rest of us in a state of fear and obedience.
+</T>
+<T>
+CAESAR
+Calphurnia!
+</T>
+<T>
+CASCA
+Quiet! Caesars talking.
+</T>
+<T>
+CAESAR
+Calphurnia!
+</T>
+<T>
+CALPHURNIA
+Im here, my lord.
+</T>
+<T>
+CAESAR
+Stand right in Antoniuss path when he runs the race. Antonius!
+</T>
+<T>
+ANTONY
+Yes, Caesar?
+</T>
+<T>
+CAESAR
+Antonius, after you take off, dont forget to touch Calphurnia, because our wise elders say that if you touch an infertile woman during this holy race, shell be freed from the curse of sterility.
+</T>
+<T>
+ANTONY
+Ill remember. When Caesar says do this, it is done.
+</T>
+<T>
+CAESAR
+Continue, then, and dont forget to perform all of the rituals.
+</T>
+<T>
+SOOTHSAYER
+Caesar!
+</T>
+<T>
+CICERO
+Good evening, Casca. Did you accompany Caesar home? Why are you breathless, and why are you staring like that?
+</T>
+<T>
+CASCA
+Arent you disturbed when the earth itself is shaking and swaying as if it were a flimsy thing? Cicero, Ive seen storms in which the angry winds split old oak trees, and Ive seen the ocean swell, rage, and foam, as if it wanted to reach the storm clouds, but never before tonight, never until now, have I experienced a storm that drops fire. Either there are wars in heaven, or else the world, too insolent toward the gods, provokes them to send destruction.
+</T>
+<T>
+CICERO
+Whathave you seen something so strange that it is clearly an omen from the gods?
+</T>
+<T>
+CASCA
+A common slaveyoud know him if you saw himheld up his left hand, which flamed and burned like twenty torches together. And yet his hand was immune to the fire and didnt get burned. AlsoIve kept my sword unsheathed since I saw thisin front of the Capitol I met a lion who looked at me and strutted by without bothering to attack me. And there were a hundred spooked women huddled together in fear who swore they saw men on fire walk up and down the streets.
+</T>
+<T>
+BRUTUS
+Lucius, are you there? I cant tell by the position of the stars how near it is to daybreakLucius, are you there? I wish I had that weakness, to sleep too soundly. Come on, Lucius! Wake up, I say! Lucius!
+</T>
+<T>
+LUCIUS
+Did you call me, my lord?
+</T>
+<T>
+BRUTUS
+Put a candle in my study, Lucius. Call me when its lit.
+</T>
+<T>
+LUCIUS
+I will, my lord.
+</T>
+<T>
+BRUTUS
+The only way is to kill Caesar. I have no personal reason to strike at himonly the best interest of the people. He wants to be crowned. The question is, how would being king change him? Evil can come from good, just as poisonous snakes tend to come out into the open on bright sunny dayswhich means we have to walk carefully. If we crown him, I have to admit wed be giving him the power to do damage.
+</T>
+<T>
+CAESAR
+Neither the sky nor the earth have been quiet tonight. Calphurnia cried out three times in her sleep, Help, someone! Theyre murdering Caesar! Whos there?
+</T>
+<T>
+SERVANT
+My lord?
+</T>
+<T>
+CAESAR
+Go tell the priests to perform a sacrifice immediately, and bring me their interpretation of the results.
+</T>
+<T>
+SERVANT
+I will, my lord.
+</T>
+<T>
+CALPHURNIA
+What are you doing, Caesar? Are you planning to go out? Youre not leaving the house today.
+</T>
+<T>
+CAESAR
+I will go out. The things that threaten me have only seen my back. When they see the face of Caesar, they will vanish.
+</T>
+<T>
+CALPHURNIA
+Caesar, I never believed in omens, but now they frighten me. A servant told me the night-watchmen saw horrid sights too, but different ones from what we heard and saw. A lioness gave birth in the streets, and graves cracked open and thrust out their dead.
+</T>
+<T>
+ARTEMIDORUS
+(reading aloud from the letter)
+Caesar, beware of Brutus. Watch Cassius. Dont go near Casca. Keep an eye on Cinna. Dont trust Trebonius. Pay attention to Metellus Cimber. Decius Brutus doesnt love you. Youve wronged Caius Ligarius. These men all have one intention, and its directed against Caesar. If you arent immortal, watch those around you. A sense of security opens the door to conspiracy. I pray that the mighty gods defend you!
+Your friend,
+Artemidorus.
+Ill stand here until Caesar passes by, and Ill give him this as though its a petition. My heart regrets that good men arent safe from the bite of jealous rivals. If you read this, Caesar, you might live. If not, the Fates are on the side of the traitors.
+</T>
+<T>
+PORTIA
+Boy, I beg you to run to the senate house. Dont stay to answer meget going. Why are you still standing there?
+</T>
+<T>
+LUCIUS
+To find out what you want me to do there, madam.
+</T>
+<T>
+PORTIA
+I want you there and back again before I can even tell you what you should do there. (to herself, so that no one can hear her) Oh, let my determination keep me from speaking what is in my heart! I have a mans mind, but only a womans strength. How hard it is for women to keep secrets! (to LUCIUS) Are you still here?
+</T>
+<T>
+LUCIUS
+Madam, what should I do? Run to the Capitol and nothing else? And then return to you and nothing else?
+</T>
+<T>
+PORTIA
+Yes, return and tell me if your master looks well, because he was sick when he left. And pay attention to what Caesar does and which men are close to him. Listen, boy! Whats that noise?
+</T>
+<T>
+LUCIUS
+I dont hear anything, madam.
+</T>
+<T>
+PORTIA
+I beg you, listen well. I heard a noise like a scuffle. The wind brings it from the Capitol.
+</T>
+<T>
+LUCIUS
+Truly, madam, I dont hear anything.
+</T>
+<T>
+CAESAR
+(to the SOOTHSAYER) March 15th has come.
+</T>
+<T>
+SOOTHSAYER
+Yes, Caesar, but its not gone yet.
+</T>
+<T>
+ARTEMIDORUS
+(offering his letter) Hail, Caesar! Read this schedule.
+</T>
+<T>
+DECIUS
+(offering CAESAR another paper) Trebonius wants you to look over his humble petition, at your leisure.
+</T>
+<T>
+ARTEMIDORUS
+Oh, Caesar, read mine first, for my petition affects you more directly. Read it, great Caesar.
+</T>
+<T>
+CAESAR
+Whatever pertains to myself I will deal with last.
+</T>
+<T>
+ARTEMIDORUS
+Dont delay, Caesar. Read it instantly.
+</T>
+<T>
+CAESAR
+What, is the man insane?
+</T>
+<T>
+PUBLIUS
+(to ARTEMIDORUS) Stand aside, you.
+</T>
+<T>
+CASSIUS
+(to ARTEMIDORUS) What? Are you pressing your petition on the street? Go to the Capitol.
+</T>
+<T>
+PLEBEIANS
+We want answers. Give us answers.
+</T>
+<T>
+BRUTUS
+Then follow me and listen to my speech, friends. Cassius, go to the next street and divide the crowd. Let those who will hear me speak stay. Lead those away who will follow you, and well explain publicly the reasons for Caesars death.
+</T>
+<T>
+FIRST PLEBEIAN
+Ill listen to Brutus.
+</T>
+<T>
+SECOND PLEBEIAN
+Ill listen to Cassius, and we will compare their reasons.
+</T>
+<T>
+THIRD PLEBEIAN
+Quiet! Noble Brutus has mounted the platform.
+</T>
+<T>
+BRUTUS
+Be patient until I finish. Romans, countrymen, and friends! Listen to my reasons and be silent so you can hear. Believe me on my honor and keep my honor in mind, so you may believe me. Be wise when you criticize me and keep your minds alert so you can judge me fairly. If theres anyone in this assembly, any dear friend of Caesars, I say to him that my love for Caesar was no less than his. If, then, that friend demands to know why I rose up against Caesar, this is my answer: its not that I loved Caesar less, but that I loved Rome more.
+</T>
+<T>
+CINNA THE POET
+I dreamed last night that I feasted with Caesar, and unlucky signs overwhelmed my imagination. I have no desire to go outside, yet something leads me there.
+</T>
+<T>
+FIRST PLEBEIAN
+Whats your name?
+</T>
+<T>
+SECOND PLEBEIAN
+Where are you going?
+</T>
+<T>
+THIRD PLEBEIAN
+Where do you live?
+</T>
+<T>
+FOURTH PLEBEIAN
+Are you a married man or a bachelor?
+</T>
+<T>
+SECOND PLEBEIAN
+Answer all of us, now.
+</T>
+<T>
+FIRST PLEBEIAN
+Yes, and be brief.
+</T>
+<T>
+FOURTH PLEBEIAN
+Yes, and be wise.
+</T>
+<T>
+THIRD PLEBEIAN
+Yes, and be truthful, if you know whats good for you.
+</T>
+<T>
+CINNA THE POET
+Whats my name? Where am I going? Where do I live? Am I a married man or a bachelor? Then, to answer every man briefly, wisely, and truthfullywisely I say, I am a bachelor.
+</T>
+<T>
+SECOND PLEBEIAN
+You imply that married men are fools. Youll get a blow from me for that, I think. Go on with what you were sayingright this instant.
+</T>
+<T>
+CINNA THE POET
+Right this instant, Im going to Caesars funeral.
+</T>
+<T>
+ANTONY
+These ones, then, will be assassinated. Their names are marked.
+</T>
+<T>
+OCTAVIUS
+(to LEPIDUS) Your brother has to die too. Do you agree, Lepidus?
+</T>
+<T>
+LEPIDUS
+I agree
+</T>
+<T>
+OCTAVIUS
+Put a mark next to his name too, Antony.
+</T>
+<T>
+LEPIDUS
+On the condition that your sisters son, Publius, also must die, Mark Antony.
+</T>
+<T>
+ANTONY
+He will die. SeeIve sealed his fate with this mark next to his name. But, Lepidus, go to Caesars house. Bring his will here, and well figure out a way to reduce his bequests to the people.
+</T>
+<T>
+LEPIDUS
+Will you be here when I return?
+</T>
+<T>
+OCTAVIUS
+Either here or at the Capitol.
+</T>
+<T>
+ANTONY
+Hes an unremarkable man, fit only to be sent on errands. Does it really make sense, once we divide the world into three parts, that he should be one of the three rulers?
+</T>
+<T>
+BRUTUS
+Stop.
+</T>
+<T>
+LUCILLIUS
+Pass on the command to halt!
+</T>
+<T>
+BRUTUS
+Whats happening now, Lucillius? Is Cassius nearby?
+</T>
+<T>
+LUCILLIUS
+Hes nearby, and Pindarus has come to salute you on behalf of his master.
+</T>
+<T>
+BRUTUS
+He sends his greetings through a good man. Your master, Pindarus, either because hes changed his mind or been influenced by bad officers, has made me wish we hadnt done some of the things we did. If hes nearby, I want an explanation.
+</T>
+<T>
+PINDARUS
+I have no doubt that my noble master will prove himself to be what he is: honorable and noble.
+</T>
+<T>
+BRUTUS
+I dont doubt him. Can I have a word with you, Lucillius? (takes LUCILLIUS aside) Tell me how Cassius treated you. Put my mind at rest.
+</T>
+<T>
+LUCILLIUS
+He received me with courtesy and sufficient respect, but not with affection, nor with as much open and friendly conversation as he once greeted me.
+</T>
+<T>
+BRUTUS
+Youve described a warm friend whos cooling off. Remember this, Lucillius. When a friend starts to get sick of you, he treats you artificially. Plain and simple loyalty doesnt make anyone act phony. But insincere men, like horses who are too lively at the start of a race, make a big show of their spirit.
+</T>
+<T>
+CASSIUS
+My evidence that you have wronged me is that you condemned and disgraced Lucius Pella for taking bribes here from the Sardinians, and you ignored my letters, where I argued that he was innocent; I know the man.
+</T>
+<T>
+BRUTUS
+You wronged yourself to write on behalf of such a man.
+</T>
+<T>
+CASSIUS
+In a time like this, it doesnt make sense to criticize every offense.
+</T>
+<T>
+BRUTUS
+Ill tell you, Cassius, you yourself have been called greedy and been accused of giving your positions to undeserving men in exchange for gold.
+</T>
+<T>
+CASSIUS
+Me, greedy! You know, if you were anyone other than Brutus, that speech would be your last.
+</T>
+<T>
+BRUTUS
+The name of Cassius gives credit to these corrupt actions, and so they go unpunished.
+</T>
+<T>
+CASSIUS
+Unpunished!
+</T>
+<T>
+BRUTUS
+Remember March, March 15th. Didnt great Caesar bleed for the sake of justice?
+</T>
+<T>
+OCTAVIUS
+Now, Antony, our prayers have been answered. You said the enemy wouldnt come down but keep to the hills and upper regions. It seems not. Their forces are nearby. They intend to challenge us here at Philippi, responding to our challenge before weve even challenged him.
+</T>
+<T>
+ANTONY
+I know how they think, and I understand why theyre doing this. They really wish they were somewhere else, but they want to descend on us, looking fierce so well think theyre brave. But they arent.
+</T>
+<T>
+MESSENGER
+Prepare yourselves, generals. The enemy approaches with great display. They show their bloody heralds of battle, and something must be done immediately.
+</T>
+<T>
+ANTONY
+Octavius, lead your forces slowly out to the left side of the level field.
+</T>
+<T>
+OCTAVIUS
+Ill go to the right side. You stay on the left.
+</T>
+<T>
+ANTONY
+Why are you defying me in this urgent matter?
+</T>
+<T>
+BRUTUS
+Ride, ride, Messala, ride, and give these dispatches to our forces on the other side.
+</T>
+<T>
+They should advance immediately, because I sense Octaviuss side is a bit fainthearted right now, and a sudden push would overthrow him. Ride, ride, Messala. Let Cassiuss wing mount a surprise attack.
+</T>
+<T>
+CASSIUS
+Oh, look, Titinius, look! Those villains, our soldiers, flee! Ive become an enemy to my own soldiers! This standard-bearer here of mine was running away, so I killed him and took the flag from him. (points to his flag)
+</T>
+<T>
+TITINIUS
+Oh, Cassius, Brutus gave the orders too soon. Having an advantage over Octavius, he took it too eagerly, and his soldiers began looting, and now were surrounded by Antonys men.
+</T>
+<T>
+PINDARUS
+Retreat further, my lord, retreat further. Mark Antony is in your tents, my lord. Therefore you must run, noble Cassius.
+</T>
+<T>
+CASSIUS
+This hill is far enough. Look, look, Titinius. Are those my tents on fire?
+</T>
+<T>
+TITINIUS
+They are, my lord.
+</T>
+<T>
+CASSIUS
+Titinius, if you love me, get on your horse and spur him on until hes brought you to those troops and back again, so that I can find out whether those troops are friends or enemies.
+</T>
+<T>
+BRUTUS
+Keep on, countrymen. Oh, keep your heads up, even now!
+</T>
+<T>
+CATO
+Who is so low that he wouldnt? Who will advance with me? I will proclaim my name around the field. I am the son of Marcus Cato! An enemy to tyrants and a friend to my country. I am the son of Marcus Cato!
+</T>
+<T>
+LUCILLIUS
+And I am Brutus, Marcus Brutus. Brutus, my countrys friend. Know that I am Brutus!
+</T>
+<T>
+Oh, young and noble Cato, have you been slain? Why, you die now as bravely as Titinius. And you, being Catos son, will be honored.
+</T>
+<T>
+FIRST SOLDIER
+(to LUCILLIUS ) Surrender or you will die.
+</T>
+<T>
+LUCILLIUS
+Id rather die. Here is some money for you to kill me immediately. Kill Brutus and be honored by the killing.
+</T>
+<T>
+FIRST SOLDIER
+We must not. He is a noble prisoner!
+</T>
+<T>
+BRUTUS
+Come, last of my friends, rest on this rock.
+</T>
+<T>
+CLITUS
+Statilius waved the torchlight at us, but he hasnt come back. Hes been captured or killed.
+</T>
+<T>
+BRUTUS
+Sit down, Clitus. Killed, most likelyits become a trend. Listen, Clitus. (he whispers to CLITUS)
+</T>
+<T>
+CLITUS
+Who, me, my lord? No, not for all the world.
+</T>
+<T>
+BRUTUS
+Silence, then! Dont give it away.
+</T>
+<T>
+CLITUS
+Id rather kill myself.
+</T>
+<T>
+BRUTUS
+Listen, Dardanius. (he whispers to DARDANIUS)
+</T>
+<T>
+DARDANIUS
+Would I dare do something like that?
+</T>
+<T>
+CLITUS
+Oh Dardanius!
+</T>
+<T>
+DARDANIUS
+Oh Clitus!
+</T>
+<T>
+CLITUS
+(speaking so that only DARDANIUS can hear) What awful thing did Brutus ask of you?
+</T>
+<T>
+DARDANIUS
+(speaking so that only CLITUS can hear) To kill him, Clitus. Look, hes meditating on what to do.
+</T>

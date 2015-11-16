@@ -1,0 +1,848 @@
+<T>
+ORLANDO
+As I remember, Adam, it was upon this fashionbequeathed me by will but poor a thousand crowns, and, asthou sayest, charged my brother on his blessing to breed mewell. And there begins my sadness. My brother Jaques hekeeps at school, and report speaks goldenly of his profit. Formy part, he keeps me rustically at home or, to speak moreproperly, stays me here at home unkept; for call you thatkeeping for a gentleman of my birth that differs not fromthe stalling of an ox? His horses are bred better, for, besidesthat they are fair with their feeding, they are taught theirmanage and, to that end, riders dearly hired. But I, hisbrother, gain nothing under him but growth, for the whichhis animals on his dunghills are as much bound to him as I.Besides this nothing that he so plentifully gives me, thesomething that nature gave me his countenance seems totake from me. He lets me feed with his hinds, bars me theplace of a brother, and, as much as in him lies, mines mygentility with my education. This is it, Adam, that grievesme, and the spirit of my father, which I think is within me,begins to mutiny against this servitude. I will no longerendure it, though yet I know no wise remedy how to avoidit.
+</T>
+<T>
+ADAM
+Yonder comes my master, your brother.
+</T>
+<T>
+ORLANDO
+Go apart, Adam, and thou shalt hear how he will shake me up.
+</T>
+<T>
+OLIVER
+Now, sir, what make you here?
+</T>
+<T>
+ORLANDO
+Nothing. I am not taught to make anything.
+</T>
+<T>
+OLIVER
+What mar you then, sir?
+</T>
+<T>
+ORLANDO
+Marry, sir, I am helping you to mar that which God made,a poor unworthy brother of yours, with idleness.
+</T>
+<T>
+OLIVER
+Marry, sir, be better employed, and be naught awhile.
+</T>
+<T>
+ORLANDO
+Shall I keep your hogs and eat husks with them? Whatprodigal portion have I spent that I should come to suchpenury?
+</T>
+<T>
+OLIVER
+Know you where you are, sir?
+</T>
+<T>
+ORLANDO
+O sir, very well: here in your orchard.
+</T>
+<T>
+OLIVER
+Know you before whom, sir?
+</T>
+<T>
+ORLANDO
+Ay, better than him I am before knows me. I know you aremy eldest brother, and in the gentle condition of blood youshould so know me. The courtesy of nations allows you mybetter, in that you are the first-born, but the same traditiontakes not away my blood, were there twenty brothersbetwixt us. I have as much of my father in me as you, albeit,I confess, your coming before me is nearer to his reverence.
+</T>
+<T>
+OLIVER
+What, boy! (strikes him)
+</T>
+<T>
+ORLANDO
+Come, come, elder brother, you are too young in this. (seizes him)
+</T>
+<T>
+OLIVER
+Wilt thou lay hands on me, villain?
+</T>
+<T>
+ORLANDO
+I am no villain. I am the youngest son of Sir Rowland deBoys. He was my father, and he is thrice a villain that sayssuch a father begot villains. Wert thou not my brother, Iwould not take this hand from thy throat till this other hadpulled out thy tongue for saying so. Thou hast railed onthyself.
+</T>
+<T>
+ADAM
+Sweet masters, be patient. For your fathers remembrance,be at accord.
+</T>
+<T>
+OLIVER
+Let me go, I say.
+</T>
+<T>
+ORLANDO
+I will not till I please. You shall hear me. My father chargedyou in his will to give me good education. You have trainedme like a peasant, obscuring and hiding from me allgentlemanlike qualities. The spirit of my father growsstrong in me, and I will no longer endure it. Therefore allowme such exercises as may become a gentleman, or give methe poor allottery my father left me by testament. With thatI will go buy my fortunes.
+</T>
+<T>
+OLIVER
+And what wilt thou dobeg when that is spent? Well, sir,get you in. I will not long be troubled with you. You shallhave some part of your will. I pray you leave me.
+</T>
+<T>
+ORLANDO
+I will no further offend you than becomes me for my good.
+</T>
+<T>
+OLIVER
+Get you with him, you old dog.
+</T>
+<T>
+ADAM
+Is old dog my reward? Most true, I have lost my teeth inyour service. God be with my old master. He would nothave spoke such a word.
+</T>
+<T>
+OLIVER
+Is it even so? Begin you to grow upon me? I will physic yourrankness and yet give no thousand crowns neither.Holla,Dennis!
+</T>
+<T>
+DENNIS
+Calls your Worship?
+</T>
+<T>
+OLIVER
+Was not Charles, the dukes wrestler, here to speak withme?
+</T>
+<T>
+DENNIS
+So please you, he is here at the door and importunes accessto you.
+</T>
+<T>
+OLIVER
+Call him in.
+</T>
+<T>
+'Twill be a good way, and tomorrow the wrestling is.
+</T>
+<T>
+CHARLES
+Good morrow to your Worship.
+</T>
+<T>
+OLIVER
+Good Monsieur Charles, whats the new news at the newcourt?
+</T>
+<T>
+CHARLES
+Theres no news at the court, sir, but the old news. That is,the old duke is banished by his younger brother the newduke, and three or four loving lords have put themselvesinto voluntary exile with him, whose lands and revenuesenrich the new duke. Therefore he gives them good leave towander.
+</T>
+<T>
+OLIVER
+Can you tell if Rosalind, the dukes daughter, be banishedwith her father?
+</T>
+<T>
+CHARLES
+Oh, no, for the dukes daughter her cousin so loves her,being ever from their cradles bred together, that she wouldhave followed her exile or have died to stay behind her. Sheis at the court, and no less beloved of her uncle than his owndaughter, and never two ladies loved as they do.
+</T>
+<T>
+OLIVER
+Where will the old duke live?
+</T>
+<T>
+CHARLES
+They say he is already in the Forest of Arden, and a manymerry men with him; and there they live like the old RobinHood of England. They say many young gentlemen flock tohim every day and fleet the time carelessly, as they did in thegolden world.
+</T>
+<T>
+OLIVER
+What, you wrestle tomorrow before the new duke?
+</T>
+<T>
+CHARLES
+Marry, do I, sir, and I came to acquaint you with a matter.I am given, sir, secretly to understand that your youngerbrother Orlando hath a disposition to come in disguisedagainst me to try a fall. Tomorrow, sir, I wrestle for mycredit, and he that escapes me without some broken limbshall acquit him well. Your brother is but young and tender,and, for your love I would be loath to foil him, as I must formy own honor if he come in. Therefore, out of my love toyou, I came hither to acquaint you withal, that either youmight stay him from his intendment or brook such disgracewell as he shall run into, in that it is a thing of his own searchand altogether against my will.
+</T>
+<T>
+OLIVER
+Charles, I thank thee for thy love to me, which thou shaltfind I will most kindly requite. I had myself notice of mybrothers purpose herein and have by underhand meanslabored to dissuade him from it; but he is resolute. Ill tellthee, Charles: it is the stubbornest young fellow of France,full of ambition, an envious emulator of every mans goodparts, a secret and villainous contriver against me hisnatural brother. Therefore use thy discretion. I had as liefthou didst break his neck as his finger. And thou wert bestlook to t, for if thou dost him any slight disgrace or if he donot mightily grace himself on thee, he will practice againstthee by poison, entrap thee by some treacherous device andnever leave thee till he hath ta'en thy life by some indirectmeans or other. For I assure theeand almost with tears Ispeak itthere is not one so young and so villainous thisday living. I speak but brotherly of him, but should Ianatomize him to thee as he is, I must blush and weep, andthou must look pale and wonder.
+</T>
+<T>
+CHARLES
+I am heartily glad I came hither to you. If he cometomorrow, Ill give him his payment. If ever he go aloneagain, Ill never wrestle for prize more. And so God keepyour Worship.
+</T>
+<T>
+OLIVER
+Farewell, good Charles.
+</T>
+<T>
+Now will I stir this gamester. I hope I shall see an end ofhim, for my soulyet I know not whyhates nothingmore than he. Yet hes gentle, never schooled and yetlearned, full of noble device, of all sorts enchantinglybeloved, and indeed so much in the heart of the world andespecially of my own people, who best know him, that I amaltogether misprized. But it shall not be so long; thiswrestler shall clear all. Nothing remains but that I kindlethe boy thither, which now Ill go about.
+</T>
+<T>
+CELIA
+I pray thee, Rosalind, sweet my coz, be merry.
+</T>
+<T>
+ROSALIND
+Dear Celia, I show more mirth than I am mistress of, andwould you yet I were merrier? Unless you could teach me toforget a banished father, you must not learn me how toremember any extraordinary pleasure.
+</T>
+<T>
+CELIA
+Herein I see thou lovst me not with the full weight that Ilove thee. If my uncle, thy banished father, had banishedthy uncle, the duke my father, so thou hadst been still withme, I could have taught my love to take thy father for mine.So wouldst thou, if the truth of thy love to me were sorighteously tempered as mine is to thee.
+</T>
+<T>
+ROSALIND
+Well, I will forget the condition of my estate to rejoice inyours.
+</T>
+<T>
+CELIA
+You know my father hath no child but I, nor none is like tohave, and, truly, when he dies, thou shalt be his heir, forwhat he hath taken away from thy father perforce, I willrender thee again in affection. By mine honor I will, andwhen I break that oath, let me turn monster. Therefore, mysweet Rose, my dear Rose, be merry.
+</T>
+<T>
+ROSALIND
+From henceforth I will, coz, and devise sports. Let meseewhat think you of falling in love?
+</T>
+<T>
+CELIA
+Marry, I prithee do, to make sport withal, but love no manin good earnest, nor no further in sport neither than withsafety of a pure blush thou mayst in honor come off again.
+</T>
+<T>
+CELIA
+Why, cousin! Why, Rosalind! Cupid have mercy, not aword?
+</T>
+<T>
+ROSALIND
+Not one to throw at a dog.
+</T>
+<T>
+CELIA
+No, thy words are too precious to be cast away upon curs.
+Throw some of them at me. Come, lame me with reasons.
+</T>
+<T>
+ROSALIND
+Then there were two cousins laid up, when the one shouldbe lamed with reasons and the other mad without any.
+</T>
+<T>
+CELIA
+But is all this for your father?
+</T>
+<T>
+ROSALIND
+No, some of it is for my childs father. Oh, how full of briersis this working-day world!
+</T>
+<T>
+CELIA
+They are but burs, cousin, thrown upon thee in holidayfoolery. If we walk not in the trodden paths our verypetticoats will catch them.
+</T>
+<T>
+ROSALIND
+I could shake them off my coat. These burs are in my heart.
+</T>
+<T>
+CELIA
+Hem them away.
+</T>
+<T>
+ROSALIND
+I would try, if I could cry hem and have him.
+</T>
+<T>
+CELIA
+Come, come, wrestle with thy affections.
+</T>
+<T>
+DUKE SENIOR
+Now, my co-mates and brothers in exile,
+Hath not old custom made this life more sweet
+Than that of painted pomp? Are not these woods
+More free from peril than the envious court?
+Here feel we not the penalty of Adam,
+The seasons' difference, as the icy fang
+And churlish chiding of the winters wind,
+Which, when it bites and blows upon my body,
+Even till I shrink with cold, I smile and say,
+This is no flattery. These are counselors
+That feelingly persuade me what I am.
+Sweet are the uses of adversity,
+Which, like the toad, ugly and venomous,
+Wears yet a precious jewel in his head.
+And this our life, exempt from public haunt,
+Finds tongues in trees, books in the running brooks,
+Sermons in stones, and good in everything.
+</T>
+<T>
+AMIENS
+I would not change it. Happy is your Grace,
+That can translate the stubbornness of fortune
+Into so quiet and so sweet a style.
+</T>
+<T>
+DUKE SENIOR
+Come, shall we go and kill us venison?
+And yet it irks me the poor dappled fools,
+Being native burghers of this desert city,
+Should in their own confines with forkd heads
+Have their round haunches gored.
+</T>
+<T>
+DUKE FREDERICK
+Can it be possible that no man saw them?
+It cannot be. Some villains of my court
+Are of consent and sufferance in this.
+</T>
+<T>
+FIRST LORD
+I cannot hear of any that did see her.
+The ladies, her attendants of her chamber
+Saw her abed, and in the morning early
+They found the bed untreasured of their mistress.
+</T>
+<T>
+SECOND LORD
+My lord, the roinish clown, at whom so oft
+Your Grace was wont to laugh, is also missing.
+Hisperia, the Princess' gentlewoman,
+Confesses that she secretly o'erheard
+Your daughter and her cousin much commend
+The parts and graces of the wrestler
+That did but lately foil the sinewy Charles,
+And she believes wherever they are gone
+That youth is surely in their company.
+</T>
+<T>
+DUKE FREDERICK
+Send to his brother. Fetch that gallant hither.
+If he be absent, bring his brother to me.
+Ill make him find him. Do this suddenly,
+And let not search and inquisition quail
+To bring again these foolish runaways.
+</T>
+<T>
+ORLANDO
+Whos there?
+</T>
+<T>
+ADAM
+What, my young master, O my gentle master,
+O my sweet master, O you memory
+Of old Sir Rowland! Why, what make you here?
+Why are you virtuous? Why do people love you?
+And wherefore are you gentle, strong, and valiant?
+Why would you be so fond to overcome
+The bonny prizer of the humorous duke?
+Your praise is come too swiftly home before you.
+Know you not, master, to some kind of men
+Their graces serve them but as enemies?
+No more do yours. Your virtues, gentle master,
+Are sanctified and holy traitors to you.
+Oh, what a world is this when what is comely
+Envenoms him that bears it!
+</T>
+<T>
+ORLANDO
+Why, whats the matter?
+</T>
+<T>
+ADAM
+O unhappy youth,
+Come not within these doors. Within this roof
+The enemy of all your graces lives.
+Your brotherno, no brotheryet the son
+Yet not the son, I will not call him son
+Of him I was about to call his father
+Hath heard your praises, and this night he means
+To burn the lodging where you use to lie,
+And you within it. If he fail of that,
+He will have other means to cut you off.
+I overheard him and his practices.
+This is no place, this house is but a butchery.
+Abhor it, fear it, do not enter it.
+</T>
+<T>
+ROSALIND
+O Jupiter, how weary are my spirits!
+</T>
+<T>
+TOUCHSTONE
+I care not for my spirits, if my legs were not weary.
+</T>
+<T>
+ROSALIND
+I could find in my heart to disgrace my mans apparel andto cry like a woman, but I must comfort the weaker vessel,as doublet and hose ought to show itself courageous topetticoat. Therefore courage, good Aliena.
+</T>
+<T>
+CELIA
+I pray you bear with me. I cannot go no further.
+</T>
+<T>
+TOUCHSTONE
+For my part, I had rather bear with you than bear you. YetI should bear no cross if I did bear you, for I think you haveno money in your purse.
+</T>
+<T>
+ROSALIND
+Well, this is the Forest of Arden.
+</T>
+<T>
+TOUCHSTONE
+Ay, now am I in Arden, the more fool I. When I was at home
+I was in a better place, but travelers must be content.
+</T>
+<T>
+ROSALIND
+Ay, be so, good Touchstone.
+</T>
+<T>
+Look you who comes here, a young man and an old insolemn talk.
+</T>
+<T>
+AMIENS
+(sings)
+Under the greenwood tree
+Who loves to lie with me
+And turn his merry note
+Unto the sweet birds throat,
+Come hither, come hither, come hither.
+Here shall he see
+No enemy
+But winter and rough weather.
+</T>
+<T>
+JAQUES
+More, more, I prithee, more.
+</T>
+<T>
+AMIENS
+It will make you melancholy, Monsieur Jaques.
+</T>
+<T>
+JAQUES
+I thank it. More, I prithee, more. I can suck melancholy outof a song as a weasel sucks eggs. More, I prithee, more.
+</T>
+<T>
+AMIENS
+My voice is ragged. I know I cannot please you.
+</T>
+<T>
+JAQUES
+I do not desire you to please me. I do desire you to sing.
+Come, more, another stanzo. Call you 'em stanzos?
+</T>
+<T>
+AMIENS
+What you will, Monsieur Jaques.
+</T>
+<T>
+JAQUES
+Nay, I care not for their names. They owe me nothing. Willyou sing?
+</T>
+<T>
+ADAM
+Dear master, I can go no further. Oh, I die for food. Here lie
+I down and measure out my grave. Farewell, kind master.
+</T>
+<T>
+ORLANDO
+Why, how now, Adam? No greater heart in thee? Live alittle, comfort a little, cheer thyself a little. If this uncouthforest yield anything savage, I will either be food for it orbring it for food to thee. Thy conceit is nearer death than thypowers. For my sake, be comfortable. Hold death awhile atthe arms end. I will here be with thee presently, and if Ibring thee not something to eat, I will give thee leave to die.But if thou diest before I come, thou art a mocker of mylabor. Well said. Thou lookst cheerly, and Ill be with theequickly. Yet thou liest in the bleak air. Come, I will bear theeto some shelter, and thou shalt not die for lack of a dinnerif there live anything in this desert. Cheerly, good Adam.
+</T>
+<T>
+DUKE SENIOR
+I think he be transformed into a beast,
+For I can nowhere find him like a man.
+</T>
+<T>
+FIRST LORD
+My lord, he is but even now gone hence.
+Here was he merry, hearing of a song.
+</T>
+<T>
+DUKE SENIOR
+If he, compact of jars, grow musical,
+We shall have shortly discord in the spheres.
+Go seek him. Tell him I would speak with him.
+</T>
+<T>
+FIRST LORD
+He saves my labor by his own approach.
+</T>
+<T>
+DUKE SENIOR
+Why, how now, monsieur? What a life is this
+That your poor friends must woo your company?
+What, you look merrily.
+</T>
+<T>
+JAQUES
+A fool, a fool, I met a fool i' th' forest,
+A motley fool. A miserable world!
+As I do live by food, I met a fool,
+Who laid him down and basked him in the sun
+And railed on Lady Fortune in good terms,
+In good set terms, and yet a motley fool.
+Good morrow, fool, quoth I. No, sir, quoth he,
+Call me not fool till heaven hath sent me fortune.
+</T>
+<T>
+DUKE FREDERICK
+Not see him since? Sir, sir, that cannot be.
+But were I not the better part made mercy,
+I should not seek an absent argument
+Of my revenge, thou present. But look to it:
+Find out thy brother, wheresoe'er he is.
+Seek him with candle. Bring him, dead or living,
+Within this twelvemonth or turn thou no more
+To seek a living in our territory.
+Thy lands and all things that thou dost call thine
+Worth seizure, do we seize into our hands
+Till thou canst quit thee by thy brothers mouth
+Of what we think against thee.
+</T>
+<T>
+OLIVER
+Oh, that your Highness knew my heart in this:
+I never loved my brother in my life.
+</T>
+<T>
+DUKE FREDERICK
+More villain thou.Well, push him out of doors
+And let my officers of such a nature
+Make an extent upon his house and lands.
+Do this expediently, and turn him going.
+</T>
+<T>
+ORLANDO
+Hang there, my verse, in witness of my love.
+And thou, thrice-crownd queen of night, survey
+With thy chaste eye, from thy pale sphere above,
+Thy huntress' name that my full life doth sway.
+O Rosalind, these trees shall be my books,
+And in their barks my thoughts Ill character,
+That every eye which in this forest looks
+Shall see thy virtue witnessed everywhere.
+Run, run, Orlando, carve on every tree
+The fair, the chaste, and unexpressive she.
+</T>
+<T>
+CORIN
+And how like you this shepherds life, Master Touchstone?
+</T>
+<T>
+TOUCHSTONE
+Truly, shepherd, in respect of itself, it is a good life; but inrespect that it is a shepherds life, it is naught. In respectthat it is solitary, I like it very well; but in respect that it isprivate, it is a very vile life. Now in respect it is in the fields,it pleaseth me well; but in respect it is not in the court, it istedious. As it is a spare life, look you, it fits my humor well;but as there is no more plenty in it, it goes much against mystomach. Hast any philosophy in thee, shepherd?
+</T>
+<T>
+TOUCHSTONE
+Come apace, good Audrey. I will fetch up your goats,Audrey. And how, Audrey? Am I the man yet? Doth mysimple feature content you?
+</T>
+<T>
+AUDREY
+Your features, Lord warrant us! What features?
+</T>
+<T>
+TOUCHSTONE
+I am here with thee and thy goats, as the most capriciouspoet, honest Ovid, was among the Goths.
+</T>
+<T>
+JAQUES
+(aside) O knowledge ill-inhabited, worse than Jove in athatched house.
+</T>
+<T>
+TOUCHSTONE
+When a mans verses cannot be understood nor a mansgood wit seconded with the forward child, understanding,it strikes a man more dead than a great reckoning in a littleroom. Truly, I would the gods had made thee poetical.
+</T>
+<T>
+AUDREY
+I do not know what poetical is. Is it honest in deed andword? Is it a true thing?
+</T>
+<T>
+TOUCHSTONE
+No, truly, for the truest poetry is the most feigning, andlovers are given to poetry, and what they swear in poetrymay be said as lovers they do feign.
+</T>
+<T>
+AUDREY
+Do you wish then that the gods had made me poetical?
+</T>
+<T>
+TOUCHSTONE
+I do, truly, for thou swearst to me thou art honest. Now, ifthou wert a poet, I might have some hope thou didst feign.
+</T>
+<T>
+ROSALIND
+Never talk to me. I will weep.
+</T>
+<T>
+CELIA
+Do, I prithee, but yet have the grace to consider that tearsdo not become a man.
+</T>
+<T>
+ROSALIND
+But have I not cause to weep?
+</T>
+<T>
+CELIA
+As good cause as one would desire. Therefore weep.
+</T>
+<T>
+ROSALIND
+His very hair is of the dissembling color.
+</T>
+<T>
+CELIA
+Something browner than Judass. Marry, his kisses are
+Judass own children.
+</T>
+<T>
+ROSALIND
+I' faith, his hair is of a good color.
+</T>
+<T>
+CELIA
+An excellent color. Your chestnut was ever the only color.
+</T>
+<T>
+ROSALIND
+And his kissing is as full of sanctity as the touch of holybread.
+</T>
+<T>
+CELIA
+He hath bought a pair of cast lips of Diana. A nun ofwinters sisterhood kisses not more religiously. The very iceof chastity is in them.
+</T>
+<T>
+ROSALIND
+But why did he swear he would come this morning, andcomes not?
+</T>
+<T>
+SILVIUS
+Sweet Phoebe, do not scorn me. Do not, Phoebe.
+Say that you love me not, but say not so
+In bitterness. The common executioner,
+Whose heart th' accustomed sight of death makes hard,
+Falls not the axe upon the humbled neck
+But first begs pardon. Will you sterner be
+Than he that dies and lives by bloody drops?
+</T>
+<T>
+PHOEBE
+I would not be thy executioner.
+I fly thee, for I would not injure thee.
+Thou tellst me there is murder in mine eye.
+'Tis pretty, sure, and very probable
+That eyes, that are the frailst and softest things,
+Who shut their coward gates on atomies,
+Should be called tyrants, butchers, murderers.
+Now I do frown on thee with all my heart,
+And if mine eyes can wound, now let them kill thee.
+Now counterfeit to swoon, why, now fall down;
+Or if thou canst not, Oh, for shame, for shame,
+Lie not, to say mine eyes are murderers.
+Now show the wound mine eye hath made in thee.
+Scratch thee but with a pin, and there remains
+Some scar of it. Lean upon a rush,
+The cicatrice and capable impressure
+Thy palm some moment keeps. But now mine eyes,
+Which I have darted at thee, hurt thee not.
+Nor, I am sure, there is no force in eyes
+That can do hurt.
+</T>
+<T>
+JAQUES
+I prithee, pretty youth, let me be better acquainted withthee.
+</T>
+<T>
+ROSALIND
+They say you are a melancholy fellow.
+</T>
+<T>
+JAQUES
+I am so. I do love it better than laughing.
+</T>
+<T>
+ROSALIND
+Those that are in extremity of either are abominable fellowsand betray themselves to every modern censure worse thandrunkards.
+</T>
+<T>
+JAQUES
+Why, tis good to be sad and say nothing.
+</T>
+<T>
+ROSALIND
+Why then, tis good to be a post.
+</T>
+<T>
+JAQUES
+I have neither the scholars melancholy, which is emulation;nor the musicians, which is fantastical; nor the courtiers,which is proud; nor the soldiers, which is ambitious; northe lawyers, which is politic; nor the ladys, which is nice;nor the lovers, which is all these, but it is a melancholy ofmine own, compounded of many simples, extracted frommany objects, and indeed the sundry contemplation of mytravels, in which my often rumination wraps me in a mosthumorous sadness.
+</T>
+<T>
+JAQUES
+Which is he that killed the deer?
+</T>
+<T>
+FIRST LORD
+Sir, it was I.
+</T>
+<T>
+JAQUES
+Lets present him to the duke like a Roman conqueror. Andit would do well to set the deers horns upon his head for abranch of victory.Have you no song, forester, for thispurpose?
+</T>
+<T>
+SECOND LORD
+Yes, sir.
+</T>
+<T>
+JAQUES
+Sing it. 'Tis no matter how it be in tune, so it make noiseenough.
+</T>
+<T>
+SECOND LORD
+(sings)
+What shall he have that killed the deer?
+His leather skin and horns to wear.
+Then sing him home.
+(The rest shall bear this burden.)
+Take thou no scorn to wear the horn.
+It was a crest ere thou wast born.
+Thy fathers father wore it,
+And thy father bore it.
+The horn, the horn, the lusty horn
+Is not a thing to laugh to scorn.
+</T>
+<T>
+TOUCHSTONE
+We shall find a time, Audrey. Patience, gentle Audrey.
+</T>
+<T>
+AUDREY
+Faith, the priest was good enough, for all the oldgentlemans saying.
+</T>
+<T>
+TOUCHSTONE
+A most wicked Sir Oliver, Audrey, a most vile Martext.But, Audrey, there is a youth here in the forest lays claim toyou.
+</T>
+<T>
+AUDREY
+Ay, I know who tis. He hath no interest in me in the world.
+</T>
+<T>
+Here comes the man you mean.
+</T>
+<T>
+TOUCHSTONE
+It is meat and drink to me to see a clown. By my troth, wethat have good wits have much to answer for. We shall beflouting. We cannot hold.
+</T>
+<T>
+WILLIAM
+Good ev'n, Audrey.
+</T>
+<T>
+AUDREY
+God gi' good ev'n, William.
+</T>
+<T>
+WILLIAM
+And good ev'n to you, sir.
+</T>
+<T>
+TOUCHSTONE
+Good ev'n, gentle friend. Cover thy head, cover thy head.
+Nay, prithee, be covered. How old are you, friend?
+</T>
+<T>
+ORLANDO
+Is t possible that on so little acquaintance you should likeher? That, but seeing, you should love her? And loving,woo? And wooing, she should grant? And will you perseverto enjoy her?
+</T>
+<T>
+OLIVER
+Neither call the giddiness of it in question, the poverty ofher, the small acquaintance, my sudden wooing, nor hersudden consenting, but say with me I love Aliena; saywith her that she loves me; consent with both that we mayenjoy each other. It shall be to your good, for my fathershouse and all the revenue that was old Sir Rowlands will Iestate upon you, and here live and die a shepherd.
+</T>
+<T>
+ORLANDO
+You have my consent. Let your wedding be tomorrow.
+Thither will I invite the duke and alls contented followers.
+Go you and prepare Aliena, for look you, here comes my
+Rosalind.
+</T>
+<T>
+ROSALIND
+(as Ganymede) God save you, brother.
+</T>
+<T>
+OLIVER
+And you, fair sister.
+</T>
+<T>
+ROSALIND
+O my dear Orlando, how it grieves me to see thee wear thyheart in a scarf.
+</T>
+<T>
+TOUCHSTONE
+Tomorrow is the joyful day, Audrey. Tomorrow will we bemarried.
+</T>
+<T>
+AUDREY
+I do desire it with all my heart, and I hope it is no dishonestdesire to desire to be a woman of the world.
+</T>
+<T>
+Here comes two of the banished dukes pages.
+</T>
+<T>
+FIRST PAGE
+Well met, honest gentleman.
+</T>
+<T>
+TOUCHSTONE
+By my troth, well met. Come, sit, sit, and a song.
+</T>
+<T>
+SECOND PAGE
+We are for you. Sit i' th' middle.
+</T>
+<T>
+FIRST PAGE
+Shall we clap into t roundly, without hawking or spitting orsaying we are hoarse, which are the only prologues to a badvoice?
+</T>
+<T>
+SECOND PAGE
+I' faith, i' faith, and both in a tune like two gypsies on ahorse.
+</T>
+<T>
+PAGES
+(sing)
+It was a lover and his lass,
+With a hey, and a ho, and a hey-nonny-no,
+That o'er the green cornfield did pass
+In springtime, the only pretty ring time,
+When birds do sing, Hey ding a ding, ding.
+Sweet lovers love the spring.
+Between the acres of the rye,
+</T>
+<T>
+DUKE SENIOR
+Dost thou believe, Orlando, that the boy
+Can do all this that he hath promisd?
+</T>
+<T>
+ORLANDO
+I sometimes do believe and sometimes do not,
+As those that fear they hope, and know they fear.
+</T>
+<T>
+ROSALIND
+(as Ganymede) Patience once more whiles our compact is urged.
+(to DUKE SENIOR) You say, if I bring in your Rosalind,
+You will bestow her on Orlando here?
+</T>
+<T>
+DUKE SENIOR
+That would I, had I kingdoms to give with her.
+</T>
+<T>
+ROSALIND
+(to ORLANDO) And you say you will have her when I bringher?
+</T>
+<T>
+ORLANDO
+That would I, were I of all kingdoms king.
+</T>
+<T>
+ROSALIND
+(to PHOEBE) You say youll marry me if I be willing?
+</T>
+<T>
+PHOEBE
+That will I, should I die the hour after.
+</T>
+<T>
+ROSALIND
+But if you do refuse to marry me,
+Youll give yourself to this most faithful shepherd?
+</T>

@@ -1,0 +1,567 @@
+<T>
+CHORUS
+In the beautiful city of Verona, where our story takes place, a long-standing hatred between two families erupts into new violence, and citizens stain their hands with the blood of their fellow citizens. Two unlucky children of these enemy families become lovers and commit suicide. Their unfortunate deaths put an end to their parents' feud. For the next two hours, we will watch the story of their doomed love and their parents' anger, which nothing but the childrens deaths could stop. If you listen to us patiently, well make up for everything weve left out in this prologue onstage.
+</T>
+<T>
+SAMPSON
+Gregory, I swear, we cant let them humiliate us. We wont take their garbage.
+</T>
+<T>
+GREGORY
+(teasing SAMPSON) No, because then wed be garbagemen.
+</T>
+<T>
+SAMPSON
+What I mean is, if they make us angry well pull out our swords.
+</T>
+<T>
+GREGORY
+Maybe you should focus on pulling yourself out of trouble, Sampson.
+</T>
+<T>
+SAMPSON
+I hit hard when Im angry.
+</T>
+<T>
+GREGORY
+But its hard to make you angryGregory continually implies that Sampson isnt as tough as hes acting.angry.
+</T>
+<T>
+SAMPSON
+One of those dogs from the Montague house can make me angry.
+</T>
+<T>
+GREGORY
+Angry enough to run away. You wont stand and fight.
+</T>
+<T>
+SAMPSON
+A dog from that house will make me angry enough to take a stand. If I pass one of them on the street, Ill take the side closer to the wall and let him walk in the gutter.
+</T>
+<T>
+CAPULET
+(continuing a conversation) But Montague has sworn an oath just like I have, and hes under the same penalty. I dont think it will be hard for men as old as we are to keep the peace.
+</T>
+<T>
+PARIS
+You both have honorable reputations, and its too bad youve been enemies for so long. But what do you say to my request?
+</T>
+<T>
+CAPULET
+I can only repeat what Ive said before. My daughter is still very young. Shes not even fourteen years old. Lets wait two more summers before we start thinking shes ready to get married.
+</T>
+<T>
+PARIS
+Girls younger than she often marry and become happy mothers.
+</T>
+<T>
+CAPULET
+Girls who marry so young grow up too soon. But go ahead and charm her, gentle Paris; make her love you. My permission is only part of her decision. If she agrees to marry you, my blessing and fair words will confirm her choice. Tonight Im having a feast that weve celebrated for many years. Ive invited many of my closest friends, and Id like to welcome you and add you to the guest list. At my humble house tonight, you can expect to see dazzling stars that walk on the ground and light the sky from below.
+</T>
+<T>
+LADY CAPULET
+Nurse, wheres my daughter? Tell her to come to me.
+</T>
+<T>
+NURSE
+I swear to you by my virginity at age twelve, I already told her to come. Come on! Where is she? What is she doing? What, Juliet!
+</T>
+<T>
+JULIET
+What is it? Whos calling me?
+</T>
+<T>
+NURSE
+Your mother.
+</T>
+<T>
+JULIET
+Madam, Im here. What do you want?
+</T>
+<T>
+LADY CAPULET
+Ill tell you whats the matterNurse, leave us alone for a little while. We must talk privatelyNurse, come back here. I just remembered, you can listen to our secrets. You know how young my daughter is.
+</T>
+<T>
+NURSE
+Yes, I know her age down to the hour.
+</T>
+<T>
+LADY CAPULET
+Shes not even fourteen.
+</T>
+<T>
+NURSE
+Id bet fourteen of my own teethbut, Im sorry to say, I only have four teethshes not fourteen. How long is it until LammastideLammastide = August 1.Lammastide?
+</T>
+<T>
+LADY CAPULET
+Two weeks and a few odd days.
+</T>
+<T>
+ROMEO
+What will we say is our excuse for being here? Or should we enter without apologizing?
+</T>
+<T>
+BENVOLIO
+Its out of fashion to give lengthy explanations like that. Were not going to introduce our dance by having someone dress up as Cupid, blindfolded and carrying a toy bow to frighten the ladies like a scarecrow. Nor are we going to recite a memorized speech to introduce ourselves. Let them judge us however they please. Well give them a dance and then hit the road.
+</T>
+<T>
+ROMEO
+Give me a torch. I dont want to dance. I feel sad, so let me be the one who carries the light.
+</T>
+<T>
+MERCUTIO
+No, noble Romeo, youve got to dance.
+</T>
+<T>
+ROMEO
+Not me, believe me. Youre wearing dancing shoes with nimble soles. My soul is made out of lead, and its so heavy it keeps me stuck on the ground so I cant move.
+</T>
+<T>
+MERCUTIO
+Youre a lover. Take Cupids wings and fly higher than the average man.
+</T>
+<T>
+ROMEO
+His arrow has pierced me too deeply, so I cant fly high with his cheerful feathers. Because this wound keeps me down, I cant leap any higher than my dull sadness. I sink under the heavy weight of love.
+</T>
+<T>
+PETER
+Wheres Potpan? Why isnt he helping us clear the table? He should be moving and scraping plates!
+</T>
+<T>
+FIRST SERVINGMAN
+When only one or two men have all the good manners, and even they are dirty, things are bad.
+</T>
+<T>
+PETER
+Take away the stools, the sideboards, and the plates. You, good friend, save me a piece of marzipan, and if you love me, have the porter let in Susan Grindstone and Nell. Antony and Potpan!
+</T>
+<T>
+SECOND SERVINGMAN
+Yes, boy, Im ready.
+</T>
+<T>
+PETER
+Theyre looking for you in the great chamber.
+</T>
+<T>
+FIRST SERVINGMAN
+We cant be in two places at once, both here and there! Cheers, boys. Be quick for a while and let the one who lives the longest take everything.
+</T>
+<T>
+CAPULET
+Welcome, gentlemen. The ladies who dont have corns on their toes will dance with you. Ha, my ladies, which of you will refuse to dance now? Whichever of you acts shy, Ill swear she has corns. Does that hit close to home? Welcome, gentlemen. There was a time when I could wear a mask over my eyes and charm a lady by whispering a story in her ear. That time is gone, gone, gone. You are welcome gentlemen. Come on, musicians, play music. (music plays and they dance, ROMEO stands apart) Make room in the hall. Make room in the hall. Shake a leg, girls. (to SERVINGMEN) More light, you rascals. Flip over the tables and get them out of the way. And put the fire outits getting too hot in here. (to his COUSIN) Ah, my man, this unexpected fun feels good. No, sit down, sit down, my good Capulet cousin. You and I are too old to dance. (CAPULET and his COUSIN sit down) How long is it now since you and I last wore masks at a party like this?
+</T>
+<T>
+CHORUS
+Now Romeos old feelings of desire are dying, and a new desire is eager to take their place. Romeo groaned for the beautiful Rosaline and said he would die for her, but compared with tender Juliet, Rosaline doesnt seem beautiful now. Now someone loves Romeo, and hes in love againboth of them falling for each others' good looks. But he has to make his speeches of love to a woman whos supposed to be his enemy. And shes been hooked by someone she should fear. Because hes an enemy, Romeo has no chance to see Juliet and say the things a lover normally says. And Juliets just as much in love as he, but she has even less opportunity to meet her lover. But love gives them power, and time gives them the chance to meet, sweetening the extreme danger with intense pleasure.
+</T>
+<T>
+ROMEO
+Can I go away while my heart stays here? I have to go back to where my heart is.
+</T>
+<T>
+BENVOLIO
+(calling) Romeo, my cousin, Romeo, Romeo!
+</T>
+<T>
+MERCUTIO
+Hes a smart boy. I bet he slipped away and went home to bed.
+</T>
+<T>
+BENVOLIO
+He ran this way and jumped over this orchard wall. Call to him, Mercutio.
+</T>
+<T>
+MERCUTIO
+Ill conjure him as if I were summoning a spirit. Romeo! Madman! Passion! Lover! Show yourself in the form of a sigh. Speak one rhyme, and Ill be satisfied. Just cry out, Ah me! Just say love and dove. Say just one lovely word to my good friend VenusVenus is the Roman goddess of love.Venus. Just say the nickname of her blind son Cupid, the one who shot arrows so well in the old story.Romeo doesnt hear me. He doesnt stir. He doesnt move. The silly ape is dead, but I must make him appear.I summon you by Rosalines bright eyes, by her high forehead and her red lips, by her fine feet, by her straight legs, by her trembling thighs, and by the regions right next to her thighs. In the name of all of these things, I command you to appear before us in your true form.
+</T>
+<T>
+ROMEO
+Its easy for someone to joke about scars if theyve never been cut.
+</T>
+<T>
+But wait, whats that light in the window over there? It is the east, and Juliet is the sun. Rise up, beautiful sun, and kill the jealous moonDiana is the goddess of the moon and of virginity. Romeo implies that Juliet is a servant of the moon as long as shes a virgin.jealous moon. The moon is already sick and pale with grief because you, Juliet, her maid, are more beautiful than she.
+Dont be her maid, because she is jealous. Virginity makes her look sick and green. Only fools hold on to their virginity. Let it go. Oh, theres my lady! Oh, it is my love. Oh, I wish she knew how much I love her. Shes talking, but shes not saying anything. So what? Her eyes are saying something. I will answer them. I am too bold. Shes not talking to me. Two of the brightest stars in the whole sky had to go away on business, and theyre asking her eyes to twinkle in their places until they return. What if her eyes were in the sky and the stars were in her head?The brightness of her cheeks would outshine the stars the way the sun outshines a lamp. If her eyes were in the night sky, they would shine so brightly through space that birds would start singing, thinking her light was the light of day. Look how she leans her hand on her cheek. Oh, I wish I was the glove on that hand so that I could touch that cheek.
+</T>
+<T>
+JULIET
+Oh, my!
+</T>
+<T>
+FRIAR LAWRENCE
+The smiling morning is replacing the frowning night. Darkness is stumbling out of the suns path like a drunk man. Now, before the sun comes up and burns away the dew, I have to fill this basket of mine with poisonous weeds and medicinal flowers. The Earth is natures mother and also natures tomb. Plants are born out of the Earth, and they are buried in the Earth when they die. From the Earths womb, many different sorts of plants and animals come forth, and the Earth provides her children with many excellent forms of nourishment. Everything nature creates has some special property, and each one is different. Herbs, plants, and stones possess great power. There is nothing on Earth that is so evil that it does not provide the earth with some special quality. And there is nothing that does not turn bad if its put to the wrong use and abused. Virtue turns to vice if its misused. Vice sometimes becomes virtue through the right activity.
+</T>
+<T>
+Inside the little rind of this weak flower, there is both poison and powerful medicine. If you smell it, you feel good all over your body. But if you taste it, you die. There are two opposite elements in everything, in men as well as in herbsgood and evil.
+</T>
+<T>
+MERCUTIO
+Where the devil can Romeo be? Didnt he come home last night?
+</T>
+<T>
+BENVOLIO
+Not to his fathers house. I asked a servant.
+</T>
+<T>
+MERCUTIO
+That fair-skinned, hard-hearted hussy, Rosaline is going to torment him until he goes insane.
+</T>
+<T>
+BENVOLIO
+Tybalt, old Capulets nephew, has sent a letter to Romeos fathers house.
+</T>
+<T>
+MERCUTIO
+I bet its a challenge.
+</T>
+<T>
+BENVOLIO
+Romeo will answer the challenge.
+</T>
+<T>
+MERCUTIO
+Any man who knows how to write can answer a letter.
+</T>
+<T>
+BENVOLIO
+No, Romeo will respond to the letters writer, telling him whether he accepts the challenge.
+</T>
+<T>
+MERCUTIO
+Oh, poor Romeo! Hes already dead. Hes been stabbed by a white girls black eye. Hes been cut through the ear with a love song. The center of his heart has been split by blind Cupids arrow. Is he man enough at this point to face off with Tybalt?
+</T>
+<T>
+BENVOLIO
+Why, whats Tybalts story?
+</T>
+<T>
+MERCUTIO
+Hes tougher than the Prince of CatsThe Prince of Cats is a figure from Medieval lore whose first name was also Tybalt.Prince of Cats. He does everything by the book. He fights like you sing at a recital, paying attention to time, distance, and proportion. He takes the proper breaks: one, two, and the third in your heart. Hes the butcher who can hit any silk button. A master of duels. Hes a gentleman from the finest school of fencing. He knows how to turn any argument into a swordfight. He knowsMercutio lists Italian terms for fencing moves.He knows passadothe forward thrustthe punto reversothe backhand thrustand the haithe thrust that goes straight through.
+</T>
+<T>
+JULIET
+I sent the Nurse at nine o'clock. Maybe she cant find him. That cant be. Oh, shes slow! Loves messengers should be thoughts, which fly ten times faster than sunbeams. They should be strong enough to push shadows over the dark hills. Thats the way doves carry Venus so fast, and thats why Cupid has wings that let him fly as fast as the wind. Now its noon. Thats three hours since nine o'clock, but she hasnt come back. If she was young and passionate, shed move as fast as a ball. My words would bounce her to my sweet love, and his words would bounce her back to me. But a lot of old people act like theyre already deadsluggish, slow, fat, and colorless, like lead.
+</T>
+<T>
+Oh my God, here she comes! Oh sweet Nurse, what news do you bring? Have you spoken to him? Send your man away.
+</T>
+<T>
+NURSE
+Peter, wait for me at the gate.
+</T>
+<T>
+JULIET
+Now, good sweet NurseOh Lord, why do you look so sad? Even if the news is sad, tell me with a smile on your face. If the news is good, youre ruining the sweet news by playing a trick with a sour face like that.
+</T>
+<T>
+FRIAR LAWRENCE
+May the heavens be happy with this holy act of marriage, so nothing unfortunate happens later to make us regret it.
+</T>
+<T>
+ROMEO
+Amen, amen. But whatever misfortunes occur, they cant ruin the joy I feel with one look at her. All you have to do is join our hands with holy words, then love-destroying death can do whatever it pleases. Its enough for me if I can call her mine.
+</T>
+<T>
+FRIAR LAWRENCE
+These sudden joys have sudden endings. They burn up in victory like fire and gunpowder. When they meet, as in a kiss, they explode. Too much honey is delicious, but it makes you sick to your stomach. Therefore, love each other in moderation. That is the key to long-lasting love. Too fast is as bad as too slow.
+</T>
+<T>
+Here comes the lady. Oh,a footstep as light as hers will never endure the rocky road of life. Lovers are so light they can walk on a spiderweb floating on a summer breeze, and yet not fall. Thats how flimsy and unreal pleasure is.
+</T>
+<T>
+JULIET
+Good evening, my spiritual confessor.
+</T>
+<T>
+FRIAR LAWRENCE
+Romeo will thank you, my girl, for both of us.
+</T>
+<T>
+BENVOLIO
+Im begging you, good Mercutio, lets call it a day. Its hot outside, and the Capulets are wandering around. If we bump into them, well certainly get into a fight. When its hot outside, people become angry and hot-blooded.
+</T>
+<T>
+MERCUTIO
+Youre like one of those guys who walks into a bar, slams his sword on the table, and then says, I pray I never have to use you. By the time he orders his second drink, he pulls his sword on the bartender for no reason at all.
+</T>
+<T>
+BENVOLIO
+Am I really like one of those guys?
+</T>
+<T>
+MERCUTIO
+Come on, you can be as angry as any guy in Italy when youre in the mood. When someone does the smallest thing to make you angry, you get angry. And when youre in the mood to get angry, you find something to get angry about.
+</T>
+<T>
+BENVOLIO
+And what about that?
+</T>
+<T>
+MERCUTIO
+If there were two men like you, pretty soon thered be none because the two of you would kill each other. You would fight with a man if he had one more whisker or one less whisker in his beard than you have in your beard. Youll fight with a man whos cracking nuts just because you have hazelnut-colored eyes. Only you would look for a fight like that. Your head is as full of fights as an egg is full of yolk, but your head has been beaten like scrambled eggs from so much fighting. You started a fight with a man who coughed in the street because he woke up a dog that was sleeping in the sun. Didnt you argue it out with your tailor for wearing one of his new suits before the right season? And with another for tying the new shoes he made with old laces? And yet youre the one who wants to teach me about restraint!
+</T>
+<T>
+I wish the sun would hurry up and set and night would come immediately. When the night comes and everyone goes to sleep, Romeo will leap into my arms, and no one will know. Beauty makes it possible for lovers to see how to make love in the dark. Or else love is blind, and its best time is the night. I wish night would come, like a widow dressed in black, so I can learn how to submit to my husband and lose my virginity. Let the blood rushing to my cheeks be calmed. In the darkness, let me, a shy virgin, learn the strange act of sex so that it seems innocent, modest, and true. Come, night. Come, Romeo. Youre like a day that comes during the night. Youre whiter than snow on the black wings of a raven. Come, gentle night. Come, loving, dark night. Give me my Romeo. And when I die, turn him into stars and form a constellation in his image. His face will make the heavens so beautiful that the world will fall in love with the night and forget about the garish sun. Oh, I have bought loves mansion, but I havent moved in yet.I belong to Romeo now, but he hasnt taken possession of me yet. This day is so boring that I feel like a child on the night before a holiday, waiting to put on my fancy new clothes.
+</T>
+<T>
+FRIAR LAWRENCE
+Romeo, come out. Come out, you frightened man. Trouble likes you, and youre married to disaster.
+</T>
+<T>
+ROMEO
+Father, whats the news? What punishment did the Prince announce? What suffering lies in store for me that I dont know about yet?
+</T>
+<T>
+FRIAR LAWRENCE
+You know too much about suffering. I have news for you about the Princes punishment.
+</T>
+<T>
+ROMEO
+Is the Princes punishment any less awful than doomsday?
+</T>
+<T>
+FRIAR LAWRENCE
+He made a gentler decision. You wont die, but youll be banished from the city.
+</T>
+<T>
+ROMEO
+Ha, banishment? Be merciful and say death. Exile is much worse than death. Dont say banishment.
+</T>
+<T>
+FRIAR LAWRENCE
+From now on, you are banished from Verona. You should be able to endure this because the world is broad and wide.
+</T>
+<T>
+ROMEO
+There is no world for me outside the walls of Verona, except purgatory, torture, and hell itself. So to be banished from Verona is like being banished from the world, and being banished from the world is death.
+</T>
+<T>
+CAPULET
+Things have turned out so unluckily, sir, that we havent had time to convince our daughter to marry you. Listen, she loved her cousin Tybalt dearly, and so did I. Well, we were all born to die. Its very late, she wont be coming downstairs tonight. Believe me, if you werent here visiting me, I myself would have gone to bed an hour ago.
+</T>
+<T>
+PARIS
+These times of pain are bad times for romance. Madam, good night. Give my regards to your daughter.
+</T>
+<T>
+LADY CAPULET
+I will. And Ill find out what she thinks about marriage early tomorrow. Tonight she is shut up in her room, alone with her sadness.
+</T>
+<T>
+CAPULET
+Sir Paris, Ill make a desperate argument for my childs love. I think shell do whatever I say. No, I think shell do all that and more. I have no doubt about it. Wife, visit her in her room before you go to bed. Tell her about my son Pariss love for her. And tell her, listen to me, on WednesdayWaitWhat day is today?
+</T>
+<T>
+PARIS
+Monday, my lord.
+</T>
+<T>
+CAPULET
+Monday! Ha, ha! Well, Wednesday is too soon. Let it be on Thursday. On Thursday, tell her, shell be married to this noble earl. Will you be ready? Do you think its a good idea to rush? We shouldnt have too big a celebrationwe can invite a friend or two. Listen, because Tybalt was just killed, people might think that we dont care about his memory as our relative if we have too grand a party. Therefore well have about half a dozen friends to the wedding, and thats it. What do you think about Thursday?
+</T>
+<T>
+JULIET
+Are you going? Its still a long time until daybreak. Dont be afraid. That sound you heard was the nightingaleThe lark sings in the morning, the nightingale sings at night.nightingale, not the lark. Every night the nightingale chirps on that pomegranate-tree. Believe me, my love, it was the nightingale.
+</T>
+<T>
+ROMEO
+It was the lark, the bird that sings at dawn, not the nightingale. Look, my love, what are those streaks of light in the clouds parting in the east? Night is over, and day is coming. If I want to live, I must go. If I stay, Ill die.
+</T>
+<T>
+JULIET
+That light is not daylight, I know it. Its some meteor coming out of the sun to light your way to Mantua. So stay for a while. You dont have to go yet.
+</T>
+<T>
+ROMEO
+Let me be captured. Let me be put to death. I am content, if thats the way you want it. Ill say the light over there isnt morning. Ill say its the reflection of the moon. Ill say that sound isnt the lark ringing in the sky. I want to stay more than I want to go. Come, death, and welcome! Juliet wants it this way. How are you, my love? Lets talk. Its not daylight.
+</T>
+<T>
+FRIAR LAWRENCE
+On Thursday, sir? Thats very soon.
+</T>
+<T>
+PARIS
+Thats how my future father-in-law Capulet wants it, and Im not dragging my feet.
+</T>
+<T>
+FRIAR LAWRENCE
+You say you dont know what the girl thinks. Thats a rocky road to be riding. I dont like it.
+</T>
+<T>
+PARIS
+Shes grieving too much over the death of Tybalt. So I havent had the chance to talk to her about love. Romantic love doesnt happen when people are in mourning. Now, sir, her father thinks its dangerous that she allows herself to become so sad. Hes being smart by rushing our marriage to stop her from crying. She cries too much by herself. If she had someone to be with her, she would stop crying. Now you know the reason for the rush.
+</T>
+<T>
+FRIAR LAWRENCE
+(to himself) I wish I didnt know the reason why the marriage should be slowed down.
+Look, sir, here comes the lady walking toward my cell.
+</T>
+<T>
+PARIS
+Im happy to meet you, my lady and my wife.
+</T>
+<T>
+JULIET
+That might be the case sir, after Im married.
+</T>
+<T>
+CAPULET
+(giving the FIRST SERVINGMAN a piece of paper) Invite all the guests on this list.
+</T>
+<T>
+(to SECOND SERVINGMAN) Boy, go hire twenty skilled cooks.
+</T>
+<T>
+SECOND SERVINGMAN
+You wont get any bad cooks from me. Ill test them by making them lick their fingers.
+</T>
+<T>
+CAPULET
+How can you test them like that?
+</T>
+<T>
+SECOND SERVINGMAN
+Easy, sir. Its a bad cook who cant lick his own fingers. So the cooks who cant lick their fingers arent hired.
+</T>
+<T>
+CAPULET
+Go, get out of here.
+</T>
+<T>
+Were unprepared for this wedding celebration. (to the NURSE) What, has my daughter gone to see Friar Lawrence?
+</T>
+<T>
+NURSE
+Yes, thats true.
+</T>
+<T>
+CAPULET
+Well, theres a chance he may do her some good. Shes a stubborn little brat.
+</T>
+<T>
+JULIET
+Yes, those are the best clothes. But, gentle Nurse, please leave me alone tonight. I have to say a lot of prayers to make the heavens bless me. You know that my life is troubled and full of sin.
+</T>
+<T>
+LADY CAPULET
+What, are you busy? Do you need my help?
+</T>
+<T>
+JULIET
+No, madam, weve figured out the best things for me to wear tomorrow at the ceremony. So if its okay with you, Id like to be left alone now. Let the Nurse sit up with you tonight. Im sure you have your hands full preparing for the sudden festivities.
+</T>
+<T>
+LADY CAPULET
+Good night. Go to bed and get some rest. Im sure you need it.
+</T>
+<T>
+JULIET
+Good-bye. Only God knows when well meet again. There is a slight cold fear cutting through my veins. It almost freezes the heat of life. Ill call them back here to comfort me. Nurse!Oh, what good would she do here?
+In my desperate situation, I have to act alone.
+</T>
+<T>
+LADY CAPULET
+Wait. Take these keys and get more spices, Nurse.
+</T>
+<T>
+NURSE
+Theyre calling for dates and quinces in the pastry kitchen.
+</T>
+<T>
+CAPULET
+Come on, wake up, wake up, wake up! The second cock crowed. The curfew-bell rang. Its three o'clock. Go get the baked meats, good Angelica. Dont worry about the cost.
+</T>
+<T>
+NURSE
+Go, you old housewife, go. Go to bed, dear. Youll be sick tomorrow because youve stayed up all night.
+</T>
+<T>
+CAPULET
+No, not at all. What? Ive stayed up all night many times before for less important matters, and Ive never gotten sick.
+</T>
+<T>
+LADY CAPULET
+Yes, youve been a ladies' man in your time. But Ill make sure you dont stay up any later now.
+</T>
+<T>
+CAPULET
+A jealous woman, a jealous woman!
+</T>
+<T>
+Now, fellow, what have you got there?
+</T>
+<T>
+NURSE
+Mistress! Hey, mistress! Juliet! I bet shes fast asleep. Hey, lamb! Hey, lady! Hey, you lazy bones! Hey, love, I say! Madam! Sweetheart! Hey, bride! What, you dont say a word? You take your beauty sleep now. Get yourself a weeks worth of sleep. Tomorrow night, I bet, Count Paris wont let you get much rest. God forgive me. Alright, and amen. How sound asleep she is! I must wake her up. Madam, madam, madam! Yes, let the count take you in your bed. Hell wake you up, I bet. Wont he?
+(she opens the bed curtains) What? Youre still dressed in all your clothes. But youre still asleep. I must wake you up. Lady! Lady! Lady! Oh no, oh no! Help, help! My ladys dead! Oh curse the day that I was born! Ho! Get me some brandy! My lord! My lady!
+</T>
+<T>
+LADY CAPULET
+Whats all the noise in here?
+</T>
+<T>
+NURSE
+Oh, sad day!
+</T>
+<T>
+LADY CAPULET
+What is the matter?
+</T>
+<T>
+NURSE
+Look, look! Oh, what a sad day!
+</T>
+<T>
+ROMEO
+If I can trust my dreams, then some joyful news is coming soon. Love rules my heart, and all day long a strange feeling has been making me cheerful. I had a dream that my lady came and found me dead. Its a strange dream that lets a dead man think! She came and brought me back to life by kissing my lips. I rose from the dead and was an emperor. Oh my! How sweet it would be to actually have the woman I love, when merely thinking about love makes me so happy.
+</T>
+<T>
+Do you have news from Verona!What is it, Balthasar? Do you bring me a letter from the friar? How is my wife? Is my father well? How is my Juliet? I ask that again because nothing can be wrong if she is well.
+</T>
+<T>
+BALTHASAR
+Then she is well, and nothing is wrong. Her body sleeps in the Capulet tomb, and her immortal soul lives with the angels in heaven. I saw her buried in her familys tomb, and then I came here to tell you the news. Oh, pardon me for bringing this bad news, but you told me it was my job, sir.
+</T>
+<T>
+FRIAR JOHN
+Holy Franciscan Friar! Brother, hey!
+</T>
+<T>
+FRIAR LAWRENCE
+That sounds like the voice of Friar John. Welcome back from Mantua. What does Romeo say? Or, if he wrote down his thoughts, give me his letter.
+</T>
+<T>
+FRIAR JOHN
+I went to find another poor friar from our order to accompany me. He was here in this city visiting the sick. When I found him, the town health officials suspected that we were both in a house that had been hit with the plague. They quarantined the house, sealed up the doors, and refused to let us out. I couldnt go to Mantua because I was stuck there.
+</T>
+<T>
+FRIAR LAWRENCE
+Then who took my letter to Romeo?
+</T>
+<T>
+FRIAR JOHN
+I couldnt send it. Here it is. (he gives FRIAR LAWRENCE a letter) I couldnt get a messenger to bring it to you either because they were scared of spreading the infection.
+</T>
+<T>
+FRIAR LAWRENCE
+Unhappy fortune! By my brotherhood, the letter was not just a nice greeting. It was full of very important information. Its very dangerous that it hasnt been sent. Friar John, go and get me an iron crowbar. Bring it straight back to my cell.
+</T>
+<T>
+PARIS
+Give me your torch, boy. Go away and stay apart from me. Put the torch out, so I cant be seen. Hide under the yew-trees over there. Listen to make sure no one is coming through the graveyard. If you hear any one, whistle to me to signal that someone is approaching. Give me those flowers. Do as I tell you. Go.
+</T>
+<T>
+PAGE
+(to himself) I am almost afraid to stand alone here in the graveyard, but Ill take the risk.
+</T>
+<T>
+PARIS
+(he scatters flowers at JULIETs closed tomb) Sweet flower, Im spreading flowers over your bridal bed. Oh, pain! Your canopy is dust and stones. Ill water these flowers every night with sweet water. Or, if I dont do that, my nightly rituals to remember you will be to put flowers on your grave and weep.
+</T>
+<T>
+The boy is warning me that someone approaches. Who could be walking around here tonight? Whos ruining my rituals of true love?
+Its someone with a torch! I must hide in the darkness for awhile.
+</T>

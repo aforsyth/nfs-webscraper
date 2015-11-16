@@ -1,0 +1,464 @@
+<T>
+KING
+Despite how shaken and pale with worry we are, lets take advantage of this moment of peace to catch our breath, and as we pant well speak about the battles well soon fight in foreign lands. England will no longer be wet with her own peoples blood. War will no longer damage her fields, and warhorses will no longer trample her flowers. The soldiers on either side of this vicious civil war were countrymen and brothers, as similar to one another as shooting stars. They may have clashed recently, but now they will march together in beautiful formation, no longer struggling against family and friend. War is like a mishandled knife: it can cut its owner, but it will no longer cut us. My friends, we are now soldiers for Christ, and we take his blessed cross as our battle flag. Well raise a new army of Englishmen and march all the way to the Holy Land. Our soldiers were born to chase non-believers from that holy ground touched by Jesus' feetfeet which, fourteen hundred years ago, were nailed to the cross for our sins.
+</T>
+<T>
+But thats been my plan for a year now, so theres no point in telling you all this again. Thats not the issue at hand. So tell me, my noble kinsman Westmoreland, what my royal advisors decided last night about this important undertaking.
+</T>
+<T>
+WESTMORELAND
+Your Highness, there was hot debate about this urgent mission, and many responsibilities had just been assigned when we were suddenly cut off by a messenger with bad news from Wales. The worst of it was that the noble Mortimer, who was leading the men of Herefordshire in battle against that barbarian Glendower, was captured. A thousand of his men have been butchered, their dead corpses desecrated by the Welsh women. The things they did were so horrible that Im too ashamed to report them.
+</T>
+<T>
+KING
+I suppose this news disrupts our plans to invade the Holy Land.
+</T>
+<T>
+WESTMORELAND
+This and other things, your Highness: even more unsettling and unwelcome news has arrived from the north. On Holy Cross Day, the heroic young Harry Percywho we know as Hotspurfought at Holmeden against Archibald, Earl of Douglas, that brave and battle-proven Scotsman. The two of them fought a long and bloody battle there, judging by the way the guns were firing. The messenger who brought the news left when the battle was at its height, so he couldnt say for sure who had won.
+</T>
+<T>
+KING
+My loyal, hard-working friend Sir Walter Blunt has arrived here at court, fresh off his horse and covered with the mud of every town from Holmedon to here. Hes brought us very welcome news. The Earl of Douglas has been defeated. Blunt saw ten thousand Scotsmen and twenty-two knights piled up in their own blood on the fields of Holmedon. Hotspur took these men prisoner: Douglas' son Mordake, the Earl of Fife; as well as the Earls of Athol, Murray, Angus, and Menteith. Thats a valuable group! A fantastic catch, isnt it, kinsman?
+</T>
+<T>
+WESTMORELAND
+Truly, thats a conquest to make even a prince brag.
+</T>
+<T>
+KING
+Yes, and that makes me sad. Seeing Lord Northumberland with such a blessed son makes me commit the sin of envy. When honor speaks, it speaks about Hotspur. In a grove of trees, Hotspur stands straightest. He is the favorite darling of Fortune. When I see how he is praised, I can only see my own son, Harry, and his reputation for wildness and dishonor. If only it could be proven that a fairy had come to their cradles at night and switched them! Then the Percy family would have my Harry, and we Plantagenets would have Hotspur! But stop thinking about Harry now. Westmoreland, what do you make of young Percys arrogance? He says hell keep all the prisonersPrisoners taken in battle were supposed to be turned over to the King so that he could collect ransoms from them. Hotspurs refusal to do this breaks the usual rules and upsets King Henry.prisoners he captured for himself, and will only send me Mordrake, Earl of Fife.
+</T>
+<T>
+WESTMORELAND
+His uncle Worcester put him up to that. It is just like Worcester to act against you in all ways. Hes the one making Hotspur behave like this, flaunting his youth in the face of your dignified age.
+</T>
+<T>
+KING
+Ive sent for Hotspur to explain himself. Well have to postpone the plans for our crusade to Jerusalem. Go tell my advisers that our next meeting will be Wednesday at Windsor. Then hurry back here. Theres more to be said and done, but Im too angry now to speak.
+</T>
+<T>
+WESTMORELAND
+I will, my lord.
+</T>
+<T>
+FALSTAFF
+Hal, what time is it, my boy?
+</T>
+<T>
+PRINCE HENRY
+You are so wasted from drinking booze and loosening your pants after lunch and sleeping on benches all afternoon that you dont even remember how to ask for what you really want to know. What the hell does it matter to you what time it is? Unless hours were glasses of wine, minutes were chickens, clocks were whores' tongues, sundials were whorehouse signs and the sun itself were a hot woman in a flame-colored dress, I dont see any reason why you would need to know the time.
+</T>
+<T>
+FALSTAFF
+Now youre talking, Hal. Thieves like us operate at night, by the moon and stars, and not by the sun. I hope, pretty boy, that when you become king, God save your Graceor maybe I should just call you Your Majesty, since you dont have any grace
+</T>
+<T>
+PRINCE HENRY
+None?
+</T>
+<T>
+FALSTAFF
+No, I swear. Not even enough to say grace before a snack.
+</T>
+<T>
+PRINCE HENRY
+Come on, out with it. Get to the point.
+</T>
+<T>
+FALSTAFF
+Okay then, pretty boy. Whey you become king, dont let those of us who work at night be blamed for wasting daylight by sleeping through it. Give us fancy names: Servants of the Moon Goddess Diana; Gentlemen of Shadows; Lunar Laborers. Make people admire us for being well behaved. After all, were governed by the same force that governs the tidesthe pale and cool moon, who lights our way as we sneak around.
+</T>
+<T>
+KING
+Ive been too calm and even-tempered, unwilling to react angrily to these indignities. You have discovered this, and so youve walked all over my patience. Know this: from now on, Im going to be my royal self again, powerful and frightening. My natural condition, which was as smooth as oil and soft as feathers, has lost me the respect that powerful people only pay to the similarly powerful.
+</T>
+<T>
+WORCESTER
+My lord, the Percy familyWorcester, Northumberland, and Hotspur are all members of the Percy family.Percy family does not deserve to bear the brunt of your anger and power, especially since we helped you become so powerful in the first place.
+</T>
+<T>
+NORTHUMBERLAND
+Your Highness
+</T>
+<T>
+KING
+Worcester, get out. I see danger and disobedience in your eyes. You carry yourself too boldly and proudly, and royalty should never have to endure a servants frowning face. You have my permission to leave now. When I need you or your advice, Ill call for you.
+</T>
+<T>
+(to NORTHUMBERLAND)You were about to speak.
+</T>
+<T>
+FIRST CARRIER
+Ill be damned if it isnt 4 A.M. already. The Big Dipper has already risen above the chimney, and our horses arent ready yet. Hey, ostler!ostler = horse attendant at an innostler!
+</T>
+<T>
+OSTLER
+(offstage) Just a second!
+</T>
+<T>
+FIRST CARRIER
+Hey, TomTom may be the name of either the ostler or the Second Carrier.Tom, give the saddle of my horse, Cut, a few whacks to soften it up, and stuff some wool under itthe old nags got some bad bruises on her shoulders.
+</T>
+<T>
+SECOND CARRIER
+The feed heres as damp as anything. Thats a fast way for a horse to get parasites. This stables upside down since Ostler Robin died.
+</T>
+<T>
+FIRST CARRIER
+Poor guy. Once the price of oats went up, he was never happy again. It killed him.
+</T>
+<T>
+SECOND CARRIER
+This stables got worse fleas than any in London. Im stung like a tenchA tench is a type of fish with markings that look like flea-bites.tench.
+</T>
+<T>
+FIRST CARRIER
+Like a tench? Im telling you, not even a king could be bitten more than Ive been bitten since midnight.
+</T>
+<T>
+POINS
+Come on, hide, hide! I stole Falstaffs horse, and hes rubbed the wrong way; hes fraying like cheap velvet.
+</T>
+<T>
+PRINCE HENRY
+Stay hidden.
+</T>
+<T>
+FALSTAFF
+Poins! Poins, damn you! Poins!
+</T>
+<T>
+PRINCE HENRY
+Quiet, you fat-bellied jerk! What a racket youre making!
+</T>
+<T>
+FALSTAFF
+Wheres Poins, Hal?
+</T>
+<T>
+PRINCE HENRY
+He walked up the hill. Ill go find him.
+</T>
+<T>
+FALSTAFF
+I got a raw deal, to be out robbing with him. He stole my horse and tied him up someplace. If I have to walk even four feet more, Ill be totally out of breath. Still, I bet Ill die a natural deathif I dont get hanged for killing that jerk, that is. Every hour for the past twenty-two years, Ive sworn Id never talk to him again, but I love his company. He must have slipped me a love potion that makes me adore him. Damn, that must be it: I have drunk love potions. Poins! Hal! Drop dead, the both of you! Bardolph! Peto! Ill die if I have to walk another foot. If turning honest and abandoning these jerks werent the best things I could possibly do for myself, then Im the worst scoundrel that ever lived. Eight yards of rough road is like seventy miles to me, and these hard-hearted crooks know it. It stinks when theres no honor among thieves.
+</T>
+<T>
+HOTSPUR
+As for me, sir, I would be happy to be there because of the love I bear for your family. He would be happy to be here. Well, why isnt he, then? He says he loves my family, but he clearly loves his barn more than our house. Ill read on. Your plan is dangerous. Thats true, and its also dangerous to catch a cold, to sleep, to drink. But I tell you, my lord fool, we shall pluck a flower of safety from this thorn of danger. Your plan is dangerous; your allies untrustworthy; your timing poor; and your whole project too weak to counter so powerful an opponent. Is that so? Is that so? Ill say it once again: you are a stupid, cowardly dog, and a liar. What an idiot this is! By God, our plan is as good a plan as ever hatched, our allies loyal and firm. A good plan, good allies, and very promising; its an excellent plan, very good allies. What a yellowbellied fool this is! Why, the Archbishop of York approves of the plan, and how its progressing. Damn! If I were with this imbecile right now, Id break his head open with his wifes fan. Dont we have my father? And my uncle, and me? Edmund Mortimer, York, and Owen Glendower? And besides, dont we have Douglas? Havent they all sent me letters, promising to meet me with their armies by the ninth of next month? And arent some of them on their way already? What an unbelievable ass this is! Faithless! Ha! Just watch; hell run to the King in cold fear and spill our secrets. Oh, I could split myself in two and knock my own self senseless for unfolding this important plan to such a coward. To hell with him! Let him tell the King; were ready. Ill set off tonight.
+</T>
+<T>
+PRINCE HENRY
+Ned, come out of that airless room and help me laugh a bit.
+</T>
+<T>
+POINS
+Whereve you been, Hal?
+</T>
+<T>
+PRINCE HENRY
+With three or four knuckleheads and a few dozen kegs of liquor. Ive been with the lowest of the low. Sirrah, Ive made great friends with these three bartenders, and Im on a first-name basis with them: Tom, Dick, and Francis. They swear on their souls that, even though Im only the Prince of Wales, Im the king of niceness. They say Im no pompous fool, like Falstaff, but a good sport, a spirited man, a good boy. When Im King of England, all the good men of Eastcheap will follow me gladly. When you drink deeply, they joke that you have been dyed red; and if you stop for a breath when youre drinking, they yell Cough! and they command you to keep going. In fifteen minutes, I got so good at being a drinking companion, I could be at ease with any man over a drink, in any setting. Ned, you didnt do yourself any favors by missing this. But, sweet Ned, Ill sweeten the name Ned with this bit of sugar, given to me by an apprentice drawerdrawer = tapster; bartenderdrawer who never spoke any English his whole life, except, Thatll be eight shillings and sixpence, and Youre welcome, and also, Just a second, just a second! Bring a pint of bastardbastard = a kind of Spanish wine, mixed with honeybastard to the Half-MoonHalf-Moon is the name of a room at the inn.Half-Moon room! But Ned, lets pass the time until Falstaff gets here. Hide in a side room while I ask that little apprentice drawer why he gave me the sugar. Keep calling out his name, Francis, and dont stop, so that all hes able to say is, Just a second! Step aside, and Ill give you a taste.
+</T>
+<T>
+MORTIMER
+These commitments are reliable, our allies are solid, and the beginning of our project bodes well.
+</T>
+<T>
+HOTSPUR
+Lord Mortimer, and kinsman Glendower, wont you please sit? And Uncle WorcesterDammit! I forgot the map!
+</T>
+<T>
+GLENDOWER
+Here it is. Sit, kinsman Percy. Sit, good cousin Hotspur. For that is the name King Henry calls you, and whenever he says it, he grows pale, and with a sigh he wishes you were in heaven.
+</T>
+<T>
+HOTSPUR
+And you in hell, whenever he hears someone say Owen Glendower.
+</T>
+<T>
+GLENDOWER
+I dont blame him. The sky was full of fiery meteors and comets when I was conceived, and when I was born, the entire earth shook like a coward.
+</T>
+<T>
+HOTSPUR
+Why, the same thing would have happened if your mothers cat had given birth to kittens that day, whether youd been born or not.
+</T>
+<T>
+GLENDOWER
+I say there was an earthquake when I was born.
+</T>
+<T>
+KING
+Gentlemen, please leave; the Prince of Wales and I must speak in private. But stay close by, for Ill need you in a moment.
+</T>
+<T>
+I dont know whether God decided, because of some displeasing crime I have committed, to turn my own flesh and blood into a punisher and a plague upon me. The course of your life has me convinced that you are only meant for one purpose in this world: to be Gods vengeance against me for all my misdeeds. Why else would such disorderly and low desires, such poor, such wretched, such lewd, such despicable actions, such wasteful pleasures, and such vulgar company become associated with your high-born self, and call themselves equals with a Prince like you?
+</T>
+<T>
+PRINCE HENRY
+Your majesty, I wish I could be proven innocent of all those accusations, for I can certainly clear myself of many of them. But let me beg one favor of you: if I can demonstrate that Im not guilty of the false charges of these smiling flatterers and wretched gossips (the kinds of stories that are always told about great men), then you will forgive me when I confess to the youthful indiscretions I actually did commit.
+</T>
+<T>
+FALSTAFF
+Bardolph, havent I shrivelled since our last robbery? Havent I gotten thin? Arent I shrinking? My skin is hanging off me like a loose gown on an old lady; Im puckered like a rotten apple. Id better repent my sins, and fast, while theres still something left of me. Ill be in bad shape soon, and then I wont have the strength to repent. If I havent forgotten what the inside of a church looks like, Im a withered berry, a lame old nag. The inside of a church! The wrong crowd, the wrong crowd has ruined me.
+</T>
+<T>
+BARDOLPH
+Sir John, you complain so much, youre sure not to live much longer.
+</T>
+<T>
+FALSTAFF
+Youre absolutely right. Come on then, sing me a dirty song. Make me laugh. I lived my life as properly as a gentleman should. Well, properly enough, anyway. I didnt swear much. I didnt gamblemore than seven days a week. I went to a whorehouse no more than onceevery fifteen minutes. I paid my debtsthree or four times. I lived well and within reasonable boundaries. And now, I live poorly and out of moderation.
+</T>
+<T>
+BARDOLPH
+Youre so fat, Sir John, that you have no choice but to live out of moderation: moderation could not fit you.
+</T>
+<T>
+FALSTAFF
+You fix your face and Ill fix my life. Youre like the flagship of our fleet, with a light on its bowexcept that your light is in your nose.
+</T>
+<T>
+BARDOLPH
+Why, Sir John, my face isnt hurting you.
+</T>
+<T>
+HOTSPUR
+Well said, you excellent Scotsman. If people these days didnt confuse the truth with flattery, I would praise you highly. No other soldier so newly tested in battle would have gained such a widespread reputation. God knows, I dont flatter: I hate people who give out praise too easily. But you have a place in my heart that no other man has. Make me prove it; try me.
+</T>
+<T>
+DOUGLAS
+You are the most honorable man alive, and if any man challenges thatno matter how powerfulIll defy him.
+</T>
+<T>
+HOTSPUR
+You do that. Well done.
+</T>
+<T>
+What letters have you got there? (to DOUGLAS ) All I can do is thank you.
+</T>
+<T>
+MESSENGER
+These letters come from your father.
+</T>
+<T>
+HOTSPUR
+Letters from him? Why isnt he here in person?
+</T>
+<T>
+MESSENGER
+He cant come, my lord; hes terribly sick.
+</T>
+<T>
+FALSTAFF
+Bardolph, go ahead of us to Coventry, and fill me a bottle of wine. Our army will keep marching, and well make it to Sutton Coldfield tonight.
+</T>
+<T>
+BARDOLPH
+Will you give me some money, captain?
+</T>
+<T>
+FALSTAFF
+Spend your own.
+</T>
+<T>
+BARDOLPH
+If I buy you this bottle, that makes me an angelan angel = several shillings; Bardolph claims he has spent an angel on Falstaffs wine.an angel.
+</T>
+<T>
+FALSTAFF
+Well, if this bottle earns you an angel, then keep it for your troubles. If you earn twenty angels, then keep them all; Im good for it. Tell my lieutenant Peto to meet me at the city limit.
+</T>
+<T>
+BARDOLPH
+I will, captain. Farewell.
+</T>
+<T>
+FALSTAFF
+If Im not ashamed of my soldiers, then Im a pickled fish. Ive taken terrible advantage of my position. Ive pressed a hundred and fifty soldiers into service, and for that, the treasury has paid me over three hundred pounds. I recruited only well-to-do property owners and rich farmers sons. I looked for men who were engaged to be married, who were already halfway through their preparations. I found a whole supply of pampered cowards who would rather listen to the devil than a military march; who feared the sound of gunfire
+</T>
+<T>
+HOTSPUR
+Well fight him tonight.
+</T>
+<T>
+WORCESTER
+We cant do that.
+</T>
+<T>
+DOUGLAS
+Then youre giving him the advantage.
+</T>
+<T>
+VERNON
+Not in the least.
+</T>
+<T>
+HOTSPUR
+Why do you say that? Doesnt he have backup coming?
+</T>
+<T>
+VERNON
+So do we.
+</T>
+<T>
+HOTSPUR
+His is guaranteed. Ours isnt.
+</T>
+<T>
+WORCESTER
+Nephew, Im telling you. Dont start the fighting tonight.
+</T>
+<T>
+VERNON
+(to HOTSPUR ) Dont, my lord.
+</T>
+<T>
+DOUGLAS
+Youre giving poor advice, based on fear and cowardice.
+</T>
+<T>
+VERNON
+Dont slander me, Douglas. I swear on my lifeand Ill prove it with my lifethat if Im roused to fight through thoughtful, careful consideration, Im just as unafraid as you, my lord, or any Scotsman alive. In tomorrows battle, well see which one of us is afraid.
+</T>
+<T>
+DOUGLAS
+Fine. Or tonight.
+</T>
+<T>
+ARCHBISHOP
+Hurry, Sir Michael, bring this sealed letter as fast as you can to the Lord Marshal. Bring this one to Scroop, and all the rest to whom they are addressed. If you knew how important they were, you would hurry.
+</T>
+<T>
+SIR MICHAEL
+My good lord, I can guess what they say.
+</T>
+<T>
+ARCHBISHOP
+Im sure you can. Tomorrow, Sir Michael, ten thousand men will try their luck. Im told that at Shrewsbury, the Kingwith a huge and quickly assembled armywill fight Harry Percy. Im afraid, Michael, that without Northumberland, whose army was the largest of all, and without Owen Glendower, who was also being counted on but is absent because his horoscope told him to stay away, Im afraid that Percys army will be too weak to fight the King right now.
+</T>
+<T>
+SIR MICHAEL
+Dont worry, sir. Douglas and Mortimer are there.
+</T>
+<T>
+ARCHBISHOP
+No, Mortimer isnt there.
+</T>
+<T>
+SIR MICHAEL
+But Mordake is there, and Vernon, and Harry Percy, and Worcester and a slew of brave warriors and excellent men.
+</T>
+<T>
+KING
+How bloody the sun looks as it peers over that massive hill. The day looks paleit must be sick to see the sun in such a mood.
+</T>
+<T>
+PRINCE HENRY
+The southern wind is playing its trumpet, to announce to the world what the sun means. And judging by the whistling leaves, its going to be a stormy, windy day.
+</T>
+<T>
+KING
+Then let it take the losers' side. To winners, nothing seems unpleasant.
+</T>
+<T>
+Hello there, my lord of Worcester! It isnt right that you and I are meeting under these circumstances. You have betrayed my trust. You forced me to put aside my comfortable peacetime clothing and instead have made me crush my old body into hard, military armor. That isnt right, sir, that isnt right. What do you have to say about it? Will you untie this ill-tempered knot of hateful war? Will you return to my loyalty? When you circled me, your King, in your obedient orbit, you shone beautifully and naturally. Now you blaze like a comet: a fearful omen, and a signal that evil will be released into the future.
+</T>
+<T>
+WORCESTER
+Oh no, Sir Richard, my nephew cannot be told about the generous and kind offer the King made.
+</T>
+<T>
+VERNON
+But he should be told.
+</T>
+<T>
+WORCESTER
+It will be the end of all of us! There is absolutely no way that the King will keep his word and trust us again. He will always be wary of us. Hell find other reasons to punish us for this rebellion. For the rest of our lives he and his loyalists will look on us with suspicion. Treason is like a fox: you can tame it, care for it, and put it in a cage, but it will always have the wild instincts it inherited from its ancestors. No matter how we looksad or happypeople will interpret our looks in the worst possible light. Well be like oxen in a stall: the better theyre fed, the closer they are to being slaughtered.
+My nephews disloyalty might be forgiven: his young age and hot temper will excuse it. Plus, his nickname gives him permission: Hotspur the Harebrain, always flaring up. All his offenses will be blamed on me and his father. After all, we encouraged him, and since we taught him to be angry at the King, well pay for it. So cousin, dont by any means let Harry know what the King offered.
+</T>
+<T>
+VERNON
+Tell him what you want, and Ill back you up.
+</T>
+<T>
+BLUNT
+What is your nameyou, who are attacking me like this? What honor do you think youll get by fighting me?
+</T>
+<T>
+DOUGLAS
+My name is Douglas, and Im haunting you in this battle because they tell me you are a king.
+</T>
+<T>
+BLUNT
+They tell you the truth.
+</T>
+<T>
+DOUGLAS
+Today, Lord Stafford paid for resembling you so well, for instead of you, King Harry, my sword killed him. Now it will kill you, unless you surrender as my prisoner.
+</T>
+<T>
+BLUNT
+I was not born to surrender, you arrogant Scotsman. Youre about to see a king take revenge for Staffords death.
+</T>
+<T>
+HOTSPUR
+Oh, Douglas! If youd fought like this at Holmedon, I would never have been able to beat you.
+</T>
+<T>
+DOUGLAS
+Its over, weve won: heres the King, dead.
+</T>
+<T>
+KING
+Please, Harry, get out of here: youre bleeding too heavily. John of Lancaster, go with him.
+</T>
+<T>
+LANCASTER
+I wont leave, my lord, unless I am bleeding too.
+</T>
+<T>
+PRINCE HENRY
+I beg your highness, advance. Your army will lose heart if it sees you falling back.
+</T>
+<T>
+KING
+I will. My Lord of Westmoreland, take him to his tent.
+</T>
+<T>
+WESTMORELAND
+(to PRINCE HENRY) Come, my lord. Ill lead you to your tent.
+</T>
+<T>
+PRINCE HENRY
+Lead me, my lord? I dont need your help. God forbid that a shallow scratch could make the Prince of Wales retreat from a battlefield like this one, where great men are falling and being trampled upon, and rebels are triumphing in their massacres!
+</T>
+<T>
+LANCASTER
+Weve stopped for too long. Come, Westmoreland. We have work to do. For Gods sake, come on!
+</T>
+<T>
+PRINCE HENRY
+By God, you have deceived me, Lancaster. I didnt think you were that brave. Before, I loved you as a brother; now, I respect you as my soulmate.
+</T>
+<T>
+KING
+This is how rebellions always enddefeated. Evil-spirited Worcester! Didnt I offer kindness, forgiveness and friendship to all of you? And you pretended that I did the opposite? Your relatives and friends trusted you, yet you lied to them? Three of our knights who were killed today, a noble earl, and many other men might have been alive right now if you had been a decent man and reported truthfully on the negotiations between our two armies.
+</T>
+<T>
+WORCESTER
+I did what I had to do for the sake of my own well-being. I accept my fate patiently, since theres no way I can avoid it.
+</T>
+<T>
+KING
+Put Worcester to death, and Vernon too: Ill wait a while before I decide what to do about the others.
+</T>
+<T>
+Whats happening on the battlefield?
+</T>
+<T>
+PRINCE HENRY
+When that brave Scotsman, Lord Douglas, saw that things were turning against him, that Percy had been killed, and that his men were fleeing in terror, he ran away too. He fell down a hill and was so badly injured that our men were able to capture him. Hes being held prisoner at my tent.
+I ask your highness to let me decide what to do with him.
+</T>

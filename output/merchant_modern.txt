@@ -1,0 +1,537 @@
+<T>
+ANTONIO
+To be honest, I dont know why Im so sad. Im tired of it, and you say youre tired of it too. But I have no idea how I got so depressed. And if I cant figure out whats making me depressed, I must not understand myself very well.
+</T>
+<T>
+SALARINO
+Youre worried about your ships. Your mind is out there getting tossed around on the ocean with them. But theyre fine. Theyre like huge parade floats on the sea. Theyre so big they look down on the smaller ships, which all have to bow and then get out of the way. Your ships fly like birds past those little boats.
+</T>
+<T>
+SOLANIO
+Yes, believe me, if I had such risky business ventures in other countries, Id be sad too. Id worry about it every second. Id constantly be tossing blades of grass into the air to find out which way the wind was blowing. Id be peering over maps to figure out the best ports, piers, and waterways. Everything that made me worry about my ships would make me sad.
+</T>
+<T>
+SALARINO
+Id get scared every time I blew on my soup to cool it, thinking of how a strong wind could wipe out my ships. Every time I glanced at the sand in an hourglass Id imagine my ships wrecked on sandbars. Id think of dangerous rocks every time I went to church and saw the stones it was made of. If my ship brushed up against rocks like that, its whole cargo of spices would be dumped into the sea. All of its silk shipments would be sent flying into the roaring waters. In one moment Id go bankrupt. Who wouldnt get sad thinking about things like that? Its obvious. Antonio is sad because hes so worried about his cargo.
+</T>
+<T>
+ANTONIO
+No, thats not it, trust me. Thankfully my financial situation is healthy. I dont have all of my money invested in one ship, or one part of the world. If I dont do well this year, Ill still be okay. So its not my business thats making me sad.
+</T>
+<T>
+SOLANIO
+Well then, you must be in love.
+</T>
+<T>
+ANTONIO
+Oh, give me a break.
+</T>
+<T>
+SOLANIO
+Youre not in love either? Fine, lets just say youre sad because youre not in a good mood. You know, itd be just as easy for you to laugh and dance around and say youre in a good mood. You could just say youre not sad. Humans are so different.
+</T>
+<T>
+Some people will laugh at anything, and others are so grouchy they wont even crack a smile when they hear something hysterically funny.
+</T>
+<T>
+Here comes your cousin Bassanio. And Gratiano and Lorenzo too. Goodbye, then. Well leave you to talk to them. Theyre better company.
+</T>
+<T>
+SALARINO
+I wouldve stayed to cheer you up, if your nobler friends hadnt shown up.
+</T>
+<T>
+ANTONIO
+Youre both very precious to me. But I understand. You need to leave to take care of your own business.
+</T>
+<T>
+SALARINO
+(to BASSANIO, LORENZO, and GRATIANO) Good morning, gentlemen.
+</T>
+<T>
+BASSANIO
+(to SALARINO and SOLANIO) Hello, friends. When are we going to have fun together again? Just name the time. We never see you anymore. Does it have to be that way?
+</T>
+<T>
+SALARINO
+Let us know when you want to get together. Were available.
+</T>
+<T>
+LORENZO
+Bassanio, well say goodbye for now, since youve found Antonio. But dont forget, were meeting for dinner tonight.
+</T>
+<T>
+BASSANIO
+Dont worry, Ill be there.
+</T>
+<T>
+GRATIANO
+You dont look well, Antonio. Youre taking things too seriously. People with too much invested in the world always get hurt. Im telling you, you dont look like yourself.
+</T>
+<T>
+ANTONIO
+For me the world is just the world, Gratianoa stage where every person has a part to play. I play a sad one.
+</T>
+<T>
+GRATIANO
+Then Ill play the happy fool and get laugh lines on my face. Id rather overload my liver with wine than starve my heart by denying myself fun. Why should any living man sit still like a statue? Why should he sleep when hes awake? Why should he get ulcers from being crabby all the time? I love you, and Im telling you this because I care about you, Antoniothere are men who always look serious. Their faces never move or show any expression, like stagnant ponds covered with scum. Theyre silent and stern, and they think theyre wise and deep, important and respectable. When they talk, they think everybody else should keep quiet, and that even dogs should stop barking. I know a lot of men like that, Antonio. The only reason theyre considered wise is because they dont say anything. Im sure if they ever opened their mouths, everyone would see what fools they are. Ill talk to you more about this some other time. In the meantime, cheer up. Dont go around looking so glum. Thats my opinion, but what do I know? Im a fool.Lets go, Lorenzo.Goodbye for now. Ill finish my lecture after dinner.
+</T>
+<T>
+LORENZO
+All right, well see you at dinnertime. I must be one of these silent so-called wise men Gratianos talking about, because he never lets me get a word in.
+</T>
+<T>
+GRATIANO
+If you hang around me for two more years, youll forget the sound of your own voice. I wont ever let you speak.
+</T>
+<T>
+ANTONIO
+Goodbye. After that lecture of yours, Ill start talking a lot.
+</T>
+<T>
+GRATIANO
+Thank you. The only tongues that should be silent are ox-tongues on a dinner plate and those that belong to old maids.
+</T>
+<T>
+ANTONIO
+Is he right?
+</T>
+<T>
+BASSANIO
+Gratiano talks more nonsense than any other man in Venice. His point is always like a needle in a haystackyou look for it all day, and when you find it you realize it wasnt worth the trouble.
+</T>
+<T>
+ANTONIO
+So, whos this girl, the one you said you were going to take a special trip for? You promised to tell me.
+</T>
+<T>
+BASSANIO
+Antonio, you know how bad my finances have been lately. Ive been living way beyond my means. Dont get me wrong, Im not complaining about having to cut back.
+</T>
+<T>
+I just want to be honorable and pay off the big debts that piled up when I was living the high life. Im in debt to many people, and I owe most to you, Antonioboth money and gratitude. And because you care about me, I know youll let me tell you my plan to clear all my debts.
+</T>
+<T>
+ANTONIO
+Please let me know your plan, Bassanio. As long as its honorable, you can be sure that Ill let you use all my money and do everything I can to help you.
+</T>
+<T>
+BASSANIO
+Back when I was a schoolboy, if I lost an arrow I would try to find it by shooting another arrow in the same direction, watching the second arrow more carefully than I had the first. By risking the second arrow, Id often get both of them back. Im telling you this story for a reason. I owe you a lot, and like a spoiled kid Ive lost what I owe you. But if youd be willing to shoot another arrow the same way you shot the first, Ill watch your arrow more carefully this time. Either well get back all the money I owe you, or else well get back what you lend me this time, and Ill just owe you what I already owe you.
+</T>
+<T>
+ANTONIO
+You know me better than that. Youre wasting your breath. All of this talk means you have doubts about my friendship. Thats worse than if you bankrupted me. Just tell me what to do, and Ill do it. Tell me.
+</T>
+<T>
+BASSANIO
+Theres a girl in Belmont whos inherited a huge amount of money, and shes beautiful andeven bettershes a good person. I think she likes me. Sometimes the expression on her face tells me she likes me. Her name is Portia. Shes as rich as that famous Roman heroine Portia, the daughter of Cato and wife of Brutus. Her wealth is world-famous. Famous and important men have come in from all over the world to try to marry her. The hair that hangs down on her forehead is like gold, calling every adventurer to Belmont like a gold rush. Antonio, if I only had enough money to hold my own against those suitors, I know I could win her!
+</T>
+<T>
+ANTONIO
+You know right now all my moneys tied up in that cargo thats still at sea. I cant give you the cash you need because I dont have it. But go ahead and charge things to me on credit, as much credit as I can get in Venice. Ill use all my lines of credit to help you get to Belmont, to Portia. Go see who will lend money, and Ill do the same. Im sure I can get something either as a business loan, or as a personal favor.
+</T>
+<T>
+PORTIA
+Oh Nerissa, my poor little body is tired of this great big world.
+</T>
+<T>
+NERISSA
+Youd be tired, madam, if you had bad luck rather than wealth and good luck. But as far as I can tell, people with too much suffer as much as people with nothing. The best way to be happy is to be in between. When you have too much you get old sooner, but having just enough helps you live longer.
+</T>
+<T>
+PORTIA
+Good point, and well said.
+</T>
+<T>
+NERISSA
+It would be better if you actually applied it to your life.
+</T>
+<T>
+PORTIA
+You think its that easy? If doing good deeds were as easy as knowing how to do them, then everyone would be better off. Small chapels would be big churches, and poor mens cottages would be princes' palaces. It takes a good priest to practice what he preaches. For me, its easier to lecture twenty people on how to be good than to be the one person out of twenty who actually does good things. The brain can tell the heart what to do, but what does it matter? Cold rules dont matter when youve got a hot temper. Young people are like frisky young rabbits, and good advice is like a crippled old man trying to catch them. But thinking like this wont help me choose a husband. Oh, the word choose is strange! I cant choose who I like, or refuse who I dislike. Im a living daughter still controlled by the wishes of her dead father. Isnt it a pain that I cant choose or refuse anyone, Nerissa?
+</T>
+<T>
+SHYLOCK
+Three thousand ducats, hmmm.
+</T>
+<T>
+BASSANIO
+Yes, for three months.
+</T>
+<T>
+SHYLOCK
+For three months, hmmm.
+</T>
+<T>
+BASSANIO
+As I said before, Antonio will guarantee the loan. If I default, hell pay you.
+</T>
+<T>
+SHYLOCK
+Antonio will guarantee it, hmmm.
+</T>
+<T>
+BASSANIO
+Can you help me? Whats your answer?
+</T>
+<T>
+SHYLOCK
+Three thousand ducats for three months, and Antonio will guarantee it.
+</T>
+<T>
+BASSANIO
+Your answer?
+</T>
+<T>
+SHYLOCK
+Antonios a good man.
+</T>
+<T>
+BASSANIO
+Have you heard anything to the contrary?
+</T>
+<T>
+SHYLOCK
+What? No, no, no, no. What I meant in saying hes a good man is that he has enough money to guarantee the loan. But his investments are uncertain right now. He has one ship bound for Tripoli, another heading for the Indies. Whats more, people at the RialtoThe Rialto is the business district of Venice, where the merchants meet.Rialto tell me he has a third ship in Mexico, and a fourth in England, as well as other business ventures throughout the world.
+</T>
+<T>
+MOROCCO
+Dont hold my skin color against me. I was born and raised in the sun, which is why Im dark-skinned. But Im as red-blooded as any man. Show me the best-looking person born in the freezing north, where the sun barely thaws the icicles. Ill win your love by cutting myself to prove to you I have redder blood than he does. Im telling you, madam, my skin color has made brave men fear me and Moroccan girls love me. I wouldnt change it except to make you think of me, my darling queen.
+</T>
+<T>
+PORTIA
+Being good-looking isnt the only way to my heart, you know. I have other criteria for choosing a husband. Not that it matters, because the box test takes away my free choice anyway. But if my father hadnt restricted me like thisforcing me to marry whoever wins his testthen youd have had as good a chance to marry me as any of the suitors Ive met so far, prince.
+</T>
+<T>
+LAUNCELOT
+Im sure Ill feel guilty if I run away from this Jew, my master. The devils on my shoulder, tempting me. Hes saying, Gobbo, Launcelot Gobbo, Good Launcelot, or Good Gobbo, or Good Launcelot Gobbouse your legs and run away. But my conscience says, No, Launcelot, calm down, dont run away. The devils urging me to leave. Go away! he says. Run away! Be tough, says the devil, and run! But then my conscience, hanging around my heart, says very wisely to me, My good friend Launcelot, youre a good boy, the son of an honest man, really, that should be the son of an honest woman, since my father cheated on my mother. Anyway, my conscience says, Stay put. Go, the devil says. Dont go, says my conscience. Conscience, I say, you give good advice. Devil, I say, you give good advice. If I listened to my conscience, Id stay with the Jew my master, whos a devil. But if I ran away from the Jew, Id be following the advice of the devil, whos the very devil himself. Certainly the Jew is the devil incarnate, and my conscience is giving me a hard time by telling me to stay with the Jew. The devils advice is nicer. Ill run, devil. Tell me to run, and Ill run.
+</T>
+<T>
+JESSICA
+Im sorry youre leaving my father like this. Its hell in our house, and you helped cheer it up, like a funny devil. But goodbye. Heres a ducat for you. Youll soon be meeting Lorenzo at supper; hell be a guest of your new master. Give him this letter. (gives LAUNCELOT a letter) Do it secretly. Goodbye. I dont want my father to see me talking to you.
+</T>
+<T>
+LAUNCELOT
+Goodbye. My tears show you my feelings, my beautiful pagan, my sweet Jew! Im sure some Christian will resort to trickery to get you. But goodbye. Its not manly to cry. Goodbye.
+</T>
+<T>
+JESSICA
+Goodbye, Launcelot.
+</T>
+<T>
+Oh God, what a heinous sinner I am, being ashamed to be my fathers child! But I need to remember Im related to him by blood, not behavior. Oh Lorenzo, if you keep your promise to me, Ill end this agony by becoming a Christian and marrying you.
+</T>
+<T>
+LORENZO
+No, well sneak away at supper time, disguise ourselves with masks at my house, and come back in an hour.
+</T>
+<T>
+GRATIANO
+But we havent made any preparations.
+</T>
+<T>
+SALARINO
+We havent even talked about wholl be our torchbearers.
+</T>
+<T>
+SOLANIO
+The masquerade party might turn out terribly if we dont manage things carefully. I think its better to call it off.
+</T>
+<T>
+LORENZO
+Its only four o'clock now. We have two hours to get ready.
+</T>
+<T>
+Launcelot, whats going on?
+</T>
+<T>
+LAUNCELOT
+(he gives LORENZO the letter) If you dont mind opening this letter, you can find out for yourself.
+</T>
+<T>
+LORENZO
+I recognize the handwriting. Its beautiful handwriting. And the beautiful hand that wrote this letter is whiter than the paper its written on.
+</T>
+<T>
+GRATIANO
+I bet its a love letter!
+</T>
+<T>
+LAUNCELOT
+(to LORENZO) May I be excused, sir?
+</T>
+<T>
+SHYLOCK
+Well, youll see it with your own eyes. Youll see the difference between working for Shylock and working for Bassanio.(calling for his daughter) Jessica!You wont eat like a pig like you used to do at my place.Jessica!And sleep, and snore, and wear your clothes out.Jessica, Im calling you!
+</T>
+<T>
+LAUNCELOT
+Jessica!
+</T>
+<T>
+SHYLOCK
+Who asked you to call her? Im not asking you to call her.
+</T>
+<T>
+LAUNCELOT
+You always loved to tell me I couldnt do anything without being told.
+</T>
+<T>
+JESSICA
+Did you call me? Do you need something?
+</T>
+<T>
+SHYLOCK
+Ive been invited to supper, Jessica. Here are my keys.But why should I go? I wasnt invited because they like me. Theyre just flattering me. But Ill go out of spite, to feed off the wasteful Christian.Jessica, my girl, watch the house. I dont feel like going. Things arent going my way right now. I know because I dreamed of money bags last night.
+</T>
+<T>
+GRATIANO
+This is the roof under which Lorenzo said to meet him.
+</T>
+<T>
+SALARINO
+Hes late.
+</T>
+<T>
+GRATIANO
+Yes, and thats surprising, because lovers are usually early.
+</T>
+<T>
+SALARINO
+Yes, for new lovers time passes ten times faster than for couples whove been married forever.
+</T>
+<T>
+GRATIANO
+Thats always true. Who gets up from a meal with the same appetite he had when he sat down? Can any horse retrace his footsteps with the same energy he had when he walked them the first time? We chase everything in life more excitedly than we actually enjoy it when we get it. Its like when a ship sails out of the harbor with all its flags waving, gently pushed by the wind. When that ship returns, her timber is all weather-beaten and her sails are ragged. That same wind makes the ship thin and poor.
+</T>
+<T>
+SALARINO
+Here comes Lorenzo. Well talk about this later.
+</T>
+<T>
+PORTIA
+(to servant) Go open the curtains and show the different boxes to the prince.
+</T>
+<T>
+A curtain is drawn revealing showing three caskets: one gold, one silver, and one lead.
+</T>
+<T>
+(to MOROCCO) Now make your choice.
+</T>
+<T>
+MOROCCO
+The first one, the gold one, has an inscription that says, He who chooses me will get what many men want. The second one, the silver one, says, He who chooses me will get what he deserves. And this third one is made of dull lead. It has a blunt warning that says, He who chooses me must give and risk all he has. How will I know if I chose the right one?
+</T>
+<T>
+PORTIA
+One of them contains my picture. If you choose that one, Im yours, along with the picture.
+</T>
+<T>
+MOROCCO
+I wish some god could help me choose! Let me see. Ill look over the inscriptions again. What does the lead box say? He who chooses me must give and risk all he has. Must give everythingfor what? For lead? Risk everything for lead? This box is too threatening. Men who risk everything hope to make profits. A golden mind doesnt bend down to choose something worthless. So I wont give or risk anything for lead. What does the silver one say?
+</T>
+<T>
+SALARINO
+I saw Bassanio sail away, and Gratiano went with him. Im sure Lorenzo isnt on their ship.
+</T>
+<T>
+SOLANIO
+That wicked Jew got the duke to listen to his complaints. The duke went with him to search Bassanios ship.
+</T>
+<T>
+SALARINO
+He got there too late. The ship was already sailing. But once he got there, the duke learned that Lorenzo and his lover Jessica were together in a gondola. In any case, Antonio assured the duke they werent with Bassanio on his ship.
+</T>
+<T>
+SOLANIO
+Ive never heard such confused emotions as what that Jew dog was shouting in the streets. My daughter, oh my ducats, oh my daughter! Ran off with a Christian! Oh my Christian ducats! Justice, the law, my ducats, and my daughter, a sealed bag, two sealed bags of ducats, of double ducats, stolen from me by my daughter, and jewelstwo stones, two rich and precious stonesstolen by my daughter! Justice, find the girl! She has the stones on her, and the ducats.
+</T>
+<T>
+SALARINO
+I know, all the boys in Venice are following him, yelling, His stones, his daughter, and his ducats!
+</T>
+<T>
+NERISSA
+Hurry, hurry, close the curtain quick. The prince of Arragon has taken his oath, and hes coming to make his choice now.
+</T>
+<T>
+PORTIA
+Look, here are the boxes, prince. If you choose the one that contains my picture, well be married right away. But if you fail, you have to leave immediately. No pleas will be allowed.
+</T>
+<T>
+ARRAGON
+I swore Id do three things. First, I can never tell anyone what box I choose. Second, if I choose the wrong box, Ill never propose marriage for the rest of my life. Third, if I pick the wrong box, Ill leave immediately.
+</T>
+<T>
+PORTIA
+Everyone who comes to gamble on winning me has to swear to these three rules.
+</T>
+<T>
+ARRAGON
+Okay, Im ready. I hope luck will give me what my heart hopes for! Gold, silver, and common lead. He who chooses me must give and risk all he has. Youd have to be more attractive for me to give or risk anything for you. What does the golden box say? Hmm, let me see:
+</T>
+<T>
+SOLANIO
+So, whats the news on the Rialto?
+</T>
+<T>
+SALARINO
+Well, theres a rumor that Antonio had a ship carrying expensive cargo that shipwrecked in the English Channel on the Goodwin Sands, a very dangerous sandbar. Many ships have sunk there, according to rumors.
+</T>
+<T>
+SOLANIO
+I hope this new rumor is a lie, like the gossiping widows claim that she was sorry her third husband died! But its trueI dont want to get all mushy and go on and on, but the good Antonio, the honest Antoniooh, if I only had a title good enough to match his!
+</T>
+<T>
+SALARINO
+Come on, get to the point.
+</T>
+<T>
+SOLANIO
+What are you saying? Well, the point is, hes lost a ship.
+</T>
+<T>
+SALARINO
+I hope thats all he loses.
+</T>
+<T>
+SOLANIO
+Let me say amen quickly, before the devil comes in and stops my prayerbecause here comes the devil, disguised as a Jew.
+</T>
+<T>
+PORTIA
+(to BASSANIO) Please wait a day or two before making your choice. If you choose wrong, Ill lose your company. So wait a while. Something tells menot love, but somethingthat I dont want to lose you, and you know that if I hated you I wouldnt think that. But let me put it more clearly in case you dont understandthough I know girls arent supposed to express their thoughtsIm just saying Id like you to stay here for a month or two before you undergo the test for me. I could tell you how to choose correctly, but then Id be disregarding the oath I took. So Ill never tell. But you might lose me by making the wrong choice. If you do choose wrong, youll make me wish for something very bad. Id wish I had ignored my oath and told you everything. God, your eyes have bewitched me. Theyve divided me in two. One half of me is yours, and the other halfmy own half, Id call itbelongs to you too. If its mine, then its yours, and so Im all yours. But in this awful day and age people dont even have the right to their own property! So though Im yours, Im not yours. If theres no chance for me to be yours, then its just bad luck. I know Im talking too much, but I do that just to make the time last longer, and to postpone your test.
+</T>
+<T>
+BASSANIO
+Let me choose now. I feel tortured by all this talking.
+</T>
+<T>
+PORTIA
+Tortured, BassanioPortia and Bassanio are role-playing here, pretending to be torturer and victim.Bassanio? Then confess to your crime. Tell us about the treason youve mixed in with your love.
+</T>
+<T>
+SHYLOCK
+Jailer, watch out for this one. Dont try to convince me to feel sorry for him. This is the fool who lent out money without charging interest. Jailer, keep an eye on him.
+</T>
+<T>
+ANTONIO
+Listen to me, good Shylock.
+</T>
+<T>
+SHYLOCK
+Im going to get my bondShylock uses the word bond here to mean the goods Antonio promised to give Shylock if he defaulted on the loanin other words, the pound of Antonios flesh.bond . Dont try to say anything against my taking my bond. Ive sworn an oath that I will have my bond. You called me a dog before you had any reason to. But since Im a dog, beware my fangs. The duke will give me justice.I do wonder, jailer, how you can be so foolish as to let this prisoner out of his cell.
+</T>
+<T>
+ANTONIO
+Please, listen to me.
+</T>
+<T>
+SHYLOCK
+I want my bond. I wont listen to you. I want my bond, so stop talking. I wont be taken for a fool who sighs and gives in to Christian meddlers. Dont follow me. Im not talking with you. I want my bond.
+</T>
+<T>
+SOLANIO
+Hes the most stubborn dog that ever lived among humans.
+</T>
+<T>
+LORENZO
+Madam, I hope you dont mind my saying that I admire your noble respect for friendship, which you show in letting your husband go off to help his friend like this. If you only knew the man youre helping out, and what a faithful gentleman he is and how much he loves your husband, I know youd be even prouder of your kindness than you normally might be.
+</T>
+<T>
+PORTIA
+Ive never regretted doing good, and I dont now. Friends who spend a lot of time together and really care equally for each other must have many traits in common. Since Antonios my husbands best friend, they must be very similar men. In that case, the money Ive sent is a small price to pay to rescue someone who resembles my Bassanio, whos like my own soul.Anyway, lets change the subject, since I feel like Im starting to flatter myself. I have a favor to ask of you. Lorenzo, please take charge of the management of my house until my husband comes back.
+</T>
+<T>
+LAUNCELOT
+Yes, look, its true that children are punished for the sins of their fathers. Thats why Im worried about you. Ive always been straightforward with you, so now Im telling you what I think. Cheer up, because I think youre going to hell. Theres only one hope for you, and even thats a kind of illegitimate hope.
+</T>
+<T>
+JESSICA
+What hope is that, may I ask?
+</T>
+<T>
+LAUNCELOT
+You can hope your father isnt your real father. Maybe your mother fooled around, and you arent the Jews daughter.
+</T>
+<T>
+JESSICA
+That really is an illegitimate hope. Then Id be punished for the sins of my mother.
+</T>
+<T>
+LAUNCELOT
+In that case Im afraid youre damned by both your father and your mother. When you avoid one trap, you fall into another. Youre in trouble either way.
+</T>
+<T>
+JESSICA
+My husband will save me. Hes made me a Christian.
+</T>
+<T>
+LAUNCELOT
+He was wrong to do that. There were enough Christians beforeas many of them as could stand to live near each other. All these new Christians will make the price of hogs go up. If were all pork-eaters, we wont be able to get our hands on a slice of bacon, even if weve got the money for it.
+</T>
+<T>
+DUKE
+Is Antonio here?
+</T>
+<T>
+ANTONIO
+Yes, sir, Im here.
+</T>
+<T>
+DUKE
+I feel sorry for you. Youve come to face a ruthless enemy, an inhuman wretch incapable of pity, without any feelings of mercy.
+</T>
+<T>
+ANTONIO
+They tell me youve done everything you can to talk him out of what hes doing. But since he remains stubborn, and theres no legal way to protect me from his malice, Ill just have to take what hell give me. Im ready to suffer peacefully whatever he does to me in his cruelty and anger.
+</T>
+<T>
+DUKE
+One of you go call the Jew into court here.
+</T>
+<T>
+SALERIO
+Hes standing ready outside the door. Here he comes, my lord.
+</T>
+<T>
+PORTIA
+Find out where the Jews house is. Give him this deed and have him sign it. Well leave tonight and be home a day before our husbands get back. Lorenzo will be happy with what weve done.
+</T>
+<T>
+GRATIANO
+(he gives PORTIA BASSANIOs ring) Sir, youre lucky I caught up with you. Bassanio thought about it some more and sent this ring to you. He would like to invite you to dinner.
+</T>
+<T>
+PORTIA
+I cant have dinner with him. Please tell him I accept his ring with thanks. And could you please take my servant to old Shylocks house?
+</T>
+<T>
+GRATIANO
+Ill do that.
+</T>
+<T>
+NERISSA
+(to PORTIA) Sir, may I speak with you? (speaking so that only PORTIAcan hear) Ill see if I can get my husbands ring, which I made him swear to keep forever.
+</T>
+<T>
+PORTIA
+(to NERISSA) I bet youll be able to. Theyll swear they gave the rings to men. But well deny it and outswear them too.
+</T>
+<T>
+LORENZO
+The moons bright tonight. I think that on a night like this, when the wind blew the trees so gently that they didnt make a sound, TroilusTroilus was the son of King Priam of Troy. His lover, Cressida, was sent to the Greek camp, where she betrayed him.Troilus climbed up onto the walls of Troy and sighed for Cressida in the Greek camp.
+</T>
+<T>
+JESSICA
+On a night like this, ThisbeThisbe had agreed to meet her lover Pyramus, but was frightened away by a lion. Pyramus killed himself because he thought the lion had eaten her, and Thisbe killed herself when she found Pyramus dead.Thisbe saw the lions shadow and ran away in fear.
+</T>
+<T>
+LORENZO
+On a night like this, DidoDido, the queen of Carthage, was abandoned by her lover Aeneas.Dido stood holding a willow branch on the seashore, begging her lover to come back to her in Carthage.
+</T>
+<T>
+JESSICA
+On a night like this, MedeaMedea used her magic to help her lover, Jasons father. Later, Jason betrayed her, and she murdered their children in revenge.Medea gathered magic herbs to rejuvenate old Aeson.
+</T>

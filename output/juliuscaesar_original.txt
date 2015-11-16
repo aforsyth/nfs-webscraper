@@ -1,0 +1,782 @@
+<T>
+FLAVIUS
+Hence! Home, you idle creatures get you home!
+Is this a holiday? What, know you not,
+Being mechanical, you ought not walk
+Upon a laboring day without the sign
+Of your profession?Speak, what trade art thou?
+</T>
+<T>
+CARPENTER
+Why, sir, a carpenter.
+</T>
+<T>
+MURELLUS
+Where is thy leather apron and thy rule?
+What dost thou with thy best apparel on?
+You, sir, what trade are you?
+</T>
+<T>
+COBBLER
+Truly, sir, in respect of a fine workman, I am but, as youwould say, a cobbler.
+</T>
+<T>
+MURELLUS
+But what trade art thou? Answer me directly.
+</T>
+<T>
+COBBLER
+A trade, sir, that I hope I may use with a safe conscience,which is, indeed, sir, a mender of bad soles.
+</T>
+<T>
+MURELLUS
+What trade, thou knave? Thou naughty knave, what trade?
+</T>
+<T>
+COBBLER
+Nay, I beseech you, sir, be not out with me. Yet, if you beout, sir, I can mend you.
+</T>
+<T>
+MURELLUS
+What meanst thou by that? Mend me, thou saucyfellow?
+</T>
+<T>
+COBBLER
+Why, sir, cobble you.
+</T>
+<T>
+FLAVIUS
+Thou art a cobbler, art thou?
+</T>
+<T>
+COBBLER
+Truly, sir, all that I live by is with the awl. I meddle with notradesmans matters nor womens matters, but withal I amindeed, sir, a surgeon to old shoes. When they are in greatdanger, I recover them. As proper men as ever trod uponneats leather have gone upon my handiwork.
+</T>
+<T>
+FLAVIUS
+But wherefore art not in thy shop today?
+Why dost thou lead these men about the streets?
+</T>
+<T>
+COBBLER
+Truly, sir, to wear out their shoes to get myself into morework. But indeed, sir, we make holiday to see Caesar and torejoice in his triumph.
+</T>
+<T>
+MURELLUS
+Wherefore rejoice? What conquest brings he home?
+What tributaries follow him to Rome
+To grace in captive bonds his chariot wheels?
+You blocks, you stones, you worse than senseless things,
+O you hard hearts, you crul men of Rome,
+Knew you not Pompey? Many a time and oft
+Have you climbed up to walls and battlements,
+To towers and windows, yea, to chimney tops,
+Your infants in your arms, and there have sat
+The livelong day with patient expectation
+To see great Pompey pass the streets of Rome.
+And when you saw his chariot but appear,
+Have you not made an universal shout
+That Tiber trembled underneath her banks
+To hear the replication of your sounds
+Made in her concave shores?
+And do you now put on your best attire?
+And do you now cull out a holiday?
+</T>
+<T>
+And do you now strew flowers in his way
+That comes in triumph over Pompeys blood?
+Be gone!
+Run to your houses, fall upon your knees,
+Pray to the gods to intermit the plague
+That needs must light on this ingratitude.
+</T>
+<T>
+FLAVIUS
+Go, go, good countrymen, and for this fault,
+Assemble all the poor men of your sort,
+Draw them to Tiber banks, and weep your tears
+Into the channel till the lowest stream
+Do kiss the most exalted shores of all.
+</T>
+<T>
+See whether their basest metal be not moved.
+They vanish tongue-tied in their guiltiness.
+Go you down that way towards the Capitol.
+This way will I. Disrobe the images
+If you do find them decked with ceremonies.
+</T>
+<T>
+MURELLUS
+May we do so?
+You know it is the feast of Lupercal.
+</T>
+<T>
+FLAVIUS
+It is no matter. Let no images
+Be hung with Caesars trophies. Ill about
+And drive away the vulgar from the streets.
+So do you too, where you perceive them thick.
+These growing feathers plucked from Caesars wing
+Will make him fly an ordinary pitch,
+Who else would soar above the view of men
+And keep us all in servile fearfulness.
+</T>
+<T>
+CAESAR
+Calphurnia!
+</T>
+<T>
+CASCA
+Peace, ho! Caesar speaks.
+</T>
+<T>
+CAESAR
+Calphurnia!
+</T>
+<T>
+CALPHURNIA
+Here, my lord.
+</T>
+<T>
+CAESAR
+Stand you directly in Antonius' way
+When he doth run his course.Antonius!
+</T>
+<T>
+ANTONY
+Caesar, my lord.
+</T>
+<T>
+CAESAR
+Forget not in your speed, Antonius,
+To touch Calphurnia, for our elders say
+The barren, touchd in this holy chase,
+Shake off their sterile curse.
+</T>
+<T>
+ANTONY
+I shall remember.
+When Caesar says, do this, it is performed.
+</T>
+<T>
+CAESAR
+Set on, and leave no ceremony out.
+</T>
+<T>
+SOOTHSAYER
+Caesar!
+</T>
+<T>
+CICERO
+Good even, Casca. Brought you Caesar home?
+Why are you breathless? And why stare you so?
+</T>
+<T>
+CASCA
+Are not you moved when all the sway of earth
+Shakes like a thing unfirm? O Cicero,
+I have seen tempests when the scolding winds
+Have rived the knotty oaks, and I have seen
+Th' ambitious ocean swell and rage and foam
+To be exalted with the threatening clouds,
+But never till tonight, never till now,
+Did I go through a tempest dropping fire.
+Either there is a civil strife in heaven,
+Or else the world, too saucy with the gods,
+Incenses them to send destruction.
+</T>
+<T>
+CICERO
+Why, saw you anything more wonderful?
+</T>
+<T>
+CASCA
+A common slaveyou know him well by sight
+Held up his left hand, which did flame and burn
+Like twenty torches joined, and yet his hand,
+Not sensible of fire, remained unscorched.
+BesidesI ha' not since put up my sword
+Against the Capitol I met a lion,
+Who glared upon me and went surly by,
+Without annoying me. And there were drawn
+Upon a heap a hundred ghastly women,
+Transformd with their fear, who swore they saw
+Men all in fire walk up and down the streets.
+</T>
+<T>
+BRUTUS
+What, Lucius, ho!
+I cannot by the progress of the stars
+Give guess how near to day.Lucius, I say!
+I would it were my fault to sleep so soundly.
+When, Lucius, when? Awake, I say! What, Lucius!
+</T>
+<T>
+LUCIUS
+Called you, my lord?
+</T>
+<T>
+BRUTUS
+Get me a taper in my study, Lucius.
+When it is lighted, come and call me here.
+</T>
+<T>
+LUCIUS
+I will, my lord.
+</T>
+<T>
+BRUTUS
+It must be by his death, and for my part
+I know no personal cause to spurn at him
+But for the general. He would be crowned.
+How that might change his nature, theres the question.
+It is the bright day that brings forth the adder
+And that craves wary walking. Crown him that,
+And then I grant we put a sting in him
+That at his will he may do danger with.
+</T>
+<T>
+CAESAR
+Nor heaven nor earth have been at peace tonight.
+Thrice hath Calphurnia in her sleep cried out,
+Help, ho! They murder Caesar!Whos within?
+</T>
+<T>
+SERVANT
+My lord.
+</T>
+<T>
+CAESAR
+Go bid the priests do present sacrifice
+And bring me their opinions of success.
+</T>
+<T>
+SERVANT
+I will, my lord.
+</T>
+<T>
+CALPHURNIA
+What mean you, Caesar? Think you to walk forth?
+You shall not stir out of your house today.
+</T>
+<T>
+CAESAR
+Caesar shall forth. The things that threatened me
+Ne'er looked but on my back. When they shall see
+The face of Caesar, they are vanishd.
+</T>
+<T>
+CALPHURNIA
+Caesar, I never stood on ceremonies,
+Yet now they fright me. There is one within,
+Besides the things that we have heard and seen,
+Recounts most horrid sights seen by the watch.
+A lioness hath whelpd in the streets,
+And graves have yawned and yielded up their dead.
+</T>
+<T>
+ARTEMIDORUS
+(reads aloud)
+Caesar, beware of Brutus. Take heed of Cassius. Come not near Casca. Have an eye to Cinna. Trust not Trebonius. Mark well Metellus Cimber. Decius Brutus loves thee not. Thou hast wronged Caius Ligarius. There is but one mind in all these men, and it is bent against Caesar. If thou beest not immortal, look about you. Security gives way to conspiracy. The mighty gods defend thee!
+Thy lover,
+Artemidorus
+Here will I stand till Caesar pass along,
+And as a suitor will I give him this.
+My heart laments that virtue cannot live
+Out of the teeth of emulation.
+If thou read this, O Caesar, thou mayst live.
+If not, the Fates with traitors do contrive.
+</T>
+<T>
+PORTIA
+I prithee, boy, run to the senate house.
+Stay not to answer me, but get thee gone.
+Why dost thou stay?
+</T>
+<T>
+LUCIUS
+To know my errand, madam.
+</T>
+<T>
+PORTIA
+I would have had thee there and here again
+Ere I can tell thee what thou shouldst do there.
+O constancy, be strong upon my side,
+Set a huge mountain tween my heart and tongue!
+I have a mans mind but a womans might.
+How hard it is for women to keep counsel!
+Art thou here yet?
+</T>
+<T>
+LUCIUS
+Madam, what should I do?
+Run to the Capitol, and nothing else?
+And so return to you, and nothing else?
+</T>
+<T>
+PORTIA
+Yes, bring me word, boy, if thy lord look well,
+For he went sickly forth. And take good note
+What Caesar doth, what suitors press to him.
+Hark, boy! What noise is that?
+</T>
+<T>
+LUCIUS
+I hear none, madam.
+</T>
+<T>
+PORTIA
+Prithee, listen well.
+I heard a bustling rumor like a fray,
+And the wind brings it from the Capitol.
+</T>
+<T>
+LUCIUS
+Sooth, madam, I hear nothing.
+</T>
+<T>
+CAESAR
+(to the SOOTHSAYER) The ides of March are come.
+</T>
+<T>
+SOOTHSAYER
+Ay, Caesar, but not gone.
+</T>
+<T>
+ARTEMIDORUS
+(offering his letter) Hail, Caesar! Read this schedule.
+</T>
+<T>
+DECIUS
+(offering CAESAR another paper)
+Trebonius doth desire you to o'er-read,
+At your best leisure, this his humble suit.
+</T>
+<T>
+ARTEMIDORUS
+O Caesar, read mine first, for mines a suit
+That touches Caesar nearer. Read it, great Caesar.
+</T>
+<T>
+CAESAR
+What touches us ourself shall be last served.
+</T>
+<T>
+ARTEMIDORUS
+Delay not, Caesar. Read it instantly.
+</T>
+<T>
+CAESAR
+What, is the fellow mad?
+</T>
+<T>
+PUBLIUS
+(to ARTEMIDORUS)Sirrah, give place.
+</T>
+<T>
+CASSIUS
+(to ARTEMIDORUS)
+What, urge you your petitions in the street?
+Come to the Capitol.
+</T>
+<T>
+PLEBEIANS
+We will be satisfied! Let us be satisfied!
+</T>
+<T>
+BRUTUS
+Then follow me and give me audience, friends.
+Cassius, go you into the other street
+And part the numbers.
+Those that will hear me speak, let 'em stay here.
+Those that will follow Cassius, go with him,
+And public reasons shall be renderd
+Of Caesars death.
+</T>
+<T>
+FIRST PLEBEIAN
+I will hear Brutus speak.
+</T>
+<T>
+ANOTHER PLEBEIAN
+I will hear Cassius and compare their reasons
+When severally we hear them renderd.
+</T>
+<T>
+THIRD PLEBEIAN
+The noble Brutus is ascended. Silence!
+</T>
+<T>
+BRUTUS
+Be patient till the last.Romans, countrymen, and lovers! Hear me for my cause,and be silent that you may hear. Believe me for mine honor,and have respect to mine honor that you may believe.Censure me in your wisdom, and awake your senses thatyou may the better judge. If there be any in this assembly,any dear friend of Caesars, to him I say that Brutus' love toCaesar was no less than his. If then that friend demand whyBrutus rose against Caesar, this is my answer: not that Iloved Caesar less, but that I loved Rome more.
+</T>
+<T>
+CINNA THE POET
+I dreamt tonight that I did feast with Caesar,
+And things unlucky charge my fantasy.
+I have no will to wander forth of doors,
+Yet something leads me forth.
+</T>
+<T>
+FIRST PLEBEIAN
+What is your name?
+</T>
+<T>
+SECOND PLEBEIAN
+Whither are you going?
+</T>
+<T>
+THIRD PLEBEIAN
+Where do you dwell?
+</T>
+<T>
+FOURTH PLEBEIAN
+Are you a married man or a bachelor?
+</T>
+<T>
+SECOND PLEBEIAN
+Answer every man directly.
+</T>
+<T>
+FIRST PLEBEIAN
+Ay, and briefly.
+</T>
+<T>
+FOURTH PLEBEIAN
+Ay, and wisely.
+</T>
+<T>
+THIRD PLEBEIAN
+Ay, and truly, you were best.
+</T>
+<T>
+CINNA THE POET
+What is my name? Whither am I going? Where do I dwell?Am I a married man or a bachelor? Then, to answer everyman directly and briefly, wisely and trulywisely I say, Iam a bachelor.
+</T>
+<T>
+SECOND PLEBEIAN
+Thats as much as to say they are fools that marry. Youllbear me a bang for that, I fear. Proceed, directly.
+</T>
+<T>
+CINNA THE POET
+Directly, I am going to Caesars funeral.
+</T>
+<T>
+ANTONY
+These many, then, shall die. Their names are pricked.
+</T>
+<T>
+OCTAVIUS
+(to LEPIDUS)
+Your brother too must die. Consent you, Lepidus?
+</T>
+<T>
+LEPIDUS
+I do consent
+</T>
+<T>
+OCTAVIUS
+Prick him down, Antony.
+</T>
+<T>
+LEPIDUS
+Upon condition Publius shall not live,
+Who is your sisters son, Mark Antony.
+</T>
+<T>
+ANTONY
+He shall not live. Look, with a spot I damn him.
+But, Lepidus, go you to Caesars house.
+Fetch the will hither, and we shall determine
+How to cut off some charge in legacies.
+</T>
+<T>
+LEPIDUS
+What, shall I find you here?
+</T>
+<T>
+OCTAVIUS
+Or here, or at the Capitol.
+</T>
+<T>
+ANTONY
+This is a slight, unmeritable man,
+Meet to be sent on errands. Is it fit,
+The threefold world divided, he should stand
+One of the three to share it?
+</T>
+<T>
+BRUTUS
+Stand, ho!
+</T>
+<T>
+LUCILLIUS
+Give the word, ho, and stand.
+</T>
+<T>
+BRUTUS
+What now, Lucillius? Is Cassius near?
+</T>
+<T>
+LUCILLIUS
+He is at hand, and Pindarus is come
+To do you salutation from his master.
+</T>
+<T>
+BRUTUS
+He greets me well.Your master, Pindarus,
+In his own change or by ill officers
+Hath given me some worthy cause to wish
+Things done, undone. But if he be at hand
+I shall be satisfied.
+</T>
+<T>
+PINDARUS
+I do not doubt
+But that my noble master will appear
+Such as he is, full of regard and honor.
+</T>
+<T>
+BRUTUS
+He is not doubted.A word, Lucillius.
+(takes LUCILLIUS aside)
+How he received you, let me be resolved.
+</T>
+<T>
+LUCILLIUS
+With courtesy and with respect enough.
+But not with such familiar instances
+Nor with such free and friendly conference
+As he hath used of old.
+</T>
+<T>
+BRUTUS
+Thou hast described
+A hot friend cooling. Ever note, Lucillius,
+When love begins to sicken and decay,
+It useth an enforcd ceremony.
+There are no tricks in plain and simple faith.
+But hollow men, like horses hot at hand,
+Make gallant show and promise of their mettle.
+</T>
+<T>
+CASSIUS
+That you have wronged me doth appear in this:
+You have condemned and noted Lucius Pella
+For taking bribes here of the Sardians,
+Wherein my letters, praying on his side
+Because I knew the man, were slighted off.
+</T>
+<T>
+BRUTUS
+You wronged yourself to write in such a case.
+</T>
+<T>
+CASSIUS
+In such a time as this it is not meet
+That every nice offense should bear his comment.
+</T>
+<T>
+BRUTUS
+Let me tell you, Cassius, you yourself
+Are much condemned to have an itching palm,
+To sell and mart your offices for gold
+To undeservers.
+</T>
+<T>
+CASSIUS
+I an itching palm!
+You know that you are Brutus that speak this,
+Or, by the gods, this speech were else your last.
+</T>
+<T>
+BRUTUS
+The name of Cassius honors this corruption,
+And chastisement doth therefore hide his head.
+</T>
+<T>
+CASSIUS
+Chastisement!
+</T>
+<T>
+BRUTUS
+Remember March, the ides of March remember.
+Did not great Julius bleed for justice' sake?
+</T>
+<T>
+OCTAVIUS
+Now, Antony, our hopes are answerd.
+You said the enemy would not come down
+But keep the hills and upper regions.
+It proves not so. Their battles are at hand.
+They mean to warn us at Philippi here,
+Answering before we do demand of them.
+</T>
+<T>
+ANTONY
+Tut, I am in their bosoms, and I know
+Wherefore they do it. They could be content
+To visit other places, and come down
+With fearful bravery, thinking by this face
+To fasten in our thoughts that they have courage.
+But tis not so.
+</T>
+<T>
+MESSENGER
+Prepare you, generals.
+The enemy comes on in gallant show.
+Their bloody sign of battle is hung out,
+And something to be done immediately.
+</T>
+<T>
+ANTONY
+Octavius, lead your battle softly on,
+Upon the left hand of the even field.
+</T>
+<T>
+OCTAVIUS
+Upon the right hand I. Keep thou the left.
+</T>
+<T>
+ANTONY
+Why do you cross me in this exigent?
+</T>
+<T>
+BRUTUS
+Ride, ride, Messala, ride, and give these bills
+Unto the legions on the other side.
+</T>
+<T>
+Let them set on at once, for I perceive
+But cold demeanor in Octavius' wing,
+And sudden push gives them the overthrow.
+Ride, ride, Messala. Let them all come down.
+</T>
+<T>
+CASSIUS
+O, look, Titinius, look, the villains fly!
+Myself have to mine own turned enemy.
+This ensign here of mine was turning back.
+I slew the coward and did take it from him.
+(indicates his standard)
+</T>
+<T>
+TITINIUS
+O Cassius, Brutus gave the word too early,
+Who, having some advantage on Octavius,
+Took it too eagerly. His soldiers fell to spoil,
+Whilst we by Antony are all enclosed.
+</T>
+<T>
+PINDARUS
+Fly further off, my lord, fly further off.
+Mark Antony is in your tents, my lord.
+Fly, therefore, noble Cassius, fly far off.
+</T>
+<T>
+CASSIUS
+This hill is far enough.Look, look, Titinius.
+Are those my tents where I perceive the fire?
+</T>
+<T>
+TITINIUS
+They are, my lord.
+</T>
+<T>
+CASSIUS
+Titinius, if thou lovest me,
+Mount thou my horse, and hide thy spurs in him
+Till he have brought thee up to yonder troops
+And here again, that I may rest assured
+Whether yond troops are friend or enemy.
+</T>
+<T>
+BRUTUS
+Yet, countrymen, O, yet hold up your heads!
+</T>
+<T>
+CATO
+What bastard doth not? Who will go with me?
+I will proclaim my name about the field.
+I am the son of Marcus Cato, ho!
+A foe to tyrants, and my countrys friend.
+I am the son of Marcus Cato, ho!
+</T>
+<T>
+LUCILLIUS
+And I am Brutus, Marcus Brutus, I!
+Brutus, my countrys friend. Know me for Brutus!
+</T>
+<T>
+O young and noble Cato, art thou down?
+Why, now thou diest as bravely as Titinius,
+And mayst be honored, being Catos son.
+</T>
+<T>
+FIRST SOLDIER
+(to LUCILLIUS) Yield, or thou diest.
+</T>
+<T>
+LUCILLIUS
+Only I yield to die.
+There is so much that thou wilt kill me straight.
+Kill Brutus, and be honored in his death.
+</T>
+<T>
+FIRST SOLDIER
+We must not. A noble prisoner!
+</T>
+<T>
+BRUTUS
+Come, poor remains of friends, rest on this rock.
+</T>
+<T>
+CLITUS
+Statilius showed the torchlight but, my lord,
+He came not back. He is or ta'en or slain.
+</T>
+<T>
+BRUTUS
+Sit thee down, Clitus. Slaying is the word.
+It is a deed in fashion. Hark thee, Clitus.
+(whispers to CLITUS)
+</T>
+<T>
+CLITUS
+What, I, my lord? No, not for all the world.
+</T>
+<T>
+BRUTUS
+Peace then! No words.
+</T>
+<T>
+CLITUS
+Ill rather kill myself.
+</T>
+<T>
+BRUTUS
+Hark thee, Dardanius.
+(whispers to DARDANIUS)
+</T>
+<T>
+DARDANIUS
+Shall I do such a deed?
+</T>
+<T>
+CLITUS
+O Dardanius!
+</T>
+<T>
+DARDANIUS
+O Clitus!
+</T>
+<T>
+CLITUS
+(aside to DARDANIUS)
+What ill request did Brutus make to thee?
+</T>
+<T>
+DARDANIUS
+(aside to CLITUS)
+To kill him, Clitus. Look, he meditates.
+</T>

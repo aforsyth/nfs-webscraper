@@ -1,0 +1,660 @@
+<T>
+ORSINO
+If music be the food of love, play on.
+Give me excess of it that, surfeiting,
+The appetite may sicken, and so die.
+That strain again, it had a dying fall.
+Oh, it came o'er my ear like the sweet sound,
+That breathes upon a bank of violets,
+Stealing and giving odor. Enough, no more.
+'Tis not so sweet now as it was before.
+O spirit of love, how quick and fresh art thou,
+That, notwithstanding thy capacity
+Receiveth as the sea, nought enters there,
+Of what validity and pitch soe'er,
+But falls into abatement and low price
+Even in a minute. So full of shapes is fancy
+That it alone is high fantastical.
+</T>
+<T>
+CURIO
+Will you go hunt, my lord?
+</T>
+<T>
+ORSINO
+What, Curio?
+</T>
+<T>
+CURIO
+The hart.
+</T>
+<T>
+ORSINO
+Why, so I do, the noblest that I have.
+Oh, when mine eyes did see Olivia first,
+Methought she purged the air of pestilence.
+That instant was I turned into a hart,
+And my desires, like fell and cruel hounds,
+E'er since pursue me.
+</T>
+<T>
+How now! What news from her?
+</T>
+<T>
+VALENTINE
+So please my lord, I might not be admitted,
+But from her handmaid do return this answer:
+The element itself, till seven years' heat,
+Shall not behold her face at ample view,
+But like a cloistress, she will veiled walk
+And water once a day her chamber round
+With eye-offending brineall this to season
+A brothers dead love, which she would keep fresh
+And lasting in her sad remembrance.
+</T>
+<T>
+ORSINO
+O, she that hath a heart of that fine frame
+To pay this debt of love but to a brother,
+How will she love, when the rich golden shaft
+Hath killed the flock of all affections else
+That live in her, when liver, brain, and heart,
+These sovereign thrones, are all supplied, and filled
+Her sweet perfections with one self king!
+Away before me to sweet beds of flowers.
+Love thoughts lie rich when canopied with bowers.
+</T>
+<T>
+VIOLA
+What country, friends, is this?
+</T>
+<T>
+CAPTAIN
+This is Illyria, lady.
+</T>
+<T>
+VIOLA
+And what should I do in Illyria?
+My brother he is in Elysium.
+Perchance he is not drownd.What think you, sailors?
+</T>
+<T>
+CAPTAIN
+It is perchance that you yourself were saved.
+</T>
+<T>
+VIOLA
+O, my poor brother! And so perchance may he be.
+</T>
+<T>
+CAPTAIN
+True, madam. And, to comfort you with chance,
+Assure yourself, after our ship did split,
+When you and those poor number saved with you
+Hung on our driving boat, I saw your brother,
+Most provident in peril, bind himself,
+Courage and hope both teaching him the practice,
+To a strong mast that lived upon the sea,
+Where, like Arion on the dolphins back,
+I saw him hold acquaintance with the waves
+So long as I could see.
+</T>
+<T>
+VIOLA
+(giving him money)
+For saying so, theres gold.
+Mine own escape unfoldeth to my hope,
+Whereto thy speech serves for authority,
+The like of him. Knowst thou this country?
+</T>
+<T>
+CAPTAIN
+Ay, madam, well, for I was bred and born
+Not three hours' travel from this very place.
+</T>
+<T>
+SIR TOBY BELCH
+What a plague means my niece, to take the death of herbrother thus? I am sure cares an enemy to life.
+</T>
+<T>
+MARIA
+By my troth, Sir Toby, you must come in earlier o' nights.Your cousin, my lady, takes great exceptions to your illhours.
+</T>
+<T>
+SIR TOBY BELCH
+Why, let her except, before excepted.
+</T>
+<T>
+MARIA
+Ay, but you must confine yourself within the modest limitsof order.
+</T>
+<T>
+SIR TOBY BELCH
+Confine? Ill confine myself no finer than I am. Theseclothes are good enough to drink in, and so be these bootstoo. An they be not, let them hang themselves in their ownstraps.
+</T>
+<T>
+MARIA
+That quaffing and drinking will undo you: I heard my ladytalk of it yesterday, and of a foolish knight that you broughtin one night here to be her wooer.
+</T>
+<T>
+SIR TOBY BELCH
+Who, Sir Andrew Aguecheek?
+</T>
+<T>
+MARIA
+Ay, he.
+</T>
+<T>
+SIR TOBY BELCH
+Hes as tall a man as any s in Illyria.
+</T>
+<T>
+VALENTINE
+If the duke continue these favors towards you, Cesario, youare like to be much advanced. He hath known you but threedays, and already you are no stranger.
+</T>
+<T>
+VIOLA
+You either fear his humor or my negligence, that you call inquestion the continuance of his love. Is he inconstant, sir, inhis favors?
+</T>
+<T>
+VALENTINE
+No, believe me.
+</T>
+<T>
+VIOLA
+I thank you. Here comes the count.
+</T>
+<T>
+ORSINO
+Who saw Cesario, ho?
+</T>
+<T>
+VIOLA
+On your attendance, my lord, here.
+</T>
+<T>
+ORSINO
+(to VIOLA and attendants)
+Stand you a while aloof. (to VIOLA) Cesario,
+Thou knowst no less but all. I have unclasped
+To thee the book even of my secret soul.
+Therefore, good youth, address thy gait unto her;
+Be not denied access, stand at her doors,
+And tell them there thy fixed foot shall grow
+Till thou have audience.
+</T>
+<T>
+MARIA
+Nay, either tell me where thou hast been, or I will not openmy lips so wide as a bristle may enter in way of thy excuse.My lady will hang thee for thy absence.
+</T>
+<T>
+FOOL
+Let her hang me. He that is well hanged in this world needsto fear no colors.
+</T>
+<T>
+MARIA
+Make that good.
+</T>
+<T>
+FOOL
+He shall see none to fear.
+</T>
+<T>
+MARIA
+A good lenten answer. I can tell thee where that saying wasborn, of I fear no colors.
+</T>
+<T>
+FOOL
+Where, good Mistress Mary?
+</T>
+<T>
+MARIA
+In the wars. And that may you be bold to say in yourfoolery.
+</T>
+<T>
+FOOL
+Well, God give them wisdom that have it. And those thatare fools, let them use their talents.
+</T>
+<T>
+MARIA
+Yet you will be hanged for being so long absent. Or to beturned away, is not that as good as a hanging to you?
+</T>
+<T>
+ANTONIO
+Will you stay no longer, nor will you not that I go with you?
+</T>
+<T>
+SEBASTIAN
+By your patience, no. My stars shine darkly over me. Themalignancy of my fate might perhaps distemper yours.Therefore I shall crave of you your leave that I may bear myevils alone. It were a bad recompense for your love to layany of them on you.
+</T>
+<T>
+ANTONIO
+Let me yet know of you whither you are bound.
+</T>
+<T>
+SEBASTIAN
+No, sooth, sir. My determinate voyage is mereextravagancy. But I perceive in you so excellent a touch ofmodesty that you will not extort from me what I am willingto keep in. Therefore it charges me in manners the rather toexpress myself. You must know of me then, Antonio, myname is Sebastian, which I called Roderigo. My father wasthat Sebastian of Messaline, whom I know you have heardof. He left behind him myself and a sister, both born in anhour. If the heavens had been pleased, would we had soended! But you, sir, altered that, for some hour before youtook me from the breach of the sea was my sister drowned.
+</T>
+<T>
+ANTONIO
+Alas the day!
+</T>
+<T>
+MALVOLIO
+Were not you even now with the Countess Olivia?
+</T>
+<T>
+VIOLA
+Even now, sir. On a moderate pace I have since arrived buthither.
+</T>
+<T>
+MALVOLIO
+She returns this ring to you, sir. You might have saved memy pains to have taken it away yourself. She adds,moreover, that you should put your lord into a desperateassurance she will none of him. And one thing more, thatyou be never so hardy to come again in his affairs, unless itbe to report your lords taking of this. Receive it so.
+</T>
+<T>
+VIOLA
+She took the ring of me. Ill none of it.
+</T>
+<T>
+MALVOLIO
+Come, sir, you peevishly threw it to her, and her will is itshould be so returned. (he throws down the ring) If it beworth stooping for, there it lies in your eye. If not, be it histhat finds it.
+</T>
+<T>
+VIOLA
+I left no ring with her. What means this lady?
+Fortune forbid my outside have not charmed her!
+She made good view of me, indeed so much
+That sure methought her eyes had lost her tongue,
+For she did speak in starts distractedly.
+She loves me, sure! The cunning of her passion
+Invites me in this churlish messenger.
+</T>
+<T>
+SIR TOBY BELCH
+Approach, Sir Andrew. Not to be abed after midnight is tobe up betimes, and diluculo surgere, thou knowst,
+</T>
+<T>
+SIR ANDREW
+Nay, my troth, I know not. But I know to be up late is to beup late.
+</T>
+<T>
+SIR TOBY BELCH
+A false conclusion. I hate it as an unfilled can. To be up aftermidnight and to go to bed then, is early, so that to go to bedafter midnight is to go to bed betimes. Does not our lifeconsist of the four elements?
+</T>
+<T>
+SIR ANDREW
+Faith, so they say, but I think it rather consists of eating anddrinking.
+</T>
+<T>
+SIR TOBY BELCH
+Thou'rt a scholar. Let us therefore eat and drink. Marian,
+I say! A stoup of wine!
+</T>
+<T>
+SIR ANDREW
+Here comes the fool, i' faith.
+</T>
+<T>
+FOOL
+How now, my hearts! Did you never see the picture of We
+Three?
+</T>
+<T>
+SIR TOBY BELCH
+Welcome, ass. Now lets have a catch.
+</T>
+<T>
+ORSINO
+Give me some music. (music plays)
+Now, good morrow, friends.
+Now, good Cesario, but that piece of song,
+That old and antique song we heard last night.
+Methought it did relieve my passion much,
+More than light airs and recollected terms
+Of these most brisk and giddy-paced times:
+Come, but one verse.
+</T>
+<T>
+CURIO
+He is not here, so please your lordship, that should sing it.
+</T>
+<T>
+ORSINO
+Who was it?
+</T>
+<T>
+CURIO
+Feste, the jester, my lord, a fool that the lady Olivias fathertook much delight in. He is about the house.
+</T>
+<T>
+ORSINO
+Seek him out, and play the tune the while.
+</T>
+<T>
+(to VIOLA) Come hither, boy. If ever thou shalt love,
+In the sweet pangs of it remember me;
+For such as I am, all true lovers are,
+Unstaid and skittish in all motions else
+Save in the constant image of the creature
+That is beloved. How dost thou like this tune?
+</T>
+<T>
+VIOLA
+It gives a very echo to the seat
+Where Love is throned.
+</T>
+<T>
+SIR TOBY BELCH
+Come thy ways, Signior Fabian.
+</T>
+<T>
+FABIAN
+Nay, Ill come. If I lose a scruple of this sport, let me beboiled to death with melancholy.
+</T>
+<T>
+SIR TOBY BELCH
+Wouldst thou not be glad to have the niggardly rascallysheep-biter come by some notable shame?
+</T>
+<T>
+FABIAN
+I would exult, man. You know, he brought me out o' favorwith my lady about a bear-baiting here.
+</T>
+<T>
+SIR TOBY BELCH
+To anger him, well have the bear again, and we will foolhim black and blue. Shall we not, Sir Andrew?
+</T>
+<T>
+SIR ANDREW
+An we do not, it is pity of our lives.
+</T>
+<T>
+SIR TOBY BELCH
+Here comes the little villain.
+</T>
+<T>
+How now, my metal of India?
+</T>
+<T>
+MARIA
+Get you all three into the boxtree. Malvolios coming downthis walk. He has been yonder i' the sun practising behaviorto his own shadow this half hour. Observe him, for the loveof mockery, for I know this letter will make a contemplativeidiot of him. Close, in the name of jesting!
+</T>
+<T>
+VIOLA
+Save thee, friend, and thy music. Dost thou live by thytabour?
+</T>
+<T>
+FOOL
+No, sir, I live by the church.
+</T>
+<T>
+VIOLA
+Art thou a churchman?
+</T>
+<T>
+FOOL
+No such matter, sir. I do live by the church; for I do live atmy house, and my house doth stand by the church.
+</T>
+<T>
+VIOLA
+So thou mayst say the king lies by a beggar if a beggar dwellnear him, or the church stands by thy tabor, if thy taborstand by the church.
+</T>
+<T>
+FOOL
+You have said, sir. To see this age! A sentence is but acheveril glove to a good wit. How quickly the wrong sidemay be turned outward!
+</T>
+<T>
+VIOLA
+Nay, thats certain. They that dally nicely with words mayquickly make them wanton.
+</T>
+<T>
+FOOL
+I would therefore my sister had no name, sir.
+</T>
+<T>
+VIOLA
+Why, man?
+</T>
+<T>
+SIR ANDREW
+No, faith, Ill not stay a jot longer.
+</T>
+<T>
+SIR TOBY BELCH
+Thy reason, dear venom, give thy reason.
+</T>
+<T>
+FABIAN
+You must needs yield your reason, Sir Andrew.
+</T>
+<T>
+SIR ANDREW
+Marry, I saw your niece do more favors to the Countsservingman than ever she bestowed upon me. I saw t i' theorchard.
+</T>
+<T>
+SIR TOBY BELCH
+Did she see thee the while, old boy? Tell me that.
+</T>
+<T>
+SIR ANDREW
+As plain as I see you now.
+</T>
+<T>
+FABIAN
+This was a great argument of love in her toward you.
+</T>
+<T>
+SIR ANDREW
+'Slight, will you make an ass o' me?
+</T>
+<T>
+FABIAN
+I will prove it legitimate, sir, upon the oaths of judgmentand reason.
+</T>
+<T>
+SIR TOBY BELCH
+And they have been grand-jurymen since before Noah wasa sailor.
+</T>
+<T>
+FABIAN
+She did show favor to the youth in your sight only toexasperate you, to awake your dormouse valor, to put fire inyour heart and brimstone in your liver. You should thenhave accosted her, and with some excellent jests, fire-newfrom the mint, you should have banged the youth intodumbness.
+</T>
+<T>
+SEBASTIAN
+I would not by my will have troubled you,
+But, since you make your pleasure of your pains,
+I will no further chide you.
+</T>
+<T>
+ANTONIO
+I could not stay behind you. My desire,
+More sharp than fild steel, did spur me forth.
+And not all love to see you, though so much
+As might have drawn one to a longer voyage,
+But jealousy what might befall your travel,
+Being skilless in these parts, which to a stranger,
+Unguided and unfriended, often prove
+Rough and unhospitable. My willing love,
+The rather by these arguments of fear,
+Set forth in your pursuit.
+</T>
+<T>
+SEBASTIAN
+My kind Antonio,
+I can no other answer make but thanks,
+And thanks, and ever thanks. And oft good turns
+Are shuffled off with such uncurrent pay.
+But were my worth as is my conscience, firm,
+You should find better dealing. Whats to do?
+Shall we go see the relics of this town?
+</T>
+<T>
+ANTONIO
+Tomorrow, sir. Best first go see your lodging.
+</T>
+<T>
+SEBASTIAN
+I am not weary, and tis long to night:
+I pray you, let us satisfy our eyes
+With the memorials and the things of fame
+That do renown this city.
+</T>
+<T>
+OLIVIA
+I have sent after him. He says hell come.
+How shall I feast him? What bestow of him?
+For youth is bought more oft than begged or borrowd.
+I speak too loud.
+Wheres Malvolio? He is sad and civil
+And suits well for a servant with my fortunes.
+Where is Malvolio?
+</T>
+<T>
+MARIA
+Hes coming, madam; but in very strange manner. He issure possessed, madam.
+</T>
+<T>
+OLIVIA
+Why, whats the matter? Does he rave?
+</T>
+<T>
+MARIA
+No, madam, he does nothing but smile. Your ladyship werebest to have some guard about you if he come, for sure theman is tainted in s wits.
+</T>
+<T>
+OLIVIA
+Go call him hither.
+</T>
+<T>
+I am as mad as he,
+If sad and merry madness equal be.
+</T>
+<T>
+How now, Malvolio?
+</T>
+<T>
+MALVOLIO
+Sweet lady, ho, ho.
+</T>
+<T>
+FOOL
+Will you make me believe that I am not sent for you?
+</T>
+<T>
+SEBASTIAN
+Go to, go to, thou art a foolish fellow. Let me be clear ofthee.
+</T>
+<T>
+FOOL
+Well held out, i' faith. No, I do not know you, nor I am notsent to you by my lady, to bid you come speak with her, noryour name is not Master Cesario, nor this is not my noseneither. Nothing that is so is so.
+</T>
+<T>
+SEBASTIAN
+I prithee, vent thy folly somewhere else. Thou knowst notme.
+</T>
+<T>
+FOOL
+Vent my folly? He has heard that word of some great manand now applies it to a fool. Vent my folly! I am afraid thisgreat lubber, the world, will prove a cockney. I prithee now,ungird thy strangeness and tell me what I shall vent to mylady. Shall I vent to her that thou art coming?
+</T>
+<T>
+SEBASTIAN
+I prithee, foolish Greek, depart from me. Theres money forthee. (giving money) If you tarry longer, I shall give worsepayment.
+</T>
+<T>
+FOOL
+By my troth, thou hast an open hand. These wise men thatgive fools money get themselves a good reportafterfourteen years' purchase.
+</T>
+<T>
+MARIA
+Nay, I prithee, put on this gown and this beard. Make himbelieve thou art Sir Topas the curate. Do it quickly. Ill callSir Toby the whilst.
+</T>
+<T>
+FOOL
+Well, Ill put it on, and I will dissemble myself in t, and Iwould I were the first that ever dissembled in such a gown.
+</T>
+<T>
+I am not tall enough to become the function well, nor leanenough to be thought a good student, but to be said anhonest man and a good housekeeper goes as fairly as to saya careful man and a great scholar. The competitors enter.
+</T>
+<T>
+SIR TOBY BELCH
+Jove bless thee, master Parson.
+</T>
+<T>
+FOOL
+Bonos dies, Sir Toby. For, as the old hermit of Prague, thatnever saw pen and ink, very wittily said to a niece of KingGorboduc, That that is is. So I, being Master Parson, amMaster Parson. For, what is that but that, and is butis?
+</T>
+<T>
+SIR TOBY BELCH
+To him, Sir Topas.
+</T>
+<T>
+SEBASTIAN
+This is the air, that is the glorious sun.
+This pearl she gave me, I do feel t and see t,
+And though tis wonder that enwraps me thus,
+Yet tis not madness. Wheres Antonio, then?
+I could not find him at the Elephant.
+Yet there he was, and there I found this credit,
+That he did range the town to seek me out.
+His counsel now might do me golden service.
+For though my soul disputes well with my sense
+That this may be some error, but no madness,
+Yet doth this accident and flood of fortune
+So far exceed all instance, all discourse,
+That I am ready to distrust mine eyes
+And wrangle with my reason that persuades me
+To any other trust but that I am mad
+Or else the ladys mad. Yet if twere so,
+She could not sway her house, command her followers,
+Take and give back affairs and their dispatch
+With such a smooth, discreet, and stable bearing
+As I perceive she does. Theres something in t
+That is deceivable. But here the lady comes.
+</T>
+<T>
+FABIAN
+Now, as thou lovest me, let me see his letter.
+</T>
+<T>
+FOOL
+Good Master Fabian, grant me another request.
+</T>
+<T>
+FABIAN
+Anything.
+</T>
+<T>
+FOOL
+Do not desire to see this letter.
+</T>
+<T>
+FABIAN
+This is, to give a dog and in recompense desire my dogagain.
+</T>
+<T>
+ORSINO
+Belong you to the Lady Olivia, friends?
+</T>
+<T>
+FOOL
+Ay, sir, we are some of her trappings.
+</T>
+<T>
+ORSINO
+I know thee well. How dost thou, my good fellow?
+</T>
+<T>
+FOOL
+Truly, sir, the better for my foes and the worse for myfriends.
+</T>
+<T>
+ORSINO
+Just the contrary. The better for thy friends.
+</T>
+<T>
+FOOL
+No, sir, the worse.
+</T>
+<T>
+ORSINO
+How can that be?
+</T>
